@@ -10666,7 +10666,7 @@ translate chinese a_visit_to_the_devil_ruffin_76b2fe88_2:
 translate chinese a_visit_to_the_devil_fight_2fb15d66:
 
     nvl clear
-    "{cps=50}巴塞洛缪被敌人一击命中，缓缓瘫倒在地。只看一眼你便明白——他活不成了。"
+    "{cps=50}巴塞洛缪身中敌军重击，缓缓瘫倒在地。只消一眼你便明白——这小伙子活不成了。"
 
 # game/script_dlc.rpy:16095
 translate chinese a_visit_to_the_devil_fight_63f4f4ad:
@@ -14671,7 +14671,7 @@ translate chinese grace_and_glory_outro_76b2fe88_8:
 translate chinese food_thieves_quest_f30cc43f:
 
     nvl clear
-    "{cps=50}城中兵力捉襟见肘，你所在的队伍也被抽调去守卫几处要紧所在，并承担街巷巡逻之责。"
+    "{cps=50}城中兵力捉襟见肘，你的队伍也被抽调出来，负责把守要地与街巷巡逻。"
 
 # game/script_dlc.rpy:18963
 translate chinese food_thieves_quest_4cbad693:
@@ -15908,7 +15908,7 @@ translate chinese knightfall_1_fight_76b2fe88_2:
 translate chinese knightfall_1_postfight_1222768a:
 
     nvl clear
-    "{cps=50}夺取城墙后，你突入了城堡内部……"
+    "{cps=50}夺下城墙后，你纵身杀入堡垒内部……"
 
 # game/script_dlc.rpy:21924
 translate chinese knightfall_1_postfight_76b2fe88:
@@ -16884,7 +16884,7 @@ translate chinese el_mansur_cave_fight_76b2fe88_2:
 translate chinese el_mansur_crusaders_60e23d20:
 
     nvl clear
-    "{cps=50}第六天，你们在荒漠中与一小队迷路的欧洲武士不期而遇。"
+    "{cps=50}第六天，你们在荒漠中与一小队迷路的欧洲战士不期而遇。"
 
 # game/script_dlc.rpy:25061
 translate chinese el_mansur_crusaders_4e00e331:
@@ -16944,7 +16944,7 @@ translate chinese el_mansur_crusaders_da6e58fc:
 translate chinese el_mansur_crusaders_e5bf7c23:
 
     nvl clear
-    "{cps=50}可这些武士并不相信，声称既然如此，他们便要自己动手取所需之物。"
+    "{cps=50}可这些战士并不相信，声称既然如此，他们便要自己动手取所需之物。"
 
 # game/script_dlc.rpy:25109
 translate chinese el_mansur_crusaders_76b2fe88_2:
@@ -17154,7 +17154,7 @@ translate chinese el_mansur_sunstrike_76b2fe88_2:
 translate chinese el_mansur_quicksands_1c060673:
 
     nvl clear
-    "{cps=50}第十一天，你对照地图时判断失误，一脚踏进了流沙之中。"
+    "{cps=50}行程第十一日，你勘图有误，竟径直闯入了一片流沙之中。"
 
 # game/script_dlc.rpy:26269
 translate chinese el_mansur_quicksands_76b2fe88_4:
@@ -17619,7 +17619,7 @@ translate chinese renauld_fight_76b2fe88:
 translate chinese renauld_postfight_02035b18:
 
     nvl clear
-    "{cps=50}你站在尸横遍野的辽阔战场中央，四周数里之内，尽是死寂的荒漠。"
+    "{cps=50}你伫立于尸横遍野的旷野中央，放眼数里之内，唯有死寂的荒漠。"
 
 # game/script_dlc.rpy:27379
 translate chinese renauld_postfight_0e1809fd:
@@ -19855,7 +19855,7 @@ translate chinese lindisfarne_chief_monk_talk_76b2fe88:
 translate chinese lindisfarne_chief_monk_talk_bfdf1b47:
 
     nvl clear
-    "{cps=50}院长仔细听完你的讲述，又认真端详了王子交给你的王室印信，随即陷入长久的沉思。"
+    "{cps=50}院长凝神听罢你的陈词，又将王子赐下的王室印信反覆端详，随即陷入了良久的沉思。"
 
 # game/script_dlc.rpy:29125
 translate chinese lindisfarne_chief_monk_talk_15095a33:
@@ -20454,7 +20454,7 @@ translate chinese the_sword_quest_2_fail_b939fc90_1:
 translate chinese the_sword_quest_2_135e47fa:
 
     nvl clear
-    "{cps=50}得到宝剑之后，你匆匆离开院长的居室，回到内院，打算立刻离开修道院。"
+    "{cps=50}宝剑到手，你匆匆退出院长居室，折返内院，准备马不停蹄地离开这座修道院。"
 
 # game/script_dlc.rpy:29313
 translate chinese the_sword_quest_2_0afca936:
@@ -23453,7 +23453,7 @@ translate chinese hellish_trio_hadley_intro_24bf32a5:
 translate chinese hellish_trio_hadley_intro_69b095cb:
 
     nvl clear
-    "{cps=50}待你策马靠近，一名身材魁梧的武士推开两旁士兵迎上前来，一张脸藏在麻风病人式的面具之下。"
+    "{cps=50}待你策马靠近，一名身材魁梧的战士推开两旁士兵迎上前来，一张脸藏在麻风病人式的面具之下。"
 
 # game/script_dlc.rpy:32438
 translate chinese hellish_trio_hadley_intro_76b2fe88_3:
@@ -27091,7 +27091,7 @@ translate chinese watchmen_2_postfight_8bfcb326:
 translate chinese watchmen_2_postfight_8df99896:
 
     nvl clear
-    "{cps=50}忽然，敌军士兵向两侧分开，一名身材魁梧的武士走上前来，向你开口……"
+    "{cps=50}忽然，敌军士兵向两侧分开，一名身材魁梧的战士走上前来，向你开口……"
 
 # game/script_dlc.rpy:37567
 translate chinese watchmen_2_postfight_76b2fe88_1:
@@ -42621,7 +42621,7 @@ translate chinese vettori_talk_menu_76b2fe88_8:
 translate chinese vettori_give_item_reaction_b6b6d97f:
 
     nvl clear
-    "{cps=50}所需之物齐备后，韦托里花了好几个时辰改装弩弓，随后告知：武器已经完工，可以动身去猎鹰塔了。"
+    "{cps=50}物料齐备后，韦托里耗费数个时辰改良了弩弓，随即宣告大功告成：可以向猎鹰塔进发了。"
 
 # game/script_dlc.rpy:48907
 translate chinese vettori_give_item_reaction_76b2fe88:
@@ -49854,7 +49854,7 @@ translate chinese hunt_2_peasant_fair_76b2fe88:
 translate chinese hunt_2_monks_d8b1974a:
 
     nvl clear
-    "{cps=50}在周边漫步时，你遇见了一群朝圣的僧侣。"
+    "{cps=50}在郊野四处巡游时，你偶遇了一众云游朝圣的僧侣。"
 
 # game/script_dlc.rpy:53186
 translate chinese hunt_2_monks_76b2fe88:
@@ -49915,7 +49915,7 @@ translate chinese hunt_2_monks_76b2fe88_3:
 translate chinese hawkwood_scout_hunt_2ea834f4:
 
     nvl clear
-    "{cps=50}返回特雷维索途中，你在林间撞见一群武装之人——他们从埋伏中猝然杀出，显然是想活捉你。"
+    "{cps=50}折返特雷维索途中，一伙武装暴徒突然从林间窜出伏击，显然是打着生擒你的算盘。"
 
 # game/script_dlc.rpy:53216
 translate chinese hawkwood_scout_hunt_76b2fe88:
@@ -50932,7 +50932,7 @@ translate chinese player_adjusted_to_heat_76b2fe88:
 translate chinese frequent_visits_to_brothel_event_dc99f508:
 
     nvl clear
-    "{cps=50}常去青楼的日子没有白费……{vspace=5}{color=#A9A9A9}耐力+1！"
+    "{cps=50}妓院的连日寻欢终究在你身上留下了印记……{vspace=5}{color=#A9A9A9}耐力提升1！"
 
 # game/script_dlc.rpy:65968
 translate chinese frequent_visits_to_brothel_event_76b2fe88:

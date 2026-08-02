@@ -7700,7 +7700,7 @@ translate chinese francesca_ransom_2_fight_76b2fe88:
 # game/script_dlc_4.rpy:10103
 translate chinese francesca_ransom_2_postfight_bbc12a10:
 
-    "{cps=50}那壮汉的一拳让你眼冒金星，好一阵子分不清东西南北。"
+    "{cps=50}壮汉这记重击砸得你眼冒金星，头晕目眩之间，竟分不清东南西北。"
 
 # game/script_dlc_4.rpy:10104
 translate chinese francesca_ransom_2_postfight_517f72c2:
@@ -8263,7 +8263,7 @@ translate chinese doge_counter_attacks_saint_erasmo_1_postfight_76b2fe88_2:
 # game/script_dlc_4.rpy:10862
 translate chinese assault_on_sait_erasmo_deserter_2f3c308a:
 
-    "{cps=50}抢掠了个够，你和另外几名逃兵找了条渔船，返回了威尼斯。"
+    "{cps=50}饱掠一番后，你伙同几名逃兵觅得一叶扁舟，荡着渔船逃回了威尼斯。"
 
 # game/script_dlc_4.rpy:10863
 translate chinese assault_on_sait_erasmo_deserter_da1e81a0:
@@ -9127,7 +9127,7 @@ translate chinese napolitanos_lair_end_9269deae:
 translate chinese napolitanos_lair_end_50737e2a:
 
     nvl clear
-    "{cps=50}但丁的头猛地向后仰去，颈骨咔嚓作响，这具眼窝里插着弩矢的威尼斯人的躯体，轰然砸在码头的木板上。"
+    "{cps=50}但丁的头猛地向后仰去，颈骨咔嚓作响。眼窝里插着弩矢的他，轰然砸在码头的木板上。"
 
 # game/script_dlc_4.rpy:12713
 translate chinese napolitanos_lair_end_610be5dc:
@@ -16402,7 +16402,7 @@ translate chinese treviso_camp_deserters_fail_76b2fe88:
 translate chinese treviso_camp_deserters_success_2fe3e35e:
 
     nvl clear
-    "{cps=50}你将逃兵交到德·罗西手上，由他处置他们的命运。"
+    "{cps=50}你将这批逃兵悉数押交德·罗西，任凭他去发落生死。"
 
 # game/script_dlc_4.rpy:20743
 translate chinese treviso_camp_deserters_success_35d5d28f:
@@ -20352,7 +20352,7 @@ translate chinese cannaregio_event_dead_76b2fe88:
 translate chinese cannaregio_event_dead_end_24c250f8:
 
     nvl clear
-    "{cps=50}偏偏就在这时，一队城市巡逻卫兵从拐角转了出来，把你逮了个正着。"
+    "{cps=50}正当你忙活之际，一队巡城的卫兵猝然从拐角转出，撞了个正着。"
 
 # game/script_dlc_4.rpy:26251
 translate chinese cannaregio_event_dead_end_76b2fe88:
@@ -24567,7 +24567,7 @@ translate chinese venice_charles_talk_menu_fd8d8c84:
 translate chinese venice_charles_talk_menu_1d1e3e0d:
 
     nvl clear
-    "{cps=50}只有在法兰西国王的准许之下，方能前往阿维尼翁觐见教皇。"
+    "{cps=50}唯有求得法兰西国王的首肯，方可赴阿维尼翁觐见教皇。"
 
 # game/script_dlc_4.rpy:30446
 translate chinese venice_charles_talk_menu_76b2fe88:
@@ -27121,7 +27121,7 @@ translate chinese visit_florence_menu_76b2fe88_2:
 # game/script_dlc_4.rpy:31988
 translate chinese visit_florence_menu_f562a4a8:
 
-    "{cps=50}总督曾说，热那亚的国库已空空如也，恐怕难以长久负担约翰·霍克伍德及其部下的佣金——此言果然不虚：你在佛罗伦萨见到了这位正寻觅新合同的英格兰雇佣兵。"
+    "{cps=50}总督所言非虚，热那亚那见底的国库确已无力奉养约翰·霍克伍德及其麾下的骄兵悍将——你竟在佛罗伦萨撞见这位英格兰雇佣兵，正四下踅摸着新主顾。"
 
 # game/script_dlc_4.rpy:31989
 translate chinese visit_florence_menu_76b2fe88_1:
@@ -30644,7 +30644,7 @@ translate chinese venice_doge_chapter_3_start_76b2fe88:
 # game/script_dlc_4.rpy:38607
 translate chinese venice_doge_chapter_3_start_8ab9c552:
 
-    "{cps=50}各项税收与收入为威尼斯国库进账 [venice_treasury_monthly_income]！"
+    "{cps=50}各项税赋进项源源不断，威尼斯国库入账 [venice_treasury_monthly_income]！"
 
 # game/script_dlc_4.rpy:38608
 translate chinese venice_doge_chapter_3_start_76b2fe88_1:
@@ -31896,7 +31896,7 @@ translate chinese venice_doge_finale_1_fight_76b2fe88_2:
 translate chinese venice_doge_finale_1_postfight_2e886f58:
 
     nvl clear
-    "{cps=50}解决了朱塞佩·卡瓦利的护卫之后，你开始搜查宅邸，很快便在自己的书房里找到了宅子的主人。"
+    "{cps=50}收拾完朱塞佩·卡瓦利的爪牙，你立刻在宅子里翻箱倒柜，没多久便在书房内将这正主揪了出来。"
 
 # game/script_dlc_4.rpy:40832
 translate chinese venice_doge_finale_1_postfight_97676be7:

@@ -87,7 +87,7 @@ translate chinese emma_marriage_f19b054f:
 translate chinese emma_marriage_b7b83971:
 
     nvl clear
-    "{cps=50}总督原本盘算着把女儿许配给更有权势的人，起初颇有些犹豫。但你身为贵胄武士的声名，加上你为他立下的种种功劳，最终占了上风——他祝福了这桩婚事。{vspace=5}{color=#A9A9A9}声望（总督）——成功！"
+    "{cps=50}总督原本盘算着把女儿许配给更有权势的人，起初颇有些犹豫。但你身为贵胄战士的声名，加上你为他立下的种种功劳，最终占了上风——他祝福了这桩婚事。{vspace=5}{color=#A9A9A9}声望（总督）——成功！"
 
 # game/script_dlc_1.rpy:124
 translate chinese emma_marriage_76b2fe88:
@@ -2472,7 +2472,7 @@ translate chinese avignon_robbery_itemcheck2_76b2fe88_4:
 translate chinese avignon_robbery_action_0503be98:
 
     nvl clear
-    "{cps=50}抵达阿维尼翁后，你在药剂师宅邸附近设下一处观察点，花了些时日暗中窥探，记下为数不多的守卫的巡逻路线与仆役们的作息习惯。{vspace=5}{color=#A9A9A9}疲劳增加！{vspace=5}时间损失：3！"
+    "{cps=50}落脚阿维尼翁后，你在药剂师宅邸外寻了一处暗哨，潜伏数日，将寥寥几名护卫的巡视轨迹与仆役作息摸了个通透。{vspace=5}{color=#A9A9A9}疲劳水平提升！{vspace=5}时间损失：3！"
 
 # game/script_dlc_1.rpy:5714
 translate chinese avignon_robbery_action_76b2fe88:

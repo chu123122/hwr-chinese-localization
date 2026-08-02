@@ -346,7 +346,7 @@ translate chinese test3123_a10a8fd5:
 # game/script_downfall_2.rpy:46576
 translate chinese test3123_039d8176:
 
-    "{cps=50}成功刺杀路易国王，令其宫廷陷入混乱，迫使匈牙利王国放弃与热那亚的同盟，退出战争。{vspace=5}{color=#A9A9A9}匈牙利王国不再参与对威尼斯的战争！{vspace=5}声望（总督）提升15点！{vspace=5}总督的威望提升10点！"
+    "{cps=50}成功刺杀路易国王，令其宫廷陷入混乱，迫使匈牙利王国放弃与热那亚的同盟，退出战争。{vspace=5}{color=#A9A9A9}匈牙利王国不再参与对威尼斯的战争！{vspace=5}声望（总督）提升15点！{vspace=5}总督的人望提升10点！"
 
 # game/script_downfall_2.rpy:46583
 translate chinese test3123_1d3ad205:

@@ -2082,7 +2082,7 @@ translate chinese maidstone_craftsman_work_76b2fe88:
 # game/script_dlc_2.rpy:2851
 translate chinese maidstone_craftsman_work_b1e6f861:
 
-    "你在家中辟出一间小小的作坊，试着接下各种活儿……{color=#A9A9A9}{vspace=5}损失了30弗罗林。"
+    "{cps=50}你在居所内搭起一间逼仄的手工作坊，试着揽些零活……{color=#A9A9A9}{vspace=5}损失30弗罗林。"
 
 # game/script_dlc_2.rpy:2853
 translate chinese maidstone_craftsman_work_76b2fe88_1:
@@ -2301,7 +2301,7 @@ translate chinese maidstone_alchemist_work_76b2fe88:
 # game/script_dlc_2.rpy:3177
 translate chinese maidstone_alchemist_work_157b0b3b:
 
-    "你在家中辟出一间小小的炼金作坊，试着接下各种活儿……{color=#A9A9A9}{vspace=5}损失了30弗罗林。"
+    "{cps=50}你在居所内置办了一间简陋的炼金作坊，试着揽些营生……{color=#A9A9A9}{vspace=5}损失30弗罗林。"
 
 # game/script_dlc_2.rpy:3179
 translate chinese maidstone_alchemist_work_76b2fe88_1:
@@ -2509,7 +2509,7 @@ translate chinese maidstone_alchemist_request_roll_76b2fe88_2:
 translate chinese maidstone_city_quest_hub_847e7e5e:
 
     nvl clear
-    "你四处寻活干，却还没有合适的差事……"
+    "{cps=50}你四下里寻觅生计，却始终没遇上合适的差事……"
 
 # game/script_dlc_2.rpy:3455
 translate chinese maidstone_city_quest_hub_76b2fe88:
@@ -3206,7 +3206,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88_6
 translate chinese maidstone_city_quest_roadhouse_1_29904493:
 
     nvl clear
-    "新差事的第一天过得相当平静。"
+    "{cps=50}新差事的头一天波澜不惊地过去了。"
 
 # game/script_dlc_2.rpy:4704
 translate chinese maidstone_city_quest_roadhouse_1_08b264d6:
@@ -4232,7 +4232,7 @@ translate chinese oxford_camp_windsor_recon_force_start_76b2fe88:
 translate chinese oxford_camp_windsor_recon_1_b066fbb1:
 
     nvl clear
-    "遵令行事，你动身前往温莎，用大约两天的时间在周边兜转，仔细勘察每一处。"
+    "{cps=50}领命之后，你纵马赶赴温莎，耗费整整两日绕城探查，将周遭地形摸了个底朝天。"
 
 # game/script_dlc_2.rpy:7817
 translate chinese oxford_camp_windsor_recon_1_fe6ff6d0:
@@ -4399,7 +4399,7 @@ translate chinese oxford_camp_windsor_recon_postfight_76b2fe88:
 translate chinese oxford_camp_visit_to_bristol_intro_b89daf13:
 
     nvl clear
-    "一天清晨，罗杰召集了队中部分人马，匆匆赶往港口城市布里斯托尔，在那里等候数艘商船靠岸。"
+    "{cps=50}某个清晨，罗杰点齐部分人马，星夜兼程赶赴港城布里斯托尔，专候几艘商船落锚靠岸。"
 
 # game/script_dlc_2.rpy:8327
 translate chinese oxford_camp_visit_to_bristol_intro_c1d65814:
@@ -5002,7 +5002,7 @@ translate chinese oxford_city_amateur_assassin_postfight_76b2fe88:
 translate chinese oxford_city_amateur_assassin_success_8f96fd22:
 
     nvl clear
-    "次日，你在同一家酒馆与那位陌生人会面，收下了许诺的报酬。{color=#A9A9A9}{vspace=5}获得250弗罗林！"
+    "{cps=50}次日，你赴同一间酒馆与那陌生人碰头，如愿拿到了约定的酬金。{color=#A9A9A9}{vspace=5}获得250弗罗林！"
 
 # game/script_dlc_2.rpy:9274
 translate chinese oxford_city_amateur_assassin_success_76b2fe88_1:
@@ -5589,7 +5589,7 @@ translate chinese windsor_defence_2_fight_76b2fe88:
 # game/script_dlc_2.rpy:10676
 translate chinese windsor_defence_2_fight_ac1996a2:
 
-    "趁着守军被民兵攻势牵制的当口，围城方将一座满载重甲武士的巨大攻城塔推抵温莎墙下……"
+    "趁着守军被民兵攻势牵制的当口，围城方将一座满载重甲战士的巨大攻城塔推抵温莎墙下……"
 
 # game/script_dlc_2.rpy:10677
 translate chinese windsor_defence_2_fight_76b2fe88_1:
@@ -5696,7 +5696,7 @@ translate chinese windsor_defence_3_fight_76b2fe88:
 # game/script_dlc_2.rpy:11202
 translate chinese windsor_defence_3_fight_ac1996a2:
 
-    "趁着守军被民兵攻势牵制的当口，围城方将一座满载重甲武士的巨大攻城塔推抵温莎墙下……"
+    "趁着守军被民兵攻势牵制的当口，围城方将一座满载重甲战士的巨大攻城塔推抵温莎墙下……"
 
 # game/script_dlc_2.rpy:11203
 translate chinese windsor_defence_3_fight_76b2fe88_1:
@@ -5797,7 +5797,7 @@ translate chinese windsor_defence_4_fight_76b2fe88:
 # game/script_dlc_2.rpy:11714
 translate chinese windsor_defence_4_fight_ac1996a2:
 
-    "趁着守军被民兵攻势牵制的当口，围城方将一座满载重甲武士的巨大攻城塔推抵温莎墙下……"
+    "趁着守军被民兵攻势牵制的当口，围城方将一座满载重甲战士的巨大攻城塔推抵温莎墙下……"
 
 # game/script_dlc_2.rpy:11715
 translate chinese windsor_defence_4_fight_76b2fe88_1:
@@ -6672,7 +6672,7 @@ translate chinese duncans_camp_intro_76b2fe88_2:
 translate chinese fall_of_caldwells_intro_a6461e2d:
 
     nvl clear
-    "{cps=50}时辰一到，营地便动了起来。所有拿得动武器的人都披挂完毕，分成数支小队，由罗道夫、琼斯等几名什长率领。"
+    "{cps=50}时辰一到，大营闻风而动。但凡提得动刀剑之人皆披挂整齐，分为数支小队，由罗道夫、琼斯等什长分别统领。"
 
 # game/script_dlc_2.rpy:13009
 translate chinese fall_of_caldwells_intro_39d87792:
@@ -10207,7 +10207,7 @@ translate chinese canterbury_battle_for_london_3_fight_76b2fe88_7:
 translate chinese canterbury_battle_for_london_3_postfight_2d7bf6c7:
 
     nvl clear
-    "{cps=50}你拼力死守，但天平仍缓慢而坚定地倒向敌人。议会军中占多数的征召民兵，与那些武装到牙齿的老练骑士相比，实在不堪一击——人多也弥补不了。"
+    "{cps=50}你负隅顽抗，胜利的天平却无可挽回地倾向了敌军。占据议会军大半的征召民兵，在武装到牙齿的百战骑士面前，简直是不堪一击——纵有兵力优势也无济于事。"
 
 # game/script_dlc_2.rpy:23419
 translate chinese canterbury_battle_for_london_3_postfight_e734a0a5:
@@ -10686,7 +10686,7 @@ translate chinese canterbury_north_invasion_fight_76b2fe88_2:
 translate chinese canterbury_north_invasion_postfight_26435c67:
 
     nvl clear
-    "{cps=50}击退苏格兰人后，你匆匆登上附近一处可以眺望四野的山丘，凝神远望。"
+    "{cps=50}杀退苏格兰人后，你快步攀上一座视线开阔的丘陵，极目远眺。"
 
 # game/script_dlc_2.rpy:24141
 translate chinese canterbury_north_invasion_postfight_fb171936:
@@ -11016,7 +11016,7 @@ translate chinese canterbury_duke_arrest_2_postfight_76b2fe88_1:
 translate chinese canterbury_final_battle_intro_f301f6ac:
 
     nvl clear
-    "{cps=50}次日正午，两支军队在首都以北的平原上相遇——这是年内第二场伦敦争夺战。"
+    "{cps=50}次日正午，两支大军对峙于都城以北的平原，年内第二场伦敦争夺战就此打响。"
 
 # game/script_dlc_2.rpy:25216
 translate chinese canterbury_final_battle_intro_76b2fe88:
@@ -15916,7 +15916,7 @@ translate chinese maidstone_tavern_exsoldiers_76b2fe88:
 translate chinese maidstone_tavern_bridge_4c0a9fb4:
 
     nvl clear
-    "{cps=50}在酒馆喝酒时，你不经意间听到两个酒友的一段闲谈——说的是城西北河上那座桥坍塌的事。"
+    "{cps=50}在酒馆畅饮时，你不经意间听得邻座两人的闲聊碎语，正说到城西北跨河大桥的坍塌。"
 
 # game/script_dlc_2.rpy:32837
 translate chinese maidstone_tavern_bridge_e6450310:

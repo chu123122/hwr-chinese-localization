@@ -34,7 +34,7 @@ translate chinese fight1_intro_76b2fe88:
 translate chinese fight1_bc060a02:
 
     nvl clear
-    "{cps=50}敌军阵型正在瓦解，这场战斗恐怕很快就要结束了。"
+    "{cps=50}敌军阵型渐呈溃败之势，这场厮杀恐怕即将落下帷幕。"
 
 # game/script_0.rpy:303
 translate chinese fight1_76b2fe88:
@@ -46,7 +46,7 @@ translate chinese fight1_76b2fe88:
 translate chinese postfight1_4d97c81e:
 
     nvl clear
-    "{cps=50}敌军无力抵挡你的攻势，渐渐败退，随即仓皇撤走。"
+    "{cps=50}敌军无力抵挡你的猛攻，节节败退，随即仓皇撤离了战场。"
 
 # game/script_0.rpy:370
 translate chinese postfight1_76b2fe88_3:
@@ -878,7 +878,7 @@ translate chinese postfight2_2_76b2fe88:
 translate chinese fight2_6_intro_1395b260:
 
     nvl clear
-    "{cps=50}到了约定的时刻，整座营地动了起来，一幅规模浩大、令人心惊的景象展现在你眼前。"
+    "{cps=50}时辰一到，整座营地倾巢而出，一幅规模浩大、令人胆寒的壮观景象展现在你眼前。"
 
 # game/script_0.rpy:2181
 translate chinese fight2_6_intro_224e04f0:
@@ -1322,7 +1322,7 @@ translate chinese money_has_no_smell_punishment_76b2fe88_1:
 translate chinese fight2_7_d5a9e6d3:
 
     nvl clear
-    "{cps=50}战局渐渐起了变化。英格兰人原本气势如虹，凭着一股猛劲夺下了大片城墙，如今这势头却在一点一点地衰竭。"
+    "{cps=50}战局悄然逆转。英格兰人原本气势如虹，一举夺下大段城墙，如今这股锐气却在逐渐消竭。"
 
 # game/script_0.rpy:3015
 translate chinese fight2_7_faed2c7b:
@@ -1500,7 +1500,7 @@ translate chinese fight2_7_76b2fe88_12:
 translate chinese postfight2_7_f69c16d5:
 
     nvl clear
-    "{cps=50}你心知形势不妙，此时逞英雄毫无意义，于是第一个转身奔逃，率先撤下城墙。"
+    "{cps=50}你心知大势已去，此时绝非逞匹夫之勇的时候，索性一马当先，率先撤下了城墙。"
 
 # game/script_0.rpy:3338
 translate chinese postfight2_7_6b37a81f:
@@ -1659,7 +1659,7 @@ translate chinese hub2_afterfight_general_76b2fe88_1:
 # game/script_0.rpy:3831
 translate chinese cambrai_retreat_0ea55f43:
 
-    "{cps=50}眼见胜利即将从指缝间溜走，你的同伴们开始撤退。靠近梯子与攻城塔的人纷纷抢着下城，其余人则掩护退路，竭力拖慢法国人的脚步。"
+    "{cps=50}眼见胜机渺茫，你的同袍开始仓皇撤退。靠近云梯与攻城塔的人争相落荒而下，其余人则殿后掩护，死死拖住法国人的脚步。"
 
 # game/script_0.rpy:3832
 translate chinese cambrai_retreat_76b2fe88_2:
@@ -1875,7 +1875,7 @@ translate chinese postfight2_9_76b2fe88:
 translate chinese story_3_efb05a86:
 
     nvl clear
-    "{cps=50}这场险些酿成大祸的失败攻城之后，整座营地都陷入了舔舐伤口的沉寂。"
+    "{cps=50}这场险些全军覆没的强攻落败后，整座营地一片死寂，众人只顾各自舔舐着伤口。"
 
 # game/script_0.rpy:4350
 translate chinese story_3_84cdb73c:
@@ -2112,7 +2112,7 @@ translate chinese fight3_4intro_ea4acab7:
 translate chinese fight3_4intro_4f4e69a3:
 
     nvl clear
-    "{cps=50}然而这一次，炮火不再漫无目标，而是集中于数处被认定为守军最薄弱的环节。"
+    "{cps=50}然而这一次，箭矢不再漫无目标，而是集中于数处被认定为守军最薄弱的环节。"
 
 # game/script_0.rpy:5012
 translate chinese fight3_4intro_1448d0ff:
@@ -4318,7 +4318,7 @@ translate chinese cambrai_final_battle_2_fight_76b2fe88_4:
 translate chinese cambrai_final_battle_2_postfight_a7ea17df:
 
     nvl clear
-    "{cps=50}你已拼尽全力，但双方实力悬殊——兵源更足、体力更旺的法军，硬生生把你们从加固的阵地上挤了下去。"
+    "{cps=50}你已战至力竭，但终究众寡悬殊——兵力雄厚、养精蓄锐的法国人，生生将你们从加固的阵地上逼退。"
 
 # game/script_0.rpy:9524
 translate chinese cambrai_final_battle_2_postfight_547c08e9:
@@ -4402,7 +4402,7 @@ translate chinese cambrai_buy_out_of_prison_76b2fe88:
 translate chinese cambrai_buy_out_of_prison_cdadbcaf:
 
     nvl clear
-    "{cps=50}将近傍晚时分，你最坏的担忧成真了——王子、伯爵，以及坎特伯雷与桑德兰两位伯爵，带着一小队骑士返回康布雷，身后跟着一辆覆盖着篷布、饰有法国王室纹章的马车。"
+    "{cps=50}临近傍晚，你最深的忧虑终成现实——王子、伯爵，以及坎特伯雷与桑德兰两位伯爵，带着一小队骑士折返康布雷，随行的还有一辆绘着法国王室纹章的篷车。"
 
 # game/script_0.rpy:9560
 translate chinese cambrai_buy_out_of_prison_54f13add:
@@ -5005,7 +5005,7 @@ translate chinese cambrai_fight_prisoner_c9dd786b:
 translate chinese cambrai_fight_prisoner_dfee2df9:
 
     nvl clear
-    "{cps=50}他们猜测，在康布雷城后的某处，你必定藏着沉甸甸的钱袋，于是便向你提出了与所有落入他们手中的显贵武士相同的条件——花钱赎回自由。"
+    "{cps=50}他们猜测，在康布雷城后的某处，你必定藏着沉甸甸的钱袋，于是便向你提出了与所有落入他们手中的显贵战士相同的条件——花钱赎回自由。"
 
 # game/script_0.rpy:10326
 translate chinese cambrai_fight_prisoner_b163549b:
@@ -5793,7 +5793,7 @@ translate chinese olivier_farm_fight_76b2fe88_7:
 translate chinese olivier_farm_postfight_98517d1a:
 
     nvl clear
-    "{cps=50}多亏你及时赶到，前锋部队免遭覆灭，雇佣兵们撤了下去。"
+    "{cps=50}多亏你率部及时杀到，前锋才免遭覆没，那些雇佣兵见状也随之撤退。"
 
 # game/script_0.rpy:12067
 translate chinese olivier_farm_postfight_8ab67bc9:
@@ -6627,7 +6627,7 @@ translate chinese fight6_1_intro_76b2fe88:
 translate chinese fight6_1_5dbc4862:
 
     nvl clear
-    "{cps=50}你没费多少力气便收拾掉了那几个守卫。"
+    "{cps=50}你不费吹灰之力，便将那几个守卫收拾干净。"
 
 # game/script_0.rpy:14826
 translate chinese fight6_1_76b2fe88:
@@ -6859,7 +6859,7 @@ translate chinese postfight6_3_76b2fe88:
 translate chinese fight6_4_intro_3b100b33:
 
     nvl clear
-    "{cps=50}港口里，在为数众多的渔船以及各式小艇、驳船之间，果然还泊着几艘中等大小的科格船——显然是运货进城的商船。"
+    "{cps=50}港口里，密密麻麻的渔船、小艇与驳船之间，果然停泊着两艘中型科格船——看样子是满载货物来此停靠的商船。"
 
 # game/script_0.rpy:16010
 translate chinese fight6_4_intro_9c5cfa5d:
@@ -8377,7 +8377,7 @@ translate chinese embark_on_new_adventure_76b2fe88_4:
 translate chinese rennes_defence_fail_f8dac415:
 
     nvl clear
-    "{cps=50}当城防彻底崩溃之时，人人只得各自逃命。民兵与平民互相推搡，涌满大街小巷，争先恐后地奔向码头——那是唯一的生路。"
+    "{cps=50}城防彻底崩溃，众人只顾各自逃命。民兵与平民推搡踩踏，将街巷挤得水泄不通，争先恐后地奔向码头——那是唯一的生路。"
 
 # game/script_0.rpy:19047
 translate chinese rennes_defence_fail_61cda677:
@@ -9032,7 +9032,7 @@ translate chinese damietta_intro_continued_3af5a69a:
 translate chinese damietta_intro_continued_cb9cf65a:
 
     nvl clear
-    "{cps=50}他毫不迟疑地表示愿意相助，不过此事并不轻松。他的文书处虽一直尽力登记所有抵达的武士，但这份名录远谈不上精确，光是在其中翻找就要花上不少时日。"
+    "{cps=50}他毫不迟疑地表示愿意相助，不过此事并不轻松。他的文书处虽一直尽力登记所有抵达的战士，但这份名录远谈不上精确，光是在其中翻找就要花上不少时日。"
 
 # game/script_0.rpy:19440
 translate chinese damietta_intro_continued_92b1729a:
@@ -9281,7 +9281,7 @@ translate chinese damietta_finale_decider_f19b054f:
 translate chinese damietta_finale_decider_b7b83971:
 
     nvl clear
-    "{cps=50}总督原本盘算着把女儿许配给更有权势的人，起初颇有些犹豫。但你身为贵胄武士的声名，加上你为他立下的种种功劳，最终占了上风——他祝福了这桩婚事。{vspace=5}{color=#A9A9A9}声望（总督）——成功！"
+    "{cps=50}总督原本盘算着把女儿许配给更有权势的人，起初颇有些犹豫。但你身为贵胄战士的声名，加上你为他立下的种种功劳，最终占了上风——他祝福了这桩婚事。{vspace=5}{color=#A9A9A9}声望（总督）——成功！"
 
 # game/script_0.rpy:19780
 translate chinese damietta_finale_decider_36a7b8dd:
@@ -10240,7 +10240,7 @@ translate chinese london_intro_76b2fe88_5:
 translate chinese london_prefight_19a1bbbe:
 
     nvl clear
-    "{cps=50}翌日清晨，日出时分，你随伯爵与王子集结的军队先锋，向叛军的阵地开进。"
+    "{cps=50}翌日破晓，你随同伯爵与王子集结的大军先锋，拔营杀向叛军的阵地。"
 
 # game/script_0.rpy:21372
 translate chinese london_prefight_76b2fe88:
@@ -11110,7 +11110,7 @@ translate chinese story_england_2_76b2fe88_1:
 translate chinese story_england_2_end_10081b9b:
 
     nvl clear
-    "{cps=50}尽管你口头答应了爱丽丝组织进军伦敦的提议，却始终鼓不起决心迈出这一步。"
+    "{cps=50}尽管你口头应承了艾丽莎发兵伦敦的提议，却始终下定不了决心迈出这一步。"
 
 # game/script_0.rpy:23265
 translate chinese story_england_2_end_4988f6e9:
@@ -11145,7 +11145,7 @@ translate chinese story_england_2_end_quickjump_good_76b2fe88:
 # game/script_0.rpy:23284
 translate chinese story_england_2_end_quickjump_good_dd4a94fb:
 
-    "{cps=50}你赶到时，只见北安普顿与爱德华王子正在兵器大厅里，兴致勃勃地商议着什么。"
+    "{cps=50}你步入兵器大厅，只见北安普顿与爱德华王子正兴致勃勃地商议着什么。"
 
 # game/script_0.rpy:23285
 translate chinese story_england_2_end_quickjump_good_76b2fe88_1:
@@ -11306,7 +11306,7 @@ translate chinese story_england_2_end_quickjump_good_76b2fe88_4:
 translate chinese negotiations_prefight_check_15c91d22:
 
     nvl clear
-    "{cps=50}你身着过于显眼的甲胄，或带着盾牌，无法出席谈判。"
+    "{cps=50}你不可身披惹眼的护甲或手持盾牌前去谈判。"
 
 # game/script_0.rpy:23442
 translate chinese negotiations_prefight_check_76b2fe88:
@@ -11786,7 +11786,7 @@ translate chinese negotiations_prefight_1_2e5babd1:
 translate chinese negotiations_fight_1_40b98e74:
 
     nvl clear
-    "{cps=50}坎特伯雷的两名侍卫虽然身着锁子甲，却一个接一个地送了命。"
+    "{cps=50}沉重的锁子甲并未救下坎特伯雷的两名护卫，二人相继倒在血泊之中。"
 
 # game/script_0.rpy:23982
 translate chinese negotiations_fight_1_1cb8dd59:
@@ -13277,7 +13277,7 @@ translate chinese york_searching_for_mayor_0913bce4:
 translate chinese york_searching_for_mayor_2_bedda8e9:
 
     nvl clear
-    "{cps=50}莉娜所说的那座监狱，你不费吹灰之力便找到了。{vspace=5}雨幕与乌云压顶的天空，给这座本就阴沉的堡垒平添了几分地狱般的景象……{w}仿佛预示着什么灾祸即将降临。"
+    "{cps=50}莉娜口中的那所监狱，你不费吹灰之力便寻到了。{vspace=5}愁云惨淡，雨幕如织，令这座本就阴森的堡垒平添了几分宛如炼狱的景象……{w}犹如某种不祥之兆，预示着灾祸的降临。"
 
 # game/script_0.rpy:25779
 translate chinese york_searching_for_mayor_2_76b2fe88:
@@ -13588,7 +13588,7 @@ translate chinese york_finale_bad_76b2fe88_1:
 # game/script_0.rpy:25873
 translate chinese york_finale_bad_2ba76a99:
 
-    "{cps=50}正如詹姆斯所承诺的那样，次日清晨，苏格兰军队向城市发起了强攻。"
+    "{cps=50}正如詹姆斯所言，翌日清晨，苏格兰大军便向城池发起了猛攻。"
 
 # game/script_0.rpy:25874
 translate chinese york_finale_bad_76b2fe88:

@@ -1476,7 +1476,7 @@ translate chinese overthrow_end_alyssa_76b2fe88:
 # game/script_dlc_3.rpy:3054
 translate chinese overthrow_end_alyssa_7cca7447:
 
-    "{cps=50}攻下城堡、除掉邓肯之后，你派人给艾丽莎送去消息。第二天，奇彭纳姆便迎来了它的新主人。"
+    "{cps=50}攻下城堡、除掉邓肯之后，你派人给艾丽莎送去消息。第二天，奇彭纳姆便迎来了它的新任侯爵。"
 
 # game/script_dlc_3.rpy:3055
 translate chinese overthrow_end_alyssa_64b59bf5:
@@ -3583,7 +3583,7 @@ translate chinese kingdom_church_collect_tax_76b2fe88_1:
 translate chinese kingdom_build_militia_885ce937:
 
     nvl clear
-    "{cps=50}依照英格兰的法律，你决定宣布征召民兵团以保卫王国，命令治下每一座村庄、每一座城镇都按约定数额出人当兵。"
+    "{cps=50}你依英格兰律法下达敕令，宣布举国征调民兵，责令治下各村各镇务必按定额出丁入伍。"
 
 # game/script_dlc_3.rpy:6150
 translate chinese kingdom_build_militia_3079040f:
@@ -3707,7 +3707,7 @@ translate chinese kingdom_hire_mercenaries_76b2fe88:
 # game/script_dlc_3.rpy:6254
 translate chinese kingdom_hire_mercenaries_a36348b1:
 
-    "{cps=50}{color=#A9A9A9}为了扩充兵力，你招揽了王国这一带所能找到的所有佣兵团与雇佣队伍！{vspace=5}{color=#A9A9A9}招募[kingdom_mercenaries_hire_men]名雇佣兵！{vspace=5}花费[kingdom_mercenaries_hire_cost]弗罗林！"
+    "{cps=50}{color=#A9A9A9}为求壮大军威，你将王国此境的各类雇佣兵团尽数收归麾下！{vspace=5}{color=#A9A9A9}招募[kingdom_mercenaries_hire_men]名雇佣兵！{vspace=5}花费[kingdom_mercenaries_hire_cost]弗罗林！"
 
 # game/script_dlc_3.rpy:6259
 translate chinese kingdom_hire_mercenaries_76b2fe88_1:
@@ -4449,7 +4449,7 @@ translate chinese kingdom_of_london_end_of_chapter_check_76b2fe88:
 # game/script_dlc_3.rpy:7290
 translate chinese kingdom_of_london_end_of_chapter_check_499eae6d:
 
-    "{cps=50}为军队发放军饷耗去你[kingdom_army_total_upkeep_price]弗罗林。{vspace=5}{color=#A9A9A9}损失[kingdom_army_total_upkeep_price]弗罗林。"
+    "{cps=50}犒赏三军耗费了你[kingdom_army_total_upkeep_price]弗罗林。{vspace=5}{color=#A9A9A9}损失[kingdom_army_total_upkeep_price]弗罗林。"
 
 # game/script_dlc_3.rpy:7291
 translate chinese kingdom_of_london_end_of_chapter_check_76b2fe88_1:
@@ -5076,7 +5076,7 @@ translate chinese kingdom_of_london_2_76b2fe88_1:
 # game/script_dlc_3.rpy:8851
 translate chinese kingdom_of_london_2_84974da2:
 
-    "{cps=50}你把一部分战利品分给了并肩作战的领主与贵族武士，余下的归入自己囊中。普通士兵则与你的慷慨无缘。{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林！{vspace=5}人气（贵族）增加[player_kingdom_rep_nobles_change]！{vspace=5}人气（平民）下降[player_kingdom_rep_commoners_change]！"
+    "{cps=50}你把一部分战利品分给了并肩作战的领主与贵族战士，余下的归入自己囊中。普通士兵则与你的慷慨无缘。{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林！{vspace=5}人气（贵族）增加[player_kingdom_rep_nobles_change]！{vspace=5}人气（平民）下降[player_kingdom_rep_commoners_change]！"
 
 # game/script_dlc_3.rpy:8854
 translate chinese kingdom_of_london_2_76b2fe88_2:
@@ -5093,7 +5093,7 @@ translate chinese kingdom_of_london_2_f46cfd70:
 translate chinese kingdom_of_london_2_ff0a4f05:
 
     nvl clear
-    "{cps=50}此外，此战之中，你的人马还俘获了[kingdom_of_london_prisoners_captured]名敌军武士，其中不乏声名显赫的骑士，定能换来一笔可观的赎金……"
+    "{cps=50}此外，此战之中，你的人马还俘获了[kingdom_of_london_prisoners_captured]名敌军战士，其中不乏声名显赫的骑士，定能换来一笔可观的赎金……"
 
 # game/script_dlc_3.rpy:8867
 translate chinese kingdom_of_london_2_38b5f58e:
@@ -8490,7 +8490,7 @@ translate chinese kingdom_of_london_4_africa_prefight_1_76b2fe88_2:
 translate chinese kingdom_of_london_4_africa_prefight_1_733486bb:
 
     nvl clear
-    "{cps=50}强攻失败了……{vspace=5}{color=#A9A9A9}补给数量减少1！"
+    "{cps=50}强攻铩羽而归……{vspace=5}{color=#A9A9A9}补给减少1！"
 
 # game/script_dlc_3.rpy:13641
 translate chinese kingdom_of_london_4_africa_prefight_1_76b2fe88:
@@ -14361,7 +14361,7 @@ translate chinese eva_helps_player_escape_76b2fe88_3:
 translate chinese french_campaign_intro_f9f7b83f:
 
     nvl clear
-    "{cps=50}德·罗什将你从囚禁中释放，命人把你安置在法军营地他的近旁，并给你食物。"
+    "{cps=50}德·罗什为你解除拘禁，命部下将你安置在法军大营内贴身照看，并赐下吃食。"
 
 # game/script_dlc_3.rpy:20544
 translate chinese french_campaign_intro_f82b490b:
@@ -14522,7 +14522,7 @@ translate chinese raglan_introduction_invitation_76b2fe88:
 # game/script_dlc_3.rpy:21250
 translate chinese raglan_introduction_invitation_3e778a11:
 
-    "{cps=50}一名信使找到了你，说德·罗什召你前去……"
+    "{cps=50}一名信使匆匆寻来，传话说德·罗什召你前去……"
 
 # game/script_dlc_3.rpy:21252
 translate chinese raglan_introduction_invitation_76b2fe88_1:
@@ -15268,7 +15268,7 @@ translate chinese road_to_rouen_postfight_76b2fe88_2:
 translate chinese rouen_arrival_force_start_5494d7c6:
 
     nvl clear
-    "{cps=50}德·罗什不愿再耽误宝贵的时间，下令全队出发。赶了几个时辰的路，你们便闯入了公爵的府邸……"
+    "{cps=50}德·罗什不愿再虚耗光阴，断然下令拔营。几个时辰的奔波后，你们便气势汹汹地杀入了公爵府邸……"
 
 # game/script_dlc_3.rpy:22265
 translate chinese rouen_arrival_force_start_76b2fe88:
@@ -17346,7 +17346,7 @@ translate chinese kings_feast_76b2fe88_1:
 translate chinese paris_noble_recruitment_intro_5fbd6f20:
 
     nvl clear
-    "{cps=50}你记着[wandering_knight_container_full_name!ti]加入队伍的提议，来到了他位于巴黎的庄园……"
+    "{cps=50}你心怀[wandering_knight_container_full_name!ti]入伙的提议，按图索骥来到了他位于巴黎的庄园……"
 
 # game/script_dlc_3.rpy:26616
 translate chinese paris_noble_recruitment_intro_6892b68c:
@@ -17410,7 +17410,7 @@ translate chinese paris_second_assassination_warning_76b2fe88:
 translate chinese paris_second_assassination_intro_bab3c349:
 
     nvl clear
-    "{cps=50}拉格兰的担忧应验了。警告发出几天后，德·罗什在巴黎的府邸果然遭到一伙不明身份者的袭击。"
+    "{cps=50}拉格兰的顾虑果然应验。示警不出数日，德·罗什的巴黎府邸便遭了一伙无名刺客的突袭。"
 
 # game/script_dlc_3.rpy:26677
 translate chinese paris_second_assassination_intro_5796c798:
@@ -17561,7 +17561,7 @@ translate chinese paris_second_assassination_outro_bad_76b2fe88:
 # game/script_dlc_3.rpy:26767
 translate chinese paris_second_assassination_outro_good_2c4d0080:
 
-    "{cps=50}多亏你的介入，两名刺客都已毙命。然而[storyroll!ti]从死人嘴里撬不出任何答案。"
+    "{cps=50}仗着你的雷霆手段，两名刺客皆已伏诛。然而[storyroll!ti]要想从死人嘴里撬出半句真言，却是难如登天。"
 
 # game/script_dlc_3.rpy:26768
 translate chinese paris_second_assassination_outro_good_8566b650:
@@ -20338,7 +20338,7 @@ translate chinese saint_germain_raoul_trade_menu_76b2fe88_1:
 translate chinese bridge_checkpoint_intro_6df08129:
 
     nvl clear
-    "{cps=50}通往城内的塞纳河桥由一队士兵把守，领头的是位队长，他死活不肯放任何人进京——尤其不许携带武器的人过桥。"
+    "{cps=50}横跨塞纳河的进城大桥重兵把守，那带队的军官铁面无私，任谁都不肯放行——对持刃带甲之徒更是如临大敌。"
 
 # game/script_dlc_3.rpy:32306
 translate chinese bridge_checkpoint_item_drown_76b2fe88:
@@ -29821,7 +29821,7 @@ translate chinese bailli_talk_menu_76b2fe88_4:
 translate chinese player_treats_bailifs_soldiers_with_alcohol_f0c8ee3c:
 
     nvl clear
-    "{cps=50}想不出更好的法子，你决定走最省事的路——向兵卒们许诺，每场操练表现得好，便以酒水相酬。{color=#A9A9A9}{vspace=5}酒水减少：6。"
+    "{cps=50}苦无良策之下，你只好捏着鼻子走了捷径：对军汉们许下海口，只要操练卖力，定有美酒犒赏。{color=#A9A9A9}{vspace=5}失去酒水：6。"
 
 # game/script_dlc_3.rpy:47234
 translate chinese player_treats_bailifs_soldiers_with_alcohol_658d22a8:
@@ -30406,7 +30406,7 @@ translate chinese grace_and_glory_campaign_intro_220afc5e:
 translate chinese grace_and_glory_campaign_intro_7aaeeed5:
 
     nvl clear
-    "{cps=50}挡在你们面前的唯一障碍，是奥利维娅的保镖——他们把府邸的一翼守得严严实实。"
+    "{cps=50}挡在你们面前的唯一障碍，是奥利维亚的保镖——他们把府邸的一翼守得严严实实。"
 
 # game/script_dlc_3.rpy:47751
 translate chinese grace_and_glory_campaign_intro_dc1291c9:
@@ -30466,7 +30466,7 @@ translate chinese grace_and_glory_olivia_execution_1_postfight_76b2fe88:
 translate chinese grace_and_glory_olivia_execution_finale_6b396347:
 
     nvl clear
-    "{cps=50}收拾掉奥利维娅的保镖后，你跟着格蕾丝和格洛丽走进了公爵夫人的房间。"
+    "{cps=50}收拾掉奥利维亚的保镖后，你跟着格蕾丝和格洛丽走进了公爵夫人的房间。"
 
 # game/script_dlc_3.rpy:48228
 translate chinese grace_and_glory_olivia_execution_finale_cc369232:
@@ -30640,7 +30640,7 @@ translate chinese grace_and_glory_olivia_execution_finale_08a203f0:
 translate chinese grace_and_glory_olivia_execution_finale_32a2e6cf:
 
     nvl clear
-    "{cps=50}你记得奥利维娅的悬赏出自宗教裁判所之手，本以为要跟着两名赏金猎人一路南下，前往阿维尼翁。谁料他们调头向北，直奔法兰西王国的北境而去。"
+    "{cps=50}你记得奥利维亚的悬赏出自宗教裁判所之手，本以为要跟着两名赏金猎人一路南下，前往阿维尼翁。谁料他们调头向北，直奔法兰西王国的北境而去。"
 
 # game/script_dlc_3.rpy:48280
 translate chinese grace_and_glory_olivia_execution_finale_4bebb892:
@@ -31174,7 +31174,7 @@ translate chinese grace_and_glory_paris_finale_a0dd4574:
 translate chinese grace_and_glory_paris_finale_5e292059:
 
     nvl clear
-    "{cps=50}一桩酬劳能与奥利维娅·德·蒙福尔那颗人头上的悬赏相提并论的买卖。"
+    "{cps=50}一桩酬劳能与奥利维亚·德·蒙福尔那颗人头上的悬赏相提并论的买卖。"
 
 # game/script_dlc_3.rpy:48774
 translate chinese grace_and_glory_paris_finale_9dee0438:
@@ -31615,7 +31615,7 @@ translate chinese grace_and_glory_rouen_1_postfight_76b2fe88:
 # game/script_dlc_3.rpy:49270
 translate chinese grace_and_glory_rouen_1_postfight_778e94dc:
 
-    "{cps=50}那保镖临死前好歹拖住了你们片刻——可这点时间，已足以让德·罗什从暗门溜走。"
+    "{cps=50}贴身侍卫拼死护主，生生拖延了数息功夫。然而就是这须臾之间，德·罗什已然循着暗门逃之夭夭。"
 
 # game/script_dlc_3.rpy:49271
 translate chinese grace_and_glory_rouen_1_postfight_3f467c2c:
@@ -32132,7 +32132,7 @@ translate chinese grace_and_glory_buy_information_from_tarrare_e0e301e7:
 translate chinese grace_and_glory_de_roche_second_attempt_contd_fe6ce8f2:
 
     nvl clear
-    "{cps=50}拿到关于德·罗什的情报后，你着手拟定行动计划——这一次远比鲁昂那次缜密周详，处处汲取了此前的教训。"
+    "{cps=50}从塔拉尔口中探得德·罗什的行踪后，你当即着手拟定对策。汲取了鲁昂折戟的教训，此番谋划可谓是滴水不漏。"
 
 # game/script_dlc_3.rpy:50462
 translate chinese grace_and_glory_de_roche_second_attempt_contd_45a8af74:
@@ -33523,7 +33523,7 @@ translate chinese grace_and_glory_player_escape_alone_42b93764:
 translate chinese grace_and_glory_player_escape_alone_2411ae23:
 
     nvl clear
-    "{cps=50}据目击者回忆，你也在趾高气昂开进卡斯蒂利亚都城的法兰西武士之列……然而此后，你的踪迹便再无下文。"
+    "{cps=50}据目击者回忆，你也在趾高气昂开进卡斯蒂利亚都城的法兰西战士之列……然而此后，你的踪迹便再无下文。"
 
 # game/script_dlc_3.rpy:53998
 translate chinese grace_and_glory_player_escape_alone_cc431020:
@@ -34777,7 +34777,7 @@ translate chinese kingdom_tourney_6cd53886:
 translate chinese kingdom_tourney_0204b351:
 
     nvl clear
-    "{cps=50}他们提议举办一场盛大的比武大会，让王国最精锐的武士同场竞技。"
+    "{cps=50}他们提议举办一场盛大的比武大会，让王国最精锐的战士同场竞技。"
 
 # game/script_dlc_3.rpy:56615
 translate chinese kingdom_tourney_72e7b978:

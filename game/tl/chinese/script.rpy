@@ -916,7 +916,7 @@ translate chinese no_weapon_warning_battlehub_76b2fe88_1:
 translate chinese no_weapon_warning_battlehub_680414dc:
 
     nvl clear
-    "{cps=50}直到最后一刻，你才发现自己手无寸铁，于是决意落荒而逃……{vspace=5}{color=#A9A9A9}时间损失：3。"
+    "{cps=50}直到最后一刻，你才惊觉自己手无寸铁，只得落荒而逃……{vspace=5}{color=#A9A9A9}时间损失：3。"
 
 # game/script.rpy:28889
 translate chinese no_weapon_warning_battlehub_76b2fe88:
@@ -1025,7 +1025,7 @@ translate chinese stats_increase_hub_76b2fe88:
 # game/script.rpy:29166
 translate chinese stats_increase_hub_b5ed03ec:
 
-    "{cps=50}训练与实战经验让你的技艺获益匪浅。{vspace=5}{color=#A9A9A9}力量、敏捷、耐力、协调、生命值与武器精通提升[attackchance]！"
+    "{cps=50}训练与实战经验让你的技艺获益匪浅。{vspace=5}{color=#A9A9A9}力量、敏捷、耐力、协调、生命值与武器技能提升[attackchance]！"
 
 # game/script.rpy:29176
 translate chinese stats_increase_hub_76b2fe88_1:
@@ -1054,7 +1054,7 @@ translate chinese colossus_civil_talent_stats_increase_76b2fe88_1:
 translate chinese forager_quest_warning_38accb3d:
 
     nvl clear
-    "{cps=50}在完成伯爵筹措粮草的任务之前，你无法继续前行。"
+    "{cps=50}尚未完成伯爵筹措粮草的差事，你无法继续前行。"
 
 # game/script.rpy:29203
 translate chinese forager_quest_warning_76b2fe88:
@@ -1066,7 +1066,7 @@ translate chinese forager_quest_warning_76b2fe88:
 translate chinese duncans_quests_warning_2c7a4726:
 
     nvl clear
-    "{cps=50}在完成邓肯的嘱托之前你无法继续，于是你动身前往郡长处。"
+    "{cps=50}你无法继续下去——邓肯的嘱托尚未完成，你只得动身前往郡长处。"
 
 # game/script.rpy:29212
 translate chinese duncans_quests_warning_76b2fe88:
@@ -1090,7 +1090,7 @@ translate chinese duncans_quests_warning_76b2fe88_1:
 translate chinese earl_looking_for_you_3a4640bd:
 
     nvl clear
-    "{cps=50}寻到你的信使传话，伯爵有要事找你，命你即刻前往觐见。"
+    "{cps=50}信使匆匆寻来传话：伯爵有要事相商，命你即刻前去觐见。"
 
 # game/script.rpy:29229
 translate chinese earl_looking_for_you_76b2fe88:
@@ -1421,7 +1421,7 @@ translate chinese strings:
     old "Page's sword"
     new "侍童的剑"
     old "A handy and lightweight double-edged sword. Common weapon among{vspace=5}armour-berarers, pages, esquires and various other lesser nobles. An{vspace=5}overall decent sword that was not designed for heavy and intense combat."
-    new "一把趁手轻便的双刃剑。{vspace=5}在护甲随从、侍童、侍从以及各类低阶贵族中颇为常见。{vspace=5}整体而言是把不错的剑，但并非为惨烈厮杀而造。"
+    new "一把轻便趁手的双刃剑。在武装侍从、侍童、{vspace=5}骑士侍从及各类低阶贵族中颇为常见。{vspace=5}总体而言是把好剑，但并非为高强度的惨烈厮杀而造。"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}P{/size}{/color}{/font}age's sword"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}侍{/size}{/color}{/font}童的剑"
     old "Mercenary's Companion"
@@ -1433,7 +1433,7 @@ translate chinese strings:
     old "Knight's Last Нope"
     new "骑士的最后希望"
     old "A well-balanced shortbladed sword of high quality. Typical secondary weapon of{vspace=5}a well-armed knight or a noble that is called upon when nothing else is availabe.{vspace=5}However it can easily serve as a primary one - especially to those who are less rich.{vspace=1}*Does additional damage that depends on how high your Virtue is"
-    new "一把品质上乘、配重极佳的单刃短剑。通常是装备精良的骑士或贵族的备用兵器，{vspace=5}在别无选择时才会出鞘。{vspace=5}不过，它完全可以充当主力武器——尤其是对囊中羞涩之人而言。{vspace=1}*根据美德高低造成额外伤害"
+    new "一把品质上乘、配重极佳的短刃剑。通常作为装备精良的骑士或贵族的{vspace=5}备用武器，在别无选择时才会拔出。{vspace=5}然而它完全能胜任主武器——尤其是对那些囊中羞涩的人而言。{vspace=1}*根据你的美德高低造成额外伤害"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}K{/size}{/color}{/font}night's Last Нope"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}骑{/size}{/color}{/font}士的最后希望"
     old "Falchion"
@@ -1445,7 +1445,7 @@ translate chinese strings:
     old "Venetian falchion"
     new "威尼斯弯刃剑"
     old "Pretty much the same falchion that is widely used by common folk but{vspace=5}of significantly higher quality and also a bit heavier."
-    new "与平民中广泛使用的弯刃剑大体相同，{vspace=5}但做工精良得多，分量也更沉一些。"
+    new "与平民广泛使用的弯刃剑大体相同，但{vspace=5}品质要高得多，分量也更沉一些。"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}V{/size}{/color}{/font}enetian falchion"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}威{/size}{/color}{/font}尼斯弯刃剑"
     old "Rusty falchion"
@@ -1499,13 +1499,13 @@ translate chinese strings:
     old "Flamberg"
     new "火焰剑"
     old "Flame-bladed sword of a unique design.{vspace=1}Its edges are said to inflict horrible wounds.{vspace=1}*Нas higher chance to inflict an injury{vspace=1}*Does additional damage that depends on how low your Virtue is"
-    new "刃如烈焰的独特长剑。{vspace=1}据说其锋刃能造成触目惊心的伤口。{vspace=1}*更易造成伤势{vspace=1}*美德越低，额外伤害越高"
+    new "设计独特的焰形刃长剑。{vspace=1}据说其锋刃能造成可怕的伤口。{vspace=1}*提高造成伤势的概率{vspace=1}*根据你的美德有多低来造成额外伤害"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}F{/size}{/color}{/font}lamberg"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}火{/size}{/color}{/font}焰剑"
     old "Knightly sword"
     new "骑士剑"
     old "A variation of the typical arming sword but of a considerably higher quality{vspace=5}and of better materials. Weapon of choice of many knights."
-    new "常见单手剑的改良之作，但品质与用料均远胜一筹。{vspace=5}许多骑士的首选兵器。"
+    new "典型单手剑的变种，但品质相当高，{vspace=5}用料也更好。是许多骑士的首选武器。"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}K{/size}{/color}{/font}nightly sword"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}骑{/size}{/color}{/font}士剑"
     old "Messer"
@@ -1523,7 +1523,7 @@ translate chinese strings:
     old "Noble sword"
     new "贵族剑"
     old "Generously decorated and exceptionally well-balanced sword made for a wealthy{vspace=5}nobleman.{vspace=1}*Increases your squadmates stamina recovery by 1 for every 15 points of you Prestige"
-    new "为富有的贵族量身打造，{vspace=5}装饰华丽，配重绝佳。{vspace=1}*你的威望每有15点，队伍同伴的体力恢复便+1"
+    new "专为富裕贵族打造的长剑，装饰华丽且{vspace=5}配重极佳。{vspace=1}*你的威望每有15点，小队同伴的体力恢复便提升1点"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}N{/size}{/color}{/font}oble sword"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}贵{/size}{/color}{/font}族剑"
     old "Estoc"
