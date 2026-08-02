@@ -1,0 +1,233 @@
+term_zh	term_en	category	locked	note
+# 角色（专名，音译/历史译名锁定）
+安娜	Anna	角色	1
+奥利维亚	Olivia	角色	1
+伊娃	Eva	角色	1
+塞西莉亚	Cecilia	角色	1
+艾丽莎	Alyssa	角色	1
+莉娜	Lina	角色	1
+艾玛	Emma	角色	1
+弗雷娅	Freya	角色	1	北欧神话女神名
+玛丽亚	Maria	角色	1
+格蕾丝	Grace	角色	1
+格洛丽	Glory	角色	1
+巴塞洛缪	Bartholomew	角色	1
+詹姆斯	James	角色	1
+邓肯	Duncan	角色	1
+华莱士	Wallace	角色	1	威廉·华莱士同源
+歌利亚	Goliath	角色	1	圣经巨人
+鲁芬	Ruffin	角色	1
+韦托里	Vettori	角色	1	意大利姓氏
+琼斯	Jones	角色	1
+罗杰	Roger	角色	1
+不朽者罗杰	Roger the Immortal	角色	1
+独眼罗杰	Roger the One-Eyed	角色	1
+红罗杰	Roger the Red	角色	1
+戴尔镇长	Mayor Dale	角色	1
+爱德华王子	Prince Edward	角色	1	百年战争黑太子
+国王	King	角色	1
+军士	Sergeant	角色	1	身份词，对话语境可称"老军士"
+铁匠	Blacksmith	角色	1
+骑士	Knight	角色	1
+典狱长	Warden	角色	1
+瘟疫斗士	Plague Champion	角色	1	champion=斗士，非"冠军"
+亚瑟·德·罗萨蒙德	Arthur de Rosamund	角色	1
+贝尔纳·德·沙蒂永	Bernard de Chatillion	角色	1	历史家族 Châtillon=沙蒂永
+雷诺·德·沙蒂永	Renauld de Chatillion	角色	1	史称"沙蒂永的雷诺"
+雅克·德·拉兰	Jacques de Lalaing	角色	1	史实勃艮第比武冠军骑士
+拜巴尔斯	Beibars	角色	1	马穆鲁克苏丹
+德·蒙福尔	De Monfort	角色	1	历史贵族家族
+德·罗什	De Roche	角色	1
+# 地名（历史中文惯用译名锁定）
+北安普顿	Northampton	地名	1	标准历史译名
+坎特伯雷	Canterbury	地名	1
+温莎	Windsor	地名	1
+伦敦	London	地名	1
+剑桥	Cambridge	地名	1
+格林威治	Greenwich	地名	1	民间通行译名
+达特福德	Dartford	地名	1
+奇彭纳姆	Chippenham	地名	1
+布里斯托尔	Bristol	地名	1
+梅德斯通	Maidstone	地名	1
+牛津	Oxford	地名	1
+约克	York	地名	1
+鲁昂	Rouen	地名	1
+雷恩	Rennes	地名	1
+康布雷	Cambrai	地名	1	百年战争战场
+敦刻尔克	Dunkirk	地名	1
+巴黎	Paris	地名	1
+诺曼底	Normandy	地名	1
+达米埃塔	Damietta	地名	1	十字军埃及港口
+特雷维索	Treviso	地名	1
+纳瓦拉	Navarre	地名	1
+威尼斯	Venice	地名	1
+英格兰	England	地名	1
+苏格兰	Scotland	地名	1
+# 机制词（玩法口语化，三体力词严格区分）
+体力	Stamina	机制	1	攻击消耗
+疲劳	Fatigue	机制	1	累积负面
+耐力	Endurance	机制	1	属性
+协调	Coordination	机制	1	属性
+敏捷	Agility	机制	1	属性
+力量	Strength	机制	1	属性
+美德	Virtue	机制	1	献祭/善恶值
+威望	Prestige	机制	1	数值声望
+声望	Reputation	机制	1	阵营关系
+护甲	Armor	机制	1
+流血	Bleed	机制	1
+伤势	Injury	机制	1
+创伤	Wound	机制	1
+佯攻	Feint	机制	1
+致盲	Blind	机制	1
+击倒	Knock	机制	1
+闪避	Dodge	机制	1
+覆盖	Cover	机制	1	护甲部位覆盖
+武器技能	Weapon Skill	机制	1
+格挡	Parry	机制	1
+# 敌人/兵种（中世纪军事术语）
+甲士	Man-at-arms	敌人	1	职业甲兵
+武装军士	Sergeant-at-arms	敌人	1
+骑士侍从	Esquire	敌人	1
+武装侍从	Arms Bearer	敌人	1
+重装骑兵	Knight Bachelor	敌人	1
+旗队骑士	Knight Banneret	敌人	1
+战争领主	Knight Warmaster	敌人	1
+十字军骑士	Crusader Knight	敌人	1
+十字军战士	Crusader Warrior	敌人	1
+英国骑士	English Knight	敌人	1
+法国骑士	French Knight	敌人	1
+苏格兰骑士	Scottish Knight	敌人	1
+法兰西步兵	French Footman	敌人	1
+苏格兰步兵	Scottish Footman	敌人	1
+苏格兰贵族	Scottish Nobleman	敌人	1
+法国贵族	French Noble	敌人	1
+法国士兵	French Soldier	敌人	1
+法兰西甲士	French Man-at-arms	敌人	1
+苏格兰甲士	Scottish Man-at-arms	敌人	1
+民兵	Militiaman	敌人	1
+民兵头目	Militia Leader	敌人	1
+民兵军士	Militia Sergeant	敌人	1
+老练民兵	Experienced Militiaman	敌人	1
+新兵民兵	Inexperienced Militiaman	敌人	1
+精锐民兵	Elite Militiaman	敌人	1
+城镇征召兵	Town Levy	敌人	1
+征召民兵	Conscript Militiaman	敌人	1
+雇佣兵	Mercenary	敌人	1
+雇佣兵队长	Mercenary Captain	敌人	1
+雇佣弩手	Mercenary Crossbowman	敌人	1
+雇佣神射手	Mercenary Sharpshooter	敌人	1
+雇佣军士	Mercenary Sergeant	敌人	1
+精锐雇佣兵	Elite Mercenary	敌人	1
+老练雇佣兵	Experienced Mercenary	敌人	1
+新兵雇佣兵	Inexperienced Mercenary	敌人	1
+老兵雇佣兵	Veteran Mercenary	敌人	1
+佣兵	Sellsword	敌人	1
+德意志佣兵	Landsknecht Mercenary	敌人	1
+佛兰德雇佣兵	Flemish Mercenary	敌人	1
+佛兰德民兵	Flemish Militiaman	敌人	1
+意大利雇佣兵	Italian Mercenary	敌人	1
+德国雇佣兵	German Mercenary	敌人	1
+悍勇雇佣兵	Mercenary-Berserker	敌人	1
+强盗	Bandit	敌人	1
+劫匪	Brigand	敌人	1
+凶残强盗	Vicious Bandit	敌人	1
+凶残劫匪	Vicious Marauder	敌人	1
+强盗割喉手	Bandit Cutthroat	敌人	1
+强盗恶棍	Bandit Brute	敌人	1
+强盗血屠手	Bandit Bloodletter	敌人	1
+强盗弩手	Bandit Crossbowman	敌人	1
+强盗猎手	Bandit Hunter	敌人	1
+强盗飞刀手	Bandit Knife Juggler	敌人	1
+强盗劫掠者	Bandit Marauder	敌人	1
+强盗折磨者	Bandit Tormentor	敌人	1
+劫匪恶棍	Brigand Brute	敌人	1
+劫匪割喉手	Brigand Cutthroat	敌人	1
+劫匪劫掠者	Brigand Marauder	敌人	1
+劫匪猎手	Brigand Hunter	敌人	1
+掠夺者	Marauder	敌人	1
+掠夺者头目	Marauder Leader	敌人	1
+老练掠夺者	Experienced Marauder	敌人	1
+佣兵团劫匪	Armed Peasant	敌人	1
+麻风强盗	Leper Bandit	敌人	1
+麻风弩手	Leper Crossbowman	敌人	1
+麻风骑士	Leper Knight	敌人	1
+麻风士兵	Leper Soldier	敌人	1
+麻风战士	Leper Warrior	敌人	1
+撒拉森战士	Saracen Warrior	敌人	1
+撒拉森掠夺者	Saracen Raider	敌人	1
+撒拉森斥候	Saracen Scout	敌人	1
+撒拉森弩手	Saracen Crossbowman	敌人	1
+撒拉森神射手	Saracen Sharpshooter	敌人	1
+阿拉伯强盗	Arab Bandit	敌人	1
+阿拉伯战士	Arab Warrior	敌人	1
+异教徒	Heathen	敌人	1
+邪教徒	Cultist	敌人	1
+吟游诗人	Bard	敌人	1
+拦路强盗	Highwayman	敌人	1
+剑客	Swashbuckler	敌人	1
+赏金猎人	Bounty Hunter	敌人	1
+逃兵	Deserter	敌人	1
+叛军士兵	Rebel Soldier	敌人	1
+叛军军士	Rebel Sergeant	敌人	1
+叛军战士	Rebel Warrior	敌人	1
+叛军甲士	Rebel Man-at-arms	敌人	1
+叛徒骑士	Traitor Knight	敌人	1
+叛兵	Renegade Soldier	敌人	1
+叛兵军士	Renegade Sergeant	敌人	1
+叛兵骑士	Renegade Knight	敌人	1
+叛兵雇佣兵	Renegade Mercenary	敌人	1
+久经沙场民兵	Hardened Militiaman	敌人	1	基座错字 H→Н（西里尔），按 H 处理
+弩手	Crossbowman	敌人	1
+弩卫	Crossbow Guard	敌人	1
+监狱守卫	Prison Guard	敌人	1
+精锐卫兵	Elite Guard	敌人	1
+皇家士兵	Royal Army's Soldier	敌人	1
+皇家老兵	Royal Army's Veteran	敌人	1
+国王护卫	King's Bodyguard	敌人	1
+德·罗什护卫	De Roche's Bodyguard	敌人	1
+坎特伯雷雇佣兵	Canterbury's Mercenary	敌人	1
+坎特伯雷老兵	Canterbury's Veteran	敌人	1
+坎特伯雷护卫	Canterbury's bodyguard	敌人	1
+士兵	Soldier	敌人	1
+老练士兵	Experienced Soldier	敌人	1
+新兵	Inexperienced Soldier	敌人	1
+年轻士兵	Young Soldier	敌人	1
+老士兵	Old Soldier	敌人	1
+怯懦士兵	Cowardly Soldier	敌人	1
+撤退士兵	Retreating Soldier	敌人	1
+战争老兵	War Veteran	敌人	1
+老兵	Veteran	敌人	1
+老军士	Old Sergeant	敌人	1
+青年贵族	Young Nobleman	敌人	1
+年轻郡长	Young Sheriff	敌人	1
+年轻骑士	Young Knight	敌人	1
+新兵骑士	Inexperienced Knight	敌人	1
+老练骑士	Experienced Knight	敌人	1
+精锐骑士	Elite Knight	敌人	1
+资深骑士	Veteran Knight	敌人	1
+落魄骑士	Impoverished Knight	敌人	1
+游侠骑士	Wandering Knight	敌人	1
+精良武装民兵	Well-armed Militiaman	敌人	1
+精锐甲士	Elite Man-at-arms	敌人	1
+老练甲士	Experienced Man-at-arms	敌人	1
+新兵甲士	Inexperienced Man-at-arms	敌人	1
+资深甲士	Veteran Man-at-arms	敌人	1
+布列塔尼甲士	Breton Man-at-arms	敌人	1
+佣兵团老兵	Master Mercenary	敌人	1
+佣兵团头目	Master Militiaman	敌人	1
+战士	Warrior	敌人	1
+农民	Peasant	敌人	1
+农民战士	Peasant Warrior	敌人	1
+奴隶战士	Slave Warrior	敌人	1
+恐狼	Dire Wolf	敌人	1
+战争恶犬	Dog of War	敌人	1
+盾墙	Shield Wall	敌人	1
+枪阵	Spear Wall	敌人	1
+疯子盟友	Mad Ally	敌人	1
+雷恩城卫	Rennes' City Guard	敌人	1
+格林威治郡长	Sheriff of Greenwich	敌人	1
+弯刀	Curved Sword	敌人	1
+短剑	Short Sword	敌人	1
+斧	Axe	敌人	1
+成就	Achievements	敌人	1
+自由佣兵	routier	敌人	1	百年战争自由连队雇佣兵；与 mercenary（雇佣兵）区分
