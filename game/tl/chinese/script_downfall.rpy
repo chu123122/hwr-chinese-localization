@@ -347,7 +347,7 @@ translate chinese strings:
     old "{size=-2}A soldier who deserted{vspace=3}king's army."
     new "{size=-2}一名从国王军队中{vspace=3}开小差的逃兵。"
     old "{size=-2}Unknown warrior whose armor and{vspace=3}weapons are covered with{vspace=3}mysterious runes and symbols."
-    new "{size=-2}一名无名战士，其甲胄与兵刃上{vspace=3}覆满神秘的符文{vspace=3}与记号。"
+    new "{size=-2}一名无名战士，其甲胄与武器上{vspace=3}覆满神秘的符文{vspace=3}与记号。"
     old "Goon"
     new "打手"
     old "{size=-2}Armed peasant."

@@ -2087,7 +2087,7 @@ translate chinese overthrow_end_alyssa_5ffe4e90:
 translate chinese overthrow_end_alyssa_bb7c7017:
 
     nvl clear
-    "{cps=50}你与艾丽莎拟定的计划简单明了：动用一切可用资源，在短时间内于温莎城外的营地集结尽可能多的人手，随即兵锋直指京城，逮捕爱德华王子和北安普顿。"
+    "{cps=50}你与艾丽莎拟定的计划简单明了：动用一切可用资源，在短时间内于温莎城外的营地集结尽可能多的人手，随即兵锋直指首都，逮捕爱德华王子和北安普顿。"
 
 # game/script_dlc_3.rpy:3255
 translate chinese overthrow_end_alyssa_8c6d44ca:
@@ -2099,7 +2099,7 @@ translate chinese overthrow_end_alyssa_8c6d44ca:
 translate chinese overthrow_end_alyssa_ddb3fb82:
 
     nvl clear
-    "{cps=50}你指出京城并无王室御宝，无法立刻加冕，艾丽莎却对此不以为意，回答说这样的机会无论如何都不能错过。"
+    "{cps=50}你指出首都并无王室御宝，无法立刻加冕，艾丽莎却对此不以为意，回答说这样的机会无论如何都不能错过。"
 
 # game/script_dlc_3.rpy:3259
 translate chinese overthrow_end_alyssa_eab5844e:
@@ -2129,7 +2129,7 @@ translate chinese overthrow_end_alyssa_76b2fe88_3:
 translate chinese earl_warns_about_alyssa_8f2b53f4:
 
     nvl clear
-    "{cps=50}你一回京城，便立刻被伯爵召去谈话。"
+    "{cps=50}你一回首都，便立刻被伯爵召去谈话。"
 
 # game/script_dlc_3.rpy:3278
 translate chinese earl_warns_about_alyssa_76b2fe88:
@@ -2734,7 +2734,7 @@ translate chinese unfinished_business_2_postfight_76b2fe88:
 translate chinese march_on_london_intro_133dc86d:
 
     nvl clear
-    "{cps=50}你盘点了一下温莎营地的兵力，得出结论：以现有力量尚不足以进兵京城……{color=#A9A9A9}{vspace=5}民兵不足！{vspace=5}需要：100"
+    "{cps=50}你盘点了一下温莎营地的兵力，得出结论：以现有力量尚不足以进兵首都……{color=#A9A9A9}{vspace=5}民兵不足！{vspace=5}需要：100"
 
 # game/script_dlc_3.rpy:4480
 translate chinese march_on_london_intro_76b2fe88:
@@ -2775,7 +2775,7 @@ translate chinese march_on_london_intro_7ed4a3d2:
 translate chinese march_on_london_intro_670a7ac9:
 
     nvl clear
-    "{cps=50}你不作耽搁，拔营起行，向京城进发。"
+    "{cps=50}你不作耽搁，拔营起行，向首都进发。"
 
 # game/script_dlc_3.rpy:4502
 translate chinese march_on_london_intro_76b2fe88_2:
@@ -2969,7 +2969,7 @@ translate chinese march_on_london_2_fight_76b2fe88:
 translate chinese march_on_london_2_postfight_396aaf5d:
 
     nvl clear
-    "{cps=50}看着倒在你剑下的爱德华王子血流不止，你忧心忡忡地意识到，艾丽莎谋划的这场行动似乎开始出现裂痕：本应兵不血刃的逮捕演变成了弑杀，本该一并拿下的北安普顿不知所踪，而理应俯首迎接新主人的京城，却像受惊的蜂巢一般骚动起来。"
+    "{cps=50}看着倒在你剑下的爱德华王子血流不止，你忧心忡忡地意识到，艾丽莎谋划的这场行动似乎开始出现裂痕：本应兵不血刃的逮捕演变成了弑杀，本该一并拿下的北安普顿不知所踪，而理应俯首迎接新主人的首都，却像受惊的蜂巢一般骚动起来。"
 
 # game/script_dlc_3.rpy:5403
 translate chinese march_on_london_2_postfight_9c81da3b:
@@ -3005,7 +3005,7 @@ translate chinese march_on_london_2_postfight_3ebb6877:
 translate chinese march_on_london_2_postfight_d5f11561:
 
     nvl clear
-    "{cps=50}靠着慷慨的许诺和出手阔绰的馈赠——国库本已空虚，如今更是被搜刮得一干二净——你与艾丽莎成功把京城中掌管伦敦及周边防务、操持王国政务的关键人物尽数拉拢到自己一边。"
+    "{cps=50}靠着慷慨的许诺和出手阔绰的馈赠——国库本已空虚，如今更是被搜刮得一干二净——你与艾丽莎成功把首都中掌管伦敦及周边防务、操持王国政务的关键人物尽数拉拢到自己一边。"
 
 # game/script_dlc_3.rpy:5416
 translate chinese march_on_london_2_postfight_bc45f138:
@@ -3119,7 +3119,7 @@ translate chinese kingdom_of_london_intro_5e249e7d:
 translate chinese kingdom_of_london_intro_5e92e54b:
 
     nvl clear
-    "{cps=50}与此同时，京城周边也是暗流涌动。从你手中逃脱的北安普顿先是在达特福德现身，随后又出现在梅德斯通，各方反对你统治的人马也紧随其后，纷纷向他聚拢。"
+    "{cps=50}与此同时，首都周边也是暗流涌动。从你手中逃脱的北安普顿先是在达特福德现身，随后又出现在梅德斯通，各方反对你统治的人马也紧随其后，纷纷向他聚拢。"
 
 # game/script_dlc_3.rpy:5527
 translate chinese kingdom_of_london_intro_5bc7da95:
@@ -3148,7 +3148,7 @@ translate chinese kingdom_of_london_intro_76b2fe88_2:
 # game/script_dlc_3.rpy:5538
 translate chinese kingdom_of_london_intro_0361d742:
 
-    "{cps=50}不过，你加冕的不是英格兰国王，而是新成立的伦敦王国的国王——这王国囊括京城及周边地区、格林威治、奇彭纳姆[storyroll!ti]，以及其余忠于你的领地，那里的领主们都愿意向新政权宣誓效忠。"
+    "{cps=50}不过，你加冕的不是英格兰国王，而是新成立的伦敦王国的国王——这王国囊括首都及周边地区、格林威治、奇彭纳姆[storyroll!ti]，以及其余忠于你的领地，那里的领主们都愿意向新政权宣誓效忠。"
 
 # game/script_dlc_3.rpy:5539
 translate chinese kingdom_of_london_intro_5b2a3a3f:
@@ -3171,7 +3171,7 @@ translate chinese kingdom_of_london_1_76b2fe88:
 # game/script_dlc_3.rpy:5624
 translate chinese kingdom_of_london_1_86d7ecd1:
 
-    "{cps=50}伦敦传来消息：坎特伯雷伯爵的军队已从牛津出发，兵锋直指京城，并重新占领了你为进军伦敦而放弃的温莎。{vspace=5}据斥候禀报，他的兵力约有[kingdom_of_london_canterburys_army]人。"
+    "{cps=50}伦敦传来消息：坎特伯雷伯爵的军队已从牛津出发，兵锋直指首都，并重新占领了你为进军伦敦而放弃的温莎。{vspace=5}据斥候禀报，他的兵力约有[kingdom_of_london_canterburys_army]人。"
 
 # game/script_dlc_3.rpy:5625
 translate chinese kingdom_of_london_1_a3215721:
@@ -3243,7 +3243,7 @@ translate chinese kingdom_of_london_1_menu_campaigns_dffbbcee:
 translate chinese kingdom_of_london_1_menu_campaigns_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:5739
 translate chinese kingdom_of_london_1_menu_campaigns_76b2fe88_1:
@@ -3267,7 +3267,7 @@ translate chinese kingdom_of_london_1_menu_campaigns_76b2fe88_2:
 translate chinese kingdom_of_london_1_menu_campaigns_d102d9e6_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:5777
 translate chinese kingdom_of_london_1_menu_campaigns_76b2fe88_3:
@@ -3307,7 +3307,7 @@ translate chinese kingdom_of_london_1_menu_campaigns_76b2fe88_6:
 translate chinese kingdom_of_london_1_menu_campaigns_d102d9e6_2:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:5797
 translate chinese kingdom_of_london_1_menu_campaigns_76b2fe88_7:
@@ -3337,7 +3337,7 @@ translate chinese kingdom_of_london_1_menu_campaigns_76b2fe88_9:
 translate chinese kingdom_of_london_1_menu_campaigns_d102d9e6_3:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:5812
 translate chinese kingdom_of_london_1_menu_campaigns_76b2fe88_10:
@@ -3349,7 +3349,7 @@ translate chinese kingdom_of_london_1_menu_campaigns_76b2fe88_10:
 translate chinese kingdom_of_london_1_finale_c28ebe2c:
 
     nvl clear
-    "{cps=50}控制温莎之后，你便能粉碎坎特伯雷军队进军京城、围困首都的企图。"
+    "{cps=50}控制温莎之后，你便能粉碎坎特伯雷军队进军首都、围困首都的企图。"
 
 # game/script_dlc_3.rpy:5836
 translate chinese kingdom_of_london_1_finale_32b8d280:
@@ -3361,7 +3361,7 @@ translate chinese kingdom_of_london_1_finale_32b8d280:
 translate chinese kingdom_of_london_1_finale_bfce95d5:
 
     nvl clear
-    "{cps=50}王座上的第一道考验可以算通过了，然而，解除了京城之危之后，一个真正棘手的问题摆在了你面前……"
+    "{cps=50}王座上的第一道考验可以算通过了，然而，解除了首都之危之后，一个真正棘手的问题摆在了你面前……"
 
 # game/script_dlc_3.rpy:5840
 translate chinese kingdom_of_london_1_finale_cb8ac6c7:
@@ -3457,7 +3457,7 @@ translate chinese kingdom_of_london_1_finale_942b236f:
 translate chinese sudden_death_check_0e888ed0:
 
     nvl clear
-    "{cps=50}你集结所有可用的兵力死守京城，但力量过于悬殊，在敌人的迅猛强攻之下，伦敦失陷了。{vspace=5}{color=#A9A9A9}兵力、作战计划、增援手段——失败！"
+    "{cps=50}你集结所有可用的兵力死守首都，但力量过于悬殊，在敌人的迅猛强攻之下，伦敦失陷了。{vspace=5}{color=#A9A9A9}兵力、作战计划、增援手段——失败！"
 
 # game/script_dlc_3.rpy:5935
 translate chinese sudden_death_check_73acd04a:
@@ -3741,7 +3741,7 @@ translate chinese kingdom_hire_mercenaries_italy_b8a3f774:
 translate chinese kingdom_hire_mercenaries_italy_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:6289
 translate chinese kingdom_hire_mercenaries_italy_76b2fe88_2:
@@ -3894,7 +3894,7 @@ translate chinese kingdom_build_stuff_bf7e4404:
 translate chinese kingdom_build_stuff_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:6508
 translate chinese kingdom_build_stuff_76b2fe88_1:
@@ -3917,7 +3917,7 @@ translate chinese kingdom_build_stuff_4ee06d30:
 translate chinese kingdom_build_stuff_d102d9e6_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:6519
 translate chinese kingdom_build_stuff_76b2fe88_3:
@@ -3940,7 +3940,7 @@ translate chinese kingdom_build_stuff_08c03a35:
 translate chinese kingdom_build_stuff_d102d9e6_2:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:6530
 translate chinese kingdom_build_stuff_76b2fe88_5:
@@ -4184,7 +4184,7 @@ translate chinese kingdom_buy_wood_for_cassandra_76b2fe88_1:
 # game/script_dlc_3.rpy:6784
 translate chinese kingdom_buy_wood_for_cassandra_94547691:
 
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:6785
 translate chinese kingdom_buy_wood_for_cassandra_76b2fe88_2:
@@ -4245,7 +4245,7 @@ translate chinese kingdom_build_palace_for_cassandra_76b2fe88_1:
 # game/script_dlc_3.rpy:6817
 translate chinese kingdom_build_palace_for_cassandra_94547691:
 
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:6818
 translate chinese kingdom_build_palace_for_cassandra_76b2fe88_2:
@@ -4410,7 +4410,7 @@ translate chinese kingdom_enemy_attacks_roll_ee83e295:
 translate chinese kingdom_enemy_attacks_roll_8a3c48b9:
 
     nvl clear
-    "{cps=50}兵力不足，你不敢离开京城前去迎战。"
+    "{cps=50}兵力不足，你不敢离开首都前去迎战。"
 
 # game/script_dlc_3.rpy:7224
 translate chinese kingdom_enemy_attacks_roll_9c33ec71:
@@ -4696,7 +4696,7 @@ translate chinese kingdom_of_london_dynamic_battle_force_decider_488adc21:
 # game/script_dlc_3.rpy:7689
 translate chinese kingdom_of_london_dynamic_battle_force_decider_94547691:
 
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:7690
 translate chinese kingdom_of_london_dynamic_battle_force_decider_76b2fe88:
@@ -5024,7 +5024,7 @@ translate chinese kingdom_of_london_defending_city_postfight_b0803113:
 translate chinese kingdom_of_london_defending_city_postfight_ced7db07:
 
     nvl clear
-    "{cps=50}你出色地通过了身为国王的第一道考验。然而，击退了敌军对京城的攻势之后，一个真正棘手的问题摆在了你面前……"
+    "{cps=50}你出色地通过了身为国王的第一道考验。然而，击退了敌军对首都的攻势之后，一个真正棘手的问题摆在了你面前……"
 
 # game/script_dlc_3.rpy:8785
 translate chinese kingdom_of_london_defending_city_postfight_cb8ac6c7:
@@ -5159,7 +5159,7 @@ translate chinese kingdom_of_london_2_menu_campaigns_dffbbcee:
 translate chinese kingdom_of_london_2_menu_campaigns_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:8975
 translate chinese kingdom_of_london_2_menu_campaigns_76b2fe88_1:
@@ -5176,7 +5176,7 @@ translate chinese kingdom_of_london_2_finale_76b2fe88:
 # game/script_dlc_3.rpy:9024
 translate chinese kingdom_of_london_2_finale_341130bc:
 
-    "{cps=50}强攻京城失败、仓皇从城墙下退却之后，坎特伯雷已陷入虚弱之境，这正是你将其彻底击垮的良机。这样的机会也许永远不会再来，你决心放手一搏。{vspace=5}{color=#A9A9A9}兵力、权威、辖地——成功！"
+    "{cps=50}强攻首都失败、仓皇从城墙下退却之后，坎特伯雷已陷入虚弱之境，这正是你将其彻底击垮的良机。这样的机会也许永远不会再来，你决心放手一搏。{vspace=5}{color=#A9A9A9}兵力、权威、辖地——成功！"
 
 # game/script_dlc_3.rpy:9026
 translate chinese kingdom_of_london_2_finale_bb8865a5:
@@ -5751,7 +5751,7 @@ translate chinese shattered_kingdom_ending_quickjump_76b2fe88_3:
 translate chinese shattered_kingdom_ending_quickjump_000139fc:
 
     nvl clear
-    "{cps=50}你集结所有可用的兵力，再一次组织京城防御，然而这一次力量对比过于悬殊，短暂的围城之后，伦敦落入了三方联军之手。"
+    "{cps=50}你集结所有可用的兵力，再一次组织首都防御，然而这一次力量对比过于悬殊，短暂的围城之后，伦敦落入了三方联军之手。"
 
 # game/script_dlc_3.rpy:9299
 translate chinese shattered_kingdom_ending_quickjump_73acd04a:
@@ -6138,7 +6138,7 @@ translate chinese kingdom_of_london_oxford_assault_2_postfight_76b2fe88:
 translate chinese kingdom_of_london_3_57a3676a:
 
     nvl clear
-    "{cps=50}在你离开京城出征牛津期间，北安普顿率亲信试图发动一次大胆的突袭，闯入城中，然而在艾丽莎的警觉之下，这一图谋落了空。伯爵既无法悄然潜入城墙之内，又没有足够的人手发动任何像样的强攻。"
+    "{cps=50}在你离开首都出征牛津期间，北安普顿率亲信试图发动一次大胆的突袭，闯入城中，然而在艾丽莎的警觉之下，这一图谋落了空。伯爵既无法悄然潜入城墙之内，又没有足够的人手发动任何像样的强攻。"
 
 # game/script_dlc_3.rpy:10533
 translate chinese kingdom_of_london_3_f8ca661d:
@@ -6162,7 +6162,7 @@ translate chinese kingdom_of_london_3_4a080031:
 translate chinese kingdom_of_london_3_589fec20:
 
     nvl clear
-    "{cps=50}你们在皇家猎场相见——那地方大约位于京城与公爵领地之间。避开旁人的耳目之后，你们开始了交谈。"
+    "{cps=50}你们在皇家猎场相见——那地方大约位于首都与公爵领地之间。避开旁人的耳目之后，你们开始了交谈。"
 
 # game/script_dlc_3.rpy:10541
 translate chinese kingdom_of_london_3_76b2fe88:
@@ -6689,7 +6689,7 @@ translate chinese kingdom_of_london_3_b0f2a34e:
 translate chinese kingdom_of_london_3_fdd40552:
 
     nvl clear
-    "{cps=50}回到京城，你下令让御前会议的首席拘捕艾丽莎。"
+    "{cps=50}回到首都，你下令让御前会议的首席拘捕艾丽莎。"
 
 # game/script_dlc_3.rpy:10760
 translate chinese kingdom_of_london_3_76b2fe88_13:
@@ -7130,7 +7130,7 @@ translate chinese kingdom_of_london_3_menu_campaigns_faf7ce34_3:
 translate chinese kingdom_of_london_3_menu_campaigns_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:11112
 translate chinese kingdom_of_london_3_menu_campaigns_76b2fe88_1:
@@ -7743,7 +7743,7 @@ translate chinese kingdom_of_london_4_menu_campaigns_76b2fe88_3:
 translate chinese kingdom_of_london_4_menu_campaigns_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:13111
 translate chinese kingdom_of_london_4_menu_campaigns_76b2fe88_4:
@@ -7819,7 +7819,7 @@ translate chinese kingdom_of_london_4_spain_488adc21:
 # game/script_dlc_3.rpy:13198
 translate chinese kingdom_of_london_4_spain_94547691:
 
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:13199
 translate chinese kingdom_of_london_4_spain_76b2fe88_1:
@@ -8178,7 +8178,7 @@ translate chinese kingdom_of_london_4_africa_488adc21:
 # game/script_dlc_3.rpy:13427
 translate chinese kingdom_of_london_4_africa_94547691:
 
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:13428
 translate chinese kingdom_of_london_4_africa_76b2fe88_2:
@@ -8363,7 +8363,7 @@ translate chinese kingdom_of_london_4_africa_provisions_menu_64bfc038:
 # game/script_dlc_3.rpy:13558
 translate chinese kingdom_of_london_4_africa_provisions_menu_94547691:
 
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:13559
 translate chinese kingdom_of_london_4_africa_provisions_menu_76b2fe88_4:
@@ -8379,7 +8379,7 @@ translate chinese kingdom_of_london_4_africa_provisions_menu_64bfc038_1:
 # game/script_dlc_3.rpy:13567
 translate chinese kingdom_of_london_4_africa_provisions_menu_94547691_1:
 
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:13568
 translate chinese kingdom_of_london_4_africa_provisions_menu_76b2fe88_5:
@@ -8395,7 +8395,7 @@ translate chinese kingdom_of_london_4_africa_provisions_menu_64bfc038_2:
 # game/script_dlc_3.rpy:13576
 translate chinese kingdom_of_london_4_africa_provisions_menu_94547691_2:
 
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:13577
 translate chinese kingdom_of_london_4_africa_provisions_menu_76b2fe88_6:
@@ -8411,7 +8411,7 @@ translate chinese kingdom_of_london_4_africa_provisions_menu_64bfc038_3:
 # game/script_dlc_3.rpy:13585
 translate chinese kingdom_of_london_4_africa_provisions_menu_94547691_3:
 
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:13586
 translate chinese kingdom_of_london_4_africa_provisions_menu_76b2fe88_7:
@@ -8427,7 +8427,7 @@ translate chinese kingdom_of_london_4_africa_provisions_menu_64bfc038_4:
 # game/script_dlc_3.rpy:13594
 translate chinese kingdom_of_london_4_africa_provisions_menu_94547691_4:
 
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:13595
 translate chinese kingdom_of_london_4_africa_provisions_menu_76b2fe88_8:
@@ -8443,7 +8443,7 @@ translate chinese kingdom_of_london_4_africa_provisions_menu_64bfc038_5:
 # game/script_dlc_3.rpy:13603
 translate chinese kingdom_of_london_4_africa_provisions_menu_94547691_5:
 
-    "{cps=50}{color=#A9A9A9}资金不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:13604
 translate chinese kingdom_of_london_4_africa_provisions_menu_76b2fe88_9:
@@ -8633,7 +8633,7 @@ translate chinese kingdom_of_london_4_africa_prefight_2_76b2fe88_1:
 translate chinese kingdom_of_london_4_africa_prefight_2_733486bb:
 
     nvl clear
-    "{cps=50}强攻失败了……{vspace=5}{color=#A9A9A9}补给数量减少1！"
+    "{cps=50}强攻铩羽而归……{vspace=5}{color=#A9A9A9}补给减少1！"
 
 # game/script_dlc_3.rpy:13728
 translate chinese kingdom_of_london_4_africa_prefight_2_76b2fe88:
@@ -9236,7 +9236,7 @@ translate chinese kingdom_of_london_africa_1_fight_76b2fe88_1:
 translate chinese kingdom_of_london_5_1a22f40b:
 
     nvl clear
-    "{cps=50}你听闻北安普顿与巴黎达成了某种协定，他的军队由此得到了来自法国的援兵。"
+    "{cps=50}你得知消息：北安普顿已与巴黎达成了某种协议，据此他的军队得到了来自法国的援兵补充。"
 
 # game/script_dlc_3.rpy:14728
 translate chinese kingdom_of_london_5_76b2fe88:
@@ -9266,25 +9266,25 @@ translate chinese kingdom_of_london_5_menu_campaigns_76b2fe88:
 translate chinese kingdom_of_london_5_menu_campaigns_44c5aa1c:
 
     nvl clear
-    "{cps=50}你决意出兵，夺取由北安普顿率领的保王派军队据守的奇彭纳姆……"
+    "{cps=50}你决定组织一次征讨，夺回被北安普顿率领的效忠派军队占据的奇彭纳姆……"
 
 # game/script_dlc_3.rpy:14773
 translate chinese kingdom_of_london_5_menu_campaigns_1c826e2c:
 
     nvl clear
-    "{cps=50}你决意出兵，夺取由北安普顿率领的保王派军队据守的布里斯托尔……"
+    "{cps=50}你决定组织一次征讨，夺取被北安普顿率领的效忠派军队占据的布里斯托尔……"
 
 # game/script_dlc_3.rpy:14784
 translate chinese kingdom_of_london_5_menu_campaigns_4c48d4e0:
 
     nvl clear
-    "{cps=50}你决意出兵，夺取由北安普顿率领的保王派军队据守的格林威治……"
+    "{cps=50}你决定组织一次征讨，夺取由北安普顿率领的效忠派军队据守的格林威治……"
 
 # game/script_dlc_3.rpy:14794
 translate chinese kingdom_of_london_5_menu_campaigns_dffbbcee:
 
     nvl clear
-    "{cps=50}你决意出兵，夺取由北安普顿率领的保王派军队据守的达特福德……"
+    "{cps=50}你决定组织一次征讨，夺取由北安普顿率领的效忠派军队据守的达特福德……"
 
 # game/script_dlc_3.rpy:14804
 translate chinese kingdom_of_london_5_menu_campaigns_92d94a01:
@@ -9320,13 +9320,13 @@ translate chinese kingdom_of_london_5_menu_campaigns_00232aa4:
 translate chinese kingdom_of_london_5_menu_campaigns_faf7ce34:
 
     nvl clear
-    "{cps=50}你决意向苏格兰人占据的土地发起进攻……"
+    "{cps=50}你决定对苏格兰人占据的土地发动进攻……"
 
 # game/script_dlc_3.rpy:14866
 translate chinese kingdom_of_london_5_menu_campaigns_faf7ce34_1:
 
     nvl clear
-    "{cps=50}你决意向苏格兰人占据的土地发起进攻……"
+    "{cps=50}你决定对苏格兰人占据的土地发动进攻……"
 
 # game/script_dlc_3.rpy:14902
 translate chinese kingdom_of_london_5_menu_campaigns_d102d9e6:
@@ -9638,13 +9638,13 @@ translate chinese kingdom_of_london_5_earl_defeated_679aafd9:
 translate chinese kingdom_of_london_5_earl_defeated_2a5af43e:
 
     nvl clear
-    "{cps=50}美中不足的是，如同在伦敦时那样，北安普顿又一次从你手中溜走，消失得无影无踪。"
+    "{cps=50}美中不足的是，一如在伦敦那次，北安普顿又一次从你手中溜走，消失在不知所踪的方向。"
 
 # game/script_dlc_3.rpy:15125
 translate chinese kingdom_of_london_5_earl_defeated_4025c142:
 
     nvl clear
-    "{cps=50}不过如今他已失去全部资源与盟友，谅也构不成什么威胁。"
+    "{cps=50}不过如今，失去了一切资源与盟友的他，恐怕再也对你构不成威胁。"
 
 # game/script_dlc_3.rpy:15127
 translate chinese kingdom_of_london_5_earl_defeated_76b2fe88:
@@ -9941,7 +9941,7 @@ translate chinese kingdom_of_london_universal_fight_76b2fe88:
 # game/script_dlc_3.rpy:17120
 translate chinese kingdom_of_london_universal_fight_173de523:
 
-    "{cps=50}{color=#A9A9A9}要搜刮尸体吗？"
+    "{cps=50}{color=#A9A9A9}要搜刮这些尸体吗？"
 
 # game/script_dlc_3.rpy:17125
 translate chinese kingdom_of_london_universal_fight_76b2fe88_1:
@@ -14425,7 +14425,7 @@ translate chinese eva_marauders_mission_fight_76b2fe88_2:
 # game/script_dlc_3.rpy:21091
 translate chinese eva_marauders_mission_fight_173de523:
 
-    "{cps=50}{color=#A9A9A9}要搜刮尸体吗？"
+    "{cps=50}{color=#A9A9A9}要搜刮这些尸体吗？"
 
 # game/script_dlc_3.rpy:21095
 translate chinese eva_marauders_mission_fight_76b2fe88_3:
@@ -16846,7 +16846,7 @@ translate chinese de_roche_summons_player_76b2fe88:
 # game/script_dlc_3.rpy:26345
 translate chinese de_roche_summons_player_3e778a11:
 
-    "{cps=50}一名信使找到了你，说德·罗什召你前去……"
+    "{cps=50}一名信使匆匆寻来，传话说德·罗什召你前去……"
 
 # game/script_dlc_3.rpy:26347
 translate chinese de_roche_summons_player_76b2fe88_1:
@@ -19394,7 +19394,7 @@ translate chinese last_honest_man_menu_76b2fe88_1:
 # game/script_dlc_3.rpy:30070
 translate chinese last_honest_man_menu_6b3b8003:
 
-    "{cps=50}{color=#A9A9A9}损失[storyroll]弗罗林！"
+    "{cps=50}{color=#A9A9A9}损失 [storyroll] 弗罗林！"
 
 # game/script_dlc_3.rpy:30075
 translate chinese last_honest_man_menu_a07de669:
@@ -19519,7 +19519,7 @@ translate chinese paris_merchant_quarter_menu_76b2fe88_1:
 translate chinese paris_tavern_88a68894:
 
     nvl clear
-    "{cps=50}你踏进京城一家有名的大酒馆……"
+    "{cps=50}你踏进首都一家有名的大酒馆……"
 
 # game/script_dlc_3.rpy:30243
 translate chinese paris_tavern_76b2fe88:
@@ -19771,7 +19771,7 @@ translate chinese paris_tavern_crossbow_coach_76b2fe88_4:
 # game/script_dlc_3.rpy:30430
 translate chinese paris_tavern_crossbow_coach_b3bb2ca5:
 
-    "{cps=50}你应下这份差事，收一笔厚酬，教他几手弩术。"
+    "{cps=50}你应下这份差事，收一笔厚酬，教他几手剑术。"
 
 # game/script_dlc_3.rpy:30431
 translate chinese paris_tavern_crossbow_coach_76b2fe88_2:
@@ -19827,7 +19827,7 @@ translate chinese paris_tavern_crafts_coach_76b2fe88_4:
 # game/script_dlc_3.rpy:30456
 translate chinese paris_tavern_crafts_coach_b3bb2ca5:
 
-    "{cps=50}你应下这份差事，收一笔厚酬，教他几手炼金与工艺。"
+    "{cps=50}你应下这份差事，收一笔厚酬，教他几手剑术。"
 
 # game/script_dlc_3.rpy:30457
 translate chinese paris_tavern_crafts_coach_76b2fe88_2:
@@ -20025,7 +20025,7 @@ translate chinese french_campaign_rennes_fight_1_76b2fe88_1:
 translate chinese french_campaign_rennes_fight_1_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:30958
 translate chinese french_campaign_rennes_fight_1_76b2fe88_2:
@@ -20036,7 +20036,7 @@ translate chinese french_campaign_rennes_fight_1_76b2fe88_2:
 # game/script_dlc_3.rpy:30963
 translate chinese french_campaign_rennes_fight_1_d40e534d:
 
-    "{cps=50}局势正在起变化。这场战斗或许很快就要见分晓了。"
+    "{cps=50}局势正在变化，战斗或许很快就会结束。"
 
 # game/script_dlc_3.rpy:30965
 translate chinese french_campaign_rennes_fight_1_76b2fe88_4:
@@ -20066,7 +20066,7 @@ translate chinese french_campaign_rennes_fight_1_76b2fe88_6:
 translate chinese french_campaign_rennes_fight_1_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:30997
 translate chinese french_campaign_rennes_fight_1_76b2fe88_7:
@@ -20102,7 +20102,7 @@ translate chinese french_campaign_rennes_fight_2_76b2fe88_1:
 translate chinese french_campaign_rennes_fight_2_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:31489
 translate chinese french_campaign_rennes_fight_2_76b2fe88_2:
@@ -20138,7 +20138,7 @@ translate chinese french_campaign_rennes_fight_3_76b2fe88_1:
 translate chinese french_campaign_rennes_fight_3_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:31961
 translate chinese french_campaign_rennes_fight_3_76b2fe88_2:
@@ -20209,13 +20209,13 @@ translate chinese saint_germain_abbey_intro_76b2fe88:
 # game/script_dlc_3.rpy:32080
 translate chinese saint_germain_abbey_intro_5cbf5392:
 
-    "{cps=50}队中原本高涨的好心情，在望见远处京城火光冲天、浓烟蔽日的景象时，顿时烟消云散。"
+    "{cps=50}队中原本高涨的好心情，在望见远处首都火光冲天、浓烟蔽日的景象时，顿时烟消云散。"
 
 # game/script_dlc_3.rpy:32081
 translate chinese saint_germain_abbey_intro_6cdb0d54:
 
     nvl clear
-    "{cps=50}向凡尔赛的市长打听巴黎的局势，也没能问出个所以然：他只知道，前些日子京城里忽然传开一个消息——因谋逆之罪被囚于康西尔热里监狱的王太子，竟从狱中逃了出来。消息传开不久，想必早已在等待这一刻的京城商人们，便以商会会长艾蒂安·马塞尔为首，公然举旗反叛国王。"
+    "{cps=50}向凡尔赛的市长打听巴黎的局势，也没能问出个所以然：他只知道，前些日子首都里忽然传开一个消息——因谋逆之罪被囚于康西尔热里监狱的王太子，竟从狱中逃了出来。消息传开不久，想必早已在等待这一刻的首都商人们，便以商会会长艾蒂安·马塞尔为首，公然举旗反叛国王。"
 
 # game/script_dlc_3.rpy:32083
 translate chinese saint_germain_abbey_intro_96d07e17:
@@ -20250,7 +20250,7 @@ translate chinese saint_germain_abbey_intro_76b2fe88_1:
 # game/script_dlc_3.rpy:32097
 translate chinese saint_germain_abbey_intro_81f7d033:
 
-    "{cps=50}天色将明时，你们抵达圣日耳曼修道院——不远处便是塞纳河上通往京城的主要桥梁之一。可你们过不去：桥头设着一座设施完备的前哨，由一大群全副武装的人把守。"
+    "{cps=50}天色将明时，你们抵达圣日耳曼修道院——不远处便是塞纳河上通往首都的主要桥梁之一。可你们过不去：桥头设着一座设施完备的前哨，由一大群全副武装的人把守。"
 
 # game/script_dlc_3.rpy:32098
 translate chinese saint_germain_abbey_intro_c3ed9273:
@@ -20670,7 +20670,7 @@ translate chinese bridge_checkpoint_item_drown_a4fade9a:
 translate chinese paris_city_intro_9512a475:
 
     nvl clear
-    "{cps=50}叛乱之下的巴黎满目疮痍：成群结队的武装农民在街头游荡，洗劫富户的宅邸；城中的对垒双方时不时爆发流血冲突；京城各处还有几处大火熊熊燃烧。"
+    "{cps=50}叛乱之下的巴黎满目疮痍：成群结队的武装农民在街头游荡，洗劫富户的宅邸；城中的对垒双方时不时爆发流血冲突；首都各处还有几处大火熊熊燃烧。"
 
 # game/script_dlc_3.rpy:32757
 translate chinese paris_city_intro_76b2fe88:
@@ -21461,7 +21461,7 @@ translate chinese paris_city_navigation_savenge_roll_76b2fe88:
 # game/script_dlc_3.rpy:33814
 translate chinese paris_city_navigation_savenge_roll_aeb2ae7e:
 
-    "{cps=50}{color=#A9A9A9}耗费时间：1。"
+    "{cps=50}{color=#A9A9A9}时间损失：1。"
 
 # game/script_dlc_3.rpy:33816
 translate chinese paris_city_navigation_savenge_roll_76b2fe88_1:
@@ -21617,7 +21617,7 @@ translate chinese paris_city_saving_guards_fight_76b2fe88_1:
 translate chinese paris_city_saving_guards_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:34351
 translate chinese paris_city_saving_guards_fight_76b2fe88_2:
@@ -23485,7 +23485,7 @@ translate chinese navarre_finale_fight_1_76b2fe88_4:
 translate chinese navarre_finale_fight_1_309c61d8:
 
     nvl clear
-    "{cps=50}突袭得手后，摩尔人便退了开去……"
+    "{cps=50}摩尔人一轮猛攻把你打得七荤八素，旋即退去……"
 
 # game/script_dlc_3.rpy:37754
 translate chinese navarre_finale_fight_1_76b2fe88_5:
@@ -24985,13 +24985,13 @@ translate chinese navarre_ending_victory_76b2fe88_7:
 # game/script_dlc_3.rpy:40194
 translate chinese navarre_ending_victory_12a97193:
 
-    "{cps=50}在巴黎孔西尔热里监狱的地牢里度过数月之后，你渐渐认命，觉得自己终将葬身于此。{vspace=5}{color=#A9A9A9}所有属性降低 3 点！{vspace=5}中毒值上升！"
+    "{cps=50}在巴黎的康西尔热里监狱地牢里蹲了数月之久，你已经开始接受自己将在此终结的命运。{vspace=5}{color=#A9A9A9}所有属性 -3！{vspace=5}毒性上升！"
 
 # game/script_dlc_3.rpy:40206
 translate chinese navarre_ending_victory_611f6042:
 
     nvl clear
-    "{cps=50}然而命运自有安排。"
+    "{cps=50}但命运自有安排。"
 
 # game/script_dlc_3.rpy:40208
 translate chinese navarre_ending_victory_76b2fe88_8:
@@ -26020,7 +26020,7 @@ translate chinese zaragoza_journey_river_crossing_6a3a23b3:
 translate chinese zaragoza_journey_river_crossing_e2890486:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}疲劳值上升！"
+    "{cps=50}{color=#A9A9A9}疲劳上升！"
 
 # game/script_dlc_3.rpy:42374
 translate chinese zaragoza_journey_river_crossing_76b2fe88_1:
@@ -26476,7 +26476,7 @@ translate chinese navarre_tavern_menu_76b2fe88_5:
 translate chinese pedro_poisons_routiers_10d8d95b:
 
     nvl clear
-    "{cps=50}佩德罗派来的细作在鲁特佣兵营地的一口水井中投了毒，痢疾随之爆发，你们军队的战斗力大受折损。"
+    "{cps=50}佩德罗派来的奸细在自由佣兵营地的水井里下了毒，痢疾随即爆发，你军战力大受折损。"
 
 # game/script_dlc_3.rpy:42863
 translate chinese pedro_poisons_routiers_76b2fe88:
@@ -26702,7 +26702,7 @@ translate chinese navarre_battle_of_15_fight_76b2fe88:
 # game/script_dlc_3.rpy:43937
 translate chinese navarre_battle_of_15_fight_b17e41d0:
 
-    "{cps=50}你们顺利在港口登陆，将鲁特佣兵逼退，随即向城内推进。"
+    "{cps=50}你们顺利在港口登陆，逼退守城的自由佣兵，开始向城内推进。"
 
 # game/script_dlc_3.rpy:43938
 translate chinese navarre_battle_of_15_fight_76b2fe88_3:
@@ -26743,7 +26743,7 @@ translate chinese navarre_battle_of_15_fight_76b2fe88_4:
 translate chinese navarre_battle_of_15_fight_32867863:
 
     nvl clear
-    "{cps=50}雇佣兵被你们的凌厉攻势震慑，弃守港口，向城内退却……"
+    "{cps=50}慑于你的猛攻之势，雇佣兵们放弃港口，向城中心退去……"
 
 # game/script_dlc_3.rpy:43976
 translate chinese navarre_battle_of_15_fight_76b2fe88_5:
@@ -29472,7 +29472,7 @@ translate chinese oissel_blacksmith_talk_1_f36ed88f:
 translate chinese oissel_blacksmith_talk_1_48397800:
 
     nvl clear
-    "{cps=50}作为帮他寻回工具的回报，铁匠许诺：日后为你修理任何装备，既精且廉；更愿依你的订单，打造种种稀有的兵刃。"
+    "{cps=50}作为帮他寻回工具的回报，铁匠许诺：日后为你修理任何装备，既精且廉；更愿依你的订单，打造种种稀有的武器。"
 
 # game/script_dlc_3.rpy:46911
 translate chinese oissel_blacksmith_talk_1_da4211db:
@@ -30253,7 +30253,7 @@ translate chinese oissel_hunter_talk_1_76b2fe88_4:
 translate chinese oissel_hunter_talk_1_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:47681
 translate chinese grace_and_glory_campaign_intro_161f0882:
@@ -31721,13 +31721,13 @@ translate chinese grace_and_glory_rouen_3_postfight_da3604f2:
 translate chinese grace_and_glory_rouen_3_postfight_088fb23d:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}腿部受伤！"
+    "{cps=50}{color=#A9A9A9}腿部伤势！"
 
 # game/script_dlc_3.rpy:50224
 translate chinese grace_and_glory_rouen_3_postfight_f5aafbe0:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}坚韧度降低3点！"
+    "{cps=50}{color=#A9A9A9}活力 -3！"
 
 # game/script_dlc_3.rpy:50227
 translate chinese grace_and_glory_rouen_3_postfight_a660e56e:
@@ -33576,7 +33576,7 @@ translate chinese grace_and_glory_paris_assassination_1_fight_76b2fe88_1:
 # game/script_dlc_3.rpy:54539
 translate chinese grace_and_glory_paris_assassination_1_fight_d40e534d:
 
-    "{cps=50}局势有变，战事或许即将终结。"
+    "{cps=50}局势正在变化，战斗或许很快就会结束。"
 
 # game/script_dlc_3.rpy:54541
 translate chinese grace_and_glory_paris_assassination_1_fight_76b2fe88_2:
@@ -33651,7 +33651,7 @@ translate chinese grace_and_glory_paris_assassination_2_fight_76b2fe88_2:
 # game/script_dlc_3.rpy:55044
 translate chinese grace_and_glory_paris_assassination_2_fight_d40e534d:
 
-    "{cps=50}局势有变，战事或许即将终结。"
+    "{cps=50}局势正在变化，战斗或许很快就会结束。"
 
 # game/script_dlc_3.rpy:55046
 translate chinese grace_and_glory_paris_assassination_2_fight_76b2fe88_4:
@@ -33734,7 +33734,7 @@ translate chinese grace_and_glory_paris_assassination_3_fight_76b2fe88_2:
 # game/script_dlc_3.rpy:55574
 translate chinese grace_and_glory_paris_assassination_3_fight_d40e534d:
 
-    "{cps=50}局势有变，战事或许即将终结。"
+    "{cps=50}局势正在变化，战斗或许很快就会结束。"
 
 # game/script_dlc_3.rpy:55576
 translate chinese grace_and_glory_paris_assassination_3_fight_76b2fe88_4:
@@ -33815,7 +33815,7 @@ translate chinese kingdom_audience_menu_76b2fe88_2:
 # game/script_dlc_3.rpy:55847
 translate chinese kingdom_audience_menu_dc10b18d:
 
-    "{cps=50}{color=#A9A9A9}时间不够了！"
+    "{cps=50}{color=#A9A9A9}时间不足！"
 
 # game/script_dlc_3.rpy:55848
 translate chinese kingdom_audience_menu_76b2fe88_3:
@@ -34044,13 +34044,13 @@ translate chinese kingdom_mercenaries_want_to_serve_352dd437:
 translate chinese kingdom_mercenaries_want_to_serve_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:56137
 translate chinese kingdom_mercenaries_want_to_serve_0814551a:
 
     nvl clear
-    "{cps=50}你婉言拒绝。"
+    "{cps=50}你回绝了。"
 
 # game/script_dlc_3.rpy:56140
 translate chinese kingdom_mercenaries_want_to_serve_76b2fe88:
@@ -34140,7 +34140,7 @@ translate chinese kingdom_london_on_fire_76b2fe88_1:
 # game/script_dlc_3.rpy:56207
 translate chinese kingdom_london_on_fire_94547691:
 
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:56209
 translate chinese kingdom_london_on_fire_76b2fe88:
@@ -34219,7 +34219,7 @@ translate chinese kingdom_anna_arrives_2_76b2fe88_1:
 # game/script_dlc_3.rpy:56258
 translate chinese kingdom_anna_arrives_2_94547691:
 
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:56260
 translate chinese kingdom_anna_arrives_2_76b2fe88:
@@ -34603,7 +34603,7 @@ translate chinese kingdom_archbishop_bad_arc_2_76b2fe88_2:
 # game/script_dlc_3.rpy:56495
 translate chinese kingdom_archbishop_bad_arc_2_94547691:
 
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:56497
 translate chinese kingdom_archbishop_bad_arc_2_76b2fe88_1:
@@ -34693,7 +34693,7 @@ translate chinese kingdom_meet_the_archbishop_2_76b2fe88_1:
 # game/script_dlc_3.rpy:56558
 translate chinese kingdom_meet_the_archbishop_2_94547691:
 
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:56560
 translate chinese kingdom_meet_the_archbishop_2_76b2fe88:
@@ -34771,7 +34771,7 @@ translate chinese kingdom_meet_the_archbishop_3_76b2fe88_2:
 # game/script_dlc_3.rpy:56612
 translate chinese kingdom_tourney_6cd53886:
 
-    "{cps=50}数名身兼王室议会成员之职的骑士请求觐见。"
+    "{cps=50}一群身兼王室议会成员之职的骑士请求觐见。"
 
 # game/script_dlc_3.rpy:56613
 translate chinese kingdom_tourney_0204b351:
@@ -34794,7 +34794,7 @@ translate chinese kingdom_tourney_76b2fe88_1:
 # game/script_dlc_3.rpy:56623
 translate chinese kingdom_tourney_94547691:
 
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:56625
 translate chinese kingdom_tourney_76b2fe88:
@@ -34913,7 +34913,7 @@ translate chinese kingdom_personal_armor_76b2fe88_1:
 # game/script_dlc_3.rpy:56702
 translate chinese kingdom_personal_armor_94547691:
 
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:56704
 translate chinese kingdom_personal_armor_76b2fe88:
@@ -34976,7 +34976,7 @@ translate chinese kingdom_army_training_1_72f48631:
 translate chinese kingdom_army_training_1_76a1a4ac:
 
     nvl clear
-    "{cps=50}你打消了这个念头。"
+    "{cps=50}你放弃了这个念头。"
 
 # game/script_dlc_3.rpy:56745
 translate chinese kingdom_army_training_1_76b2fe88_1:
@@ -35049,13 +35049,13 @@ translate chinese kingdom_army_inspection_cee6fe2b:
 translate chinese kingdom_army_inspection_ce4d6e33:
 
     nvl clear
-    "{cps=50}他提议举行一场举国兵力大检阅——传召所有封臣率麾下兵马齐聚首都，以核实你实际统辖的战力。"
+    "{cps=50}他提议举行一场举国兵力大检阅——传召所有封臣率麾下军队齐聚首都，以核实你实际统辖的战力。"
 
 # game/script_dlc_3.rpy:56788
 translate chinese kingdom_army_inspection_63aecad9:
 
     nvl clear
-    "{cps=50}他说，此举可让你迅速摸清自己究竟有多少忠心的兵马，以及他们装备如何、战备如何。"
+    "{cps=50}他说，此举可让你迅速摸清自己究竟有多少忠心的军队，以及他们装备如何、战备如何。"
 
 # game/script_dlc_3.rpy:56792
 translate chinese kingdom_army_inspection_ab9946e9:
@@ -35067,7 +35067,7 @@ translate chinese kingdom_army_inspection_ab9946e9:
 translate chinese kingdom_army_inspection_76a1a4ac:
 
     nvl clear
-    "{cps=50}你打消了这个念头。"
+    "{cps=50}你放弃了这个念头。"
 
 # game/script_dlc_3.rpy:56801
 translate chinese kingdom_army_inspection_76b2fe88:
@@ -35101,7 +35101,7 @@ translate chinese kingdom_thames_flood_76b2fe88_1:
 # game/script_dlc_3.rpy:56818
 translate chinese kingdom_thames_flood_94547691:
 
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:56820
 translate chinese kingdom_thames_flood_76b2fe88:
@@ -35151,7 +35151,7 @@ translate chinese kingdom_hospital_construction_76b2fe88_1:
 # game/script_dlc_3.rpy:56851
 translate chinese kingdom_hospital_construction_94547691:
 
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:56853
 translate chinese kingdom_hospital_construction_76b2fe88:
@@ -35208,7 +35208,7 @@ translate chinese kingdom_bureaucracy_apparatus_grows_76b2fe88_1:
 # game/script_dlc_3.rpy:56886
 translate chinese kingdom_bureaucracy_apparatus_grows_94547691:
 
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:56888
 translate chinese kingdom_bureaucracy_apparatus_grows_76b2fe88:
@@ -35276,7 +35276,7 @@ translate chinese kingdom_residence_needs_repairs_76b2fe88_2:
 # game/script_dlc_3.rpy:56922
 translate chinese kingdom_residence_needs_repairs_94547691:
 
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_3.rpy:56924
 translate chinese kingdom_residence_needs_repairs_76b2fe88_1:
@@ -35550,7 +35550,7 @@ translate chinese kingdom_buy_cannons_76b2fe88_2:
 # game/script_dlc_3.rpy:57089
 translate chinese kingdom_buy_cannons_a35de552:
 
-    "{cps=50}你予以回绝。"
+    "{cps=50}你回绝了。"
 
 # game/script_dlc_3.rpy:57091
 translate chinese kingdom_buy_cannons_76b2fe88_3:
@@ -35595,7 +35595,7 @@ translate chinese kingdom_buy_arrows_f63e48ff:
 translate chinese kingdom_buy_arrows_0814551a:
 
     nvl clear
-    "{cps=50}你予以回绝。"
+    "{cps=50}你回绝了。"
 
 # game/script_dlc_3.rpy:57121
 translate chinese kingdom_buy_arrows_76b2fe88_2:
@@ -35664,7 +35664,7 @@ translate chinese kingdom_hire_irish_24cb4075_2:
 translate chinese kingdom_hire_irish_ff10be2d:
 
     nvl clear
-    "{cps=50}你放弃了这一打算。"
+    "{cps=50}你打消了这个念头。"
 
 # game/script_dlc_3.rpy:57166
 translate chinese kingdom_hire_irish_76b2fe88_3:
@@ -36172,7 +36172,7 @@ translate chinese kingdom_fleet_2_neutral_76b2fe88_2:
 # game/script_dlc_3.rpy:57510
 translate chinese kingdom_fleet_2_neutral_dd609bb3:
 
-    "{cps=50}掌控伦敦为你带来了城中各类规费、赋税与关税的收入。{vspace=5}{color=#A9A9A9}获得[storyroll]弗罗林！"
+    "{cps=50}掌控伦敦为你带来城中各类摊派、赋税与关税的收入。{vspace=5}{color=#A9A9A9}获得[storyroll]弗罗林！"
 
 translate chinese strings:
 
@@ -36781,11 +36781,11 @@ translate chinese strings:
     old "{size=-7}{color=#CEAD82}{i}Authority: [player_kingdom_authority]/100"
     new "{size=-7}{color=#CEAD82}{i}权威：[player_kingdom_authority]/100"
     old "{size=-7}{color=#CEAD82}{i}Popularity (nobles): [player_kingdom_rep_nobles]/100"
-    new "{size=-7}{color=#CEAD82}{i}声望（贵族）：[player_kingdom_rep_nobles]/100"
+    new "{size=-7}{color=#CEAD82}{i}人望（贵族）：[player_kingdom_rep_nobles]/100"
     old "{size=-7}{color=#CEAD82}{i}Popularity (commoners): [player_kingdom_rep_commoners]/100"
-    new "{size=-7}{color=#CEAD82}{i}声望（平民）：[player_kingdom_rep_commoners]/100"
+    new "{size=-7}{color=#CEAD82}{i}人望（平民）：[player_kingdom_rep_commoners]/100"
     old "{size=-7}{color=#CEAD82}{i}Popularity (church): [player_kingdom_rep_church]/100"
-    new "{size=-7}{color=#CEAD82}{i}声望（教会）：[player_kingdom_rep_church]/100"
+    new "{size=-7}{color=#CEAD82}{i}人望（教会）：[player_kingdom_rep_church]/100"
     old "{size=-3}{color=#000000}Army size: [kingdom_of_london_army] men"
     new "{size=-3}{color=#000000}军队规模：[kingdom_of_london_army]人"
     old "{color=#000000}{size=-7}Army strength modifiers:"
@@ -36825,7 +36825,7 @@ translate chinese strings:
     old "{size=-7}Вы проводите время за охотой..."
     new "{size=-7}你以狩猎消磨时光……"
     old "{size=-7}Вы проводите время за охотой...{vspace=5}Частые отсутствия в столице мешают{vspace=5}вам следить за государственными{vspace=5}делами.{color=#A9A9A9}{vspace=5}Власть уменьшена на [player_kingdom_authority_change]!"
-    new "{size=-7}你以狩猎消磨时光……{vspace=5}常离京都，使你难以{vspace=5}过问国事。{vspace=5}{color=#A9A9A9}权威降低[player_kingdom_authority_change]点！"
+    new "{size=-7}你以狩猎消磨时光……{vspace=5}常离首都，使你难以{vspace=5}过问国事。{vspace=5}{color=#A9A9A9}权威降低[player_kingdom_authority_change]点！"
     old "Преследовать"
     new "追击"
     old "Не преследовать"
@@ -37503,7 +37503,7 @@ translate chinese strings:
     old "итальянский банкир"
     new "意大利银行家"
     old "столичный ростовщик"
-    new "京城放贷者"
+    new "首都放贷者"
     old "купец средней руки"
     new "中等资财的商人"
     old "обладает крайне длинным языком, от которого пострадало немало уважаемых людей."
@@ -37565,11 +37565,11 @@ translate chinese strings:
     old "{size=-7}{color=#CEAD82}Authority: [player_kingdom_authority]/100"
     new "{size=-7}{color=#CEAD82}权威：[player_kingdom_authority]/100"
     old "{size=-7}{color=#CEAD82}Popularity (nobles): [player_kingdom_rep_nobles]/100"
-    new "{size=-7}{color=#CEAD82}声望（贵族）：[player_kingdom_rep_nobles]/100"
+    new "{size=-7}{color=#CEAD82}人望（贵族）：[player_kingdom_rep_nobles]/100"
     old "{size=-7}{color=#CEAD82}Popularity (commoners): [player_kingdom_rep_commoners]/100"
-    new "{size=-7}{color=#CEAD82}声望（平民）：[player_kingdom_rep_commoners]/100"
+    new "{size=-7}{color=#CEAD82}人望（平民）：[player_kingdom_rep_commoners]/100"
     old "{size=-7}{color=#CEAD82}Popularity (church): [player_kingdom_rep_church]/100"
-    new "{size=-7}{color=#CEAD82}声望（教会）：[player_kingdom_rep_church]/100"
+    new "{size=-7}{color=#CEAD82}人望（教会）：[player_kingdom_rep_church]/100"
     old "Следующая аудиенция"
     new "下一位觐见者"
     old "Завершить аудиенции"

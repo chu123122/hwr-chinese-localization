@@ -1280,7 +1280,7 @@ translate chinese maidstone_low_virtue_confiscation_f9d8f2e9:
 translate chinese maidstone_low_virtue_confiscation_5c097af3:
 
     nvl clear
-    "{cps=50}据他说，鉴于王国这一带局势动荡，梅德斯通的官府对每一个进城的人都严加审视，以便及早甄别出可能扰乱城中安宁的\"麻烦人物\"与\"不受欢迎者\"。"
+    "{cps=50}据他说，鉴于王国这一带局势动荡，梅德斯通的市政当局对每一个进城的人都严加审视，以便及早甄别出可能扰乱城中安宁的\"麻烦人物\"与\"不受欢迎者\"。"
 
 # game/script_dlc_2.rpy:1869
 translate chinese maidstone_low_virtue_confiscation_52c41507:
@@ -1292,7 +1292,7 @@ translate chinese maidstone_low_virtue_confiscation_52c41507:
 translate chinese maidstone_low_virtue_confiscation_3ecc78dd:
 
     nvl clear
-    "{cps=50}于是，市政当局决定将你置于监视之下，并先行没收你的一部分武器与军用装备，以削弱你将来可能给官府和城中居民带来的隐患。"
+    "{cps=50}于是，市政当局决定将你置于监视之下，并先行没收你的一部分武器与军用装备，以削弱你将来可能给市政当局和城中居民带来的隐患。"
 
 # game/script_dlc_2.rpy:1873
 translate chinese maidstone_low_virtue_confiscation_3de52687:
@@ -1461,7 +1461,7 @@ translate chinese maidstone_trade_tax_demanded_76b2fe88_2:
 translate chinese maidstone_work_tax_demanded_alchemist_68151e71:
 
     nvl clear
-    "{cps=50}梅德斯通官府得知你在家中开设了炼金作坊，打算接活营生，立刻要求你缴纳城内经营税。税额为[maidstone_work_tax_alchemist_sum]弗罗林。"
+    "{cps=50}梅德斯通市政当局得知你在家中开设了炼金作坊，打算接活营生，立刻要求你缴纳城内经营税。税额为[maidstone_work_tax_alchemist_sum]弗罗林。"
 
 # game/script_dlc_2.rpy:2050
 translate chinese maidstone_work_tax_demanded_alchemist_76b2fe88_3:
@@ -1506,7 +1506,7 @@ translate chinese maidstone_work_tax_demanded_alchemist_76b2fe88_2:
 translate chinese maidstone_work_tax_demanded_craftsman_1f0f0d48:
 
     nvl clear
-    "{cps=50}梅德斯通官府得知你在家中开设了手工作坊，打算接活营生，立刻要求你缴纳城内经营税。税额为[maidstone_work_tax_craftsman_sum]弗罗林。"
+    "{cps=50}梅德斯通市政当局得知你在家中开设了手工作坊，打算接活营生，立刻要求你缴纳城内经营税。税额为[maidstone_work_tax_craftsman_sum]弗罗林。"
 
 # game/script_dlc_2.rpy:2071
 translate chinese maidstone_work_tax_demanded_craftsman_76b2fe88_3:
@@ -1551,7 +1551,7 @@ translate chinese maidstone_work_tax_demanded_craftsman_76b2fe88_2:
 translate chinese maidstone_work_tax_demanded_blacksmith_c5e1c2b0:
 
     nvl clear
-    "{cps=50}梅德斯通官府得知你在家中开设了铁匠铺，打算接活营生，立刻要求你缴纳城内经营税。税额为[maidstone_work_tax_blacksmith_sum]弗罗林。"
+    "{cps=50}梅德斯通市政当局得知你在家中开设了铁匠铺，打算接活营生，立刻要求你缴纳城内经营税。税额为[maidstone_work_tax_blacksmith_sum]弗罗林。"
 
 # game/script_dlc_2.rpy:2092
 translate chinese maidstone_work_tax_demanded_blacksmith_76b2fe88_3:
@@ -2572,7 +2572,7 @@ translate chinese maidstone_city_quest_wolves_1_76b2fe88:
 # game/script_dlc_2.rpy:3859
 translate chinese maidstone_city_quest_wolves_fight_d40e534d:
 
-    "{cps=50}局势正在变化，战斗可能很快就要结束了。"
+    "{cps=50}局势正在变化，这场战斗或许很快就要结束了。"
 
 # game/script_dlc_2.rpy:3861
 translate chinese maidstone_city_quest_wolves_fight_76b2fe88:
@@ -3563,7 +3563,7 @@ translate chinese player_drafted_into_canterburys_army_6a6c4acf:
 translate chinese player_drafted_into_canterburys_army_5be4b53a:
 
     nvl clear
-    "{cps=50}此地集结的兵马之多、军容之盛，令人屏息。"
+    "{cps=50}此地集结的军队之多、军容之盛，令人屏息。"
 
 # game/script_dlc_2.rpy:6280
 translate chinese player_drafted_into_canterburys_army_38812220:
@@ -4250,7 +4250,7 @@ translate chinese oxford_camp_windsor_recon_1_f74d5566:
 translate chinese oxford_camp_windsor_recon_1_35bd11da:
 
     nvl clear
-    "{cps=50}看来，敌方也与你方一样在积极聚拢兵马，为下一场大战做准备。"
+    "{cps=50}看来，敌方也与你方一样在积极聚拢军队，为下一场大战做准备。"
 
 # game/script_dlc_2.rpy:7823
 translate chinese oxford_camp_windsor_recon_1_5019eff7:
@@ -6804,7 +6804,7 @@ translate chinese fall_of_caldwells_fight_76b2fe88_1:
 translate chinese fall_of_caldwells_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc_2.rpy:13452
 translate chinese fall_of_caldwells_fight_76b2fe88_2:
@@ -6857,7 +6857,7 @@ translate chinese fall_of_caldwells_2_fight_76b2fe88_1:
 translate chinese fall_of_caldwells_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc_2.rpy:13919
 translate chinese fall_of_caldwells_2_fight_76b2fe88_2:
@@ -7204,7 +7204,7 @@ translate chinese assault_on_chippenham_fight_76b2fe88_1:
 translate chinese assault_on_chippenham_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc_2.rpy:14584
 translate chinese assault_on_chippenham_fight_76b2fe88_2:
@@ -7215,7 +7215,7 @@ translate chinese assault_on_chippenham_fight_76b2fe88_2:
 # game/script_dlc_2.rpy:14589
 translate chinese assault_on_chippenham_fight_d40e534d:
 
-    "{cps=50}局势正在变化，战斗或许很快就要结束了。"
+    "{cps=50}局势正在变化，这场战斗或许很快就要结束了。"
 
 # game/script_dlc_2.rpy:14591
 translate chinese assault_on_chippenham_fight_76b2fe88_3:
@@ -7257,7 +7257,7 @@ translate chinese assault_on_chippenham_fight_76b2fe88_6:
 translate chinese assault_on_chippenham_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc_2.rpy:14626
 translate chinese assault_on_chippenham_fight_76b2fe88_7:
@@ -10507,7 +10507,7 @@ translate chinese canterbury_campaign_2_intro_a76318e3:
 translate chinese canterbury_campaign_2_intro_0f8d0e8b:
 
     nvl clear
-    "{cps=50}倒是公爵自己，从广袤领地上集结来的兵马，却迟迟不见解散的动静。"
+    "{cps=50}倒是公爵自己，从广袤领地上集结来的军队，却迟迟不见解散的动静。"
 
 # game/script_dlc_2.rpy:23519
 translate chinese canterbury_campaign_2_intro_29934a6d:
@@ -10860,7 +10860,7 @@ translate chinese canterbury_north_invasion_postfight_97ecab07:
 translate chinese canterbury_north_invasion_postfight_7318e643:
 
     nvl clear
-    "{cps=50}而龟缩在自家庄园、借麾下兵马自保的剑桥公爵，除了眼睁睁看着这一切发生、暗自祈盼苏格兰人尽早兵临城下，再无他法。{color=#A9A9A9}{vspace=5}领取新任务——[the_price_of_failure.name!ti]。"
+    "{cps=50}而龟缩在自家庄园、借麾下军队自保的剑桥公爵，除了眼睁睁看着这一切发生、暗自祈盼苏格兰人尽早兵临城下，再无他法。{color=#A9A9A9}{vspace=5}领取新任务——[the_price_of_failure.name!ti]。"
 
 # game/script_dlc_2.rpy:24199
 translate chinese canterbury_north_invasion_postfight_76b2fe88_1:
@@ -14505,7 +14505,7 @@ translate chinese roger_cambridge_postfight_66286aff:
 translate chinese roger_cambridge_postfight_64cd4ff0:
 
     nvl clear
-    "{cps=50}战斗结束了。"
+    "{cps=50}战役结束了。"
 
 # game/script_dlc_2.rpy:29325
 translate chinese roger_cambridge_postfight_5a6c3629:
@@ -15157,7 +15157,7 @@ translate chinese for_a_good_cause_fight_76b2fe88_2:
 translate chinese for_a_good_cause_fight_5551fff2:
 
     nvl clear
-    "{cps=50}战场上的局势正在变化，这场战斗或许很快就要结束了。"
+    "{cps=50}战场局势正在转变，战斗或许很快就要结束了。"
 
 # game/script_dlc_2.rpy:30944
 translate chinese for_a_good_cause_fight_76b2fe88_3:
@@ -16227,7 +16227,7 @@ translate chinese maidstone_bridge_action_end_76b2fe88:
 translate chinese maidstone_bridge_action_end_79d143c9:
 
     nvl clear
-    "{cps=50}可你刚离开断桥残骸两步，近旁的灌木丛里便跳出几个手持兵刃、面目不善的汉子。"
+    "{cps=50}可你刚离开断桥残骸两步，近旁的灌木丛里便跳出几个手持武器、面目不善的汉子。"
 
 # game/script_dlc_2.rpy:33033
 translate chinese maidstone_bridge_action_end_4a284e21:
@@ -16864,17 +16864,17 @@ translate chinese london_blacksmith_shop_intro_76b2fe88_3:
 # game/script_dlc_2.rpy:34290
 translate chinese london_blacksmith_shop_intro_1d755997:
 
-    "{cps=50}接下订单之前，铁匠还告诉你：眼下议会与王子开战正酣，加之坎特伯雷伯爵铺开规模空前的军购，王国整个南方都在闹铠甲兵刃材料的紧缺。"
+    "{cps=50}接下订单之前，铁匠还告诉你：眼下议会与王子开战正酣，加之坎特伯雷伯爵铺开规模空前的军购，王国整个南方都在闹铠甲武器材料的紧缺。"
 
 # game/script_dlc_2.rpy:34292
 translate chinese london_blacksmith_shop_intro_e546bee2:
 
-    "{cps=50}接下订单之前，铁匠还告诉你：眼下苏格兰人入侵在即，加之坎特伯雷伯爵铺开规模空前的军购，王国整个南方都在闹铠甲兵刃材料的紧缺。"
+    "{cps=50}接下订单之前，铁匠还告诉你：眼下苏格兰人入侵在即，加之坎特伯雷伯爵铺开规模空前的军购，王国整个南方都在闹铠甲武器材料的紧缺。"
 
 # game/script_dlc_2.rpy:34294
 translate chinese london_blacksmith_shop_intro_e6476ce0:
 
-    "{cps=50}接下订单之前，铁匠还告诉你：因坎特伯雷伯爵铺开规模空前的军购，王国整个南方都在闹铠甲兵刃材料的紧缺。"
+    "{cps=50}接下订单之前，铁匠还告诉你：因坎特伯雷伯爵铺开规模空前的军购，王国整个南方都在闹铠甲武器材料的紧缺。"
 
 # game/script_dlc_2.rpy:34295
 translate chinese london_blacksmith_shop_intro_1e2c1914:

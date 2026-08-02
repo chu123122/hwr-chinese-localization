@@ -304,7 +304,7 @@ translate chinese dante_introduction_72b4a23a:
 translate chinese dante_introduction_949cc335:
 
     nvl clear
-    "{cps=50}你们年纪相仿，聊起天来毫不费力就能找到共同话题：冒险与远行、兵刃与流血——无论自家还是旁人洒下的——还有美酒与女人。"
+    "{cps=50}你们年纪相仿，聊起天来毫不费力就能找到共同话题：冒险与远行、武器与流血——无论自家还是旁人洒下的——还有美酒与女人。"
 
 # game/script_dlc_4.rpy:109
 translate chinese dante_introduction_d6cb3179:
@@ -971,12 +971,12 @@ translate chinese san_marco_basilica_visit_menu_76b2fe88:
 # game/script_dlc_4.rpy:740
 translate chinese san_marco_basilica_visit_menu_af96c3c6:
 
-    "{cps=50}你在祈祷中度过了整整一天……{vspace=5}{color=#A9A9A9}耗时：1"
+    "{cps=50}你整日祈祷……{vspace=5}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_4.rpy:747
 translate chinese san_marco_basilica_visit_menu_a3d91ca0:
 
-    "{cps=50}在你郑重起誓只为正义而流血，并奉上一笔微薄的捐献之后，僧侣们为你的武器赐福。{vspace=5}{color=#A9A9A9}损失 [price_of_blessing_weapon] 弗罗林！{vspace=5}武器已获赐福！"
+    "{cps=50}在收下你只为主持正义而流血的神圣誓言与一笔微薄酬金之后，修士们为你的武器祝祷。{vspace=5}{color=#A9A9A9}损失[price_of_blessing_weapon]弗罗林！{vspace=5}武器已获祝祷！"
 
 # game/script_dlc_4.rpy:748
 translate chinese san_marco_basilica_visit_menu_76b2fe88_1:
@@ -1006,7 +1006,7 @@ translate chinese san_marco_basilica_visit_menu_76b2fe88_3:
 translate chinese san_marco_basilica_visit_menu_135f8287:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}美德 +15！"
+    "{cps=50}{color=#A9A9A9}美德提升15点！"
 
 # game/script_dlc_4.rpy:766
 translate chinese san_marco_basilica_visit_menu_76b2fe88_4:
@@ -1017,7 +1017,7 @@ translate chinese san_marco_basilica_visit_menu_76b2fe88_4:
 # game/script_dlc_4.rpy:769
 translate chinese san_marco_basilica_visit_menu_0ab802cd:
 
-    "{cps=50}{color=#A9A9A9}所有属性 +1！"
+    "{cps=50}{color=#A9A9A9}所有属性提升1点！"
 
 # game/script_dlc_4.rpy:784
 translate chinese san_marco_basilica_visit_menu_76b2fe88_5:
@@ -3393,7 +3393,7 @@ translate chinese player_wanted_by_police_inform_a8c4d443:
 translate chinese player_wanted_by_police_inform_d4fafedd:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}在你了结与官府的麻烦之前，你将无法出入威尼斯市中心，也无法使用部分功能。"
+    "{cps=50}{color=#A9A9A9}在你了结与市政当局的麻烦之前，你将无法出入威尼斯市中心，也无法使用部分功能。"
 
 # game/script_dlc_4.rpy:3488
 translate chinese player_wanted_by_police_inform_76b2fe88:
@@ -5853,7 +5853,7 @@ translate chinese fancesca_abducted_2_fight_76b2fe88_2:
 translate chinese fancesca_abducted_2_postfight_0acc7b39:
 
     nvl clear
-    "{cps=50}眼见甩不掉你，最后两名匪徒丢下被捆着的弗朗切斯卡，拔出兵刃，准备与你一搏。"
+    "{cps=50}眼见甩不掉你，最后两名匪徒丢下被捆着的弗朗切斯卡，拔出武器，准备与你一搏。"
 
 # game/script_dlc_4.rpy:6922
 translate chinese fancesca_abducted_2_postfight_76b2fe88:
@@ -6268,7 +6268,7 @@ translate chinese venice_bodyguard_chapter_2_end_contd_7c886e97:
 translate chinese venice_bodyguard_chapter_2_end_contd_38326023:
 
     nvl clear
-    "{cps=50}在新相识家中逗留了大约一个钟头，等到弗朗切斯卡终于从惊吓中缓过来，你们一行在亚瑟·德·罗萨蒙德的仆役们严密护卫下——兵刃出鞘，随时提防巷角旮旯里再蹿出匪徒——动身回家。"
+    "{cps=50}在新相识家中逗留了大约一个钟头，等到弗朗切斯卡终于从惊吓中缓过来，你们一行在亚瑟·德·罗萨蒙德的仆役们严密护卫下——武器出鞘，随时提防巷角旮旯里再蹿出匪徒——动身回家。"
 
 # game/script_dlc_4.rpy:7552
 translate chinese venice_bodyguard_chapter_2_end_contd_76b2fe88_1:
@@ -8997,7 +8997,7 @@ translate chinese venice_bodyguard_chapter_4_end_c1452d91:
 translate chinese venice_bodyguard_chapter_4_end_e45c44b3:
 
     nvl clear
-    "{cps=50}还有两人拔出兵刃，挡在你们与撤退的同伙之间。"
+    "{cps=50}还有两人拔出武器，挡在你们与撤退的同伙之间。"
 
 # game/script_dlc_4.rpy:12212
 translate chinese venice_bodyguard_chapter_4_end_76b2fe88_5:
@@ -10850,7 +10850,7 @@ translate chinese francesca_san_giovanni_intro_b227901d:
 translate chinese francesca_san_giovanni_intro_3598905f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}美德提升了5点！"
+    "{cps=50}{color=#A9A9A9}美德 +5！"
 
 # game/script_dlc_4.rpy:17206
 translate chinese francesca_san_giovanni_intro_6e3c5306:
@@ -11753,7 +11753,7 @@ translate chinese bodyguard_francesca_saved_ending_fa11e2ba:
 translate chinese bodyguard_francesca_saved_ending_ff1595b7:
 
     nvl clear
-    "{cps=50}你坐在别墅的台阶上，用一块布擦拭着兵刃，心头涌上一种陌生的空落。"
+    "{cps=50}你坐在别墅的台阶上，用一块布擦拭着武器，心头涌上一种陌生的空落。"
 
 # game/script_dlc_4.rpy:18537
 translate chinese bodyguard_francesca_saved_ending_fc630ecc:
@@ -11843,7 +11843,7 @@ translate chinese bodyguard_francesca_dead_ending_76b2fe88:
 translate chinese bodyguard_francesca_dead_ending_ff1595b7:
 
     nvl clear
-    "{cps=50}你坐在别墅的台阶上，用一块布擦拭着兵刃，心头涌上一种陌生的空落。"
+    "{cps=50}你坐在别墅的台阶上，用一块布擦拭着武器，心头涌上一种陌生的空落。"
 
 # game/script_dlc_4.rpy:18594
 translate chinese bodyguard_francesca_dead_ending_bbb79263:
@@ -15587,7 +15587,7 @@ translate chinese francesca_33_talk_menu_964a1fcc:
 translate chinese francesca_33_talk_menu_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_4.rpy:20067
 translate chinese francesca_33_talk_menu_76b2fe88:
@@ -15890,7 +15890,7 @@ translate chinese treviso_camp_hub_menu_76b2fe88_1:
 translate chinese treviso_camp_hub_menu_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_4.rpy:20408
 translate chinese treviso_camp_hub_menu_76b2fe88:
@@ -15907,7 +15907,7 @@ translate chinese treviso_camp_hub_menu_76b2fe88_4:
 # game/script_dlc_4.rpy:20414
 translate chinese treviso_camp_hub_menu_dc10b18d:
 
-    "{cps=50}{color=#A9A9A9}时间不够了！"
+    "{cps=50}{color=#A9A9A9}时间不足！"
 
 # game/script_dlc_4.rpy:20415
 translate chinese treviso_camp_hub_menu_76b2fe88_2:
@@ -15947,7 +15947,7 @@ translate chinese treviso_camp_hub_menu_f9efd09c:
 translate chinese treviso_camp_hub_menu_af928354:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}时间不够了！"
+    "{cps=50}{color=#A9A9A9}时间不足！"
 
 # game/script_dlc_4.rpy:20444
 translate chinese treviso_camp_hub_menu_76b2fe88_6:
@@ -16151,7 +16151,7 @@ translate chinese treviso_camp_rations_menu_b5176fdc:
 # game/script_dlc_4.rpy:20582
 translate chinese treviso_camp_rations_menu_94547691:
 
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_4.rpy:20583
 translate chinese treviso_camp_rations_menu_76b2fe88:
@@ -16442,12 +16442,12 @@ translate chinese santa_maria_nova_visit_menu_76b2fe88:
 # game/script_dlc_4.rpy:20764
 translate chinese santa_maria_nova_visit_menu_af96c3c6:
 
-    "{cps=50}你花了一整天祈祷……{vspace=5}{color=#A9A9A9}耗去时间：1"
+    "{cps=50}你整日祈祷……{vspace=5}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_4.rpy:20771
 translate chinese santa_maria_nova_visit_menu_a3d91ca0:
 
-    "{cps=50}收下你郑重许下的誓言——只为行善才动刀兵——以及一笔微薄的酬金后，修士们为你的武器祝福。{vspace=5}{color=#A9A9A9}失去[price_of_blessing_weapon]弗罗林！{vspace=5}武器已获祝福！"
+    "{cps=50}在收下你只为主持正义而流血的神圣誓言与一笔微薄酬金之后，修士们为你的武器祝祷。{vspace=5}{color=#A9A9A9}损失[price_of_blessing_weapon]弗罗林！{vspace=5}武器已获祝祷！"
 
 # game/script_dlc_4.rpy:20772
 translate chinese santa_maria_nova_visit_menu_76b2fe88_1:
@@ -16459,7 +16459,7 @@ translate chinese santa_maria_nova_visit_menu_76b2fe88_1:
 translate chinese santa_maria_nova_visit_menu_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_4.rpy:20778
 translate chinese santa_maria_nova_visit_menu_76b2fe88_2:
@@ -16499,7 +16499,7 @@ translate chinese santa_maria_nova_visit_menu_76b2fe88_5:
 # game/script_dlc_4.rpy:20823
 translate chinese santa_maria_nova_visit_menu_60257d6f:
 
-    "{cps=50}你感到一股前所未有的力量奔涌而来……{vspace=5}{color=#A9A9A9}获得战斗祝福！"
+    "{cps=50}你感到一股非凡的力量涌遍全身……{vspace=5}{color=#A9A9A9}获得战斗祝福！"
 
 # game/script_dlc_4.rpy:20825
 translate chinese santa_maria_nova_visit_menu_76b2fe88_6:
@@ -16883,7 +16883,7 @@ translate chinese hunter_x_hunter_fight_76b2fe88_2:
 translate chinese hunter_x_hunter_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_4.rpy:21372
 translate chinese hunter_x_hunter_fight_76b2fe88_3:
@@ -17232,7 +17232,7 @@ translate chinese strictly_business_city_76b2fe88_4:
 translate chinese strictly_business_city_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_4.rpy:21650
 translate chinese strictly_business_city_76b2fe88_6:
@@ -18049,7 +18049,7 @@ translate chinese silver_falcon_intro_fc58b1d0_1:
 translate chinese silver_falcon_intro_e2890486:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}疲劳程度上升！"
+    "{cps=50}{color=#A9A9A9}疲劳值上升！"
 
 # game/script_dlc_4.rpy:22495
 translate chinese silver_falcon_intro_76b2fe88_11:
@@ -18138,7 +18138,7 @@ translate chinese silver_falcon_1_fight_76b2fe88_1:
 translate chinese silver_falcon_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_4.rpy:22900
 translate chinese silver_falcon_1_fight_76b2fe88_2:
@@ -18480,7 +18480,7 @@ translate chinese silver_falcon_2_fight_76b2fe88_1:
 translate chinese silver_falcon_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_4.rpy:23534
 translate chinese silver_falcon_2_fight_76b2fe88_2:
@@ -18570,7 +18570,7 @@ translate chinese defense_of_treviso_fight_76b2fe88_1:
 translate chinese defense_of_treviso_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_4.rpy:24037
 translate chinese defense_of_treviso_fight_76b2fe88_2:
@@ -19608,7 +19608,7 @@ translate chinese siege_of_treviso_success_f8c9fb7a:
 translate chinese siege_of_treviso_success_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_4.rpy:24809
 translate chinese siege_of_treviso_success_76b2fe88_2:
@@ -19638,7 +19638,7 @@ translate chinese siege_of_treviso_fight_76b2fe88_1:
 translate chinese siege_of_treviso_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_4.rpy:25264
 translate chinese siege_of_treviso_fight_76b2fe88_2:
@@ -20086,7 +20086,7 @@ translate chinese cannaregio_visit_menu_76b2fe88:
 translate chinese cannaregio_visit_menu_9ecfee31:
 
     nvl clear
-    "{cps=50}你早已与威尼斯的黑道打过交道，很快便找到了能回答你问题的合适人选。{vspace=5}{color=#A9A9A9}低虔诚、犯案累累——判定成功！"
+    "{cps=50}你早已与威尼斯的黑道打过交道，很快便找到了能回答你问题的合适人选。{vspace=5}{color=#A9A9A9}低美德、犯案累累——判定成功！"
 
 # game/script_dlc_4.rpy:26041
 translate chinese cannaregio_visit_menu_07d6ed3c:
@@ -20144,7 +20144,7 @@ translate chinese venice_sparrow_info_buy_d50f82d7:
 # game/script_dlc_4.rpy:26069
 translate chinese venice_sparrow_info_buy_94547691:
 
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_4.rpy:26074
 translate chinese venice_sparrow_info_buy_0750e9a1:
@@ -20154,7 +20154,7 @@ translate chinese venice_sparrow_info_buy_0750e9a1:
 # game/script_dlc_4.rpy:26079
 translate chinese venice_sparrow_info_buy_94547691_1:
 
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_4.rpy:26084
 translate chinese venice_sparrow_info_buy_247d39f0:
@@ -20164,7 +20164,7 @@ translate chinese venice_sparrow_info_buy_247d39f0:
 # game/script_dlc_4.rpy:26089
 translate chinese venice_sparrow_info_buy_94547691_2:
 
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_4.rpy:26092
 translate chinese venice_sparrow_info_buy_76b2fe88_2:
@@ -20241,7 +20241,7 @@ translate chinese venice_sparrow_info_buy_roll_fail_76b2fe88_2:
 translate chinese venice_sparrow_info_buy_roll_fail_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_4.rpy:26144
 translate chinese venice_sparrow_info_buy_roll_fail_76b2fe88_3:
@@ -20614,7 +20614,7 @@ translate chinese venice_murano_lazarette_visit_menu_3d5b94f1_1:
 translate chinese carrot_and_stick_end_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_4.rpy:26423
 translate chinese carrot_and_stick_end_76b2fe88:
@@ -20794,7 +20794,7 @@ translate chinese venice_arsenal_give_bard_76b2fe88_1:
 translate chinese venice_arsenal_give_bard_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_4.rpy:26611
 translate chinese venice_arsenal_give_bard_76b2fe88_2:
@@ -20896,7 +20896,7 @@ translate chinese venice_arsenal_raid_fight_76b2fe88_2:
 translate chinese venice_arsenal_raid_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_4.rpy:27164
 translate chinese venice_arsenal_raid_fight_76b2fe88_3:
@@ -20999,7 +20999,7 @@ translate chinese controlling_the_narrative_postfight_d01d1e82:
 translate chinese controlling_the_narrative_postfight_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_4.rpy:27799
 translate chinese controlling_the_narrative_postfight_76b2fe88_3:
@@ -21057,7 +21057,7 @@ translate chinese doge_reputation_fail_76f88a8e:
 translate chinese doge_reputation_fail_a8036fdd_1:
 
     nvl clear
-    "{cps=50}这便是名叫[name]的英格兰士兵、雇佣兵与冒险者的故事终局。"
+    "{cps=50}至此，这位名叫[name]的英格兰士兵、雇佣兵与冒险家的故事画上了句号。"
 
 # game/script_dlc_4.rpy:27822
 translate chinese doge_reputation_fail_0e0fc66c:
@@ -21092,7 +21092,7 @@ translate chinese venice_doge_chapter_1_end_76b2fe88:
 # game/script_dlc_4.rpy:27847
 translate chinese venice_doge_chapter_1_end_9aaf605c:
 
-    "{cps=50}马尔科·迪·桑托罗连番抨击，令总督的名声大为受损。{vspace=5}{color=#A9A9A9}总督人望降低[storyroll]点！"
+    "{cps=50}马尔科·迪·桑托罗无休无止的抨击，令总督的声誉一落千丈。{vspace=5}{color=#A9A9A9}总督人望降低 [storyroll] 点！"
 
 # game/script_dlc_4.rpy:27848
 translate chinese venice_doge_chapter_1_end_76b2fe88_1:
@@ -21109,7 +21109,7 @@ translate chinese venice_doge_chapter_1_end_76b2fe88_2:
 # game/script_dlc_4.rpy:27853
 translate chinese venice_doge_chapter_1_end_0c4dc7fa:
 
-    "{cps=50}马泰奥·贝利尼连番抨击，令总督的名声大为受损。{vspace=5}{color=#A9A9A9}总督人望降低[storyroll]点！"
+    "{cps=50}马泰奥·贝利尼无休无止的抨击，令总督的声誉一落千丈。{vspace=5}{color=#A9A9A9}总督人望降低 [storyroll] 点！"
 
 # game/script_dlc_4.rpy:27854
 translate chinese venice_doge_chapter_1_end_76b2fe88_3:
@@ -21480,12 +21480,12 @@ translate chinese tenedos_island_menu_dc10b18d:
 # game/script_dlc_4.rpy:28242
 translate chinese tenedos_island_menu_94547691:
 
-    "{cps=50}{color=#A9A9A9}钱财不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_4.rpy:28248
 translate chinese tenedos_island_menu_45ced28d:
 
-    "{cps=50}{color=#A9A9A9}威望——成功！"
+    "{cps=50}{color=#A9A9A9}威望——判定成功！"
 
 # game/script_dlc_4.rpy:28250
 translate chinese tenedos_island_menu_e2ca98be:
@@ -21508,7 +21508,7 @@ translate chinese tenedos_island_menu_ad46e8bd:
 # game/script_dlc_4.rpy:28258
 translate chinese tenedos_island_menu_c6d62de3:
 
-    "{cps=50}{color=#A9A9A9}威望——失败！"
+    "{cps=50}{color=#A9A9A9}威望——判定失败！"
 
 # game/script_dlc_4.rpy:28259
 translate chinese tenedos_island_menu_142fa22d:
@@ -21530,7 +21530,7 @@ translate chinese tenedos_island_menu_effe3aa3:
 # game/script_dlc_4.rpy:28271
 translate chinese tenedos_island_menu_94547691_1:
 
-    "{cps=50}{color=#A9A9A9}钱财不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_4.rpy:28276
 translate chinese tenedos_island_menu_a9d8fb48:
@@ -21976,7 +21976,7 @@ translate chinese giovanna_missing_brother_end_good_4fe8ffd0:
 translate chinese giovanna_missing_brother_end_good_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_4.rpy:28648
 translate chinese giovanna_missing_brother_end_good_76b2fe88_1:
@@ -22604,7 +22604,7 @@ translate chinese visit_hungary_menu_fc6a39c8:
 translate chinese visit_hungary_menu_15c64b27:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}匈牙利王国不再参与对威尼斯的战争！{vspace=5}总督人望提升[doge_popularity_boost_from_peace]点！"
+    "{cps=50}{color=#A9A9A9}匈牙利王国不再参与对威尼斯的战争！{vspace=5}总督人望提升 [doge_popularity_boost_from_peace] 点！"
 
 # game/script_dlc_4.rpy:29351
 translate chinese visit_hungary_menu_76b2fe88_2:
@@ -22627,7 +22627,7 @@ translate chinese visit_hungary_menu_76b2fe88_3:
 translate chinese visit_hungary_menu_9cc43cee:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[venice_generic_quest_experience]"
+    "{cps=50}{color=#A9A9A9}完成任务所得经验：+[venice_generic_quest_experience]"
 
 # game/script_dlc_4.rpy:29381
 translate chinese visit_hungary_menu_76b2fe88_4:
@@ -23167,7 +23167,7 @@ translate chinese visit_france_menu_76b2fe88:
 translate chinese visit_france_menu_20338ae6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}损失时间：1"
+    "{cps=50}{color=#A9A9A9}耗时：1"
 
 # game/script_dlc_4.rpy:29705
 translate chinese italy_paris_cathedral_visit_menu_76b2fe88_7:
@@ -23855,7 +23855,7 @@ translate chinese italy_paris_cathedral_visit_menu_76b2fe88_1:
 translate chinese italy_paris_cathedral_visit_menu_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}钱财不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_4.rpy:30024
 translate chinese italy_paris_cathedral_visit_menu_76b2fe88_2:
@@ -23895,7 +23895,7 @@ translate chinese italy_paris_cathedral_visit_menu_76b2fe88_5:
 # game/script_dlc_4.rpy:30069
 translate chinese italy_paris_cathedral_visit_menu_60257d6f:
 
-    "{cps=50}你感到一股非凡的力量奔涌而来……{vspace=5}{color=#A9A9A9}获得战斗祝福！"
+    "{cps=50}你感到一股非凡的力量涌遍全身……{vspace=5}{color=#A9A9A9}获得战斗祝福！"
 
 # game/script_dlc_4.rpy:30071
 translate chinese italy_paris_cathedral_visit_menu_76b2fe88_6:
@@ -23913,7 +23913,7 @@ translate chinese italy_paris_cathedral_visit_menu_76b2fe88_8:
 translate chinese italy_paris_cathedral_visit_menu_20338ae6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}损失时间：1"
+    "{cps=50}{color=#A9A9A9}耗时：1"
 
 # game/script_dlc_4.rpy:30088
 translate chinese italy_paris_cathedral_visit_menu_76b2fe88_10:
@@ -23977,7 +23977,7 @@ translate chinese visit_soissons_menu_76b2fe88:
 translate chinese visit_soissons_menu_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}钱财不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_4.rpy:30119
 translate chinese visit_soissons_menu_76b2fe88_1:
@@ -24029,7 +24029,7 @@ translate chinese visit_soissons_menu_76b2fe88_4:
 # game/script_dlc_4.rpy:30140
 translate chinese visit_soissons_menu_6b3b8003:
 
-    "{cps=50}{color=#A9A9A9}损失[storyroll]弗罗林！"
+    "{cps=50}{color=#A9A9A9}失去 [storyroll] 弗罗林！"
 
 # game/script_dlc_4.rpy:30144
 translate chinese visit_soissons_menu_f49ccf96:
@@ -24093,7 +24093,7 @@ translate chinese visit_soissons_menu_76b2fe88_11:
 # game/script_dlc_4.rpy:30180
 translate chinese visit_soissons_menu_6b3b8003_1:
 
-    "{cps=50}{color=#A9A9A9}损失[storyroll]弗罗林！"
+    "{cps=50}{color=#A9A9A9}失去 [storyroll] 弗罗林！"
 
 # game/script_dlc_4.rpy:30184
 translate chinese visit_soissons_menu_0cb39fa0:
@@ -24157,7 +24157,7 @@ translate chinese visit_soissons_menu_76b2fe88_19:
 # game/script_dlc_4.rpy:30219
 translate chinese visit_soissons_menu_6b3b8003_2:
 
-    "{cps=50}{color=#A9A9A9}损失[storyroll]弗罗林！"
+    "{cps=50}{color=#A9A9A9}失去 [storyroll] 弗罗林！"
 
 # game/script_dlc_4.rpy:30223
 translate chinese visit_soissons_menu_40db676a:
@@ -24223,7 +24223,7 @@ translate chinese visit_soissons_menu_76b2fe88_25:
 translate chinese visit_soissons_menu_20338ae6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}损失时间：1"
+    "{cps=50}{color=#A9A9A9}耗时：1"
 
 # game/script_dlc_4.rpy:30271
 translate chinese visit_soissons_menu_76b2fe88_27:
@@ -24268,7 +24268,7 @@ translate chinese venice_navarre_menu_76b2fe88:
 # game/script_dlc_4.rpy:30295
 translate chinese venice_navarre_menu_6b3b8003:
 
-    "{cps=50}{color=#A9A9A9}损失[storyroll]弗罗林！"
+    "{cps=50}{color=#A9A9A9}失去 [storyroll] 弗罗林！"
 
 # game/script_dlc_4.rpy:30299
 translate chinese venice_navarre_menu_d33c52cd:
@@ -24303,7 +24303,7 @@ translate chinese venice_navarre_menu_76b2fe88_4:
 # game/script_dlc_4.rpy:30316
 translate chinese venice_navarre_menu_6b3b8003_1:
 
-    "{cps=50}{color=#A9A9A9}损失[storyroll]弗罗林！"
+    "{cps=50}{color=#A9A9A9}失去 [storyroll] 弗罗林！"
 
 # game/script_dlc_4.rpy:30320
 translate chinese venice_navarre_menu_d9859152:
@@ -24591,7 +24591,7 @@ translate chinese venice_charles_talk_menu_76b2fe88_1:
 translate chinese venice_charles_talk_menu_20338ae6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}损失时间：1"
+    "{cps=50}{color=#A9A9A9}耗时：1"
 
 # game/script_dlc_4.rpy:30461
 translate chinese venice_charles_talk_menu_76b2fe88_2:
@@ -24813,7 +24813,7 @@ translate chinese milan_cathedral_visit_menu_76b2fe88_1:
 translate chinese milan_cathedral_visit_menu_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}钱财不足！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc_4.rpy:30637
 translate chinese milan_cathedral_visit_menu_76b2fe88_2:
@@ -24853,7 +24853,7 @@ translate chinese milan_cathedral_visit_menu_76b2fe88_5:
 # game/script_dlc_4.rpy:30682
 translate chinese milan_cathedral_visit_menu_60257d6f:
 
-    "{cps=50}你感到一股非凡的力量奔涌而来……{vspace=5}{color=#A9A9A9}获得战斗祝福！"
+    "{cps=50}你感到一股非凡的力量涌遍全身……{vspace=5}{color=#A9A9A9}获得战斗祝福！"
 
 # game/script_dlc_4.rpy:30684
 translate chinese milan_cathedral_visit_menu_76b2fe88_6:
@@ -25187,7 +25187,7 @@ translate chinese milan_cathedral_visit_menu_76b2fe88_10:
 # game/script_dlc_4.rpy:30789
 translate chinese milan_cathedral_visit_menu_25647662:
 
-    "{cps=50}{color=#A9A9A9}损失时间：1"
+    "{cps=50}{color=#A9A9A9}耗时：1"
 
 # game/script_dlc_4.rpy:30791
 translate chinese milan_cathedral_visit_menu_c9d74af0:
@@ -25997,7 +25997,7 @@ translate chinese della_torre_help_menu_76b2fe88_9:
 translate chinese della_torre_help_menu_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_4.rpy:31282
 translate chinese della_torre_help_menu_76b2fe88_10:
@@ -27092,7 +27092,7 @@ translate chinese visit_florence_76b2fe88_1:
 # game/script_dlc_4.rpy:31970
 translate chinese visit_florence_1e0c55f7:
 
-    "{cps=50}{color=#A9A9A9}失去 [hungary_travel_cost] 弗罗林。{vspace=5}耗费 [hungary_travel_time] 时间。"
+    "{cps=50}{color=#A9A9A9}损失[hungary_travel_cost]弗罗林。{vspace=5}损失[hungary_travel_time]时间。"
 
 # game/script_dlc_4.rpy:31971
 translate chinese visit_florence_76b2fe88_2:
@@ -27635,12 +27635,12 @@ translate chinese florence_cathedral_visit_menu_76b2fe88:
 # game/script_dlc_4.rpy:32267
 translate chinese florence_cathedral_visit_menu_af96c3c6:
 
-    "{cps=50}你花了一整天的时间祈祷……{vspace=5}{color=#A9A9A9}耗费时间：1"
+    "{cps=50}你整日祈祷……{vspace=5}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_4.rpy:32274
 translate chinese florence_cathedral_visit_menu_a3d91ca0:
 
-    "{cps=50}在接受了你庄严的承诺——只将鲜血洒向正义——以及一笔微薄的供奉之后，僧侣们为你的武器祈福。{vspace=5}{color=#A9A9A9}失去 [price_of_blessing_weapon] 弗罗林！{vspace=5}武器已受祝福！"
+    "{cps=50}在收下你只为主持正义而流血的神圣誓言与一笔微薄酬金之后，修士们为你的武器祝祷。{vspace=5}{color=#A9A9A9}损失[price_of_blessing_weapon]弗罗林！{vspace=5}武器已获祝祷！"
 
 # game/script_dlc_4.rpy:32275
 translate chinese florence_cathedral_visit_menu_76b2fe88_1:
@@ -27670,7 +27670,7 @@ translate chinese florence_cathedral_visit_menu_76b2fe88_3:
 translate chinese florence_cathedral_visit_menu_135f8287:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}美德增加 15 点！"
+    "{cps=50}{color=#A9A9A9}美德提升15点！"
 
 # game/script_dlc_4.rpy:32293
 translate chinese florence_cathedral_visit_menu_76b2fe88_4:
@@ -27681,7 +27681,7 @@ translate chinese florence_cathedral_visit_menu_76b2fe88_4:
 # game/script_dlc_4.rpy:32296
 translate chinese florence_cathedral_visit_menu_0ab802cd:
 
-    "{cps=50}{color=#A9A9A9}所有属性各增加 1 点！"
+    "{cps=50}{color=#A9A9A9}所有属性提升1点！"
 
 # game/script_dlc_4.rpy:32311
 translate chinese florence_cathedral_visit_menu_76b2fe88_5:
@@ -27721,7 +27721,7 @@ translate chinese visit_padua_76b2fe88_1:
 # game/script_dlc_4.rpy:32348
 translate chinese visit_padua_1e0c55f7:
 
-    "{cps=50}{color=#A9A9A9}失去 [hungary_travel_cost] 弗罗林。{vspace=5}耗费 [hungary_travel_time] 时间。"
+    "{cps=50}{color=#A9A9A9}损失[hungary_travel_cost]弗罗林。{vspace=5}损失[hungary_travel_time]时间。"
 
 # game/script_dlc_4.rpy:32349
 translate chinese visit_padua_76b2fe88_2:
@@ -27815,7 +27815,7 @@ translate chinese padua_agrees_to_talk_3b9a48c4:
 translate chinese padua_agrees_to_talk_91262ead:
 
     nvl clear
-    "{cps=50}并割让一系列威尼斯领土。"
+    "{cps=50}并割让若干威尼斯领土。"
 
 # game/script_dlc_4.rpy:32419
 translate chinese padua_agrees_to_talk_e8437677:
@@ -27890,7 +27890,7 @@ translate chinese padua_agrees_to_talk_76b2fe88_7:
 # game/script_dlc_4.rpy:32480
 translate chinese padua_agrees_to_talk_b587e4b2:
 
-    "{cps=50}然而你一无所获。{vspace=5}{color=#A9A9A9}战役胜利、兵力数量、所控地区——失败！"
+    "{cps=50}但你一无所获。{vspace=5}{color=#A9A9A9}战斗胜利、兵力、所控地区——失败！"
 
 # game/script_dlc_4.rpy:32481
 translate chinese padua_agrees_to_talk_76b2fe88_8:
@@ -28386,7 +28386,7 @@ translate chinese enter_the_schwarzburg_finale_assassination_jump_76b2fe88:
 translate chinese enter_the_schwarzburg_finale_assassination_jump_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务所得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_4.rpy:32718
 translate chinese enter_the_schwarzburg_finale_assassination_jump_76b2fe88_1:
@@ -29079,7 +29079,7 @@ translate chinese enguerrand_invades_alsace_76b2fe88:
 # game/script_dlc_4.rpy:33601
 translate chinese enguerrand_invades_alsace_639185dd:
 
-    "{cps=50}{color=#A9A9A9}奥地利军队兵力减少 [storyroll] 人。"
+    "{cps=50}{color=#A9A9A9}奥地利军队兵力减少[storyroll]人。"
 
 # game/script_dlc_4.rpy:33602
 translate chinese enguerrand_invades_alsace_76b2fe88_1:
@@ -29090,7 +29090,7 @@ translate chinese enguerrand_invades_alsace_76b2fe88_1:
 # game/script_dlc_4.rpy:33605
 translate chinese enguerrand_invades_alsace_59a4cd34:
 
-    "{cps=50}{color=#A9A9A9}营地驻留时间（奥地利军队）延长 [storyroll] 天。"
+    "{cps=50}{color=#A9A9A9}扎营时间（奥地利军队）延长[storyroll]天。"
 
 # game/script_dlc_4.rpy:33606
 translate chinese enguerrand_invades_alsace_76b2fe88_2:
@@ -29101,27 +29101,27 @@ translate chinese enguerrand_invades_alsace_76b2fe88_2:
 # game/script_dlc_4.rpy:33610
 translate chinese enguerrand_invades_alsace_35dddcbf:
 
-    "{cps=50}{color=#A9A9A9}奥地利军队已从地区撤退：特雷维索"
+    "{cps=50}{color=#A9A9A9}奥地利军队撤离地区：特雷维索"
 
 # game/script_dlc_4.rpy:33613
 translate chinese enguerrand_invades_alsace_079ec496:
 
-    "{cps=50}{color=#A9A9A9}奥地利军队已从地区撤退：卡斯泰洛要塞"
+    "{cps=50}{color=#A9A9A9}奥地利军队撤离地区：卡斯泰洛要塞"
 
 # game/script_dlc_4.rpy:33616
 translate chinese enguerrand_invades_alsace_a21462b9:
 
-    "{cps=50}{color=#A9A9A9}奥地利军队已从地区撤退：的里雅斯特"
+    "{cps=50}{color=#A9A9A9}奥地利军队撤离地区：的里雅斯特"
 
 # game/script_dlc_4.rpy:33619
 translate chinese enguerrand_invades_alsace_460a06c0:
 
-    "{cps=50}{color=#A9A9A9}奥地利军队已从地区撤退：伊斯特拉"
+    "{cps=50}{color=#A9A9A9}奥地利军队撤离地区：伊斯特拉"
 
 # game/script_dlc_4.rpy:33622
 translate chinese enguerrand_invades_alsace_45f14e6c:
 
-    "{cps=50}{color=#A9A9A9}奥地利军队已从地区撤退：弗留利"
+    "{cps=50}{color=#A9A9A9}奥地利军队撤离地区：弗留利"
 
 # game/script_dlc_4.rpy:33624
 translate chinese enguerrand_invades_alsace_76b2fe88_3:
@@ -29229,7 +29229,7 @@ translate chinese barnabo_feud_end_76b2fe88:
 translate chinese barnabo_feud_end_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务所得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_4.rpy:34173
 translate chinese barnabo_feud_end_76b2fe88_1:
@@ -29435,7 +29435,7 @@ translate chinese charles_tells_about_tarrare_61b952c5:
 translate chinese charles_tells_about_tarrare_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务所得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_4.rpy:35299
 translate chinese charles_tells_about_tarrare_76b2fe88:
@@ -29531,7 +29531,7 @@ translate chinese john_ezbert_2_postfight_76b2fe88:
 translate chinese john_ezbert_2_postfight_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务所得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_4.rpy:36302
 translate chinese john_ezbert_2_postfight_76b2fe88_1:
@@ -30087,7 +30087,7 @@ translate chinese italian_wars_peace_calculation_quickjump_76b2fe88:
 # game/script_dlc_4.rpy:37350
 translate chinese italian_wars_peace_calculation_quickjump_56205985:
 
-    "{cps=50}{color=#A9A9A9}路易国王也将他的军队所占的全部威尼斯土地悉数归还。"
+    "{cps=50}{color=#A9A9A9}国王路易同时归还其军队所占的全部威尼斯土地。"
 
 # game/script_dlc_4.rpy:37352
 translate chinese italian_wars_peace_calculation_quickjump_3e715883:
@@ -30533,13 +30533,13 @@ translate chinese venice_doge_chapter_2_end_fae45fbb:
 translate chinese venice_doge_chapter_2_end_6ed332aa:
 
     nvl clear
-    "{cps=50}卡瓦利老爷子将自己家族的命运与整个共和国的命运相提并论，几乎已是公然威胁：若总督在保卫威尼斯一事上无所建树，他就要推翻总督的统治，以刀剑与烈火扫尽所有仇敌。"
+    "{cps=50}老卡瓦利将自己一家与整个共和国的命运相提并论，几乎已经是公开地扬言：若总督在保卫威尼斯一事上无所作为，他就要推翻其统治，以火与剑扫平一切仇敌。"
 
 # game/script_dlc_4.rpy:38424
 translate chinese venice_doge_chapter_2_end_aa29c4ad:
 
     nvl clear
-    "{cps=50}高呼着他名字的人群一边咒骂孔塔里尼和热那亚人，一边发誓无论他去往何处都追随到底。"
+    "{cps=50}高呼着他名字的人群诅咒着孔塔里尼和热那亚人，发誓愿随他赴汤蹈火。"
 
 # game/script_dlc_4.rpy:38428
 translate chinese venice_doge_chapter_2_end_734a599f:
@@ -31173,7 +31173,7 @@ translate chinese giovanna_painting_end_e2768bdf:
 translate chinese giovanna_painting_end_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务所得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_4.rpy:39790
 translate chinese giovanna_painting_end_76b2fe88:
@@ -31329,7 +31329,7 @@ translate chinese venice_doge_chapter_4_start_76b2fe88:
 # game/script_dlc_4.rpy:39992
 translate chinese venice_doge_chapter_4_start_8ab9c552:
 
-    "{cps=50}各项税收与收入为威尼斯国库进账 [venice_treasury_monthly_income]！"
+    "{cps=50}各项税赋进项源源不断，威尼斯国库入账 [venice_treasury_monthly_income]！"
 
 # game/script_dlc_4.rpy:39993
 translate chinese venice_doge_chapter_4_start_76b2fe88_1:

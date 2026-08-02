@@ -34,7 +34,7 @@ translate chinese fight1_intro_76b2fe88:
 translate chinese fight1_bc060a02:
 
     nvl clear
-    "{cps=50}敌军阵型渐呈溃败之势，这场厮杀或许很快就会落下帷幕。"
+    "{cps=50}敌军阵型正在瓦解，这场战斗恐怕很快就要结束了。"
 
 # game/script_0.rpy:303
 translate chinese fight1_76b2fe88:
@@ -1352,7 +1352,7 @@ translate chinese fight2_7_76b2fe88:
 translate chinese fight2_7_d5a9e6d3_1:
 
     nvl clear
-    "{cps=50}战局渐渐起了变化。英格兰人原本气势如虹，凭着一股猛劲夺下了大片城墙，如今这势头却在一点一点地衰竭。"
+    "{cps=50}战局悄然逆转。英格兰人原本气势如虹，一举夺下大段城墙，如今这股锐气却在逐渐消竭。"
 
 # game/script_0.rpy:3137
 translate chinese fight2_7_faed2c7b_1:
@@ -2070,7 +2070,7 @@ translate chinese fight3_4_story_cbcbbb3d:
 translate chinese fight3_4_story_6f473618:
 
     nvl clear
-    "{cps=50}据远方斥候来报，法王约翰二世已调集全国兵马，开始向本省边陲集结。据探子所言，来犯者数以千计，其中不乏法兰西骑士的精华。"
+    "{cps=50}据远方斥候来报，法王约翰二世已调集全国军队，开始向本省边陲集结。据探子所言，来犯者数以千计，其中不乏法兰西骑士的精华。"
 
 # game/script_0.rpy:4991
 translate chinese fight3_4_story_a098bb92:
@@ -3244,7 +3244,7 @@ translate chinese fight4_9_1_76b2fe88_2:
 # game/script_0.rpy:7737
 translate chinese fight4_9_1_d40e534d:
 
-    "{cps=50}局势正在变化，这场战斗恐怕很快就要结束了。"
+    "{cps=50}局势正在变化，这场战斗恐怕很快就要见分晓了。"
 
 # game/script_0.rpy:7739
 translate chinese fight4_9_1_76b2fe88_3:
@@ -3316,7 +3316,7 @@ translate chinese fight4_9_2_76b2fe88_2:
 translate chinese fight4_9_2_60e5cd35:
 
     nvl clear
-    "{cps=50}局势正在变化，这场战斗恐怕很快就要结束了。"
+    "{cps=50}局势正在变化，这场战斗恐怕很快就要见分晓了。"
 
 # game/script_0.rpy:8146
 translate chinese fight4_9_2_76b2fe88_3:
@@ -3364,7 +3364,7 @@ translate chinese postfight4_9_2_quickjump_0392ee15:
 translate chinese postfight4_9_2_quickjump_20b72a74:
 
     nvl clear
-    "{cps=50}片刻之前，你还挥舞着兵刃置身于战阵中心，此刻一切却已归于寂静。"
+    "{cps=50}片刻之前，你还挥舞着武器置身于战阵中心，此刻一切却已归于寂静。"
 
 # game/script_0.rpy:8242
 translate chinese postfight4_9_2_quickjump_543cd435:
@@ -3394,7 +3394,7 @@ translate chinese postfight4_9_2_quickjump_2e385ec5:
 translate chinese postfight4_9_2_quickjump_592912d2:
 
     nvl clear
-    "{cps=50}围在他们身边的几乎全是骑士、领主与他们的护卫——有人仍在剧烈喘息，许多人的兵刃与甲胄上还在淌着鲜血。"
+    "{cps=50}围在他们身边的几乎全是骑士、领主与他们的护卫——有人仍在剧烈喘息，许多人的武器与甲胄上还在淌着鲜血。"
 
 # game/script_0.rpy:8252
 translate chinese postfight4_9_2_quickjump_31e6fefb:
@@ -3602,7 +3602,7 @@ translate chinese postfight4_9_2_quickjump_6c9b0df1:
 translate chinese postfight4_9_2_quickjump_8a51bccf:
 
     nvl clear
-    "{cps=50}他赞许你的抉择，断言你在京城必将前程似锦，却又显然为两人分道扬镳而黯然神伤。他让你立下誓言：日后一定要回来探望他。"
+    "{cps=50}他赞许你的抉择，断言你在首都必将前程似锦，却又显然为两人分道扬镳而黯然神伤。他让你立下誓言：日后一定要回来探望他。"
 
 # game/script_0.rpy:8328
 translate chinese postfight4_9_2_quickjump_76b2fe88_2:
@@ -3656,7 +3656,7 @@ translate chinese postfight4_9_2_quickjump_76b2fe88_4:
 translate chinese postfight4_9_2_quickjump_0ffb5476:
 
     nvl clear
-    "{cps=50}深思之后，你竟出乎所有人意料地婉言谢绝——彻底投身京城权谋、阴谋与勾心斗角的漩涡，实在令你提不起半分兴致。"
+    "{cps=50}深思之后，你竟出乎所有人意料地婉言谢绝——彻底投身首都权谋、阴谋与勾心斗角的漩涡，实在令你提不起半分兴致。"
 
 # game/script_0.rpy:8350
 translate chinese postfight4_9_2_quickjump_ced6de19:
@@ -4557,7 +4557,7 @@ translate chinese cambrai_buy_out_of_prison_6c9b0df1:
 translate chinese cambrai_buy_out_of_prison_8a51bccf:
 
     nvl clear
-    "{cps=50}他赞许你的抉择，断言你在京城必将前程似锦，却又显然为两人分道扬镳而黯然神伤。他让你立下誓言：日后一定要回来探望他。"
+    "{cps=50}他赞许你的抉择，断言你在首都必将前程似锦，却又显然为两人分道扬镳而黯然神伤。他让你立下誓言：日后一定要回来探望他。"
 
 # game/script_0.rpy:9614
 translate chinese cambrai_buy_out_of_prison_76b2fe88_3:
@@ -4611,7 +4611,7 @@ translate chinese cambrai_buy_out_of_prison_76b2fe88_5:
 translate chinese cambrai_buy_out_of_prison_0ffb5476:
 
     nvl clear
-    "{cps=50}深思之后，你竟出乎所有人意料地婉言谢绝——彻底投身京城权谋、阴谋与勾心斗角的漩涡，实在令你提不起半分兴致。"
+    "{cps=50}深思之后，你竟出乎所有人意料地婉言谢绝——彻底投身首都权谋、阴谋与勾心斗角的漩涡，实在令你提不起半分兴致。"
 
 # game/script_0.rpy:9636
 translate chinese cambrai_buy_out_of_prison_ced6de19:
@@ -6357,7 +6357,7 @@ translate chinese fight5_5_76b2fe88_3:
 translate chinese fight5_5_5551fff2:
 
     nvl clear
-    "{cps=50}战场上的局势正在变化，这场战斗恐怕很快就要见分晓了。"
+    "{cps=50}战场上的局势正在逆转，这场战斗恐怕很快就要结束了。"
 
 # game/script_0.rpy:13692
 translate chinese fight5_5_76b2fe88_4:
@@ -6913,7 +6913,7 @@ translate chinese fight6_4_76b2fe88_3:
 translate chinese fight6_4_5551fff2:
 
     nvl clear
-    "{cps=50}战场上的局势正在变化，这场战斗恐怕很快就要见分晓了。"
+    "{cps=50}战场上的局势正在逆转，这场战斗恐怕很快就要结束了。"
 
 # game/script_0.rpy:16472
 translate chinese fight6_4_76b2fe88_4:
@@ -10096,7 +10096,7 @@ translate chinese london_intro_76b2fe88_2:
 # game/script_0.rpy:21324
 translate chinese london_intro_4b836f11:
 
-    "{cps=50}当城堡与其近郊再也容纳不下这些兵马时，你移驻格林威治——一如先前所计划，那里成了新的据点。"
+    "{cps=50}当城堡与其近郊再也容纳不下这些军队时，你移驻格林威治——一如先前所计划，那里成了新的据点。"
 
 # game/script_0.rpy:21325
 translate chinese london_intro_5efcbe6a:
@@ -10512,7 +10512,7 @@ translate chinese london_postfight_2_76b2fe88:
 # game/script_0.rpy:22457
 translate chinese london_postfight_2_d12db913:
 
-    "{cps=50}坎特伯雷那些久经沙场的部下拼死力战，有那么一刻，仿佛真能扭转战局。{w}但毕竟人太少，要抵住王子从四面八方压来的兵马，终究力不能及。"
+    "{cps=50}坎特伯雷那些久经沙场的部下拼死力战，有那么一刻，仿佛真能扭转战局。{w}但毕竟人太少，要抵住王子从四面八方压来的军队，终究力不能及。"
 
 # game/script_0.rpy:22458
 translate chinese london_postfight_2_08d7ff3e:
@@ -10632,7 +10632,7 @@ translate chinese london_fight_3_46687d53:
 translate chinese london_fight_3_33414a19:
 
     nvl clear
-    "{cps=50}即便已被重重包围，最后那几个人依然血战到底，手握兵刃，战至最后一刻。"
+    "{cps=50}即便已被重重包围，最后那几个人依然血战到底，手握武器，战至最后一刻。"
 
 # game/script_0.rpy:22901
 translate chinese london_fight_3_3ccb7547:
@@ -11798,7 +11798,7 @@ translate chinese negotiations_fight_1_1cb8dd59:
 translate chinese negotiations_fight_1_1e6eee11:
 
     nvl clear
-    "{cps=50}鲁芬扑向那个被北安普顿投出的匕首所伤之人，想要结果他的性命，却在混乱中迎面撞上了同众人一起拔出兵刃的雷丁男爵。"
+    "{cps=50}鲁芬扑向那个被北安普顿投出的匕首所伤之人，想要结果他的性命，却在混乱中迎面撞上了同众人一起拔出武器的雷丁男爵。"
 
 # game/script_0.rpy:23986
 translate chinese negotiations_fight_1_30ada616:
@@ -11840,7 +11840,7 @@ translate chinese negotiations_fight_1_76b2fe88_2:
 translate chinese negotiations_postfight_1_40b98e74:
 
     nvl clear
-    "{cps=50}坎特伯雷的两名侍卫虽然身着锁子甲，却一个接一个地送了命。"
+    "{cps=50}沉重的锁子甲并未救下坎特伯雷的两名护卫，二人相继倒在血泊之中。"
 
 # game/script_0.rpy:24133
 translate chinese negotiations_postfight_1_1cb8dd59:
@@ -11852,7 +11852,7 @@ translate chinese negotiations_postfight_1_1cb8dd59:
 translate chinese negotiations_postfight_1_1e6eee11:
 
     nvl clear
-    "{cps=50}鲁芬扑向那个被北安普顿投出的匕首所伤之人，想要结果他的性命，却在混乱中迎面撞上了同众人一起拔出兵刃的雷丁男爵。"
+    "{cps=50}鲁芬扑向那个被北安普顿投出的匕首所伤之人，想要结果他的性命，却在混乱中迎面撞上了同众人一起拔出武器的雷丁男爵。"
 
 # game/script_0.rpy:24137
 translate chinese negotiations_postfight_1_30ada616:
@@ -14292,7 +14292,7 @@ translate chinese strings:
     old "BACK"
     new "返回"
     old "Vitality +1 (25 Florins)"
-    new "生命值+1（25弗罗林）"
+    new "活力+1（25弗罗林）"
     old "Endurance +1 (25 Florins)"
     new "耐力+1（25弗罗林）"
     old "Strength +1 (25 Florins)"

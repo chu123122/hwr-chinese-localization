@@ -5113,7 +5113,7 @@ translate chinese monk_city_1_6b8a6ec1:
 translate chinese monk_city_1_c982b24e:
 
     nvl clear
-    "{cps=50}接下来几天，你在冰冷牢房的铁栅后度过，身子也跟着遭了罪。{vspace=5}{color=#A9A9A9}生命值-1！"
+    "{cps=50}接下来几天，你在冰冷牢房的铁栅后度过，身子也跟着遭了罪。{vspace=5}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc.rpy:12986
 translate chinese monk_city_1_76b2fe88_8:
@@ -5183,7 +5183,7 @@ translate chinese monk_city_1_6b8a6ec1_1:
 translate chinese monk_city_1_c982b24e_1:
 
     nvl clear
-    "{cps=50}接下来几天，你在冰冷牢房的铁栅后度过，身子也跟着遭了罪。{vspace=5}{color=#A9A9A9}生命值-1！"
+    "{cps=50}接下来几天，你在冰冷牢房的铁栅后度过，身子也跟着遭了罪。{vspace=5}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc.rpy:13034
 translate chinese monk_city_1_9a394ee5:
@@ -5290,7 +5290,7 @@ translate chinese monk_city_2_db728882:
 translate chinese monk_city_2_c982b24e:
 
     nvl clear
-    "{cps=50}接下来几天，你在冰冷牢房的铁栅后度过，身子也跟着遭了罪。{vspace=5}{color=#A9A9A9}生命值-1！"
+    "{cps=50}接下来几天，你在冰冷牢房的铁栅后度过，身子也跟着遭了罪。{vspace=5}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc.rpy:13073
 translate chinese monk_city_2_76b2fe88_3:
@@ -5377,7 +5377,7 @@ translate chinese monk_city_2_40be047a:
 translate chinese monk_city_2_515f347b:
 
     nvl clear
-    "{cps=50}接下来几天，你在冰冷牢房的铁栅后度过，身子也跟着遭了罪。{vspace=5}{color=#A9A9A9}生命值-2！"
+    "{cps=50}接下来几天，你在冰冷牢房的铁栅后度过，身子也跟着遭了罪。{vspace=5}{color=#A9A9A9}活力-2！"
 
 # game/script_dlc.rpy:13119
 translate chinese monk_city_2_76b2fe88_8:
@@ -5440,7 +5440,7 @@ translate chinese monk_city_2_40be047a_1:
 translate chinese monk_city_2_515f347b_1:
 
     nvl clear
-    "{cps=50}接下来几天，你在冰冷牢房的铁栅后度过，身子也跟着遭了罪。{vspace=5}{color=#A9A9A9}生命值-2！"
+    "{cps=50}接下来几天，你在冰冷牢房的铁栅后度过，身子也跟着遭了罪。{vspace=5}{color=#A9A9A9}活力-2！"
 
 # game/script_dlc.rpy:13139
 translate chinese monk_city_2_76b2fe88_12:
@@ -5503,7 +5503,7 @@ translate chinese monk_city_2_40be047a_2:
 translate chinese monk_city_2_515f347b_2:
 
     nvl clear
-    "{cps=50}接下来几天，你在冰冷牢房的铁栅后度过，身子也跟着遭了罪。{vspace=5}{color=#A9A9A9}生命值-2！"
+    "{cps=50}接下来几天，你在冰冷牢房的铁栅后度过，身子也跟着遭了罪。{vspace=5}{color=#A9A9A9}活力-2！"
 
 # game/script_dlc.rpy:13159
 translate chinese monk_city_2_76b2fe88_16:
@@ -5685,7 +5685,7 @@ translate chinese monk_city_3_09cfebbc:
 translate chinese monk_city_3_c982b24e:
 
     nvl clear
-    "{cps=50}接下来几天，你在冰冷牢房的铁栅后度过，身子也跟着遭了罪。{vspace=5}{color=#A9A9A9}生命值-1！"
+    "{cps=50}接下来几天，你在冰冷牢房的铁栅后度过，身子也跟着遭了罪。{vspace=5}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc.rpy:13275
 translate chinese monk_city_3_76b2fe88_2:
@@ -6191,7 +6191,7 @@ translate chinese forager_quest_village2_37617a2f:
 translate chinese forager_quest_village2_42dc922a:
 
     nvl clear
-    "{cps=50}可你还没来得及走到村中心细细察看，一伙手持兵刃的人便堵住了去路。"
+    "{cps=50}可你还没来得及走到村中心细细察看，一伙手持武器的人便堵住了去路。"
 
 # game/script_dlc.rpy:13580
 translate chinese forager_quest_village2_bf05da3c:
@@ -7211,7 +7211,7 @@ translate chinese forager_quest_ending_daa230d3:
 translate chinese forager_quest_ending_dbd68456:
 
     nvl clear
-    "{cps=50}他还说：若来日攻城失利，是因为饿得拿不动兵刃的士兵们撑不住场面，那要感谢的，就是像你这样的聪明人。"
+    "{cps=50}他还说：若来日攻城失利，是因为饿得拿不动武器的士兵们撑不住场面，那要感谢的，就是像你这样的聪明人。"
 
 # game/script_dlc.rpy:14172
 translate chinese forager_quest_ending_3b3893e8:
@@ -10171,7 +10171,7 @@ translate chinese a_visit_to_the_devil_menu_76b2fe88_2:
 translate chinese a_visit_to_the_devil_menu_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc.rpy:15580
 translate chinese a_visit_to_the_devil_menu_76b2fe88_3:
@@ -15348,7 +15348,7 @@ translate chinese faraskur_trade_menu_b1151c6b:
 translate chinese faraskur_trade_menu_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc.rpy:19728
 translate chinese faraskur_trade_menu_76b2fe88_1:
@@ -15407,7 +15407,7 @@ translate chinese traditions_of_the_trade_menu_76b2fe88:
 translate chinese traditions_of_the_trade_menu_d102d9e6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}金钱不足！"
 
 # game/script_dlc.rpy:19767
 translate chinese traditions_of_the_trade_menu_76b2fe88_1:
@@ -19305,7 +19305,7 @@ translate chinese alyssa_torture_76b2fe88:
 # game/script_dlc.rpy:28871
 translate chinese alyssa_torture_3263f809:
 
-    "{cps=50}{color=#A9A9A9}最大美德值降低[player_virtue_penalty]！"
+    "{cps=50}{color=#A9A9A9}美德上限降低[player_virtue_penalty]！"
 
 # game/script_dlc.rpy:28872
 translate chinese alyssa_torture_76b2fe88_1:
@@ -19443,7 +19443,7 @@ translate chinese robbin_the_hood_quest_1_a8995ac4:
 translate chinese robbin_the_hood_quest_1_d14cd0c4:
 
     nvl clear
-    "{cps=50}..."
+    "{cps=50}……"
 
 # game/script_dlc.rpy:28939
 translate chinese robbin_the_hood_quest_1_c1de2848:
@@ -19455,7 +19455,7 @@ translate chinese robbin_the_hood_quest_1_c1de2848:
 translate chinese robbin_the_hood_quest_1_d14cd0c4_1:
 
     nvl clear
-    "{cps=50}..."
+    "{cps=50}……"
 
 # game/script_dlc.rpy:28943
 translate chinese robbin_the_hood_quest_1_287ffe73:
@@ -21977,7 +21977,7 @@ translate chinese breakthrough_cowards_1_fight_76b2fe88_3:
 translate chinese breakthrough_cowards_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:30277
 translate chinese breakthrough_cowards_1_fight_76b2fe88_4:
@@ -21988,7 +21988,7 @@ translate chinese breakthrough_cowards_1_fight_76b2fe88_4:
 # game/script_dlc.rpy:30283
 translate chinese breakthrough_cowards_1_fight_d40e534d:
 
-    "{cps=50}局势正在改变，战斗或许很快就要结束了。"
+    "{cps=50}局势正在变化。战斗或许很快就要落幕了。"
 
 # game/script_dlc.rpy:30285
 translate chinese breakthrough_cowards_1_fight_76b2fe88_5:
@@ -22030,7 +22030,7 @@ translate chinese breakthrough_cowards_1_fight_76b2fe88_8:
 translate chinese breakthrough_cowards_1_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:30320
 translate chinese breakthrough_cowards_1_fight_76b2fe88_9:
@@ -22836,7 +22836,7 @@ translate chinese breakthrough_windsor_2_fight_76b2fe88_1:
 translate chinese breakthrough_windsor_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:31940
 translate chinese breakthrough_windsor_2_fight_76b2fe88_2:
@@ -23585,7 +23585,7 @@ translate chinese hellish_trio_hadley_1_fight_76b2fe88_1:
 translate chinese hellish_trio_hadley_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:32913
 translate chinese hellish_trio_hadley_1_fight_76b2fe88_2:
@@ -23662,7 +23662,7 @@ translate chinese hellish_trio_hadley_2_fight_76b2fe88_1:
 translate chinese hellish_trio_hadley_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:33365
 translate chinese hellish_trio_hadley_2_fight_76b2fe88_2:
@@ -24613,7 +24613,7 @@ translate chinese hellish_trio_chippenham_bandits_fight_76b2fe88_2:
 translate chinese hellish_trio_chippenham_bandits_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:34497
 translate chinese hellish_trio_chippenham_bandits_fight_76b2fe88_3:
@@ -24625,7 +24625,7 @@ translate chinese hellish_trio_chippenham_bandits_fight_76b2fe88_3:
 translate chinese hellish_trio_chippenham_bandits_fight_47ca0d03:
 
     nvl clear
-    "{cps=50}被你凶悍的气势所慑，强盗们似乎开始后悔招惹你了。"
+    "{cps=50}你的凶悍令匪徒们心生惧意，他们显然开始后悔招惹了你。"
 
 # game/script_dlc.rpy:34533
 translate chinese hellish_trio_chippenham_bandits_fight_76b2fe88_4:
@@ -25037,7 +25037,7 @@ translate chinese hellish_trio_chippenham_duncan_death_76b2fe88:
 translate chinese hellish_trio_chippenham_duncan_death_d14cd0c4:
 
     nvl clear
-    "{cps=50}..."
+    "{cps=50}……"
 
 # game/script_dlc.rpy:35075
 translate chinese hellish_trio_chippenham_duncan_death_ecd5f6de:
@@ -25055,7 +25055,7 @@ translate chinese hellish_trio_chippenham_duncan_death_47bfae9c:
 translate chinese hellish_trio_chippenham_duncan_death_d14cd0c4_1:
 
     nvl clear
-    "{cps=50}..."
+    "{cps=50}……"
 
 # game/script_dlc.rpy:35081
 translate chinese hellish_trio_chippenham_duncan_death_6633f604:
@@ -26902,7 +26902,7 @@ translate chinese watchmen_1_fight_76b2fe88_1:
 translate chinese watchmen_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:36890
 translate chinese watchmen_1_fight_76b2fe88_2:
@@ -26913,7 +26913,7 @@ translate chinese watchmen_1_fight_76b2fe88_2:
 # game/script_dlc.rpy:36896
 translate chinese watchmen_1_fight_d40e534d:
 
-    "{cps=50}局势正在改变，战斗或许很快就要结束了。"
+    "{cps=50}局势正在变化。战斗或许很快就要落幕了。"
 
 # game/script_dlc.rpy:36898
 translate chinese watchmen_1_fight_76b2fe88_3:
@@ -26955,7 +26955,7 @@ translate chinese watchmen_1_fight_76b2fe88_6:
 translate chinese watchmen_1_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:36933
 translate chinese watchmen_1_fight_76b2fe88_7:
@@ -27037,7 +27037,7 @@ translate chinese watchmen_2_fight_76b2fe88_1:
 translate chinese watchmen_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:37453
 translate chinese watchmen_2_fight_76b2fe88_2:
@@ -27277,7 +27277,7 @@ translate chinese watchmen_3_fight_76b2fe88_2:
 translate chinese watchmen_3_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:38109
 translate chinese watchmen_3_fight_76b2fe88_3:
@@ -27288,7 +27288,7 @@ translate chinese watchmen_3_fight_76b2fe88_3:
 # game/script_dlc.rpy:38115
 translate chinese watchmen_3_fight_d40e534d:
 
-    "{cps=50}局势正在改变，战斗或许很快就要结束了。"
+    "{cps=50}局势正在变化。战斗或许很快就要落幕了。"
 
 # game/script_dlc.rpy:38117
 translate chinese watchmen_3_fight_76b2fe88_4:
@@ -27330,7 +27330,7 @@ translate chinese watchmen_3_fight_76b2fe88_7:
 translate chinese watchmen_3_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:38152
 translate chinese watchmen_3_fight_76b2fe88_8:
@@ -27647,7 +27647,7 @@ translate chinese countryside_1_fight_76b2fe88_1:
 translate chinese countryside_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:38771
 translate chinese countryside_1_fight_76b2fe88_2:
@@ -28240,7 +28240,7 @@ translate chinese heart_of_darkness_1_fight_76b2fe88_1:
 translate chinese heart_of_darkness_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:39488
 translate chinese heart_of_darkness_1_fight_76b2fe88_2:
@@ -28426,7 +28426,7 @@ translate chinese heart_of_darkness_3_fight_76b2fe88_1:
 translate chinese heart_of_darkness_3_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:40169
 translate chinese heart_of_darkness_3_fight_76b2fe88_2:
@@ -28558,7 +28558,7 @@ translate chinese heart_of_darkness_4_fight_76b2fe88_1:
 translate chinese heart_of_darkness_4_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:40730
 translate chinese heart_of_darkness_4_fight_76b2fe88_2:
@@ -45595,7 +45595,7 @@ translate chinese dupont_talk_73ec910c:
 translate chinese dupont_talk_61b0b480:
 
     nvl clear
-    "{cps=50}……你如今能做的，只有固执地催促城中兵马尽早出征。"
+    "{cps=50}……你如今能做的，只有固执地催促城中军队尽早出征。"
 
 # game/script_dlc.rpy:50103
 translate chinese dupont_talk_497dc93a:
@@ -45673,7 +45673,7 @@ translate chinese dupont_talk_5fe408e1:
 translate chinese dupont_talk_0aca95ef:
 
     nvl clear
-    "{cps=50}如今只差最后一步——你只需协助他与德·吉克兰集结兵马，便可出兵攻打奥利维耶的农场。"
+    "{cps=50}如今只差最后一步——你只需协助他与德·吉克兰集结军队，便可出兵攻打奥利维耶的农场。"
 
 # game/script_dlc.rpy:50143
 translate chinese dupont_talk_76b2fe88_6:
@@ -45961,7 +45961,7 @@ translate chinese de_guesclin_give_stuff_result_7b160590:
 translate chinese de_guesclin_give_stuff_result_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc.rpy:50563
 translate chinese de_guesclin_give_stuff_result_76b2fe88_1:
@@ -47202,7 +47202,7 @@ translate chinese hunt_1_deserter_97d63fec:
 translate chinese hunt_1_deserter_092e7927:
 
     nvl clear
-    "{cps=50}可围城一开始，他便同许多人一道被征入了城里的民兵——但凡拿得动兵器的，官府都一股脑地塞了进来。"
+    "{cps=50}可围城一开始，他便同许多人一道被征入了城里的民兵——但凡拿得动兵器的，市政当局都一股脑地塞了进来。"
 
 # game/script_dlc.rpy:51658
 translate chinese hunt_1_deserter_5675eb6c:
@@ -47614,7 +47614,7 @@ translate chinese hunt_1_crusader_menu_76b2fe88_6:
 translate chinese hunt_1_crusader_menu_7973e429:
 
     nvl clear
-    "{cps=50}他的提议并未引起你的兴趣，你谢绝了他的好意。"
+    "{cps=50}他的提议对你毫无吸引力，你谢绝了他的帮助。"
 
 # game/script_dlc.rpy:51897
 translate chinese hunt_1_crusader_menu_76b2fe88_7:
@@ -49982,7 +49982,7 @@ translate chinese hunt_2_bandits_fight_76b2fe88_2:
 translate chinese hunt_2_bandits_fight_47ca0d03:
 
     nvl clear
-    "{cps=50}被你的凶悍震慑，强盗们似乎开始后悔招惹你了。"
+    "{cps=50}你的凶悍令匪徒们心生惧意，他们显然开始后悔招惹了你。"
 
 # game/script_dlc.rpy:53735
 translate chinese hunt_2_bandits_fight_76b2fe88_3:
@@ -50365,7 +50365,7 @@ translate chinese random_encounter_fight_76b2fe88_2:
 translate chinese random_encounter_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:54781
 translate chinese random_encounter_fight_76b2fe88_3:
@@ -50377,7 +50377,7 @@ translate chinese random_encounter_fight_76b2fe88_3:
 translate chinese random_encounter_fight_47ca0d03:
 
     nvl clear
-    "{cps=50}被你的凶悍震慑，强盗们似乎开始后悔招惹你了。"
+    "{cps=50}你的凶悍令匪徒们心生惧意，他们显然开始后悔招惹了你。"
 
 # game/script_dlc.rpy:54790
 translate chinese random_encounter_fight_76b2fe88_4:
@@ -50508,7 +50508,7 @@ translate chinese bandit_random_encounter_fight_76b2fe88_2:
 translate chinese bandit_random_encounter_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc.rpy:55456
 translate chinese bandit_random_encounter_fight_76b2fe88_3:
@@ -50954,22 +50954,22 @@ translate chinese frequent_visits_to_brothel_event_negative_d52200b8:
 # game/script_dlc.rpy:65982
 translate chinese frequent_visits_to_brothel_event_negative_9617d87c:
 
-    "{cps=50}你常去青楼的行径瞒不过众人的眼睛，伊娃对此极为不满。{vspace=5}{color=#A9A9A9}关系（伊娃）-20！"
+    "{cps=50}你常去妓院的行径瞒不过众人的眼睛，伊娃对此极为不满。{vspace=5}{color=#A9A9A9}关系（伊娃）-20！"
 
 # game/script_dlc.rpy:65985
 translate chinese frequent_visits_to_brothel_event_negative_6f13d541:
 
-    "{cps=50}你常去青楼的行径瞒不过众人的眼睛，艾丽莎对此极为不满。{vspace=5}{color=#A9A9A9}关系（艾丽莎）-20！"
+    "{cps=50}你常去妓院的行径瞒不过众人的眼睛，艾丽莎对此极为不满。{vspace=5}{color=#A9A9A9}关系（艾丽莎）-20！"
 
 # game/script_dlc.rpy:65988
 translate chinese frequent_visits_to_brothel_event_negative_d68ab87a:
 
-    "{cps=50}你常去青楼的行径瞒不过众人的眼睛，奥利维亚对此极为不满。{vspace=5}{color=#A9A9A9}关系（奥利维亚）-20！"
+    "{cps=50}你常去妓院的行径瞒不过众人的眼睛，奥利维亚对此极为不满。{vspace=5}{color=#A9A9A9}关系（奥利维亚）-20！"
 
 # game/script_dlc.rpy:65991
 translate chinese frequent_visits_to_brothel_event_negative_66c45598:
 
-    "{cps=50}你常去青楼的行径瞒不过众人的眼睛，安娜对此极为不满。{vspace=5}{color=#A9A9A9}关系（安娜）-20！"
+    "{cps=50}你常去妓院的行径瞒不过众人的眼睛，安娜对此极为不满。{vspace=5}{color=#A9A9A9}关系（安娜）-20！"
 
 # game/script_dlc.rpy:65993
 translate chinese frequent_visits_to_brothel_event_negative_76b2fe88_1:
@@ -51097,7 +51097,7 @@ translate chinese rennes_heal_discount_76b2fe88:
 translate chinese rennes_heal_discount_6849f978:
 
     nvl clear
-    "{cps=50}你的虔诚，以及你们队伍怀着善意来到雷恩的名声，当即赢得了当地医者的好感——他们给了你相当大的折扣。{vspace=5}{color=#A9A9A9}虔诚——成功！{vspace=5}伤势治疗费用降至 35 弗罗林。"
+    "{cps=50}你的美德，以及你们队伍怀着善意来到雷恩的名声，当即赢得了当地医者的好感——他们给了你相当大的折扣。{vspace=5}{color=#A9A9A9}美德——成功！{vspace=5}伤势治疗费用降至 35 弗罗林。"
 
 # game/script_dlc.rpy:66148
 translate chinese rennes_heal_discount_76b2fe88_1:
@@ -52278,7 +52278,7 @@ translate chinese strings:
     old "{size=-5}Poison shield{vspace=3}{size=-2}{color=#A9A9A9}Strong poison absorbtion: {color=#008000}[enemy1_poison_shield_strong]{vspace=3}{color=#A9A9A9}Medium poison absorbtion: {color=#008000}[enemy1_poison_shield_medium]{vspace=3}{color=#A9A9A9}Light poison absorbtion: {color=#008000}[enemy1_poison_shield_light]"
     new "{size=-5}毒抗护盾{vspace=3}{size=-2}{color=#A9A9A9}强力毒素吸收：{color=#008000}[enemy1_poison_shield_strong]{vspace=3}{color=#A9A9A9}中等毒素吸收：{color=#008000}[enemy1_poison_shield_medium]{vspace=3}{color=#A9A9A9}轻微毒素吸收：{color=#008000}[enemy1_poison_shield_light]"
     old "{size=-5}Drunk!{vspace=3}{size=-2}{color=#A9A9A9}    Vitality increased by [enemy1_vitality_temporary_bonus].{vspace=3}    Strength, Agility and Coordination lowered by [enemy1_drunk_stat_debuff]."
-    new "{size=-5}醉酒！{vspace=3}{size=-2}{color=#A9A9A9}    生命值提高[enemy1_vitality_temporary_bonus]。{vspace=3}    力量、敏捷和协调降低[enemy1_drunk_stat_debuff]。"
+    new "{size=-5}醉酒！{vspace=3}{size=-2}{color=#A9A9A9}    活力提高[enemy1_vitality_temporary_bonus]。{vspace=3}    力量、敏捷和协调降低[enemy1_drunk_stat_debuff]。"
     old "{size=-7}Shield Wall Push{/size}{vspace=3}{size=-9}{color=#A9A9A9}Powerful shield bash.{/color}{/size}{vspace=3}{size=-7}Step forward{/size}{vspace=3}{size=-9}{color=#A9A9A9}Spawns an enemy at the cost of some{vspace=3}stamina.{vspace=3}{/color}{/size}{size=-7}Rotation{/size}{vspace=3}{size=-9}{color=#A9A9A9}Swaps equipment and stats, removes{vspace=3}negative effects, recovers some fatigue."
     new "{size=-7}盾墙推进{/size}{vspace=3}{size=-9}{color=#A9A9A9}猛力盾击。{/color}{/size}{vspace=3}{size=-7}向前一步{/size}{vspace=3}{size=-9}{color=#A9A9A9}消耗一些体力，召出一个敌人。{vspace=3}{/color}{/size}{size=-7}轮换{/size}{vspace=3}{size=-9}{color=#A9A9A9}切换装备和属性，清除负面效果，恢复部分疲劳。"
     old "{size=-5}[enemy2_weapon_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    Type: [type]{vspace=3}    Length: [enemy2_weapon_length]{vspace=3}    Damage: [enemy2_weapon_dmg_info]"
@@ -52382,7 +52382,7 @@ translate chinese strings:
     old "{size=-5}Poison shield{vspace=3}{size=-2}{color=#A9A9A9}Strong poison absorbtion: {color=#008000}[enemy2_poison_shield_strong]{vspace=3}{color=#A9A9A9}Medium poison absorbtion: {color=#008000}[enemy2_poison_shield_medium]{vspace=3}{color=#A9A9A9}Light poison absorbtion: {color=#008000}[enemy2_poison_shield_light]"
     new "{size=-5}毒抗护盾{vspace=3}{size=-2}{color=#A9A9A9}强力毒素吸收：{color=#008000}[enemy2_poison_shield_strong]{vspace=3}{color=#A9A9A9}中等毒素吸收：{color=#008000}[enemy2_poison_shield_medium]{vspace=3}{color=#A9A9A9}轻微毒素吸收：{color=#008000}[enemy2_poison_shield_light]"
     old "{size=-5}Drunk!{vspace=3}{size=-2}{color=#A9A9A9}    Vitality increased by [enemy2_vitality_temporary_bonus].{vspace=3}    Strength, Agility and Coordination lowered by [enemy2_drunk_stat_debuff]."
-    new "{size=-5}醉酒！{vspace=3}{size=-2}{color=#A9A9A9}    生命值提高[enemy2_vitality_temporary_bonus]。{vspace=3}    力量、敏捷和协调降低[enemy2_drunk_stat_debuff]。"
+    new "{size=-5}醉酒！{vspace=3}{size=-2}{color=#A9A9A9}    活力提高[enemy2_vitality_temporary_bonus]。{vspace=3}    力量、敏捷和协调降低[enemy2_drunk_stat_debuff]。"
     old "{color=#000000}Round: [round_number]"
     new "{color=#000000}回合：[round_number]"
     old "{color=#000000}Round: [round_number]{vspace=5}[attack_type], [enemy_item_name]{vspace=5}[enemy_knife_number]"
@@ -52398,7 +52398,7 @@ translate chinese strings:
     old "Catacombs"
     new "地下墓穴"
     old "{size=-7}{color=#A9A9A9}*Poisonous fumes passively build{vspace=5}up Toxicity"
-    new "{size=-7}{color=#A9A9A9}*毒雾会持续积累中毒值{vspace=5}"
+    new "{size=-7}{color=#A9A9A9}*毒雾会持续积累毒性{vspace=5}"
     old "{size=-7}{color=#A9A9A9}*Short weapons have an increased{vspace=5}hit chance, long weapons have a{vspace=5}hit chance penalty"
     new "{size=-7}{color=#A9A9A9}*短武器的命中率提高，{vspace=5}长武器的命中率{vspace=5}则会降低"
     old "{color=#000000}[player_squad_active_members]/[player_squad_enabled]"
@@ -52548,7 +52548,7 @@ translate chinese strings:
     old "{size=-5}Poison shield{vspace=3}{size=-2}{color=#A9A9A9}Strong poison absorbtion: {color=#008000}[ally_poison_shield_strong]{vspace=3}{color=#A9A9A9}Medium poison absorbtion: {color=#008000}[ally_poison_shield_medium]{vspace=3}{color=#A9A9A9}Light poison absorbtion: {color=#008000}[ally_poison_shield_light]"
     new "{size=-5}毒抗护盾{vspace=3}{size=-2}{color=#A9A9A9}强力毒素吸收：{color=#008000}[ally_poison_shield_strong]{vspace=3}{color=#A9A9A9}中等毒素吸收：{color=#008000}[ally_poison_shield_medium]{vspace=3}{color=#A9A9A9}轻微毒素吸收：{color=#008000}[ally_poison_shield_light]"
     old "{size=-5}Drunk!{vspace=3}{size=-2}{color=#A9A9A9}    Vitality increased by [ally_vitality_temporary_bonus].{vspace=3}    Strength, Agility and Coordination lowered by [ally_drunk_stat_debuff]."
-    new "{size=-5}醉酒！{vspace=3}{size=-2}{color=#A9A9A9}    生命值提高[ally_vitality_temporary_bonus]。{vspace=3}    力量、敏捷和协调降低[ally_drunk_stat_debuff]。"
+    new "{size=-5}醉酒！{vspace=3}{size=-2}{color=#A9A9A9}    活力提高[ally_vitality_temporary_bonus]。{vspace=3}    力量、敏捷和协调降低[ally_drunk_stat_debuff]。"
     old "{cps=50}Как вы поступите?"
     new "{cps=50}你打算怎么做？"
     old "Если он хочет драки - он ее получит."
@@ -53094,7 +53094,7 @@ translate chinese strings:
     old "Принять предложение"
     new "接受提议"
     old "{cps=50}{color=#A9A9A9}Ваши Престиж и Благочестие обеспечивают вам следующее доверие торговцев: [attackchance]/150."
-    new "{cps=50}{color=#A9A9A9}你的威望和虔诚让商人信任你达到：[attackchance]/150。"
+    new "{cps=50}{color=#A9A9A9}你的威望和美德让商人信任你达到：[attackchance]/150。"
     old "Попросить 10 000 флоринов"
     new "求一万弗罗林"
     old "Попросить 5 000 флоринов"
