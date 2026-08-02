@@ -766,7 +766,7 @@ translate chinese castle_heist_d9c9bb4f:
 translate chinese castle_heist_195b8c5a:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚度-10！{vspace=5}声望（士兵）+3！{vspace=5}新任务已添加——[castle_heist.name!ti]。"
+    "{cps=50}{color=#A9A9A9}美德度-10！{vspace=5}声望（士兵）+3！{vspace=5}新任务已添加——[castle_heist.name!ti]。"
 
 # game/script_dlc.rpy:10824
 translate chinese castle_heist_96676c4b:
@@ -1394,7 +1394,7 @@ translate chinese castle_heist3_76b2fe88_4:
 translate chinese castle_heist3_88392e1b:
 
     nvl clear
-    "{cps=50}你一边后退躲闪他的剑锋，脚下却一个趔趄——剑刃擦过你的身体，留下一道不深却火辣生疼的伤口。{vspace=5}{color=#A9A9A9}生命值-1！"
+    "{cps=50}你一边后退躲闪他的剑锋，脚下却一个趔趄——剑刃擦过你的身体，留下一道不深却火辣生疼的伤口。{vspace=5}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc.rpy:11130
 translate chinese castle_heist3_76b2fe88_5:
@@ -1596,7 +1596,7 @@ translate chinese castle_heist3_76b2fe88_11:
 # game/script_dlc.rpy:11220
 translate chinese castle_heist3_e4643d73:
 
-    "{cps=50}你一边后退躲闪他的剑锋，脚下却一个趔趄——剑刃擦过你的身体，留下一道不深却火辣生疼的伤口。{vspace=5}{color=#A9A9A9}生命值-1！"
+    "{cps=50}你一边后退躲闪他的剑锋，脚下却一个趔趄——剑刃擦过你的身体，留下一道不深却火辣生疼的伤口。{vspace=5}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc.rpy:11221
 translate chinese castle_heist3_76b2fe88_12:
@@ -2167,7 +2167,7 @@ translate chinese jailbird_quest1_76b2fe88_18:
 translate chinese jailbird_quest1_6e3e48cf:
 
     nvl clear
-    "{color=#A9A9A9}[你连最低限度的一笔贿赂都掏不出来！]"
+    "{color=#A9A9A9}你连最低限度的一笔贿赂都掏不出来！"
 
 # game/script_dlc.rpy:11538
 translate chinese jailbird_quest1_76b2fe88_19:
@@ -2441,7 +2441,7 @@ translate chinese jailbird_quest1_76b2fe88_27:
 translate chinese jailbird_quest1_75137c37:
 
     nvl clear
-    "{cps=50}你这份毫不含糊的阔绰报价让他的脸上堆满了笑，他当即应承下来——不光带你潜入东塔，还帮你把同伴救出来。{vspace=5}{color=#A9A9A9}[金币-50！]"
+    "{cps=50}你这份毫不含糊的阔绰报价让他的脸上堆满了笑，他当即应承下来——不光带你潜入东塔，还帮你把同伴救出来。{vspace=5}{color=#A9A9A9}[Gold decreased by 50!]"
 
 # game/script_dlc.rpy:11682
 translate chinese jailbird_quest1_6371076b:
@@ -2531,7 +2531,7 @@ translate chinese jailbird_quest2_043c2979:
 translate chinese jailbird_quest2_e1006420:
 
     nvl clear
-    "{cps=50}不过，腿上一阵钻心的锐痛告诉你，到底没能全身而退。{vspace=5}{color=#A9A9A9}生命值-1！"
+    "{cps=50}不过，腿上一阵钻心的锐痛告诉你，到底没能全身而退。{vspace=5}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc.rpy:11744
 translate chinese jailbird_quest2_76b2fe88:
@@ -2633,7 +2633,7 @@ translate chinese jailbird_quest2_9d9db161:
 translate chinese jailbird_quest2_83ef4eea:
 
     nvl clear
-    "{cps=50}可架不住他们人多势众，一阵短促而猛烈的交锋过后，其中一人狠狠砍中了你的手臂，留下一道重伤。{vspace=5}{color=#A9A9A9}生命值-1！"
+    "{cps=50}可架不住他们人多势众，一阵短促而猛烈的交锋过后，其中一人狠狠砍中了你的手臂，留下一道重伤。{vspace=5}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc.rpy:11802
 translate chinese jailbird_quest2_76b2fe88_5:
@@ -2895,7 +2895,7 @@ translate chinese vino_76b2fe88:
 # game/script_dlc.rpy:11935
 translate chinese vino_8a0709a5:
 
-    "{cps=50}缓过气来，你才明白救你性命的竟是那射手糟糕的准头——箭矢擦身而过，只留下一道血流不止却并不深的伤口。{vspace=5}{color=#A9A9A9}生命值-2！"
+    "{cps=50}缓过气来，你才明白救你性命的竟是那射手糟糕的准头——箭矢擦身而过，只留下一道血流不止却并不深的伤口。{vspace=5}{color=#A9A9A9}活力-2！"
 
 # game/script_dlc.rpy:11937
 translate chinese vino_f2c6f294_1:
@@ -4614,12 +4614,12 @@ translate chinese monk_1_76b2fe88_15:
 # game/script_dlc.rpy:12742
 translate chinese monk_1_49df36fc:
 
-    "{cps=50}你背着硕大的麻袋，颈间还挂着鲁特琴——怎么看都不像是附近修道院里出来的人。{vspace=5}{color=#A9A9A9}[饰品检定存疑！]"
+    "{cps=50}你背着硕大的麻袋，颈间还挂着鲁特琴——怎么看都不像是附近修道院里出来的人。{vspace=5}{color=#A9A9A9}[Trinket check indecisive!]"
 
 # game/script_dlc.rpy:12744
 translate chinese monk_1_a9b383d8:
 
-    "{cps=50}你颈间挂着鲁特琴，怎么看都不像是附近修道院里出来的人。{vspace=5}{color=#A9A9A9}[饰品检定存疑！]"
+    "{cps=50}你颈间挂着鲁特琴，怎么看都不像是附近修道院里出来的人。{vspace=5}{color=#A9A9A9}[Trinket check indecisive!]"
 
 # game/script_dlc.rpy:12745
 translate chinese monk_1_fa37df42:
@@ -4767,12 +4767,12 @@ translate chinese monk_1_76b2fe88_23:
 # game/script_dlc.rpy:12822
 translate chinese monk_1_855cea9c:
 
-    "{cps=50}你背着硕大的麻袋，怀里还揣着一支长笛——怎么看都不像是附近修道院里出来的人。{vspace=5}{color=#A9A9A9}[饰品检定存疑！]"
+    "{cps=50}你背着硕大的麻袋，怀里还揣着一支长笛——怎么看都不像是附近修道院里出来的人。{vspace=5}{color=#A9A9A9}[Trinket check indecisive!]"
 
 # game/script_dlc.rpy:12824
 translate chinese monk_1_25ef301f:
 
-    "{cps=50}你怀里揣着一支长笛，怎么看都不像是附近修道院里出来的人。{vspace=5}{color=#A9A9A9}[饰品检定存疑！]"
+    "{cps=50}你怀里揣着一支长笛，怎么看都不像是附近修道院里出来的人。{vspace=5}{color=#A9A9A9}[Trinket check indecisive!]"
 
 # game/script_dlc.rpy:12825
 translate chinese monk_1_fa37df42_1:
@@ -4933,7 +4933,7 @@ translate chinese monk_1_76b2fe88_33:
 translate chinese monk_1_412eb76f:
 
     nvl clear
-    "{cps=50}起初一切还算顺利，可当你从一名卫兵身边经过时，他的目光在你身上打了个转，显然有什么地方不对味。{vspace=5}{color=#A9A9A9}[饰品检定存疑！]{vspace=5}幸运检定失败！"
+    "{cps=50}起初一切还算顺利，可当你从一名卫兵身边经过时，他的目光在你身上打了个转，显然有什么地方不对味。{vspace=5}{color=#A9A9A9}[Trinket check indecisive!]{vspace=5}幸运检定失败！"
 
 # game/script_dlc.rpy:12912
 translate chinese monk_1_b9280253:
@@ -4975,7 +4975,7 @@ translate chinese monk_1_76b2fe88_35:
 translate chinese monk_1_56a47d92:
 
     nvl clear
-    "{cps=50}起初一切还算顺利，可当你从一名卫兵身边经过时，他的目光在你身上打了个转，显然有什么地方不对味。{vspace=5}{color=#A9A9A9}[饰品检定存疑！]"
+    "{cps=50}起初一切还算顺利，可当你从一名卫兵身边经过时，他的目光在你身上打了个转，显然有什么地方不对味。{vspace=5}{color=#A9A9A9}[Trinket check indecisive!]"
 
 # game/script_dlc.rpy:12936
 translate chinese monk_1_b9280253_2:
@@ -5732,7 +5732,7 @@ translate chinese monk_city_3_76b2fe88_5:
 translate chinese monk_city_3_8c5c9a05:
 
     nvl clear
-    "{cps=50}趁一名卫兵走开解手的空当，你悄悄摸到另一名身后，掷出一支毒镖。剧毒转眼间便放倒了敌人，为你让开道路，你得以安然脱身，回到营地。{vspace=5}{color=#A9A9A9}饰品检定——成功！{vspace=5}虔诚度-15！"
+    "{cps=50}趁一名卫兵走开解手的空当，你悄悄摸到另一名身后，掷出一支毒镖。剧毒转眼间便放倒了敌人，为你让开道路，你得以安然脱身，回到营地。{vspace=5}{color=#A9A9A9}饰品检定——成功！{vspace=5}美德度-15！"
 
 # game/script_dlc.rpy:13295
 translate chinese monk_city_3_76b2fe88_6:
@@ -5792,7 +5792,7 @@ translate chinese monk_city_3_76b2fe88_10:
 translate chinese monk_city_3_55821159:
 
     nvl clear
-    "{cps=50}趁一名卫兵走开解手的空当，你悄悄摸到另一名身后，用弩弦绞住了他的脖子。{vspace=5}{color=#A9A9A9}饰品检定——成功！{vspace=5}虔诚度-15！"
+    "{cps=50}趁一名卫兵走开解手的空当，你悄悄摸到另一名身后，用弩弦绞住了他的脖子。{vspace=5}{color=#A9A9A9}饰品检定——成功！{vspace=5}美德度-15！"
 
 # game/script_dlc.rpy:13351
 translate chinese monk_city_3_7d4bc37a:
@@ -6984,7 +6984,7 @@ translate chinese forager_quest_village3_afterfight_7d4c56ae:
 # game/script_dlc.rpy:14066
 translate chinese forager_quest_village3_afterfight_538d9687:
 
-    "{cps=50}{color=#A9A9A9}生命值-1！"
+    "{cps=50}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc.rpy:14067
 translate chinese forager_quest_village3_afterfight_84aa8e8c:
@@ -10349,7 +10349,7 @@ translate chinese a_visit_to_the_devil_menu_2edacb51:
 translate chinese a_visit_to_the_devil_menu_c45589d6:
 
     nvl clear
-    "{cps=50}很快，寒冷让你牙齿打颤，恶臭令你呼吸困难。{vspace=5}{color=#A9A9A9}生命力降低1！{vspace=5}毒性上升！"
+    "{cps=50}很快，寒冷让你牙齿打颤，恶臭令你呼吸困难。{vspace=5}{color=#A9A9A9}活力降低1！{vspace=5}毒性上升！"
 
 # game/script_dlc.rpy:15653
 translate chinese a_visit_to_the_devil_menu_64d8c803:
@@ -15170,7 +15170,7 @@ translate chinese st_lazarus_intro_2c1a7e88:
 translate chinese st_lazarus_intro_60c1b5e2:
 
     nvl clear
-    "{cps=50}而且祸不单行。离开医院不久，你便感到身体不适——显然是在接触病患时染上了什么。{vspace=5}{color=#A9A9A9}毒性上升！{vspace=5}生命力降低1！"
+    "{cps=50}而且祸不单行。离开医院不久，你便感到身体不适——显然是在接触病患时染上了什么。{vspace=5}{color=#A9A9A9}毒性上升！{vspace=5}活力降低1！"
 
 # game/script_dlc.rpy:19586
 translate chinese st_lazarus_intro_76b2fe88:
@@ -16665,7 +16665,7 @@ translate chinese el_mansur_scorpio_1cfaabc4:
 translate chinese el_mansur_scorpio_4a8b567b:
 
     nvl clear
-    "{cps=50}可你刚寻了个舒坦的姿势，一只不知从何而来的蝎子就连蜇了你几下，休息就此泡汤。{vspace=5}{color=#A9A9A9}生命力降低1！{vspace=5}毒性上升！"
+    "{cps=50}可你刚寻了个舒坦的姿势，一只不知从何而来的蝎子就连蜇了你几下，休息就此泡汤。{vspace=5}{color=#A9A9A9}活力降低1！{vspace=5}毒性上升！"
 
 # game/script_dlc.rpy:24482
 translate chinese el_mansur_scorpio_76b2fe88:
@@ -17154,7 +17154,7 @@ translate chinese el_mansur_sunstrike_76b2fe88_2:
 translate chinese el_mansur_quicksands_1c060673:
 
     nvl clear
-    "{cps=50}行程第十一日，你勘图有误，竟径直闯入了一片流沙之中。"
+    "{cps=50}第十一天，你对照地图时判断失误，一脚踏进了流沙之中。"
 
 # game/script_dlc.rpy:26269
 translate chinese el_mansur_quicksands_76b2fe88_4:
@@ -17194,7 +17194,7 @@ translate chinese el_mansur_quicksands_08139c16:
 # game/script_dlc.rpy:26310
 translate chinese el_mansur_quicksands_deda9f88:
 
-    "{cps=50}你几乎陷到齐腰深，拼尽全力才死里逃生。奇迹般爬出这夺命的陷阱后，你因疲惫与虚脱而气喘吁吁。{vspace=5}{color=#A9A9A9}力量、敏捷、协调、耐力与生命力降低2！"
+    "{cps=50}你几乎陷到齐腰深，拼尽全力才死里逃生。奇迹般爬出这夺命的陷阱后，你因疲惫与虚脱而气喘吁吁。{vspace=5}{color=#A9A9A9}力量、敏捷、协调、耐力与活力降低2！"
 
 # game/script_dlc.rpy:26317
 translate chinese el_mansur_quicksands_76b2fe88_1:
@@ -17819,7 +17819,7 @@ translate chinese another_genius_idea_intro_883cc00a:
 translate chinese another_genius_idea_intro_2726ac42:
 
     nvl clear
-    "{cps=50}按王子与伯爵的说法，年轻的考德威尔伯爵小姐爱丽丝，几乎是老伯爵唯一信任并听得进话的人。若能赢得她的好感，便有望左右那位老人家。"
+    "{cps=50}按王子与伯爵的说法，年轻的考德威尔伯爵小姐艾丽莎，几乎是老伯爵唯一信任并听得进话的人。若能赢得她的好感，便有望左右那位老人家。"
 
 # game/script_dlc.rpy:27565
 translate chinese another_genius_idea_intro_b952afee:
@@ -23429,7 +23429,7 @@ translate chinese hellish_trio_hadley_intro_76b2fe88_2:
 translate chinese hellish_trio_hadley_intro_0088f52b:
 
     nvl clear
-    "{cps=50}仿佛印证你的猜测，你察觉自己也开始隐隐不适，而且在这片土地上待得越久，不适便越重。{vspace=5}{color=#A9A9A9}生命力、物件——失败！{vspace=5}毒性增加！"
+    "{cps=50}仿佛印证你的猜测，你察觉自己也开始隐隐不适，而且在这片土地上待得越久，不适便越重。{vspace=5}{color=#A9A9A9}活力、物件——失败！{vspace=5}毒性增加！"
 
 # game/script_dlc.rpy:32430
 translate chinese hellish_trio_hadley_intro_eb8da564:
@@ -25818,7 +25818,7 @@ translate chinese ransom_ambush_intro_dce71664:
 translate chinese ransom_ambush_intro_b446878f:
 
     nvl clear
-    "{cps=50}所幸这一箭不致命，却疼痛难忍，还引发了感染。{vspace=5}{color=#A9A9A9}生命力降低10！{vspace=5}毒性增加！"
+    "{cps=50}所幸这一箭不致命，却疼痛难忍，还引发了感染。{vspace=5}{color=#A9A9A9}活力降低10！{vspace=5}毒性增加！"
 
 # game/script_dlc.rpy:35538
 translate chinese ransom_ambush_intro_3aa65f66:
@@ -26021,7 +26021,7 @@ translate chinese merchant_of_venice_talk_menu_76b2fe88_5:
 # game/script_dlc.rpy:35649
 translate chinese merchant_of_venice_talk_menu_f7bc7d44:
 
-    "{cps=50}你答应了，付出了血的代价。{vspace=5}{color=#A9A9A9}生命力降低10！{vspace=5}手臂受伤！"
+    "{cps=50}你答应了，付出了血的代价。{vspace=5}{color=#A9A9A9}活力降低10！{vspace=5}手臂受伤！"
 
 # game/script_dlc.rpy:35659
 translate chinese merchant_of_venice_talk_menu_80a601d8:
@@ -26825,7 +26825,7 @@ translate chinese watchmen_intro_250c5501:
 translate chinese watchmen_intro_561ac974:
 
     nvl clear
-    "{cps=50}思来想去，你决定还是再去莉娜那里看看。{vspace=5}她大方地招待你吃了顿自家做的饭，味道竟出乎意料地可口。{vspace=5}{color=#A9A9A9}生命力增加1！"
+    "{cps=50}思来想去，你决定还是再去莉娜那里看看。{vspace=5}她大方地招待你吃了顿自家做的饭，味道竟出乎意料地可口。{vspace=5}{color=#A9A9A9}活力增加1！"
 
 # game/script_dlc.rpy:36449
 translate chinese watchmen_intro_76b2fe88:
@@ -46539,7 +46539,7 @@ translate chinese hunt_1_76b2fe88:
 # game/script_dlc.rpy:51205
 translate chinese hunt_1_1a8e302f:
 
-    "{cps=50}{color=#A9A9A9}生命值提高了 [forager_civil_talent_vitality_bonus]！"
+    "{cps=50}{color=#A9A9A9}活力提高了 [forager_civil_talent_vitality_bonus]！"
 
 # game/script_dlc.rpy:51206
 translate chinese hunt_1_76b2fe88_2:
@@ -46999,7 +46999,7 @@ translate chinese hunt_1_tavern_08a250c3:
 translate chinese hunt_1_tavern_2477f8fd:
 
     nvl clear
-    "{cps=50}店家备下的饭菜出乎意料地可口，吃罢浑身又有了力气。{vspace=5}{color=#A9A9A9}生命值提升2点！"
+    "{cps=50}店家备下的饭菜出乎意料地可口，吃罢浑身又有了力气。{vspace=5}{color=#A9A9A9}活力提升2点！"
 
 # game/script_dlc.rpy:51558
 translate chinese hunt_1_tavern_76b2fe88:
@@ -47274,7 +47274,7 @@ translate chinese hunt_1_fire_519edb21:
 translate chinese hunt_1_fire_38784ef8:
 
     nvl clear
-    "{cps=50}虽然救出的面粉袋不多，磨坊主依然满怀感激，发誓余生都要为你的康健向主祈祷。{vspace=5}{color=#A9A9A9}虔诚+10！"
+    "{cps=50}虽然救出的面粉袋不多，磨坊主依然满怀感激，发誓余生都要为你的康健向主祈祷。{vspace=5}{color=#A9A9A9}美德+10！"
 
 # game/script_dlc.rpy:51686
 translate chinese hunt_1_fire_6f90863e:
@@ -47292,13 +47292,13 @@ translate chinese hunt_1_fire_76b2fe88:
 translate chinese hunt_1_fire_c30daf77:
 
     nvl clear
-    "{cps=50}然而浓烟灌肺，你很快就觉得不适。{vspace=5}{color=#A9A9A9}生命值-1！"
+    "{cps=50}然而浓烟灌肺，你很快就觉得不适。{vspace=5}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc.rpy:51695
 translate chinese hunt_1_fire_38784ef8_1:
 
     nvl clear
-    "{cps=50}虽然救出的面粉袋不多，磨坊主依然满怀感激，发誓余生都要为你的康健向主祈祷。{vspace=5}{color=#A9A9A9}虔诚+10！"
+    "{cps=50}虽然救出的面粉袋不多，磨坊主依然满怀感激，发誓余生都要为你的康健向主祈祷。{vspace=5}{color=#A9A9A9}美德+10！"
 
 # game/script_dlc.rpy:51698
 translate chinese hunt_1_fire_6f90863e_1:
@@ -47316,7 +47316,7 @@ translate chinese hunt_1_fire_76b2fe88_1:
 translate chinese hunt_1_fire_fbc7f5c5:
 
     nvl clear
-    "{cps=50}眼见磨坊已烧得如一支火炬，随时都会轰然倒塌，你决意不拿性命去赌。{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}眼见磨坊已烧得如一支火炬，随时都会轰然倒塌，你决意不拿性命去赌。{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:51708
 translate chinese hunt_1_fire_f7b8a72f:
@@ -47394,7 +47394,7 @@ translate chinese hunt_1_poison_e18a462e:
 translate chinese hunt_1_poison_ccfd8466:
 
     nvl clear
-    "{cps=50}缓过气来的旅人连声道谢，为表深深的感激，赠了你一枚珍贵的戒指。{vspace=5}{color=#A9A9A9}虔诚+10！"
+    "{cps=50}缓过气来的旅人连声道谢，为表深深的感激，赠了你一枚珍贵的戒指。{vspace=5}{color=#A9A9A9}美德+10！"
 
 # game/script_dlc.rpy:51753
 translate chinese hunt_1_poison_76b2fe88_1:
@@ -47424,7 +47424,7 @@ translate chinese hunt_1_poison_e18a462e_1:
 translate chinese hunt_1_poison_ccfd8466_1:
 
     nvl clear
-    "{cps=50}缓过气来的旅人连声道谢，为表深深的感激，赠了你一枚珍贵的戒指。{vspace=5}{color=#A9A9A9}虔诚+10！"
+    "{cps=50}缓过气来的旅人连声道谢，为表深深的感激，赠了你一枚珍贵的戒指。{vspace=5}{color=#A9A9A9}美德+10！"
 
 # game/script_dlc.rpy:51773
 translate chinese hunt_1_poison_76b2fe88_3:
@@ -47478,7 +47478,7 @@ translate chinese hunt_1_poison_give_item_e18a462e:
 translate chinese hunt_1_poison_give_item_ccfd8466:
 
     nvl clear
-    "{cps=50}缓过气来的旅人连声道谢，为表深深的感激，赠了你一枚珍贵的戒指。{vspace=5}{color=#A9A9A9}虔诚+10！"
+    "{cps=50}缓过气来的旅人连声道谢，为表深深的感激，赠了你一枚珍贵的戒指。{vspace=5}{color=#A9A9A9}美德+10！"
 
 # game/script_dlc.rpy:51800
 translate chinese hunt_1_poison_give_item_76b2fe88:
@@ -48107,7 +48107,7 @@ translate chinese hunt_1_nest_climb_76b1085f:
 translate chinese hunt_1_nest_climb_231a493b:
 
     nvl clear
-    "{cps=50}可臂力很快就撑不住了，你失手摔了下来。{vspace=5}{color=#A9A9A9}力量、运气——失败！{vspace=5}生命值-1！"
+    "{cps=50}可臂力很快就撑不住了，你失手摔了下来。{vspace=5}{color=#A9A9A9}力量、运气——失败！{vspace=5}活力-1！"
 
 # game/script_dlc.rpy:52197
 translate chinese hunt_1_nest_climb_76b2fe88:
@@ -48131,7 +48131,7 @@ translate chinese hunt_1_nest_climb_a3f954f5:
 translate chinese hunt_1_nest_climb_d8d71d26:
 
     nvl clear
-    "{cps=50}失去支撑，你坠向地面，摔得不轻。{vspace=5}{color=#A9A9A9}生命值-2！"
+    "{cps=50}失去支撑，你坠向地面，摔得不轻。{vspace=5}{color=#A9A9A9}活力-2！"
 
 # game/script_dlc.rpy:52214
 translate chinese hunt_1_nest_climb_76b2fe88_1:
@@ -48161,7 +48161,7 @@ translate chinese hunt_1_nest_climb_31937e76:
 translate chinese hunt_1_nest_climb_666b032b:
 
     nvl clear
-    "{cps=50}……你重重摔落在地，撞得不轻。{vspace=5}{color=#A9A9A9}生命值-3！"
+    "{cps=50}……你重重摔落在地，撞得不轻。{vspace=5}{color=#A9A9A9}活力-3！"
 
 # game/script_dlc.rpy:52233
 translate chinese hunt_1_nest_climb_76b2fe88_3:
@@ -48243,7 +48243,7 @@ translate chinese hunt_1_wagon_menu_76b2fe88_2:
 # game/script_dlc.rpy:52277
 translate chinese hunt_1_wagon_menu_3a92aeb4:
 
-    "{cps=50}你花了两三个时辰掘坑备坟，将这些不幸之人安葬入土，送他们最后一程。{vspace=5}{color=#A9A9A9}时间流逝：2{vspace=5}虔诚+15！{vspace=5}疲劳等级上升！"
+    "{cps=50}你花了几个小时掘坑备坟，将这些不幸之人安葬入土，送他们最后一程。{vspace=5}{color=#A9A9A9}时间流逝：2{vspace=5}美德+15！{vspace=5}疲劳等级上升！"
 
 # game/script_dlc.rpy:52283
 translate chinese hunt_1_wagon_menu_f1842128:
@@ -48598,7 +48598,7 @@ translate chinese hunt_2_peasants_a35e36b6:
 translate chinese hunt_2_peasants_950a7d72:
 
     nvl clear
-    "{cps=50}这番盛情显然对身子大有裨益，只是时间也耗费了不少。{vspace=5}{color=#A9A9A9}生命值+1！{vspace=5}时间流逝：3。"
+    "{cps=50}这番盛情显然对身子大有裨益，只是时间也耗费了不少。{vspace=5}{color=#A9A9A9}活力+1！{vspace=5}时间流逝：3。"
 
 # game/script_dlc.rpy:52532
 translate chinese hunt_2_peasants_76b2fe88_1:
@@ -48650,12 +48650,12 @@ translate chinese hunt_2_rain_76b2fe88_1:
 # game/script_dlc.rpy:52552
 translate chinese hunt_2_rain_a3ddb456:
 
-    "{cps=50}你将这个皮囊收归己有。{vspace=5}{color=#A9A9A9}虔诚-5。"
+    "{cps=50}你将这个皮囊收归己有。{vspace=5}{color=#A9A9A9}美德-5。"
 
 # game/script_dlc.rpy:52557
 translate chinese hunt_2_rain_c49cb53e:
 
-    "{cps=50}你决定不擅动他人物品。{vspace=5}{color=#A9A9A9}虔诚+5。"
+    "{cps=50}你决定不擅动他人物品。{vspace=5}{color=#A9A9A9}美德+5。"
 
 # game/script_dlc.rpy:52563
 translate chinese hunt_2_deserter_f3f612cb:
@@ -48732,7 +48732,7 @@ translate chinese hunt_2_deserter_0453aa84:
 translate chinese hunt_2_deserter_ca8d8e5e:
 
     nvl clear
-    "{cps=50}踌躇片刻，他终究还是愿意信你一回，但要你立誓绝不向任何人泄露他的藏身之处。{vspace=5}{color=#A9A9A9}虔诚——成功！"
+    "{cps=50}踌躇片刻，他终究还是愿意信你一回，但要你立誓绝不向任何人泄露他的藏身之处。{vspace=5}{color=#A9A9A9}美德——成功！"
 
 # game/script_dlc.rpy:52594
 translate chinese hunt_2_deserter_76b2fe88_1:
@@ -48744,7 +48744,7 @@ translate chinese hunt_2_deserter_76b2fe88_1:
 translate chinese hunt_2_deserter_721bc7ee:
 
     nvl clear
-    "{cps=50}他愣了一瞬，若有所思……可旋即甩开这些念头，声称他信不过你，你迟早会把他供出去。{vspace=5}{color=#A9A9A9}虔诚——失败！"
+    "{cps=50}他愣了一瞬，若有所思……可旋即甩开这些念头，声称他信不过你，你迟早会把他供出去。{vspace=5}{color=#A9A9A9}美德——失败！"
 
 # game/script_dlc.rpy:52601
 translate chinese hunt_2_deserter_76b2fe88_2:
@@ -48952,7 +48952,7 @@ translate chinese hunt_2_marauders_133ab8c0:
 translate chinese hunt_2_marauders_ac2c838c:
 
     nvl clear
-    "{cps=50}你素来不是见死不救之人，便应下替他们收拾这帮恶徒。{vspace=5}{color=#A9A9A9}虔诚+15！"
+    "{cps=50}你素来不是见死不救之人，便应下替他们收拾这帮恶徒。{vspace=5}{color=#A9A9A9}美德+15！"
 
 # game/script_dlc.rpy:52701
 translate chinese hunt_2_marauders_76b2fe88:
@@ -48964,7 +48964,7 @@ translate chinese hunt_2_marauders_76b2fe88:
 translate chinese hunt_2_marauders_c92f8b0c:
 
     nvl clear
-    "{cps=50}你不想卷进这场凶险的祸事，便回绝了插手。{vspace=5}{color=#A9A9A9}虔诚-30！"
+    "{cps=50}你不想卷进这场凶险的祸事，便回绝了插手。{vspace=5}{color=#A9A9A9}美德-30！"
 
 # game/script_dlc.rpy:52710
 translate chinese hunt_2_marauders_76b2fe88_1:
@@ -49000,7 +49000,7 @@ translate chinese hunt_2_bear_trap_76b2fe88_1:
 translate chinese hunt_2_bear_trap_1371cb07:
 
     nvl clear
-    "{cps=50}……你一脚踩进了铁夹，被夹得皮开肉绽。{vspace=5}{color=#A9A9A9}运气、协调——失败！{vspace=5}生命值-1！"
+    "{cps=50}……你一脚踩进了铁夹，被夹得皮开肉绽。{vspace=5}{color=#A9A9A9}运气、协调——失败！{vspace=5}活力-1！"
 
 # game/script_dlc.rpy:52728
 translate chinese hunt_2_bear_trap_76b2fe88_2:
@@ -49126,7 +49126,7 @@ translate chinese hunt_2_fall_76b2fe88_2:
 translate chinese hunt_2_fall_a2d400bc:
 
     nvl clear
-    "{cps=50}这一跤摔得极重，想不受伤也难。{vspace=5}{color=#A9A9A9}生命值-1！"
+    "{cps=50}这一跤摔得极重，想不受伤也难。{vspace=5}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc.rpy:52791
 translate chinese hunt_2_fall_76b2fe88_3:
@@ -49210,7 +49210,7 @@ translate chinese hunt_2_wandering_knight_76b2fe88:
 translate chinese hunt_2_wandering_knight_d88482fd:
 
     nvl clear
-    "{cps=50}这招没能奏效：时机差了半分，你只来得及闪开半边，长枪的沉重一击仍砸在你身上，将你掀翻在地。{vspace=5}{color=#A9A9A9}生命值-1！"
+    "{cps=50}这招没能奏效：时机差了半分，你只来得及闪开半边，长枪的沉重一击仍砸在你身上，将你掀翻在地。{vspace=5}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc.rpy:52828
 translate chinese hunt_2_wandering_knight_fbf72b52:
@@ -49234,7 +49234,7 @@ translate chinese hunt_2_wandering_knight_4ac233e9:
 translate chinese hunt_2_wandering_knight_0c68111b:
 
     nvl clear
-    "{cps=50}你开口讨饶。骑士不愧是有荣誉感的人，接受了你的认输，放你离去。{vspace=5}{color=#A9A9A9}虔诚-10！{vspace=5}威望-1！"
+    "{cps=50}你开口讨饶。骑士不愧是有荣誉感的人，接受了你的认输，放你离去。{vspace=5}{color=#A9A9A9}美德-10！{vspace=5}威望-1！"
 
 # game/script_dlc.rpy:52843
 translate chinese hunt_2_wandering_knight_76b2fe88_1:
@@ -49276,7 +49276,7 @@ translate chinese hunt_2_wandering_knight_76b2fe88_4:
 translate chinese hunt_2_wandering_knight_c15204a9:
 
     nvl clear
-    "{cps=50}可惜第二回这法子又失灵了——骑士一记重击再度将你掀翻在地。{vspace=5}{color=#A9A9A9}生命值-1！"
+    "{cps=50}可惜第二回这法子又失灵了——骑士一记重击再度将你掀翻在地。{vspace=5}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc.rpy:52867
 translate chinese hunt_2_wandering_knight_fdea2bea:
@@ -49300,7 +49300,7 @@ translate chinese hunt_2_wandering_knight_4ac233e9_1:
 translate chinese hunt_2_wandering_knight_0c68111b_1:
 
     nvl clear
-    "{cps=50}你开口讨饶。骑士不愧是有荣誉感的人，接受了你的认输，放你离去。{vspace=5}{color=#A9A9A9}虔诚-10！{vspace=5}威望-1！"
+    "{cps=50}你开口讨饶。骑士不愧是有荣誉感的人，接受了你的认输，放你离去。{vspace=5}{color=#A9A9A9}美德-10！{vspace=5}威望-1！"
 
 # game/script_dlc.rpy:52882
 translate chinese hunt_2_wandering_knight_76b2fe88_5:
@@ -49342,7 +49342,7 @@ translate chinese hunt_2_wandering_knight_76b2fe88_8:
 translate chinese hunt_2_wandering_knight_2ef71482:
 
     nvl clear
-    "{cps=50}可惜第三回这法子又失灵了——骑士一记重击再度将你掀翻在地。{vspace=5}{color=#A9A9A9}生命值-1！"
+    "{cps=50}可惜第三回这法子又失灵了——骑士一记重击再度将你掀翻在地。{vspace=5}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc.rpy:52906
 translate chinese hunt_2_wandering_knight_09ccb619:
@@ -49378,7 +49378,7 @@ translate chinese hunt_2_wandering_knight_76b2fe88_9:
 translate chinese hunt_2_wandering_knight_002a25fd:
 
     nvl clear
-    "{cps=50}午后再跟一位骑着高头战马的铁甲骑士来场决斗？这可不在此刻的安排之内。你客气地谢绝了这场比试——宁可折点颜面，也要保住身子骨。{vspace=5}{color=#A9A9A9}虔诚-15！{vspace=5}威望-1！"
+    "{cps=50}午后再跟一位骑着高头战马的铁甲骑士来场决斗？这可不在此刻的安排之内。你客气地谢绝了这场比试——宁可折点颜面，也要保住身子骨。{vspace=5}{color=#A9A9A9}美德-15！{vspace=5}威望-1！"
 
 # game/script_dlc.rpy:52927
 translate chinese hunt_2_wandering_knight_76b2fe88_11:
@@ -49432,7 +49432,7 @@ translate chinese hunt_2_knight_v_bandits_76b2fe88_4:
 translate chinese hunt_2_knight_v_bandits_4ece7863:
 
     nvl clear
-    "{cps=50}你不想卷进这等麻烦，转身避了开去。{vspace=5}{color=#A9A9A9}虔诚-10！"
+    "{cps=50}你不想卷进这等麻烦，转身避了开去。{vspace=5}{color=#A9A9A9}美德-10！"
 
 # game/script_dlc.rpy:52953
 translate chinese hunt_2_knight_v_bandits_76b2fe88_1:
@@ -49444,7 +49444,7 @@ translate chinese hunt_2_knight_v_bandits_76b2fe88_1:
 translate chinese hunt_2_knight_v_bandits_24801a79:
 
     nvl clear
-    "{cps=50}你的荣誉感不容你坐视他人陷入危难，你当即冲上前去援手。{vspace=5}{color=#A9A9A9}虔诚+10！"
+    "{cps=50}你的荣誉感不容你坐视他人陷入危难，你当即冲上前去援手。{vspace=5}{color=#A9A9A9}美德+10！"
 
 # game/script_dlc.rpy:52961
 translate chinese hunt_2_knight_v_bandits_76b2fe88_2:
@@ -49456,7 +49456,7 @@ translate chinese hunt_2_knight_v_bandits_76b2fe88_2:
 translate chinese hunt_2_knight_v_bandits_65244afc:
 
     nvl clear
-    "{cps=50}眼见那被围的骑士像是砧板上的鱼肉，你也加入了强盗的行列，朝他一拥而上。{vspace=5}{color=#A9A9A9}虔诚-30！"
+    "{cps=50}眼见那被围的骑士像是砧板上的鱼肉，你也加入了强盗的行列，朝他一拥而上。{vspace=5}{color=#A9A9A9}美德-30！"
 
 # game/script_dlc.rpy:52969
 translate chinese hunt_2_knight_v_bandits_76b2fe88_3:
@@ -49497,7 +49497,7 @@ translate chinese hunt_2_mausoleum_141c9539:
 translate chinese hunt_2_mausoleum_e0ec92d8:
 
     nvl clear
-    "{cps=50}若是更敬畏神明的虔诚信徒，恐怕早已将此视为天意、就此作罢；可你不为所动。脑筋一转，不多时便寻到法子，从坍塌的屋顶钻进了墓穴。{color=#A9A9A9}{vspace=5}低虔诚——成功！{vspace=5}时间流逝：1！"
+    "{cps=50}若是更敬畏神明的美德信徒，恐怕早已将此视为天意、就此作罢；可你不为所动。脑筋一转，不多时便寻到法子，从坍塌的屋顶钻进了墓穴。{color=#A9A9A9}{vspace=5}低美德——成功！{vspace=5}时间流逝：1！"
 
 # game/script_dlc.rpy:52992
 translate chinese hunt_2_mausoleum_f12eed8d:
@@ -49509,7 +49509,7 @@ translate chinese hunt_2_mausoleum_f12eed8d:
 translate chinese hunt_2_mausoleum_e1a3f609:
 
     nvl clear
-    "{cps=50}你从屋顶跃入墓穴的黑暗，落地却失了准头，摔出了伤。{color=#A9A9A9}{vspace=5}协调——失败！{vspace=5}生命值-2！"
+    "{cps=50}你从屋顶跃入墓穴的黑暗，落地却失了准头，摔出了伤。{color=#A9A9A9}{vspace=5}协调——失败！{vspace=5}活力-2！"
 
 # game/script_dlc.rpy:52999
 translate chinese hunt_2_mausoleum_1cb1b2c3:
@@ -49557,7 +49557,7 @@ translate chinese hunt_2_mausoleum_8a882d95:
 translate chinese hunt_2_mausoleum_49aa2f09:
 
     nvl clear
-    "{cps=50}你觉得这兴许是天意如此，便折回了路上。{color=#A9A9A9}{vspace=5}低虔诚——失败！"
+    "{cps=50}你觉得这兴许是天意如此，便折回了路上。{color=#A9A9A9}{vspace=5}低美德——失败！"
 
 # game/script_dlc.rpy:53024
 translate chinese hunt_2_mausoleum_76b2fe88_3:
@@ -49661,7 +49661,7 @@ translate chinese hunt_2_mausoleum_end_a35e36b6:
 translate chinese hunt_2_mausoleum_end_950a7d72:
 
     nvl clear
-    "{cps=50}这番盛情显然对身子大有裨益，只是时间也耗费了不少。{vspace=5}{color=#A9A9A9}生命值+1！{vspace=5}时间流逝：3。"
+    "{cps=50}这番盛情显然对身子大有裨益，只是时间也耗费了不少。{vspace=5}{color=#A9A9A9}活力+1！{vspace=5}时间流逝：3。"
 
 # game/script_dlc.rpy:53073
 translate chinese hunt_2_mausoleum_end_76b2fe88_3:
@@ -49690,7 +49690,7 @@ translate chinese hunt_2_caravan_9d4bfe66:
 translate chinese hunt_2_caravan_078567cd:
 
     nvl clear
-    "{cps=50}你这双惯于掂量黑活的眼立刻看出：别看货物沉重，这车队却几乎毫无防卫。除开几个显然不擅打斗的胖商人，护送的只有两个装备平平的农民打手。{color=#A9A9A9}{vspace=5}低虔诚——成功！"
+    "{cps=50}你这双惯于掂量黑活的眼立刻看出：别看货物沉重，这车队却几乎毫无防卫。除开几个显然不擅打斗的胖商人，护送的只有两个装备平平的农民打手。{color=#A9A9A9}{vspace=5}低美德——成功！"
 
 # game/script_dlc.rpy:53086
 translate chinese hunt_2_caravan_dd7d1244:
@@ -49779,7 +49779,7 @@ translate chinese hunt_2_caravan_76b2fe88_2:
 translate chinese hunt_2_caravan_74967df8:
 
     nvl clear
-    "{cps=50}这点可怜的封口费可满足不了你——你亮出兵器，准备用强夺下货物。{color=#A9A9A9}{vspace=5}虔诚-20！"
+    "{cps=50}这点可怜的封口费可满足不了你——你亮出兵器，准备用强夺下货物。{color=#A9A9A9}{vspace=5}美德-20！"
 
 # game/script_dlc.rpy:53130
 translate chinese hunt_2_caravan_76b2fe88_3:
@@ -49791,7 +49791,7 @@ translate chinese hunt_2_caravan_76b2fe88_3:
 translate chinese hunt_2_caravan_59ffc5e3:
 
     nvl clear
-    "{cps=50}你不想平白作下这份孽，便放车队通行。{color=#A9A9A9}{vspace=5}虔诚+5！"
+    "{cps=50}你不想平白作下这份孽，便放车队通行。{color=#A9A9A9}{vspace=5}美德+5！"
 
 # game/script_dlc.rpy:53138
 translate chinese hunt_2_caravan_76b2fe88_5:
@@ -49938,7 +49938,7 @@ translate chinese hunt_2_bandits_fight_76b2fe88:
 # game/script_dlc.rpy:53670
 translate chinese hunt_2_bandits_fight_2f9cedd0:
 
-    "{cps=50}骑士倒下了，他的装备成了你的战利品。{vspace=5}{color=#A9A9A9}虔诚+10！{vspace=5}威望+1！"
+    "{cps=50}骑士阵亡了，他的装备成了你的战利品。{vspace=5}{color=#A9A9A9}美德+10！{vspace=5}威望+1！"
 
 # game/script_dlc.rpy:53675
 translate chinese hunt_2_bandits_fight_3baf6250:
@@ -50279,7 +50279,7 @@ translate chinese hunt_3_7d4387e0:
 # game/script_dlc.rpy:54319
 translate chinese hunt_3_b7dc80ab:
 
-    "{cps=50}这骑士远非你能匹敌——眼见强盗们一个接一个倒地，你决意不步他们后尘，转身便逃。{vspace=5}{color=#A9A9A9}虔诚-5！{vspace=5}威望-1！"
+    "{cps=50}这骑士远非你能匹敌——眼见强盗们一个接一个倒地，你决意不步他们后尘，转身便逃。{vspace=5}{color=#A9A9A9}美德-5！{vspace=5}威望-1！"
 
 # game/script_dlc.rpy:54322
 translate chinese hunt_3_76b2fe88:
@@ -50290,7 +50290,7 @@ translate chinese hunt_3_76b2fe88:
 # game/script_dlc.rpy:54324
 translate chinese hunt_3_c9d7543b:
 
-    "{cps=50}战局对你不利，为保性命，你不得不夺路而逃。{vspace=5}{color=#A9A9A9}虔诚-5！"
+    "{cps=50}战局对你不利，为保性命，你不得不夺路而逃。{vspace=5}{color=#A9A9A9}美德-5！"
 
 # game/script_dlc.rpy:54327
 translate chinese hunt_3_8d851897:
@@ -50675,7 +50675,7 @@ translate chinese player_looted_bodies_disease_76b2fe88:
 # game/script_dlc.rpy:65802
 translate chinese player_looted_bodies_disease_2bcf09ea:
 
-    "{cps=50}你爱翻检尸体的癖好，让你染上了某种传染病。{vspace=5}{color=#A9A9A9}生命值-2！"
+    "{cps=50}你爱翻检尸体的癖好，让你染上了某种传染病。{vspace=5}{color=#A9A9A9}活力-2！"
 
 # game/script_dlc.rpy:65805
 translate chinese player_looted_bodies_disease_497733f5:
@@ -50703,22 +50703,22 @@ translate chinese player_low_virtue_effect_76b2fe88_1:
 # game/script_dlc.rpy:65829
 translate chinese player_low_virtue_effect_d960f57c:
 
-    "{cps=50}你不敬神明的行径招来种种恶毒流言，飞快地传遍四邻，败坏了你的名声。{vspace=5}{color=#A9A9A9}虔诚——失败！{vspace=5}声望（士兵）-15！{vspace=5}声望（伯爵）-4！"
+    "{cps=50}你不敬神明的行径招来种种恶毒流言，飞快地传遍四邻，败坏了你的名声。{vspace=5}{color=#A9A9A9}美德——失败！{vspace=5}声望（士兵）-15！{vspace=5}声望（伯爵）-4！"
 
 # game/script_dlc.rpy:65833
 translate chinese player_low_virtue_effect_ec3f90e0:
 
-    "{cps=50}你不敬神明的行径招来种种恶毒流言，飞快地传遍四邻，败坏了你的名声。{vspace=5}{color=#A9A9A9}虔诚——失败！{vspace=5}声望（士兵）-15！"
+    "{cps=50}你不敬神明的行径招来种种恶毒流言，飞快地传遍四邻，败坏了你的名声。{vspace=5}{color=#A9A9A9}美德——失败！{vspace=5}声望（士兵）-15！"
 
 # game/script_dlc.rpy:65837
 translate chinese player_low_virtue_effect_19d41e2b:
 
-    "{cps=50}你不敬神明的行径招来种种恶毒流言，飞快地传遍四邻，败坏了你的名声。{vspace=5}{color=#A9A9A9}虔诚——失败！{vspace=5}声望（士兵）-10！{vspace=5}声望（伯爵）-2！"
+    "{cps=50}你不敬神明的行径招来种种恶毒流言，飞快地传遍四邻，败坏了你的名声。{vspace=5}{color=#A9A9A9}美德——失败！{vspace=5}声望（士兵）-10！{vspace=5}声望（伯爵）-2！"
 
 # game/script_dlc.rpy:65841
 translate chinese player_low_virtue_effect_67670e9f:
 
-    "{cps=50}你不敬神明的行径招来种种恶毒流言，飞快地传遍四邻，败坏了你的名声。{vspace=5}{color=#A9A9A9}虔诚——失败！{vspace=5}声望（士兵）-10！"
+    "{cps=50}你不敬神明的行径招来种种恶毒流言，飞快地传遍四邻，败坏了你的名声。{vspace=5}{color=#A9A9A9}美德——失败！{vspace=5}声望（士兵）-10！"
 
 # game/script_dlc.rpy:65843
 translate chinese player_low_virtue_effect_76b2fe88_2:
@@ -50879,7 +50879,7 @@ translate chinese soldiers_jealous_76b2fe88:
 # game/script_dlc.rpy:65929
 translate chinese soldiers_jealous_05bf7f98:
 
-    "{cps=50}你认了他们的理，同意分一杯羹。{vspace=5}{color=#A9A9A9}声望（士兵）+15！{vspace=5}虔诚+15！{vspace=5}损失 100 弗罗林！"
+    "{cps=50}你认了他们的理，同意分一杯羹。{vspace=5}{color=#A9A9A9}声望（士兵）+15！{vspace=5}美德+15！{vspace=5}损失 100 弗罗林！"
 
 # game/script_dlc.rpy:65933
 translate chinese soldiers_jealous_76b2fe88_1:
@@ -50908,7 +50908,7 @@ translate chinese soldiers_jealous_13d528f1:
 translate chinese soldiers_jealous_6d938540:
 
     nvl clear
-    "{cps=50}这话自然惹得他们满脸不快，一个个恶狠狠地瞪着你，放话你早晚要为这句话后悔。{vspace=5}{color=#A9A9A9}声望（士兵）-30！{vspace=5}虔诚-30！"
+    "{cps=50}这话自然惹得他们满脸不快，一个个恶狠狠地瞪着你，放话你早晚要为这句话后悔。{vspace=5}{color=#A9A9A9}声望（士兵）-30！{vspace=5}美德-30！"
 
 # game/script_dlc.rpy:65947
 translate chinese soldiers_jealous_76b2fe88_3:
@@ -50949,7 +50949,7 @@ translate chinese frequent_visits_to_brothel_event_negative_76b2fe88:
 # game/script_dlc.rpy:65979
 translate chinese frequent_visits_to_brothel_event_negative_d52200b8:
 
-    "{cps=50}你常去青楼的行径瞒不过众人的眼睛，塞西莉亚对此极为不满。{vspace=5}{color=#A9A9A9}关系（塞西莉亚）-20！"
+    "{cps=50}你常去妓院的行径瞒不过众人的眼睛，塞西莉亚对此极为不满。{vspace=5}{color=#A9A9A9}关系（塞西莉亚）-20！"
 
 # game/script_dlc.rpy:65982
 translate chinese frequent_visits_to_brothel_event_negative_9617d87c:
@@ -50981,7 +50981,7 @@ translate chinese frequent_visits_to_brothel_event_negative_76b2fe88_1:
 translate chinese antisanitary_conditions_d79c5c66:
 
     nvl clear
-    "{cps=50}营地卫生恶劣，引发了疾病的爆发。{vspace=5}{color=#A9A9A9}生命值-1！{vspace=5}毒性上升！"
+    "{cps=50}营地卫生恶劣，引发了疾病的爆发。{vspace=5}{color=#A9A9A9}活力-1！{vspace=5}毒性上升！"
 
 # game/script_dlc.rpy:66033
 translate chinese antisanitary_conditions_76b2fe88:
@@ -50993,7 +50993,7 @@ translate chinese antisanitary_conditions_76b2fe88:
 translate chinese food_shortage_41d8005d:
 
     nvl clear
-    "{cps=50}给养供应不济，你的身体也吃了亏。{vspace=5}{color=#A9A9A9}力量-1！{vspace=5}敏捷-1！{vspace=5}生命值-1！"
+    "{cps=50}给养供应不济，你的身体也吃了亏。{vspace=5}{color=#A9A9A9}力量-1！{vspace=5}敏捷-1！{vspace=5}活力-1！"
 
 # game/script_dlc.rpy:66044
 translate chinese food_shortage_76b2fe88:
@@ -51055,7 +51055,7 @@ translate chinese doctor_visiting_3926d330:
 # game/script_dlc.rpy:66110
 translate chinese doctor_visiting_5c6a9139:
 
-    "{cps=50}一位名医路过营地，花了几日给伤员们逐一诊治、布置疗方。你也在受诊之列。{vspace=5}{color=#A9A9A9}生命值+1！"
+    "{cps=50}一位名医路过营地，花了几日给伤员们逐一诊治、布置疗方。你也在受诊之列。{vspace=5}{color=#A9A9A9}活力+1！"
 
 # game/script_dlc.rpy:66112
 translate chinese doctor_visiting_76b2fe88_1:
@@ -51157,7 +51157,7 @@ translate chinese heist_76b2fe88_2:
 translate chinese heist_b677af92:
 
     nvl clear
-    "{cps=50}你应下此事。到约定的时辰，你与琼斯及他两个朋友在路边埋伏好了。{vspace=5}{color=#A9A9A9}虔诚-20！"
+    "{cps=50}你应下此事。到约定的时辰，你与琼斯及他两个朋友在路边埋伏好了。{vspace=5}{color=#A9A9A9}美德-20！"
 
 # game/script_dlc.rpy:66212
 translate chinese heist_fae63daa:
@@ -51181,7 +51181,7 @@ translate chinese heist_76b2fe88_1:
 translate chinese heist_adcd0101:
 
     nvl clear
-    "{cps=50}你拒绝掺和这事。{vspace=5}{color=#A9A9A9}虔诚+5！"
+    "{cps=50}你拒绝掺和这事。{vspace=5}{color=#A9A9A9}美德+5！"
 
 # game/script_dlc.rpy:66231
 translate chinese heist_76b2fe88_3:
@@ -51229,7 +51229,7 @@ translate chinese heist_76b2fe88_5:
 translate chinese heist_885911a5:
 
     nvl clear
-    "{cps=50}你应下此事。到约定的时辰，你与琼斯及他两个朋友摸进了实验室。{vspace=5}{color=#A9A9A9}虔诚-20！"
+    "{cps=50}你应下此事。到约定的时辰，你与琼斯及他两个朋友摸进了实验室。{vspace=5}{color=#A9A9A9}美德-20！"
 
 # game/script_dlc.rpy:66253
 translate chinese heist_90706f00:
@@ -51247,7 +51247,7 @@ translate chinese heist_76b2fe88_4:
 translate chinese heist_adcd0101_1:
 
     nvl clear
-    "{cps=50}你拒绝掺和这事。{vspace=5}{color=#A9A9A9}虔诚+5！"
+    "{cps=50}你拒绝掺和这事。{vspace=5}{color=#A9A9A9}美德+5！"
 
 # game/script_dlc.rpy:66269
 translate chinese heist_76b2fe88_6:
@@ -51295,7 +51295,7 @@ translate chinese heist_76b2fe88_9:
 translate chinese heist_b64eebb0:
 
     nvl clear
-    "{cps=50}你应下此事。到约定的时辰，你与琼斯及他两个朋友找上了那养马人。{vspace=5}{color=#A9A9A9}虔诚-20！"
+    "{cps=50}你应下此事。到约定的时辰，你与琼斯及他两个朋友找上了那养马人。{vspace=5}{color=#A9A9A9}美德-20！"
 
 # game/script_dlc.rpy:66291
 translate chinese heist_d68c914d:
@@ -51319,7 +51319,7 @@ translate chinese heist_76b2fe88_8:
 translate chinese heist_adcd0101_2:
 
     nvl clear
-    "{cps=50}你拒绝掺和这事。{vspace=5}{color=#A9A9A9}虔诚+5！"
+    "{cps=50}你拒绝掺和这事。{vspace=5}{color=#A9A9A9}美德+5！"
 
 # game/script_dlc.rpy:66307
 translate chinese heist_76b2fe88_10:
@@ -51353,92 +51353,92 @@ translate chinese heist_76b2fe88_11:
 # game/script_dlc.rpy:66337
 translate chinese heist_33d4cabf:
 
-    "{cps=50}你着手尝试，想从装备仓库里顺走几件东西……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你着手尝试，想从装备仓库里顺走几件东西……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66339
 translate chinese heist_ae11bdbc:
 
-    "{cps=50}你着手尝试，想洗劫行军中的铁匠铺……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你着手尝试，想洗劫行军中的铁匠铺……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66341
 translate chinese heist_0826a7b0:
 
-    "{cps=50}你着手尝试，想从士兵的帐篷里顺走几样看中的物件……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你着手尝试，想从士兵的帐篷里顺走几样看中的物件……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66343
 translate chinese heist_10ae259f:
 
-    "{cps=50}你着手尝试，想在熙攘的街巷里摸几个走神路人的口袋……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你着手尝试，想在熙攘的街巷里摸几个走神路人的口袋……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66345
 translate chinese heist_b986c3d4:
 
-    "{cps=50}你着手尝试，想在梅德斯通集市的货摊上顺走一两件东西……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你着手尝试，想在梅德斯通集市的货摊上顺走一两件东西……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66357
 translate chinese heist_37ded52f:
 
-    "{cps=50}你动身去劫掠周边村子的农民……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你动身去劫掠周边村子的农民……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66359
 translate chinese heist_997a4e5a:
 
-    "{cps=50}你动身去打劫附近道路上的旅人……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你动身去打劫附近道路上的旅人……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66361
 translate chinese heist_637035fd:
 
-    "{cps=50}你着手尝试，想洗劫一名在营地歇脚的云游货郎……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你着手尝试，想洗劫一名在营地歇脚的云游货郎……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66373
 translate chinese heist_34ddc1f1:
 
-    "{cps=50}你着手尝试，想洗劫某位骑士的营帐……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你着手尝试，想洗劫某位骑士的营帐……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66375
 translate chinese heist_f897f84d:
 
-    "{cps=50}你着手尝试，想洗劫行军中的军械库……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你着手尝试，想洗劫行军中的军械库……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66377
 translate chinese heist_bbb9e15c:
 
-    "{cps=50}你着手尝试，想洗劫某位领主的营帐……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你着手尝试，想洗劫某位领主的营帐……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66379
 translate chinese heist_0a236940:
 
-    "{cps=50}你着手尝试，想洗劫一位富商的宅邸……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你着手尝试，想洗劫一位富商的宅邸……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66381
 translate chinese heist_8eb269c6:
 
-    "{cps=50}你着手尝试，想洗劫卫队长的宅邸……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你着手尝试，想洗劫卫队长的宅邸……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66383
 translate chinese heist_b0b13e4e:
 
-    "{cps=50}你着手尝试，想洗劫本地商人行会的楼宇……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你着手尝试，想洗劫本地商人行会的楼宇……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66395
 translate chinese heist_480fc5bc:
 
-    "{cps=50}你打定主意，要洗劫附近的那家酒馆……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你打定主意，要洗劫附近的那家酒馆……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66397
 translate chinese heist_b2229ffe:
 
-    "{cps=50}你打定主意，要洗劫附近的那座磨坊……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你打定主意，要洗劫附近的那座磨坊……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66399
 translate chinese heist_88ef16b9:
 
-    "{cps=50}你打定主意，要洗劫城郊的那家酒馆……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你打定主意，要洗劫城郊的那家酒馆……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66401
 translate chinese heist_c51fcaec:
 
-    "{cps=50}你打定主意，要洗劫城外不远处的那座磨坊……{vspace=5}{color=#A9A9A9}虔诚-15！"
+    "{cps=50}你打定主意，要洗劫城外不远处的那座磨坊……{vspace=5}{color=#A9A9A9}美德-15！"
 
 # game/script_dlc.rpy:66406
 translate chinese heist_76b2fe88_12:
@@ -51450,7 +51450,7 @@ translate chinese heist_76b2fe88_12:
 translate chinese heist_c83ff42e:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚-15（小偷）！"
+    "{cps=50}{color=#A9A9A9}美德-15（小偷）！"
 
 # game/script_dlc.rpy:66415
 translate chinese heist_76b2fe88_13:
@@ -51581,7 +51581,7 @@ translate chinese heist_punishment_76b2fe88:
 # game/script_dlc.rpy:66537
 translate chinese heist_punishment_f5a235c2:
 
-    "{cps=50}作为惩罚，你挨了一顿鞭刑。{vspace=5}{color=#A9A9A9}声望（士兵）-10！{vspace=5}声望（伯爵）-3！{vspace=5}生命值-1！"
+    "{cps=50}作为惩罚，你挨了一顿鞭刑。{vspace=5}{color=#A9A9A9}声望（士兵）-10！{vspace=5}声望（伯爵）-3！{vspace=5}活力-1！"
 
 # game/script_dlc.rpy:66542
 translate chinese heist_punishment_48bdbd8e:
@@ -52740,7 +52740,7 @@ translate chinese strings:
     old "Оставить её лежать."
     new "任它留在原地。"
     old "Живучесть снижена на 1!"
-    new "生命值降低1点！"
+    new "活力降低1点！"
     old "Сотрясение!"
     new "脑震荡！"
     old "Поучаствовать."
@@ -53230,7 +53230,7 @@ translate chinese strings:
     old "Лина"
     new "莉娜"
     old "Алиса"
-    new "爱丽丝"
+    new "艾丽莎"
     old "'Я ищу доктора...'"
     new "“我在找医生……”"
     old "Представиться ополченцем."

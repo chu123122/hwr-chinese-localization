@@ -641,7 +641,7 @@ translate chinese venice_merchant_quarter_pickpoket_2a9ef669:
 translate chinese venice_merchant_quarter_pickpoket_6657ba1b:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 +3！"
+    "{cps=50}{color=#A9A9A9}美德 +3！"
 
 # game/script_dlc_4.rpy:376
 translate chinese venice_merchant_quarter_pickpoket_76b2fe88_1:
@@ -671,7 +671,7 @@ translate chinese venice_merchant_quarter_pickpoket_07286d15:
 translate chinese venice_merchant_quarter_pickpoket_78dd2c68:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 -15！"
+    "{cps=50}{color=#A9A9A9}美德 -15！"
 
 # game/script_dlc_4.rpy:390
 translate chinese venice_merchant_quarter_pickpoket_76b2fe88_3:
@@ -689,7 +689,7 @@ translate chinese venice_merchant_quarter_pickpoket_99f8e402:
 translate chinese venice_merchant_quarter_pickpoket_adb3ab0f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 -5！"
+    "{cps=50}{color=#A9A9A9}美德 -5！"
 
 # game/script_dlc_4.rpy:400
 translate chinese venice_merchant_quarter_pickpoket_76b2fe88_4:
@@ -1006,7 +1006,7 @@ translate chinese san_marco_basilica_visit_menu_76b2fe88_3:
 translate chinese san_marco_basilica_visit_menu_135f8287:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 +15！"
+    "{cps=50}{color=#A9A9A9}美德 +15！"
 
 # game/script_dlc_4.rpy:766
 translate chinese san_marco_basilica_visit_menu_76b2fe88_4:
@@ -1218,7 +1218,7 @@ translate chinese venice_tavern_lost_key_2_1688235a:
 translate chinese venice_tavern_lost_key_2_3598905f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 +5！"
+    "{cps=50}{color=#A9A9A9}美德 +5！"
 
 # game/script_dlc_4.rpy:969
 translate chinese venice_tavern_lost_key_2_91d8c37e:
@@ -1230,7 +1230,7 @@ translate chinese venice_tavern_lost_key_2_91d8c37e:
 translate chinese venice_tavern_lost_key_2_adb3ab0f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 -5！"
+    "{cps=50}{color=#A9A9A9}美德 -5！"
 
 # game/script_dlc_4.rpy:974
 translate chinese venice_tavern_lost_key_2_76b2fe88_3:
@@ -2003,7 +2003,7 @@ translate chinese old_fisherman_end_f43d744d:
 translate chinese old_fisherman_end_6dd73930:
 
     nvl clear
-    "{cps=50}虔诚 +7！"
+    "{cps=50}美德 +7！"
 
 # game/script_dlc_4.rpy:1392
 translate chinese old_fisherman_end_76b2fe88_7:
@@ -2021,7 +2021,7 @@ translate chinese old_fisherman_end_44cc2b91:
 translate chinese old_fisherman_end_514f7648:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 -65！"
+    "{cps=50}{color=#A9A9A9}美德 -65！"
 
 # game/script_dlc_4.rpy:1401
 translate chinese old_fisherman_end_7d0e91e5:
@@ -3111,7 +3111,7 @@ translate chinese middle_man_postfight_4104253a:
 translate chinese middle_man_postfight_0b0e0641:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}损失 [attackchance] 弗罗林。{vspace=5}虔诚 +25！"
+    "{cps=50}{color=#A9A9A9}损失 [attackchance] 弗罗林。{vspace=5}美德 +25！"
 
 # game/script_dlc_4.rpy:2730
 translate chinese middle_man_postfight_76b2fe88:
@@ -3123,7 +3123,7 @@ translate chinese middle_man_postfight_76b2fe88:
 translate chinese middle_man_postfight_def4c4bd:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 -50！"
+    "{cps=50}{color=#A9A9A9}美德 -50！"
 
 # game/script_dlc_4.rpy:2737
 translate chinese middle_man_postfight_f7847ce3:
@@ -4460,7 +4460,7 @@ translate chinese francesca_atelier_intro_abc87769:
 translate chinese francesca_atelier_intro_e7b21209:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}脑震荡！{vspace=5}疲劳值上升！{vspace=5}生命力 -2！"
+    "{cps=50}{color=#A9A9A9}脑震荡！{vspace=5}疲劳值上升！{vspace=5}活力 -2！"
 
 # game/script_dlc_4.rpy:4428
 translate chinese francesca_atelier_intro_24b9c434:
@@ -8223,7 +8223,7 @@ translate chinese doge_counter_attacks_saint_erasmo_1_postfight_58501afb:
 translate chinese doge_counter_attacks_saint_erasmo_1_postfight_da1e81a0:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 -15！{vspace=5}声望（士兵）-35！{vspace=5}威望 -1！"
+    "{cps=50}{color=#A9A9A9}美德 -15！{vspace=5}声望（士兵）-35！{vspace=5}威望 -1！"
 
 # game/script_dlc_4.rpy:10842
 translate chinese doge_counter_attacks_saint_erasmo_1_postfight_76b2fe88:
@@ -8252,7 +8252,7 @@ translate chinese doge_counter_attacks_saint_erasmo_1_postfight_15516e34:
 translate chinese doge_counter_attacks_saint_erasmo_1_postfight_78dd2c68:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 -15！"
+    "{cps=50}{color=#A9A9A9}美德 -15！"
 
 # game/script_dlc_4.rpy:10856
 translate chinese doge_counter_attacks_saint_erasmo_1_postfight_76b2fe88_2:
@@ -8263,13 +8263,13 @@ translate chinese doge_counter_attacks_saint_erasmo_1_postfight_76b2fe88_2:
 # game/script_dlc_4.rpy:10862
 translate chinese assault_on_sait_erasmo_deserter_2f3c308a:
 
-    "{cps=50}饱掠一番后，你伙同几名逃兵觅得一叶扁舟，荡着渔船逃回了威尼斯。"
+    "{cps=50}抢掠了个够，你和另外几名逃兵找了条渔船，返回了威尼斯。"
 
 # game/script_dlc_4.rpy:10863
 translate chinese assault_on_sait_erasmo_deserter_da1e81a0:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 -15！{vspace=5}声望（士兵）-35！{vspace=5}威望 -1！"
+    "{cps=50}{color=#A9A9A9}美德 -15！{vspace=5}声望（士兵）-35！{vspace=5}威望 -1！"
 
 # game/script_dlc_4.rpy:10872
 translate chinese assault_on_sait_erasmo_deserter_76b2fe88:
@@ -8281,7 +8281,7 @@ translate chinese assault_on_sait_erasmo_deserter_76b2fe88:
 translate chinese assault_on_sait_erasmo_deserter_3598905f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 +5！"
+    "{cps=50}{color=#A9A9A9}美德 +5！"
 
 # game/script_dlc_4.rpy:10879
 translate chinese assault_on_sait_erasmo_deserter_77d93d0b:
@@ -8388,7 +8388,7 @@ translate chinese doge_counter_attacks_saint_erasmo_2_postfight_f286a506:
 translate chinese doge_counter_attacks_saint_erasmo_2_postfight_da1e81a0:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 -15！{vspace=5}声望（士兵）-35！{vspace=5}威望 -1！"
+    "{cps=50}{color=#A9A9A9}美德 -15！{vspace=5}声望（士兵）-35！{vspace=5}威望 -1！"
 
 # game/script_dlc_4.rpy:11447
 translate chinese doge_counter_attacks_saint_erasmo_2_postfight_76b2fe88:
@@ -8461,7 +8461,7 @@ translate chinese doge_counter_attacks_saint_erasmo_2_postfight_e026a9ef:
 translate chinese doge_counter_attacks_saint_erasmo_2_postfight_da1e81a0_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 -15！{vspace=5}声望（士兵）-35！{vspace=5}威望 -1！"
+    "{cps=50}{color=#A9A9A9}美德 -15！{vspace=5}声望（士兵）-35！{vspace=5}威望 -1！"
 
 # game/script_dlc_4.rpy:11499
 translate chinese doge_counter_attacks_saint_erasmo_2_postfight_76b2fe88_4:
@@ -8503,7 +8503,7 @@ translate chinese doge_counter_attacks_saint_erasmo_3_postfight_62c31bfe:
 translate chinese doge_counter_attacks_saint_erasmo_3_postfight_da1e81a0:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 -15！{vspace=5}声望（士兵）-35！{vspace=5}威望 -1！"
+    "{cps=50}{color=#A9A9A9}美德 -15！{vspace=5}声望（士兵）-35！{vspace=5}威望 -1！"
 
 # game/script_dlc_4.rpy:12008
 translate chinese doge_counter_attacks_saint_erasmo_3_postfight_76b2fe88:
@@ -8537,7 +8537,7 @@ translate chinese doge_counter_attacks_saint_erasmo_3_postfight_76b2fe88_2:
 # game/script_dlc_4.rpy:12023
 translate chinese doge_counter_attacks_saint_erasmo_3_postfight_5bb11caa:
 
-    "{cps=50}你领到了赏赐。{vspace=5}{color=#A9A9A9}获得 [attackchance] 弗罗林。{vspace=5}声望（士兵）+[randomroll]！{vspace=5}虔诚 +[storyroll]！"
+    "{cps=50}你领到了赏赐。{vspace=5}{color=#A9A9A9}获得 [attackchance] 弗罗林。{vspace=5}声望（士兵）+[randomroll]！{vspace=5}美德 +[storyroll]！"
 
 # game/script_dlc_4.rpy:12027
 translate chinese doge_counter_attacks_saint_erasmo_3_postfight_4bd3299e:
@@ -10511,7 +10511,7 @@ translate chinese venice_bodyguard_chapter_5_end_d8fe6cbb:
 translate chinese venice_bodyguard_chapter_5_end_de8b6edc:
 
     nvl clear
-    "{cps=50}这让你费尽了力气，还灌了好几口水。{vspace=5}{color=#A9A9A9}疲劳值上升！{vspace=5}生命力 -5！"
+    "{cps=50}这让你费尽了力气，还灌了好几口水。{vspace=5}{color=#A9A9A9}疲劳值上升！{vspace=5}活力 -5！"
 
 # game/script_dlc_4.rpy:15480
 translate chinese venice_bodyguard_chapter_5_end_e69a1d96:
@@ -10850,7 +10850,7 @@ translate chinese francesca_san_giovanni_intro_b227901d:
 translate chinese francesca_san_giovanni_intro_3598905f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚提升了5点！"
+    "{cps=50}{color=#A9A9A9}美德提升了5点！"
 
 # game/script_dlc_4.rpy:17206
 translate chinese francesca_san_giovanni_intro_6e3c5306:
@@ -15802,12 +15802,12 @@ translate chinese end_of_cambrai_multipath_decider_76b2fe88_4:
 # game/script_dlc_4.rpy:20214
 translate chinese end_of_cambrai_multipath_decider_6b509347:
 
-    "{cps=50}旅途拖了两个多月，路上你的几位同伴先后染上重病，唯独你安然无恙。{vspace=5}{color=#A9A9A9}生命力、耐力——判定成功！"
+    "{cps=50}旅途拖了两个多月，路上你的几位同伴先后染上重病，唯独你安然无恙。{vspace=5}{color=#A9A9A9}活力、耐力——判定成功！"
 
 # game/script_dlc_4.rpy:20216
 translate chinese end_of_cambrai_multipath_decider_f04de715:
 
-    "{cps=50}旅途拖了两个多月，途中你得了一场重病。{vspace=5}{color=#A9A9A9}生命力、耐力——判定失败！{vspace=5}所有属性降低2点！"
+    "{cps=50}旅途拖了两个多月，途中你得了一场重病。{vspace=5}{color=#A9A9A9}活力、耐力——判定失败！{vspace=5}所有属性降低2点！"
 
 # game/script_dlc_4.rpy:20228
 translate chinese end_of_cambrai_multipath_decider_76b2fe88_5:
@@ -15994,7 +15994,7 @@ translate chinese treviso_camp_fight_107bcc36:
 translate chinese treviso_camp_fight_fb8355d5:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}声望（士兵）降低[attackchance!i]点。{vspace=5}虔诚降低[attackchance2!i]点。"
+    "{cps=50}{color=#A9A9A9}声望（士兵）降低[attackchance!i]点。{vspace=5}美德降低[attackchance2!i]点。"
 
 # game/script_dlc_4.rpy:20500
 translate chinese treviso_camp_fight_76b2fe88_1:
@@ -16076,7 +16076,7 @@ translate chinese treviso_camp_blacksmith_f29181d5:
 translate chinese treviso_camp_blacksmith_553daf5f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}声望（士兵）降低[attackchance!i]点。{vspace=5}虔诚提升[attackchance2!i]点。"
+    "{cps=50}{color=#A9A9A9}声望（士兵）降低[attackchance!i]点。{vspace=5}美德提升[attackchance2!i]点。"
 
 # game/script_dlc_4.rpy:20540
 translate chinese treviso_camp_blacksmith_169148fd:
@@ -16099,7 +16099,7 @@ translate chinese treviso_camp_blacksmith_8a84cecf:
 translate chinese treviso_camp_blacksmith_be08a78c:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}声望（士兵）提升[attackchance!i]点。{vspace=5}虔诚降低[attackchance2!i]点。{vspace=5}德·罗西部队的装备质量提升。"
+    "{cps=50}{color=#A9A9A9}声望（士兵）提升[attackchance!i]点。{vspace=5}美德降低[attackchance2!i]点。{vspace=5}德·罗西部队的装备质量提升。"
 
 # game/script_dlc_4.rpy:20553
 translate chinese treviso_camp_blacksmith_8a05db6a:
@@ -16168,7 +16168,7 @@ translate chinese treviso_camp_rations_menu_60065481:
 translate chinese treviso_camp_rations_menu_2afde21c:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}声望（士兵）提升[attackchance!i]点。{vspace=5}虔诚降低[attackchance2!i]点。"
+    "{cps=50}{color=#A9A9A9}声望（士兵）提升[attackchance!i]点。{vspace=5}美德降低[attackchance2!i]点。"
 
 # game/script_dlc_4.rpy:20594
 translate chinese treviso_camp_rations_menu_dc30cf89:
@@ -16267,7 +16267,7 @@ translate chinese treviso_camp_monk_76b2fe88:
 # game/script_dlc_4.rpy:20652
 translate chinese treviso_camp_monk_d7d601a6:
 
-    "{cps=50}你唯恐士气被瓦解，便将这修士赶了出去。{vspace=5}{color=#A9A9A9}虔诚降低[attackchance]点！"
+    "{cps=50}你唯恐士气被瓦解，便将这修士赶了出去。{vspace=5}{color=#A9A9A9}美德降低[attackchance]点！"
 
 # game/script_dlc_4.rpy:20657
 translate chinese treviso_camp_monk_a02e25ac:
@@ -16290,7 +16290,7 @@ translate chinese treviso_camp_monk_76b2fe88_1:
 # game/script_dlc_4.rpy:20668
 translate chinese treviso_camp_monk_53712ddd:
 
-    "{cps=50}{color=#A9A9A9}德·罗西部队的训练质量降低[attackchance]点！{vspace=5}虔诚提升[attackchance2!i]点！"
+    "{cps=50}{color=#A9A9A9}德·罗西部队的训练质量降低[attackchance]点！{vspace=5}美德提升[attackchance2!i]点！"
 
 # game/script_dlc_4.rpy:20669
 translate chinese treviso_camp_monk_269dfbdf:
@@ -16402,7 +16402,7 @@ translate chinese treviso_camp_deserters_fail_76b2fe88:
 translate chinese treviso_camp_deserters_success_2fe3e35e:
 
     nvl clear
-    "{cps=50}你将这批逃兵悉数押交德·罗西，任凭他去发落生死。"
+    "{cps=50}你将逃兵交到德·罗西手上，由他处置他们的命运。"
 
 # game/script_dlc_4.rpy:20743
 translate chinese treviso_camp_deserters_success_35d5d28f:
@@ -16477,7 +16477,7 @@ translate chinese santa_maria_nova_visit_menu_76b2fe88_3:
 translate chinese santa_maria_nova_visit_menu_135f8287:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚提升15点！"
+    "{cps=50}{color=#A9A9A9}美德提升15点！"
 
 # game/script_dlc_4.rpy:20790
 translate chinese santa_maria_nova_visit_menu_76b2fe88_4:
@@ -20300,7 +20300,7 @@ translate chinese cannaregio_event_cat_f2d3c3ca:
 translate chinese cannaregio_event_cat_518fce3d:
 
     nvl clear
-    "{cps=50}你朝猫“嘘”了一声，把它赶走。猫不满地嘶嘶叫着，钻回阴影里不见了。{vspace=5}{color=#A9A9A9}虔诚-1！"
+    "{cps=50}你朝猫“嘘”了一声，把它赶走。猫不满地嘶嘶叫着，钻回阴影里不见了。{vspace=5}{color=#A9A9A9}美德-1！"
 
 # game/script_dlc_4.rpy:26220
 translate chinese cannaregio_event_cat_76b2fe88:
@@ -20340,7 +20340,7 @@ translate chinese cannaregio_event_dead_09626224:
 translate chinese cannaregio_event_dead_99f718f2:
 
     nvl clear
-    "{cps=50}你把尸体从水中捞起，飞快地搜遍了他的口袋。{vspace=5}{color=#A9A9A9}虔诚-5！"
+    "{cps=50}你把尸体从水中捞起，飞快地搜遍了他的口袋。{vspace=5}{color=#A9A9A9}美德-5！"
 
 # game/script_dlc_4.rpy:26242
 translate chinese cannaregio_event_dead_76b2fe88:
@@ -20352,7 +20352,7 @@ translate chinese cannaregio_event_dead_76b2fe88:
 translate chinese cannaregio_event_dead_end_24c250f8:
 
     nvl clear
-    "{cps=50}正当你忙活之际，一队巡城的卫兵猝然从拐角转出，撞了个正着。"
+    "{cps=50}偏偏就在这时，一队城市巡逻卫兵从拐角转了出来，把你逮了个正着。"
 
 # game/script_dlc_4.rpy:26251
 translate chinese cannaregio_event_dead_end_76b2fe88:
@@ -20375,7 +20375,7 @@ translate chinese cannaregio_event_dead_end_2a2e60eb:
 translate chinese cannaregio_event_dead_end_362cd858:
 
     nvl clear
-    "{cps=50}你得以问心无愧，却也为此耗去了不少时间。{vspace=5}{color=#A9A9A9}虔诚+5！{vspace=5}时间损失：2！"
+    "{cps=50}你得以问心无愧，却也为此耗去了不少时间。{vspace=5}{color=#A9A9A9}美德+5！{vspace=5}时间损失：2！"
 
 # game/script_dlc_4.rpy:26263
 translate chinese cannaregio_event_dead_end_1a3b812e:
@@ -20435,7 +20435,7 @@ translate chinese cannaregio_event_bear_b67ef12c:
 translate chinese cannaregio_event_bear_0fc081e0:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}生命值-1！"
+    "{cps=50}{color=#A9A9A9}活力-1！"
 
 # game/script_dlc_4.rpy:26298
 translate chinese cannaregio_event_bear_734367cb:
@@ -20447,7 +20447,7 @@ translate chinese cannaregio_event_bear_734367cb:
 translate chinese cannaregio_event_bear_eee763d7:
 
     nvl clear
-    "{cps=50}为帮小熊崽脱身，你悄悄伸脚绊了艺人一下。他一个踉跄摔在街面的石头上，磕得满脸是血。{vspace=5}{color=#A9A9A9}虔诚-5！"
+    "{cps=50}为帮小熊崽脱身，你悄悄伸脚绊了艺人一下。他一个踉跄摔在街面的石头上，磕得满脸是血。{vspace=5}{color=#A9A9A9}美德-5！"
 
 # game/script_dlc_4.rpy:26304
 translate chinese cannaregio_event_bear_9df9b637:
@@ -20509,7 +20509,7 @@ translate chinese venice_cannaregio_hospital_visit_menu_76b2fe88_1:
 # game/script_dlc_4.rpy:26333
 translate chinese venice_cannaregio_hospital_visit_menu_d6ddd9f6:
 
-    "{cps=50}{color=#A9A9A9}总督声望提升[storyroll]点！{vspace=5}虔诚+[attackachance]！"
+    "{cps=50}{color=#A9A9A9}总督人望提升[storyroll]点！{vspace=5}美德+[attackachance]！"
 
 # game/script_dlc_4.rpy:26338
 translate chinese venice_cannaregio_hospital_visit_menu_76b2fe88_2:
@@ -20570,7 +20570,7 @@ translate chinese venice_murano_lazarette_visit_menu_76b2fe88_1:
 # game/script_dlc_4.rpy:26374
 translate chinese venice_murano_lazarette_visit_menu_d6ddd9f6:
 
-    "{cps=50}{color=#A9A9A9}总督声望提升[storyroll]点！{vspace=5}虔诚+[attackachance]！"
+    "{cps=50}{color=#A9A9A9}总督人望提升[storyroll]点！{vspace=5}美德+[attackachance]！"
 
 # game/script_dlc_4.rpy:26379
 translate chinese venice_murano_lazarette_visit_menu_76b2fe88_2:
@@ -20597,7 +20597,7 @@ translate chinese venice_murano_lazarette_visit_menu_76b2fe88_3:
 # game/script_dlc_4.rpy:26396
 translate chinese venice_murano_lazarette_visit_menu_d6ddd9f6_1:
 
-    "{cps=50}{color=#A9A9A9}总督声望提升[storyroll]点！{vspace=5}虔诚+[attackachance]！"
+    "{cps=50}{color=#A9A9A9}总督人望提升[storyroll]点！{vspace=5}美德+[attackachance]！"
 
 # game/script_dlc_4.rpy:26401
 translate chinese venice_murano_lazarette_visit_menu_76b2fe88_4:
@@ -20965,7 +20965,7 @@ translate chinese controlling_the_narrative_postfight_76b2fe88:
 # game/script_dlc_4.rpy:27769
 translate chinese controlling_the_narrative_postfight_87de9ad4:
 
-    "{cps=50}总督的一位显要批评者突然销声匿迹，反倒让总督在市民中的声望水涨船高。{vspace=5}{color=#A9A9A9}总督声望提升[storyroll]点！"
+    "{cps=50}总督的一位显要批评者突然销声匿迹，反倒让总督在市民中的声望水涨船高。{vspace=5}{color=#A9A9A9}总督人望提升[storyroll]点！"
 
 # game/script_dlc_4.rpy:27777
 translate chinese controlling_the_narrative_postfight_2dfac11a:
@@ -20982,7 +20982,7 @@ translate chinese controlling_the_narrative_postfight_76b2fe88_1:
 # game/script_dlc_4.rpy:27782
 translate chinese controlling_the_narrative_postfight_d9810522:
 
-    "{cps=50}任务失败引发了一场轩然大波。幸存的受害者理所当然地认定行凶者出自总督门下，这让总督的声誉雪上加霜。{vspace=5}{color=#A9A9A9}总督声望降低[storyroll]点！"
+    "{cps=50}任务失败引发了一场轩然大波。幸存的受害者理所当然地认定行凶者出自总督门下，这让总督的声誉雪上加霜。{vspace=5}{color=#A9A9A9}总督人望降低[storyroll]点！"
 
 # game/script_dlc_4.rpy:27786
 translate chinese controlling_the_narrative_postfight_76b2fe88_2:
@@ -20993,7 +20993,7 @@ translate chinese controlling_the_narrative_postfight_76b2fe88_2:
 # game/script_dlc_4.rpy:27789
 translate chinese controlling_the_narrative_postfight_d01d1e82:
 
-    "{cps=50}你置应有的谨慎于不顾，城中随即风传你才是袭击的幕后主使，总督的声誉因此受损。{vspace=5}{color=#A9A9A9}总督声望降低[storyroll]点！"
+    "{cps=50}你置应有的谨慎于不顾，城中随即风传你才是袭击的幕后主使，总督的声誉因此受损。{vspace=5}{color=#A9A9A9}总督人望降低[storyroll]点！"
 
 # game/script_dlc_4.rpy:27797
 translate chinese controlling_the_narrative_postfight_88141a15:
@@ -21017,7 +21017,7 @@ translate chinese controlling_the_narrative_postfight_76b2fe88_4:
 translate chinese doge_reputation_fail_438f3a20:
 
     nvl clear
-    "{cps=50}一连串的失败、失算与阴差阳错，彻底摧毁了总督在威尼斯人心中的声望。{vspace=5}{color=#A9A9A9}总督声望——彻底崩溃！"
+    "{cps=50}一连串的失败、失算与阴差阳错，彻底摧毁了总督在威尼斯人心中的声望。{vspace=5}{color=#A9A9A9}总督人望——彻底崩溃！"
 
 # game/script_dlc_4.rpy:27809
 translate chinese doge_reputation_fail_051a9de0:
@@ -21092,7 +21092,7 @@ translate chinese venice_doge_chapter_1_end_76b2fe88:
 # game/script_dlc_4.rpy:27847
 translate chinese venice_doge_chapter_1_end_9aaf605c:
 
-    "{cps=50}马尔科·迪·桑托罗连番抨击，令总督的名声大为受损。{vspace=5}{color=#A9A9A9}总督声望降低[storyroll]点！"
+    "{cps=50}马尔科·迪·桑托罗连番抨击，令总督的名声大为受损。{vspace=5}{color=#A9A9A9}总督人望降低[storyroll]点！"
 
 # game/script_dlc_4.rpy:27848
 translate chinese venice_doge_chapter_1_end_76b2fe88_1:
@@ -21109,7 +21109,7 @@ translate chinese venice_doge_chapter_1_end_76b2fe88_2:
 # game/script_dlc_4.rpy:27853
 translate chinese venice_doge_chapter_1_end_0c4dc7fa:
 
-    "{cps=50}马泰奥·贝利尼连番抨击，令总督的名声大为受损。{vspace=5}{color=#A9A9A9}总督声望降低[storyroll]点！"
+    "{cps=50}马泰奥·贝利尼连番抨击，令总督的名声大为受损。{vspace=5}{color=#A9A9A9}总督人望降低[storyroll]点！"
 
 # game/script_dlc_4.rpy:27854
 translate chinese venice_doge_chapter_1_end_76b2fe88_3:
@@ -21127,7 +21127,7 @@ translate chinese venice_doge_chapter_1_end_892720a1:
 translate chinese venice_doge_chapter_1_end_b03040bc:
 
     nvl clear
-    "{cps=50}热那亚人及其盟友先是在圣埃拉斯莫登陆，继而在基奥贾登岸，将水上之城的粮道尽数切断，总督所剩无几的声望也随之彻底葬送。{vspace=5}{color=#A9A9A9}总督声望降低[storyroll]点！"
+    "{cps=50}热那亚人及其盟友先是在圣埃拉斯莫登陆，继而在基奥贾登岸，将水上之城的粮道尽数切断，总督所剩无几的声望也随之彻底葬送。{vspace=5}{color=#A9A9A9}总督人望降低[storyroll]点！"
 
 # game/script_dlc_4.rpy:27862
 translate chinese venice_doge_chapter_1_end_76b2fe88_4:
@@ -21396,7 +21396,7 @@ translate chinese venice_doge_chapter_2_start_f4feb2e1:
 translate chinese venice_sandbox_economy_setup_db99f7fc:
 
     nvl clear
-    "{cps=50}匈牙利、奥地利与帕多瓦对威尼斯宣战，令总督孔塔里尼在市民中的声望遭受沉重打击……{vspace=5}{color=#A9A9A9}总督声望降低[storyroll]点！"
+    "{cps=50}匈牙利、奥地利与帕多瓦对威尼斯宣战，令总督孔塔里尼在市民中的声望遭受沉重打击……{vspace=5}{color=#A9A9A9}总督人望降低[storyroll]点！"
 
 # game/script_dlc_4.rpy:28184
 translate chinese venice_sandbox_economy_setup_76b2fe88:
@@ -21867,7 +21867,7 @@ translate chinese venedic_fortress_intro_support_76b2fe88_15:
 # game/script_dlc_4.rpy:28517
 translate chinese venedic_fortress_intro_support_a9c40739:
 
-    "{cps=50}特内多斯岛威尼迪克堡投降的消息传至威尼斯，全城陷入哀悼，反总督的呼声也愈发高涨。{vspace=5}{color=#A9A9A9}总督声望降低[storyroll]点！"
+    "{cps=50}特内多斯岛威尼迪克堡投降的消息传至威尼斯，全城陷入哀悼，反总督的呼声也愈发高涨。{vspace=5}{color=#A9A9A9}总督人望降低[storyroll]点！"
 
 # game/script_dlc_4.rpy:28518
 translate chinese venedic_fortress_intro_support_76b2fe88_16:
@@ -21919,7 +21919,7 @@ translate chinese venedic_fortress_fallen_76b2fe88:
 # game/script_dlc_4.rpy:28596
 translate chinese venedic_fortress_fallen_984c0d1a:
 
-    "{cps=50}特内多斯岛威尼迪克堡投降的消息传至威尼斯，全城陷入哀悼，反总督的呼声也愈发高涨。{vspace=5}{color=#A9A9A9}堡垒守备——失败！{vspace=5}总督声望降低[storyroll]点！"
+    "{cps=50}特内多斯岛威尼迪克堡投降的消息传至威尼斯，全城陷入哀悼，反总督的呼声也愈发高涨。{vspace=5}{color=#A9A9A9}堡垒守备——失败！{vspace=5}总督人望降低[storyroll]点！"
 
 # game/script_dlc_4.rpy:28597
 translate chinese venedic_fortress_fallen_76b2fe88_1:
@@ -21930,7 +21930,7 @@ translate chinese venedic_fortress_fallen_76b2fe88_1:
 # game/script_dlc_4.rpy:28608
 translate chinese venedic_fortress_stands_1691812f:
 
-    "{cps=50}威尼斯传来捷报：特内多斯岛上的威尼迪克堡再度击退了敌军的猛攻。{vspace=5}{color=#A9A9A9}堡垒守备——成功！{vspace=5}总督声望提升[storyroll]点！"
+    "{cps=50}威尼斯传来捷报：特内多斯岛上的威尼迪克堡再度击退了敌军的猛攻。{vspace=5}{color=#A9A9A9}堡垒守备——成功！{vspace=5}总督人望提升[storyroll]点！"
 
 # game/script_dlc_4.rpy:28609
 translate chinese venedic_fortress_stands_76b2fe88:
@@ -21941,7 +21941,7 @@ translate chinese venedic_fortress_stands_76b2fe88:
 # game/script_dlc_4.rpy:28619
 translate chinese venedic_fortress_relieved_242390d9:
 
-    "{cps=50}威尼斯传来消息：热那亚舰队久攻威尼迪克堡不下，终于撤围退去。{vspace=5}{color=#A9A9A9}堡垒守备——成功！{vspace=5}总督声望提升[storyroll]点！"
+    "{cps=50}威尼斯传来消息：热那亚舰队久攻威尼迪克堡不下，终于撤围退去。{vspace=5}{color=#A9A9A9}堡垒守备——成功！{vspace=5}总督人望提升[storyroll]点！"
 
 # game/script_dlc_4.rpy:28620
 translate chinese venedic_fortress_relieved_76b2fe88:
@@ -22087,7 +22087,7 @@ translate chinese italian_wars_defend_region_menu_cc19ff6a:
 translate chinese italian_wars_defend_region_menu_b03040bc:
 
     nvl clear
-    "{cps=50}热那亚人及其盟友先是在圣埃拉斯莫登陆，继而在基奥贾登岸，将水上之城的粮道尽数切断，总督所剩无几的声望也随之彻底葬送。{vspace=5}{color=#A9A9A9}总督声望降低[storyroll]点！"
+    "{cps=50}热那亚人及其盟友先是在圣埃拉斯莫登陆，继而在基奥贾登岸，将水上之城的粮道尽数切断，总督所剩无几的声望也随之彻底葬送。{vspace=5}{color=#A9A9A9}总督人望降低[storyroll]点！"
 
 # game/script_dlc_4.rpy:28856
 translate chinese italian_wars_defend_region_menu_76b2fe88:
@@ -22128,7 +22128,7 @@ translate chinese italian_wars_enemy_attacks_region_lost_76b2fe88:
 # game/script_dlc_4.rpy:28930
 translate chinese italian_wars_enemy_attacks_region_lost_c919b893:
 
-    "{cps=50}{color=#A9A9A9}失去地区：[italian_wars_disputed_sector_name]！{vspace=5}总督声望降低[italian_wars_region_loss_rep_penalty]点！"
+    "{cps=50}{color=#A9A9A9}失去地区：[italian_wars_disputed_sector_name]！{vspace=5}总督人望降低[italian_wars_region_loss_rep_penalty]点！"
 
 # game/script_dlc_4.rpy:28931
 translate chinese italian_wars_enemy_attacks_region_lost_76b2fe88_1:
@@ -22151,7 +22151,7 @@ translate chinese italian_wars_enemy_attacks_region_captured_76b2fe88:
 # game/script_dlc_4.rpy:29070
 translate chinese italian_wars_enemy_attacks_region_captured_148773a4:
 
-    "{cps=50}{color=#A9A9A9}猛攻奏效，帕多瓦被攻克！{vspace=5}总督声望提升[italian_wars_region_won_rep_bonus]点！{vspace=5}缴获战利品，价值[storyroll]弗罗林！"
+    "{cps=50}{color=#A9A9A9}猛攻奏效，帕多瓦被攻克！{vspace=5}总督人望提升[italian_wars_region_won_rep_bonus]点！{vspace=5}缴获战利品，价值[storyroll]弗罗林！"
 
 # game/script_dlc_4.rpy:29071
 translate chinese italian_wars_enemy_attacks_region_captured_76b2fe88_1:
@@ -22168,7 +22168,7 @@ translate chinese italian_wars_enemy_attacks_region_captured_76b2fe88_2:
 # game/script_dlc_4.rpy:29076
 translate chinese italian_wars_enemy_attacks_region_captured_a8281345:
 
-    "{cps=50}{color=#A9A9A9}占领地区：[italian_wars_disputed_sector_name]！{vspace=5}总督声望提升[italian_wars_region_won_rep_bonus]点！"
+    "{cps=50}{color=#A9A9A9}占领地区：[italian_wars_disputed_sector_name]！{vspace=5}总督人望提升[italian_wars_region_won_rep_bonus]点！"
 
 # game/script_dlc_4.rpy:29077
 translate chinese italian_wars_enemy_attacks_region_captured_76b2fe88_3:
@@ -22604,7 +22604,7 @@ translate chinese visit_hungary_menu_fc6a39c8:
 translate chinese visit_hungary_menu_15c64b27:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}匈牙利王国不再参与对威尼斯的战争！{vspace=5}总督声望提升[doge_popularity_boost_from_peace]点！"
+    "{cps=50}{color=#A9A9A9}匈牙利王国不再参与对威尼斯的战争！{vspace=5}总督人望提升[doge_popularity_boost_from_peace]点！"
 
 # game/script_dlc_4.rpy:29351
 translate chinese visit_hungary_menu_76b2fe88_2:
@@ -23873,7 +23873,7 @@ translate chinese italy_paris_cathedral_visit_menu_76b2fe88_3:
 translate chinese italy_paris_cathedral_visit_menu_135f8287:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚提升15点！"
+    "{cps=50}{color=#A9A9A9}美德提升15点！"
 
 # game/script_dlc_4.rpy:30036
 translate chinese italy_paris_cathedral_visit_menu_76b2fe88_4:
@@ -24579,7 +24579,7 @@ translate chinese venice_charles_talk_menu_76b2fe88:
 translate chinese venice_charles_talk_menu_bec81132:
 
     nvl clear
-    "{cps=50}尽管法兰西国王约翰的恩宠已扫清觐见教皇的形式障碍，但你那极不虔诚、不信宗教的声名，却令此次会面终成泡影。{vspace=5}{color=#A9A9A9}虔诚——失败（[attackchance]）！"
+    "{cps=50}尽管法兰西国王约翰的恩宠已扫清觐见教皇的形式障碍，但你那极不美德、不信宗教的声名，却令此次会面终成泡影。{vspace=5}{color=#A9A9A9}美德——失败（[attackchance]）！"
 
 # game/script_dlc_4.rpy:30454
 translate chinese venice_charles_talk_menu_76b2fe88_1:
@@ -24656,7 +24656,7 @@ translate chinese venice_charles_talk_menu_76b2fe88_4:
 translate chinese venice_charles_talk_menu_59bd02a6:
 
     nvl clear
-    "{cps=50}你向教皇克莱门特请求更多支持，他欣然应允。{vspace=5}{color=#A9A9A9}虔诚——成功（[attackchance]）！"
+    "{cps=50}你向教皇克莱门特请求更多支持，他欣然应允。{vspace=5}{color=#A9A9A9}美德——成功（[attackchance]）！"
 
 # game/script_dlc_4.rpy:30498
 translate chinese venice_charles_talk_menu_76b2fe88_5:
@@ -24668,7 +24668,7 @@ translate chinese venice_charles_talk_menu_76b2fe88_5:
 translate chinese venice_charles_talk_menu_944cedee:
 
     nvl clear
-    "{cps=50}你向教皇克莱门特请求更多支持，却遭婉拒——教会不愿太过露骨地襄助一位有你这样声名的人。{vspace=5}{color=#A9A9A9}虔诚——失败（[attackchance]）！"
+    "{cps=50}你向教皇克莱门特请求更多支持，却遭婉拒——教会不愿太过露骨地襄助一位有你这样声名的人。{vspace=5}{color=#A9A9A9}美德——失败（[attackchance]）！"
 
 # game/script_dlc_4.rpy:30502
 translate chinese venice_charles_talk_menu_76b2fe88_6:
@@ -24831,7 +24831,7 @@ translate chinese milan_cathedral_visit_menu_76b2fe88_3:
 translate chinese milan_cathedral_visit_menu_135f8287:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚提升15点！"
+    "{cps=50}{color=#A9A9A9}美德提升15点！"
 
 # game/script_dlc_4.rpy:30649
 translate chinese milan_cathedral_visit_menu_76b2fe88_4:
@@ -27121,7 +27121,7 @@ translate chinese visit_florence_menu_76b2fe88_2:
 # game/script_dlc_4.rpy:31988
 translate chinese visit_florence_menu_f562a4a8:
 
-    "{cps=50}总督所言非虚，热那亚那见底的国库确已无力奉养约翰·霍克伍德及其麾下的骄兵悍将——你竟在佛罗伦萨撞见这位英格兰雇佣兵，正四下踅摸着新主顾。"
+    "{cps=50}总督曾说，热那亚的国库已空空如也，恐怕难以长久负担约翰·霍克伍德及其部下的佣金——此言果然不虚：你在佛罗伦萨见到了这位正寻觅新合同的英格兰雇佣兵。"
 
 # game/script_dlc_4.rpy:31989
 translate chinese visit_florence_menu_76b2fe88_1:
@@ -27670,7 +27670,7 @@ translate chinese florence_cathedral_visit_menu_76b2fe88_3:
 translate chinese florence_cathedral_visit_menu_135f8287:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚增加 15 点！"
+    "{cps=50}{color=#A9A9A9}美德增加 15 点！"
 
 # game/script_dlc_4.rpy:32293
 translate chinese florence_cathedral_visit_menu_76b2fe88_4:
@@ -28811,7 +28811,7 @@ translate chinese enter_the_schwarzburg_finale_assassination_jump_76b2fe88_13:
 translate chinese enter_the_schwarzburg_finale_assassination_jump_15c64b27:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}匈牙利王国不再参与对威尼斯的战争！{vspace=5}总督声望提升 [doge_popularity_boost_from_peace] 点！"
+    "{cps=50}{color=#A9A9A9}匈牙利王国不再参与对威尼斯的战争！{vspace=5}总督人望提升 [doge_popularity_boost_from_peace] 点！"
 
 # game/script_dlc_4.rpy:32898
 translate chinese enter_the_schwarzburg_finale_assassination_jump_76b2fe88_11:
@@ -28834,7 +28834,7 @@ translate chinese enter_the_schwarzburg_finale_assassination_jump_76b2fe88_12:
 translate chinese enter_the_schwarzburg_finale_assassination_jump_05913085:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}奥地利公国不再参与对威尼斯的战争！{vspace=5}总督声望提升 [doge_popularity_boost_from_peace] 点！"
+    "{cps=50}{color=#A9A9A9}奥地利公国不再参与对威尼斯的战争！{vspace=5}总督人望提升 [doge_popularity_boost_from_peace] 点！"
 
 # game/script_dlc_4.rpy:32925
 translate chinese enter_the_schwarzburg_finale_assassination_jump_76b2fe88_14:
@@ -28857,7 +28857,7 @@ translate chinese enter_the_schwarzburg_finale_assassination_jump_76b2fe88_15:
 translate chinese enter_the_schwarzburg_finale_assassination_jump_3586201f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}帕多瓦公社不再参与对威尼斯的战争！{vspace=5}总督声望提升 [doge_popularity_boost_from_peace] 点！"
+    "{cps=50}{color=#A9A9A9}帕多瓦公社不再参与对威尼斯的战争！{vspace=5}总督人望提升 [doge_popularity_boost_from_peace] 点！"
 
 # game/script_dlc_4.rpy:32952
 translate chinese enter_the_schwarzburg_finale_assassination_jump_76b2fe88_16:
@@ -28880,7 +28880,7 @@ translate chinese enter_the_schwarzburg_finale_assassination_jump_76b2fe88_17:
 translate chinese enter_the_schwarzburg_finale_assassination_jump_eca651a5:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}米兰公国不再参与对威尼斯的战争！{vspace=5}总督声望提升 [doge_popularity_boost_from_peace] 点！"
+    "{cps=50}{color=#A9A9A9}米兰公国不再参与对威尼斯的战争！{vspace=5}总督人望提升 [doge_popularity_boost_from_peace] 点！"
 
 # game/script_dlc_4.rpy:32979
 translate chinese enter_the_schwarzburg_finale_assassination_jump_76b2fe88_18:
@@ -29181,7 +29181,7 @@ translate chinese barnabo_feud_end_b2ff8271:
 translate chinese barnabo_feud_end_2bb8972d:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚降低 [storyroll] 点！"
+    "{cps=50}{color=#A9A9A9}美德降低 [storyroll] 点！"
 
 # game/script_dlc_4.rpy:34146
 translate chinese barnabo_feud_end_7a17568c:
@@ -29199,7 +29199,7 @@ translate chinese barnabo_feud_end_ed6efa1c:
 translate chinese barnabo_feud_end_6e93aae1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚增加 [storyroll] 点！"
+    "{cps=50}{color=#A9A9A9}美德增加 [storyroll] 点！"
 
 # game/script_dlc_4.rpy:34156
 translate chinese barnabo_feud_end_2bce9d83:
@@ -29768,7 +29768,7 @@ translate chinese enemy_army_interact_menu_7d12dc77:
 translate chinese enemy_army_interact_menu_9eec7262:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}敌军营地驻留时间延长 [attackchance] 天。{vspace=5}获得 [attackchance2] 弗罗林！{vspace=5}总督声望降低 [storyroll] 点！{vspace=5}虔诚降低 [randomroll] 点！"
+    "{cps=50}{color=#A9A9A9}敌军营地驻留时间延长 [attackchance] 天。{vspace=5}获得 [attackchance2] 弗罗林！{vspace=5}总督人望降低 [storyroll] 点！{vspace=5}美德降低 [randomroll] 点！"
 
 # game/script_dlc_4.rpy:36769
 translate chinese enemy_army_interact_menu_76b2fe88_9:
@@ -29791,7 +29791,7 @@ translate chinese enemy_army_interact_menu_e97a005f:
 translate chinese enemy_army_interact_menu_9eec7262_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}敌军营地驻留时间延长 [attackchance] 天。{vspace=5}获得 [attackchance2] 弗罗林！{vspace=5}总督声望降低 [storyroll] 点！{vspace=5}虔诚降低 [randomroll] 点！"
+    "{cps=50}{color=#A9A9A9}敌军营地驻留时间延长 [attackchance] 天。{vspace=5}获得 [attackchance2] 弗罗林！{vspace=5}总督人望降低 [storyroll] 点！{vspace=5}美德降低 [randomroll] 点！"
 
 # game/script_dlc_4.rpy:36776
 translate chinese enemy_army_interact_menu_0d36ece5:
@@ -29837,27 +29837,27 @@ translate chinese enemy_army_interact_menu_76b2fe88_12:
 # game/script_dlc_4.rpy:36832
 translate chinese enemy_army_interact_menu_788b15fe:
 
-    "{cps=50}{color=#A9A9A9}虔诚——失败！{vspace=5}祈祷毫无效果！"
+    "{cps=50}{color=#A9A9A9}美德——失败！{vspace=5}祈祷毫无效果！"
 
 # game/script_dlc_4.rpy:36835
 translate chinese enemy_army_interact_menu_8d8cf940:
 
-    "{cps=50}{color=#A9A9A9}虔诚——结果不佳！{vspace=5}胜算增加！"
+    "{cps=50}{color=#A9A9A9}美德——结果不佳！{vspace=5}胜算增加！"
 
 # game/script_dlc_4.rpy:36838
 translate chinese enemy_army_interact_menu_0f188757:
 
-    "{cps=50}{color=#A9A9A9}虔诚——结果平平！{vspace=5}胜算增加！"
+    "{cps=50}{color=#A9A9A9}美德——结果平平！{vspace=5}胜算增加！"
 
 # game/script_dlc_4.rpy:36841
 translate chinese enemy_army_interact_menu_0cbeb1b3:
 
-    "{cps=50}{color=#A9A9A9}虔诚——结果不错！{vspace=5}胜算增加！"
+    "{cps=50}{color=#A9A9A9}美德——结果不错！{vspace=5}胜算增加！"
 
 # game/script_dlc_4.rpy:36844
 translate chinese enemy_army_interact_menu_186be448:
 
-    "{cps=50}{color=#A9A9A9}虔诚——结果极佳！{vspace=5}胜算增加！"
+    "{cps=50}{color=#A9A9A9}美德——结果极佳！{vspace=5}胜算增加！"
 
 # game/script_dlc_4.rpy:36851
 translate chinese enemy_army_interact_menu_76b2fe88_13:
@@ -30076,7 +30076,7 @@ translate chinese italian_wars_peace_calculation_quickjump_d3d5999a:
 translate chinese italian_wars_peace_calculation_quickjump_15c64b27:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}匈牙利王国不再参与对威尼斯的战争！{vspace=5}总督声望提升 [doge_popularity_boost_from_peace] 点！"
+    "{cps=50}{color=#A9A9A9}匈牙利王国不再参与对威尼斯的战争！{vspace=5}总督人望提升 [doge_popularity_boost_from_peace] 点！"
 
 # game/script_dlc_4.rpy:37330
 translate chinese italian_wars_peace_calculation_quickjump_76b2fe88:
@@ -30124,7 +30124,7 @@ translate chinese italian_wars_peace_calculation_quickjump_eaf0a423:
 translate chinese italian_wars_peace_calculation_quickjump_05913085:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}奥地利公国不再参与对威尼斯的战争！{vspace=5}总督声望提升 [doge_popularity_boost_from_peace] 点！"
+    "{cps=50}{color=#A9A9A9}奥地利公国不再参与对威尼斯的战争！{vspace=5}总督人望提升 [doge_popularity_boost_from_peace] 点！"
 
 # game/script_dlc_4.rpy:37370
 translate chinese italian_wars_peace_calculation_quickjump_76b2fe88_3:
@@ -30177,7 +30177,7 @@ translate chinese italian_wars_peace_calculation_quickjump_2539f745:
 translate chinese italian_wars_peace_calculation_quickjump_3586201f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}帕多瓦公社不再参与对威尼斯的战争！{vspace=5}总督声望提升 [doge_popularity_boost_from_peace] 点！"
+    "{cps=50}{color=#A9A9A9}帕多瓦公社不再参与对威尼斯的战争！{vspace=5}总督人望提升 [doge_popularity_boost_from_peace] 点！"
 
 # game/script_dlc_4.rpy:37412
 translate chinese italian_wars_peace_calculation_quickjump_76b2fe88_5:
@@ -30230,7 +30230,7 @@ translate chinese italian_wars_peace_calculation_quickjump_1d01e6c8:
 translate chinese italian_wars_peace_calculation_quickjump_eca651a5:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}米兰公国不再参与对威尼斯的战争！{vspace=5}总督声望提升 [doge_popularity_boost_from_peace] 点！"
+    "{cps=50}{color=#A9A9A9}米兰公国不再参与对威尼斯的战争！{vspace=5}总督人望提升 [doge_popularity_boost_from_peace] 点！"
 
 # game/script_dlc_4.rpy:37455
 translate chinese italian_wars_peace_calculation_quickjump_76b2fe88_7:
@@ -30288,7 +30288,7 @@ translate chinese italian_wars_peace_calculation_quickjump_b0d5fa35:
 translate chinese italian_wars_peace_calculation_quickjump_ffae95d2:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}神圣罗马帝国不再参与对威尼斯的战争！{vspace=5}总督声望提升 [doge_popularity_boost_from_peace] 点！"
+    "{cps=50}{color=#A9A9A9}神圣罗马帝国不再参与对威尼斯的战争！{vspace=5}总督人望提升 [doge_popularity_boost_from_peace] 点！"
 
 # game/script_dlc_4.rpy:37502
 translate chinese italian_wars_peace_calculation_quickjump_76b2fe88_9:
@@ -30434,7 +30434,7 @@ translate chinese italy_werner_vs_guy_interaction_76b2fe88:
 # game/script_dlc_4.rpy:38342
 translate chinese italy_werner_vs_guy_interaction_40aeb419:
 
-    "{cps=50}你选择站在维尔纳一边，就布尔吉尼翁部下的行径对其加以申斥。{vspace=5}{color=#A9A9A9}虔诚增加 [attackchance] 点。"
+    "{cps=50}你选择站在维尔纳一边，就布尔吉尼翁部下的行径对其加以申斥。{vspace=5}{color=#A9A9A9}美德增加 [attackchance] 点。"
 
 # game/script_dlc_4.rpy:38350
 translate chinese italy_werner_vs_guy_interaction_0b2d3a7d:
@@ -30463,7 +30463,7 @@ translate chinese italy_werner_vs_guy_interaction_76b2fe88_1:
 # game/script_dlc_4.rpy:38373
 translate chinese italy_werner_vs_guy_interaction_bb1eab11:
 
-    "{cps=50}你选择站在吉一边，劝维尔纳·冯·乌尔斯林根少管闲事。{vspace=5}{color=#A9A9A9}虔诚降低 [attackchance] 点。"
+    "{cps=50}你选择站在吉一边，劝维尔纳·冯·乌尔斯林根少管闲事。{vspace=5}{color=#A9A9A9}美德降低 [attackchance] 点。"
 
 # game/script_dlc_4.rpy:38381
 translate chinese italy_werner_vs_guy_interaction_a205676c:
@@ -30498,7 +30498,7 @@ translate chinese venice_doge_chapter_2_end_76b2fe88:
 # game/script_dlc_4.rpy:38408
 translate chinese venice_doge_chapter_2_end_9aaf605c:
 
-    "{cps=50}马尔科·迪·桑托罗无休无止的抨击，令总督的声誉一落千丈。{vspace=5}{color=#A9A9A9}总督声望降低 [storyroll] 点！"
+    "{cps=50}马尔科·迪·桑托罗无休无止的抨击，令总督的声誉一落千丈。{vspace=5}{color=#A9A9A9}总督人望降低 [storyroll] 点！"
 
 # game/script_dlc_4.rpy:38409
 translate chinese venice_doge_chapter_2_end_76b2fe88_1:
@@ -30515,7 +30515,7 @@ translate chinese venice_doge_chapter_2_end_76b2fe88_2:
 # game/script_dlc_4.rpy:38414
 translate chinese venice_doge_chapter_2_end_0c4dc7fa:
 
-    "{cps=50}马泰奥·贝利尼无休无止的抨击，令总督的声誉一落千丈。{vspace=5}{color=#A9A9A9}总督声望降低 [storyroll] 点！"
+    "{cps=50}马泰奥·贝利尼无休无止的抨击，令总督的声誉一落千丈。{vspace=5}{color=#A9A9A9}总督人望降低 [storyroll] 点！"
 
 # game/script_dlc_4.rpy:38415
 translate chinese venice_doge_chapter_2_end_76b2fe88_3:
@@ -30545,7 +30545,7 @@ translate chinese venice_doge_chapter_2_end_aa29c4ad:
 translate chinese venice_doge_chapter_2_end_734a599f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}总督声望降低 [storyroll] 点！"
+    "{cps=50}{color=#A9A9A9}总督人望降低 [storyroll] 点！"
 
 # game/script_dlc_4.rpy:38430
 translate chinese venice_doge_chapter_2_end_76b2fe88_4:
@@ -31196,7 +31196,7 @@ translate chinese venice_doge_chapter_3_end_76b2fe88:
 # game/script_dlc_4.rpy:39803
 translate chinese venice_doge_chapter_3_end_9aaf605c:
 
-    "{cps=50}马尔科·迪·桑托罗无休无止的抨击，令总督的声誉一落千丈。{vspace=5}{color=#A9A9A9}总督声望降低 [storyroll] 点！"
+    "{cps=50}马尔科·迪·桑托罗无休无止的抨击，令总督的声誉一落千丈。{vspace=5}{color=#A9A9A9}总督人望降低 [storyroll] 点！"
 
 # game/script_dlc_4.rpy:39804
 translate chinese venice_doge_chapter_3_end_76b2fe88_1:
@@ -31213,7 +31213,7 @@ translate chinese venice_doge_chapter_3_end_76b2fe88_2:
 # game/script_dlc_4.rpy:39809
 translate chinese venice_doge_chapter_3_end_0c4dc7fa:
 
-    "{cps=50}马泰奥·贝利尼无休无止的抨击，令总督的声誉一落千丈。{vspace=5}{color=#A9A9A9}总督声望降低 [storyroll] 点！"
+    "{cps=50}马泰奥·贝利尼无休无止的抨击，令总督的声誉一落千丈。{vspace=5}{color=#A9A9A9}总督人望降低 [storyroll] 点！"
 
 # game/script_dlc_4.rpy:39810
 translate chinese venice_doge_chapter_3_end_76b2fe88_3:
@@ -31242,7 +31242,7 @@ translate chinese venice_doge_chapter_3_end_76b2fe88_4:
 # game/script_dlc_4.rpy:39822
 translate chinese venice_doge_chapter_3_end_9542bc10:
 
-    "{cps=50}{color=#A9A9A9}总督声望降低 [storyroll] 点！"
+    "{cps=50}{color=#A9A9A9}总督人望降低 [storyroll] 点！"
 
 # game/script_dlc_4.rpy:39823
 translate chinese venice_doge_chapter_3_end_76b2fe88_5:
@@ -31346,7 +31346,7 @@ translate chinese venice_doge_chapter_4_end_76b2fe88:
 # game/script_dlc_4.rpy:40016
 translate chinese venice_doge_chapter_4_end_9aaf605c:
 
-    "{cps=50}马尔科·迪·桑托罗无休无止的抨击，令总督的声誉一落千丈。{vspace=5}{color=#A9A9A9}总督声望降低 [storyroll] 点！"
+    "{cps=50}马尔科·迪·桑托罗无休无止的抨击，令总督的声誉一落千丈。{vspace=5}{color=#A9A9A9}总督人望降低 [storyroll] 点！"
 
 # game/script_dlc_4.rpy:40017
 translate chinese venice_doge_chapter_4_end_76b2fe88_1:
@@ -31363,7 +31363,7 @@ translate chinese venice_doge_chapter_4_end_76b2fe88_2:
 # game/script_dlc_4.rpy:40022
 translate chinese venice_doge_chapter_4_end_0c4dc7fa:
 
-    "{cps=50}马泰奥·贝利尼无休无止的抨击，令总督的声誉一落千丈。{vspace=5}{color=#A9A9A9}总督声望降低 [storyroll] 点！"
+    "{cps=50}马泰奥·贝利尼无休无止的抨击，令总督的声誉一落千丈。{vspace=5}{color=#A9A9A9}总督人望降低 [storyroll] 点！"
 
 # game/script_dlc_4.rpy:40023
 translate chinese venice_doge_chapter_4_end_76b2fe88_3:
@@ -31404,7 +31404,7 @@ translate chinese venice_doge_chapter_4_end_76b2fe88_4:
 # game/script_dlc_4.rpy:40050
 translate chinese venice_doge_chapter_4_end_79680145:
 
-    "{cps=50}意识到大难将至，又接连爆发饥荒骚乱，水上之城陷入一片混乱——威尼斯共和国，这个由中央统辖的国家，就此不复存在。{vspace=5}{color=#A9A9A9}总督声望降低 [storyroll] 点！"
+    "{cps=50}意识到大难将至，又接连爆发饥荒骚乱，水上之城陷入一片混乱——威尼斯共和国，这个由中央统辖的国家，就此不复存在。{vspace=5}{color=#A9A9A9}总督人望降低 [storyroll] 点！"
 
 # game/script_dlc_4.rpy:40051
 translate chinese venice_doge_chapter_4_end_76b2fe88_5:

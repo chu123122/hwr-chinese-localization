@@ -58,7 +58,7 @@ translate chinese windsor_siege_tutorial_76b2fe88:
 translate chinese camp_activities_9550da3f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}享乐家——成功！{vspace=5}生命值提升[bon_vivant_civil_talent_vitality_bonus]！"
+    "{cps=50}{color=#A9A9A9}享乐家——成功！{vspace=5}活力提升[bon_vivant_civil_talent_vitality_bonus]！"
 
 # game/script.rpy:12306
 translate chinese camp_activities_76b2fe88:
@@ -150,7 +150,7 @@ translate chinese drinking_negative_effect_roll_1_e1e6f8d2:
 # game/script.rpy:13826
 translate chinese drinking_negative_effect_roll_2_4a2389d8:
 
-    "{cps=50}酗酒正损害你的健康。{vspace=5}{color=#A9A9A9}生命值降低2！"
+    "{cps=50}酗酒正损害你的健康。{vspace=5}{color=#A9A9A9}活力降低2！"
 
 # game/script.rpy:13829
 translate chinese drinking_negative_effect_roll_2_dc0ed2a8:
@@ -227,7 +227,7 @@ translate chinese drinking_negative_effect_roll_1_standalone_e1e6f8d2:
 # game/script.rpy:13890
 translate chinese drinking_negative_effect_roll_1_standalone_4a2389d8:
 
-    "{cps=50}酗酒正损害你的健康。{vspace=5}{color=#A9A9A9}生命值降低2！"
+    "{cps=50}酗酒正损害你的健康。{vspace=5}{color=#A9A9A9}活力降低2！"
 
 # game/script.rpy:13893
 translate chinese drinking_negative_effect_roll_1_standalone_dc0ed2a8:
@@ -414,7 +414,7 @@ translate chinese squad_high_virtue_effect_character_leave_76b2fe88_3:
 # game/script.rpy:27764
 translate chinese squad_high_virtue_effect_character_leave_0a5b3ab9:
 
-    "{cps=50}深受你虔诚举止打动的[ally!ti]声称，你便是骑士理想的化身，今后他将加倍苦练，以免辱没队伍的荣誉。{vspace=5}{color=#A9A9A9}美德——成功！{vspace=5}[ally!ti]——所有属性提升1！"
+    "{cps=50}深受你美德举止打动的[ally!ti]声称，你便是骑士理想的化身，今后他将加倍苦练，以免辱没队伍的荣誉。{vspace=5}{color=#A9A9A9}美德——成功！{vspace=5}[ally!ti]——所有属性提升1！"
 
 # game/script.rpy:27765
 translate chinese squad_high_virtue_effect_character_leave_76b2fe88_4:
@@ -426,7 +426,7 @@ translate chinese squad_high_virtue_effect_character_leave_76b2fe88_4:
 translate chinese squad_random_event_roll_f57729be:
 
     nvl clear
-    "{cps=50}深受你虔诚举止打动的[ally!ti]，赠你一份礼物以表敬意。{vspace=5}{color=#A9A9A9}美德——成功！{vspace=5}声望（士兵）——成功！{vspace=5}队中有骑士或十字军——成功！"
+    "{cps=50}深受你美德举止打动的[ally!ti]，赠你一份礼物以表敬意。{vspace=5}{color=#A9A9A9}美德——成功！{vspace=5}声望（士兵）——成功！{vspace=5}队中有骑士或十字军——成功！"
 
 # game/script.rpy:27874
 translate chinese squad_random_event_roll_76b2fe88:
@@ -702,7 +702,7 @@ translate chinese injury_application_76b2fe88_1:
 # game/script.rpy:28457
 translate chinese injury_application_9c70f3a2:
 
-    "{cps=50}{color=#A9A9A9}生命值与耐力降低1（腿部负伤）！"
+    "{cps=50}{color=#A9A9A9}活力与耐力降低1（腿部负伤）！"
 
 # game/script.rpy:28463
 translate chinese injury_application_76b2fe88:
@@ -729,7 +729,7 @@ translate chinese injury_application_76b2fe88_2:
 # game/script.rpy:28487
 translate chinese injury_application_86041084:
 
-    "{cps=50}{color=#A9A9A9}生命值与耐力降低1（手臂负伤）！"
+    "{cps=50}{color=#A9A9A9}活力与耐力降低1（手臂负伤）！"
 
 # game/script.rpy:28494
 translate chinese injury_application_76b2fe88_3:
@@ -740,7 +740,7 @@ translate chinese injury_application_76b2fe88_3:
 # game/script.rpy:28498
 translate chinese injury_application_06aba825:
 
-    "{cps=50}{color=#A9A9A9}生命值与耐力降低1（肺部负伤）！"
+    "{cps=50}{color=#A9A9A9}活力与耐力降低1（肺部负伤）！"
 
 # game/script.rpy:28506
 translate chinese injury_application_76b2fe88_4:
@@ -751,7 +751,7 @@ translate chinese injury_application_76b2fe88_4:
 # game/script.rpy:28510
 translate chinese injury_application_b108b200:
 
-    "{cps=50}{color=#A9A9A9}生命值与耐力降低1（肢体伤残）！"
+    "{cps=50}{color=#A9A9A9}活力与耐力降低1（肢体伤残）！"
 
 # game/script.rpy:28517
 translate chinese injury_application_76b2fe88_5:
@@ -762,7 +762,7 @@ translate chinese injury_application_76b2fe88_5:
 # game/script.rpy:28521
 translate chinese injury_application_ddc832c5:
 
-    "{cps=50}{color=#A9A9A9}生命值与耐力降低1（脑震荡）！"
+    "{cps=50}{color=#A9A9A9}活力与耐力降低1（脑震荡）！"
 
 # game/script.rpy:28528
 translate chinese injury_application_76b2fe88_6:
@@ -773,7 +773,7 @@ translate chinese injury_application_76b2fe88_6:
 # game/script.rpy:28531
 translate chinese injury_application_937e61fa:
 
-    "{cps=50}{color=#A9A9A9}生命值降低3（中毒）！"
+    "{cps=50}{color=#A9A9A9}活力降低3（中毒）！"
 
 # game/script.rpy:28533
 translate chinese injury_application_76b2fe88_7:
@@ -784,7 +784,7 @@ translate chinese injury_application_76b2fe88_7:
 # game/script.rpy:28535
 translate chinese injury_application_cbbd60ae:
 
-    "{cps=50}{color=#A9A9A9}生命值降低2（中毒）！"
+    "{cps=50}{color=#A9A9A9}活力降低2（中毒）！"
 
 # game/script.rpy:28537
 translate chinese injury_application_76b2fe88_8:
@@ -795,7 +795,7 @@ translate chinese injury_application_76b2fe88_8:
 # game/script.rpy:28539
 translate chinese injury_application_ba6636e9:
 
-    "{cps=50}{color=#A9A9A9}生命值降低1（中毒）！"
+    "{cps=50}{color=#A9A9A9}活力降低1（中毒）！"
 
 # game/script.rpy:28541
 translate chinese injury_application_76b2fe88_9:
@@ -1025,7 +1025,7 @@ translate chinese stats_increase_hub_76b2fe88:
 # game/script.rpy:29166
 translate chinese stats_increase_hub_b5ed03ec:
 
-    "{cps=50}训练与实战经验让你的技艺获益匪浅。{vspace=5}{color=#A9A9A9}力量、敏捷、耐力、协调、生命值与武器技能提升[attackchance]！"
+    "{cps=50}训练与实战经验让你的技艺获益匪浅。{vspace=5}{color=#A9A9A9}力量、敏捷、耐力、协调、活力与武器技能提升[attackchance]！"
 
 # game/script.rpy:29176
 translate chinese stats_increase_hub_76b2fe88_1:
@@ -1042,7 +1042,7 @@ translate chinese colossus_civil_talent_stats_increase_76b2fe88:
 # game/script.rpy:29188
 translate chinese colossus_civil_talent_stats_increase_58482eba:
 
-    "{cps=50}{color=#A9A9A9}力量与生命值提升[attackchance]（巨像）！"
+    "{cps=50}{color=#A9A9A9}力量与活力提升[attackchance]（巨像）！"
 
 # game/script.rpy:29194
 translate chinese colossus_civil_talent_stats_increase_76b2fe88_1:
@@ -1090,7 +1090,7 @@ translate chinese duncans_quests_warning_76b2fe88_1:
 translate chinese earl_looking_for_you_3a4640bd:
 
     nvl clear
-    "{cps=50}信使匆匆寻来传话：伯爵有要事相商，命你即刻前去觐见。"
+    "{cps=50}寻到你的信使传话，伯爵有要事找你，命你即刻前往觐见。"
 
 # game/script.rpy:29229
 translate chinese earl_looking_for_you_76b2fe88:
@@ -4941,27 +4941,27 @@ translate chinese strings:
     old "{size=-5}Вы проводите время в уединении{vspace=5}и молитвах."
     new "{size=-5}你独处静思，{vspace=5}祈祷礼拜。"
     old "{size=-5}Вы проводите время в уединении{vspace=5}и молитвах.{vspace=5}{color=#A9A9A9}Благочестие увеличено на 1!{/color}{vspace=5}Самоустранившись от участия в{vspace=5}жизни отряда, вы теряете{vspace=5}уважение товарищей...{color=#A9A9A9}{vspace=5}Репутация (солдаты) снижена на 1!"
-    new "{size=-5}你独处静思，{vspace=5}祈祷礼拜。{vspace=5}{color=#A9A9A9}虔诚 +1！{/color}{vspace=5}因不参与队伍的生活，{vspace=5}你失去了{vspace=5}同伴们的尊敬……{color=#A9A9A9}{vspace=5}声望（士兵）-1！"
+    new "{size=-5}你独处静思，{vspace=5}祈祷礼拜。{vspace=5}{color=#A9A9A9}美德 +1！{/color}{vspace=5}因不参与队伍的生活，{vspace=5}你失去了{vspace=5}同伴们的尊敬……{color=#A9A9A9}{vspace=5}声望（士兵）-1！"
     old "{size=-5}Вы проводите время в уединении{vspace=5}и молитвах.{vspace=5}{color=#A9A9A9}Благочестие увеличено на 1!"
-    new "{size=-5}你独处静思，{vspace=5}祈祷礼拜。{vspace=5}{color=#A9A9A9}虔诚 +1！"
+    new "{size=-5}你独处静思，{vspace=5}祈祷礼拜。{vspace=5}{color=#A9A9A9}美德 +1！"
     old "{size=-5}Вы проводите время умерщвляя{vspace=5}собственную плоть и вымаливая{vspace=5}прощение за грехи...{vspace=5}{color=#A9A9A9}Благочестие увеличено на 1!{vspace=5}Вы потеряли немного крови!"
-    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}虔诚 +1！{vspace=5}你流了一点血！"
+    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}美德 +1！{vspace=5}你流了一点血！"
     old "{size=-5}Вы проводите время умерщвляя{vspace=5}собственную плоть и вымаливая{vspace=5}прощение за грехи...{vspace=5}{color=#A9A9A9}Благочестие увеличено на 1!{vspace=5}Кровопотеря!"
-    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}虔诚 +1！{vspace=5}失血！"
+    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}美德 +1！{vspace=5}失血！"
     old "{size=-5}Вы проводите время умерщвляя{vspace=5}собственную плоть и вымаливая{vspace=5}прощение за грехи...{vspace=5}{color=#A9A9A9}Благочестие увеличено на 1!{vspace=5}Живучесть снижена на 1!"
-    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}虔诚 +1！{vspace=5}生命力 -1！"
+    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}美德 +1！{vspace=5}活力 -1！"
     old "{size=-5}Вы проводите время умерщвляя{vspace=5}собственную плоть и вымаливая{vspace=5}прощение за грехи...{vspace=5}{color=#A9A9A9}Благочестие увеличено на 1!{vspace=5}Вы потеряли немного крови!{vspace=5}Заражение крови!"
-    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}虔诚 +1！{vspace=5}你流了一点血！{vspace=5}血液感染！"
+    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}美德 +1！{vspace=5}你流了一点血！{vspace=5}血液感染！"
     old "{size=-5}Вы проводите время умерщвляя{vspace=5}собственную плоть и вымаливая{vspace=5}прощение за грехи...{vspace=5}{color=#A9A9A9}Благочестие увеличено на 1!{vspace=5}Кровопотеря!{vspace=5}Заражение крови!"
-    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}虔诚 +1！{vspace=5}失血！{vspace=5}血液感染！"
+    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}美德 +1！{vspace=5}失血！{vspace=5}血液感染！"
     old "{size=-5}Вы проводите время умерщвляя{vspace=5}собственную плоть и вымаливая{vspace=5}прощение за грехи...{vspace=5}{color=#A9A9A9}Благочестие увеличено на 1!{vspace=5}Живучесть снижена на 1!{vspace=5}Заражение крови!"
-    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}虔诚 +1！{vspace=5}生命力 -1！{vspace=5}血液感染！"
+    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}美德 +1！{vspace=5}活力 -1！{vspace=5}血液感染！"
     old "{size=-5}Вы проводите время умерщвляя{vspace=5}собственную плоть и вымаливая{vspace=5}прощение за грехи...{vspace=5}{color=#A9A9A9}Благочестие увеличено на 1!{vspace=5}Вы потеряли немного крови!{vspace=5}Заражение крови!{vspace=5}Живучесть снижена на 1!"
-    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}虔诚 +1！{vspace=5}你流了一点血！{vspace=5}血液感染！{vspace=5}生命力 -1！"
+    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}美德 +1！{vspace=5}你流了一点血！{vspace=5}血液感染！{vspace=5}活力 -1！"
     old "{size=-5}Вы проводите время умерщвляя{vspace=5}собственную плоть и вымаливая{vspace=5}прощение за грехи...{vspace=5}{color=#A9A9A9}Благочестие увеличено на 1!{vspace=5}Кровопотеря!{vspace=5}Заражение крови!{vspace=5}Живучесть снижена на 1!"
-    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}虔诚 +1！{vspace=5}失血！{vspace=5}血液感染！{vspace=5}生命力 -1！"
+    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}美德 +1！{vspace=5}失血！{vspace=5}血液感染！{vspace=5}活力 -1！"
     old "{size=-5}Вы проводите время умерщвляя{vspace=5}собственную плоть и вымаливая{vspace=5}прощение за грехи...{vspace=5}{color=#A9A9A9}Благочестие увеличено на 1!{vspace=5}Живучесть снижена на 2!{vspace=5}Заражение крови!"
-    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}虔诚 +1！{vspace=5}生命力 -2！{vspace=5}血液感染！"
+    new "{size=-5}你鞭挞己身，{vspace=5}祈求宽恕{vspace=5}自己的罪孽……{vspace=5}{color=#A9A9A9}美德 +1！{vspace=5}活力 -2！{vspace=5}血液感染！"
     old "Toxic"
     new "有毒"
     old "Strength"

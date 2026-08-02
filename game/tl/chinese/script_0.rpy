@@ -34,7 +34,7 @@ translate chinese fight1_intro_76b2fe88:
 translate chinese fight1_bc060a02:
 
     nvl clear
-    "{cps=50}敌军阵型渐呈溃败之势，这场厮杀恐怕即将落下帷幕。"
+    "{cps=50}敌军阵型渐呈溃败之势，这场厮杀或许很快就会落下帷幕。"
 
 # game/script_0.rpy:303
 translate chinese fight1_76b2fe88:
@@ -1689,7 +1689,7 @@ translate chinese cambrai_retreat_4292ca39:
 translate chinese cambrai_retreat_d7c8d677:
 
     nvl clear
-    "{cps=50}边战边退中，追击的敌人给你留下了数道重伤。{vspace=5}{color=#A9A9A9}生命力减少了1点！{vspace=5}耐力减少了1点！{vspace=5}协调减少了1点！{vspace=5}敏捷减少了1点！"
+    "{cps=50}边战边退中，追击的敌人给你留下了数道重伤。{vspace=5}{color=#A9A9A9}活力减少了1点！{vspace=5}耐力减少了1点！{vspace=5}协调减少了1点！{vspace=5}敏捷减少了1点！"
 
 # game/script_0.rpy:3849
 translate chinese cambrai_retreat_f1d485e6:
@@ -1707,7 +1707,7 @@ translate chinese cambrai_retreat_76b2fe88:
 translate chinese cambrai_retreat_8fe75dde:
 
     nvl clear
-    "{cps=50}你心知形势不妙，此时逞英雄毫无意义，于是第一个转身奔逃，率先撤下城墙。{vspace=5}{color=#A9A9A9}虔诚降低了15点！"
+    "{cps=50}你心知形势不妙，此时逞英雄毫无意义，于是第一个转身奔逃，率先撤下城墙。{vspace=5}{color=#A9A9A9}美德降低了15点！"
 
 # game/script_0.rpy:3861
 translate chinese cambrai_retreat_b69b3fb0:
@@ -4915,7 +4915,7 @@ translate chinese sergeant_sword_story_continue_f5ab19c8:
 translate chinese sergeant_sword_story_continue_ea9cc2d7:
 
     nvl clear
-    "{cps=50}其中一箭正中你的胸口，将你击倒在地，你当场失去了意识。{vspace=5}{color=#A9A9A9}生命力降低了3点！"
+    "{cps=50}其中一箭正中你的胸口，将你击倒在地，你当场失去了意识。{vspace=5}{color=#A9A9A9}活力降低了3点！"
 
 # game/script_0.rpy:9764
 translate chinese sergeant_sword_story_continue_64c6e06b:
@@ -4981,7 +4981,7 @@ translate chinese cambrai_final_battle_3_postfight_7c910bf3:
 translate chinese cambrai_final_battle_3_postfight_ea9cc2d7:
 
     nvl clear
-    "{cps=50}其中一箭正中你的胸口，将你击倒在地，你当场失去了意识。{vspace=5}{color=#A9A9A9}生命力降低了3点！"
+    "{cps=50}其中一箭正中你的胸口，将你击倒在地，你当场失去了意识。{vspace=5}{color=#A9A9A9}活力降低了3点！"
 
 # game/script_0.rpy:10299
 translate chinese cambrai_final_battle_3_postfight_64c6e06b:
@@ -10102,7 +10102,7 @@ translate chinese london_intro_4b836f11:
 translate chinese london_intro_5efcbe6a:
 
     nvl clear
-    "{cps=50}爱丽丝信守诺言，给了你们热忱的接待，并将考德威尔家族的全部兵力移交王子统辖。本就规模可观、且日渐扩充的军队，越发壮大起来。"
+    "{cps=50}艾丽莎信守诺言，给了你们热忱的接待，并将考德威尔家族的全部兵力移交王子统辖。本就规模可观、且日渐扩充的军队，越发壮大起来。"
 
 # game/script_0.rpy:21327
 translate chinese london_intro_76b2fe88:
@@ -11122,7 +11122,7 @@ translate chinese story_england_2_end_4988f6e9:
 translate chinese story_england_2_end_427a5f28:
 
     nvl clear
-    "{cps=50}你遣信使给爱丽丝带去一封信，阐明了自己的立场——拒绝向自己的领主背后捅刀——随后动身前往王宫。"
+    "{cps=50}你遣信使给艾丽莎带去一封信，阐明了自己的立场——拒绝向自己的领主背后捅刀——随后动身前往王宫。"
 
 # game/script_0.rpy:23275
 translate chinese story_england_2_end_76b2fe88:
@@ -12032,7 +12032,7 @@ translate chinese negotiations_postfight_1_91fcea92:
 translate chinese negotiations_postfight_1_6a585857:
 
     nvl clear
-    "{cps=50}你跟在逃窜的鲁芬身后，试图如法炮制他的路线，可你的身手实在耍不来这等杂耍——你从偏房屋顶上一路翻滚着摔了下去。{vspace=5}{color=#A9A9A9}敏捷、协调——失败！{vspace=5}生命值降低3点！"
+    "{cps=50}你跟在逃窜的鲁芬身后，试图如法炮制他的路线，可你的身手实在耍不来这等杂耍——你从偏房屋顶上一路翻滚着摔了下去。{vspace=5}{color=#A9A9A9}敏捷、协调——失败！{vspace=5}活力降低3点！"
 
 # game/script_0.rpy:24220
 translate chinese negotiations_postfight_1_c5364c23:
@@ -13277,7 +13277,7 @@ translate chinese york_searching_for_mayor_0913bce4:
 translate chinese york_searching_for_mayor_2_bedda8e9:
 
     nvl clear
-    "{cps=50}莉娜口中的那所监狱，你不费吹灰之力便寻到了。{vspace=5}愁云惨淡，雨幕如织，令这座本就阴森的堡垒平添了几分宛如炼狱的景象……{w}犹如某种不祥之兆，预示着灾祸的降临。"
+    "{cps=50}莉娜所说的那座监狱，你不费吹灰之力便找到了。{vspace=5}雨幕与乌云压顶的天空，给这座本就阴沉的堡垒平添了几分地狱般的景象……{w}仿佛预示着什么灾祸即将降临。"
 
 # game/script_0.rpy:25779
 translate chinese york_searching_for_mayor_2_76b2fe88:
@@ -14244,7 +14244,7 @@ translate chinese strings:
     old "Вернуться в родные края"
     new "返回故乡"
     old "Жениться на Алисе"
-    new "迎娶爱丽丝"
+    new "迎娶艾丽莎"
     old "Поместье Арлингтон в окрестностях столицы. Титул: барон Арлингтон.{vspace=5}Доход: 600 флоринов. Доступ к снаряжению/компаньонам: отличный."
     new "首都近郊的阿灵顿庄园。头衔：阿灵顿男爵。{vspace=5}收入：600弗罗林。装备与同伴的获取条件：极佳。"
     old "Поместье Скарборо в окрестностях Ноттингема. Титул: граф Скарборо.{vspace=5}Доход: 1500 флоринов. Доступ к снаряжению/компаньонам: средний."

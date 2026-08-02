@@ -146,7 +146,7 @@ translate chinese money_has_no_smell_1_76b2fe88_7:
 # game/script_dlc_3.rpy:77
 translate chinese money_has_no_smell_1_0f4138aa:
 
-    "{cps=50}你实在想不出哪个心智正常的人会拒绝这样的提议，自然是满口答应。{vspace=5}{color=#A9A9A9}虔诚度降低35！"
+    "{cps=50}你实在想不出哪个心智正常的人会拒绝这样的提议，自然是满口答应。{vspace=5}{color=#A9A9A9}美德度降低35！"
 
 # game/script_dlc_3.rpy:79
 translate chinese money_has_no_smell_1_76b2fe88:
@@ -176,13 +176,13 @@ translate chinese money_has_no_smell_1_f36d3ac4:
 translate chinese money_has_no_smell_1_1c539179:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}生命值减少1！{vspace=5}中毒值上升！"
+    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}活力减少1！{vspace=5}中毒值上升！"
 
 # game/script_dlc_3.rpy:99
 translate chinese money_has_no_smell_1_09362a7e:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}生命值减少1！"
+    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}活力减少1！"
 
 # game/script_dlc_3.rpy:103
 translate chinese money_has_no_smell_1_58568f97:
@@ -205,7 +205,7 @@ translate chinese money_has_no_smell_1_76b2fe88_1:
 # game/script_dlc_3.rpy:113
 translate chinese money_has_no_smell_1_475bb266:
 
-    "{cps=50}你无意参与这种勾当，在同伴惊讶的目光中拒绝了。{vspace=5}{color=#A9A9A9}虔诚度增加15！"
+    "{cps=50}你无意参与这种勾当，在同伴惊讶的目光中拒绝了。{vspace=5}{color=#A9A9A9}美德度增加15！"
 
 # game/script_dlc_3.rpy:115
 translate chinese money_has_no_smell_1_43d80b64:
@@ -258,7 +258,7 @@ translate chinese money_has_no_smell_1_dba8b983:
 translate chinese money_has_no_smell_1_fdd5ae4e:
 
     nvl clear
-    "{cps=50}你明白一步走错便可能丢掉性命，于是决定权当什么都没看见。{vspace=5}{color=#A9A9A9}虔诚度降低20！"
+    "{cps=50}你明白一步走错便可能丢掉性命，于是决定权当什么都没看见。{vspace=5}{color=#A9A9A9}美德度降低20！"
 
 # game/script_dlc_3.rpy:143
 translate chinese money_has_no_smell_1_1556d3f1:
@@ -282,13 +282,13 @@ translate chinese money_has_no_smell_1_76b2fe88_4:
 translate chinese money_has_no_smell_1_1c539179_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}生命值减少1！{vspace=5}中毒值上升！"
+    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}活力减少1！{vspace=5}中毒值上升！"
 
 # game/script_dlc_3.rpy:155
 translate chinese money_has_no_smell_1_09362a7e_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}生命值减少1！"
+    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}活力减少1！"
 
 # game/script_dlc_3.rpy:159
 translate chinese money_has_no_smell_1_d883ce80:
@@ -444,13 +444,13 @@ translate chinese money_has_no_smell_1_76b2fe88_10:
 translate chinese money_has_no_smell_1_1c539179_2:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}生命值减少1！{vspace=5}中毒值上升！"
+    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}活力减少1！{vspace=5}中毒值上升！"
 
 # game/script_dlc_3.rpy:226
 translate chinese money_has_no_smell_1_09362a7e_2:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}生命值减少1！"
+    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}活力减少1！"
 
 # game/script_dlc_3.rpy:230
 translate chinese money_has_no_smell_1_78788050_1:
@@ -479,7 +479,7 @@ translate chinese money_has_no_smell_1_76b2fe88_16:
 # game/script_dlc_3.rpy:241
 translate chinese money_has_no_smell_1_1f7eced3:
 
-    "{cps=50}你点了点头，钱袋落到了你手里。{vspace=5}{color=#A9A9A9}虔诚度降低35！"
+    "{cps=50}你点了点头，钱袋落到了你手里。{vspace=5}{color=#A9A9A9}美德度降低35！"
 
 # game/script_dlc_3.rpy:243
 translate chinese money_has_no_smell_1_0f9825f5:
@@ -509,13 +509,13 @@ translate chinese money_has_no_smell_1_76b2fe88_14:
 translate chinese money_has_no_smell_1_1c539179_3:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}生命值减少1！{vspace=5}中毒值上升！"
+    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}活力减少1！{vspace=5}中毒值上升！"
 
 # game/script_dlc_3.rpy:258
 translate chinese money_has_no_smell_1_09362a7e_3:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}生命值减少1！"
+    "{cps=50}{color=#A9A9A9}疲劳值上升！{vspace=5}活力减少1！"
 
 # game/script_dlc_3.rpy:262
 translate chinese money_has_no_smell_1_edabe6bd:
@@ -568,7 +568,7 @@ translate chinese money_has_no_smell_end_ee023b59:
 translate chinese money_has_no_smell_end_d55fd041:
 
     nvl clear
-    "{cps=50}十夫长[quest_decider!ti]被送上刑场，你的嫌疑则被尽数洗清，指挥层甚至因你清廉自持、信守誓言而予以嘉奖。{vspace=5}{color=#A9A9A9}声望（伯爵）增加5！{vspace=5}虔诚度增加10！{vspace=5}获得50弗罗林！"
+    "{cps=50}十夫长[quest_decider!ti]被送上刑场，你的嫌疑则被尽数洗清，指挥层甚至因你清廉自持、信守誓言而予以嘉奖。{vspace=5}{color=#A9A9A9}声望（伯爵）增加5！{vspace=5}美德度增加10！{vspace=5}获得50弗罗林！"
 
 # game/script_dlc_3.rpy:302
 translate chinese money_has_no_smell_end_76b2fe88_1:
@@ -634,13 +634,13 @@ translate chinese money_has_no_smell_end_73c8ec63:
 translate chinese money_has_no_smell_end_51f515a1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}生命值-1！{vspace=5}声望（士兵）-20！{vspace=5}声望（伯爵）-15！{vspace=5}威望-2！{vspace=5}中毒值+10！"
+    "{cps=50}{color=#A9A9A9}活力-1！{vspace=5}声望（士兵）-20！{vspace=5}声望（伯爵）-15！{vspace=5}威望-2！{vspace=5}中毒值+10！"
 
 # game/script_dlc_3.rpy:345
 translate chinese money_has_no_smell_end_e9c87533:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}生命值-2！{vspace=5}声望（士兵）-20！{vspace=5}声望（伯爵）-15！{vspace=5}威望-2！{vspace=5}中毒值+30！{vspace=5}轻微失血！"
+    "{cps=50}{color=#A9A9A9}活力-2！{vspace=5}声望（士兵）-20！{vspace=5}声望（伯爵）-15！{vspace=5}威望-2！{vspace=5}中毒值+30！{vspace=5}轻微失血！"
 
 # game/script_dlc_3.rpy:354
 translate chinese money_has_no_smell_end_ce27870f:
@@ -2027,7 +2027,7 @@ translate chinese overthrow_end_alyssa_99ef1208:
 translate chinese overthrow_end_alyssa_a734d300:
 
     nvl clear
-    "{cps=50}尤其当胜者将成为国王的时候。{vspace=5}{color=#A9A9A9}虔诚度降低75！"
+    "{cps=50}尤其当胜者将成为国王的时候。{vspace=5}{color=#A9A9A9}美德度降低75！"
 
 # game/script_dlc_3.rpy:3218
 translate chinese overthrow_end_alyssa_e9977a91:
@@ -2039,49 +2039,49 @@ translate chinese overthrow_end_alyssa_e9977a91:
 translate chinese overthrow_end_alyssa_f00f6519:
 
     nvl clear
-    "{cps=50}是你，在康布雷街头救了爱德华王子……{vspace=5}{color=#A9A9A9}虔诚度增加10！"
+    "{cps=50}是你，在康布雷街头救了爱德华王子……{vspace=5}{color=#A9A9A9}美德度增加10！"
 
 # game/script_dlc_3.rpy:3225
 translate chinese overthrow_end_alyssa_28ba2ba8:
 
     nvl clear
-    "{cps=50}在众人对重伤的巴塞洛缪不闻不问的时候，是你设法救了他的性命。{vspace=5}{color=#A9A9A9}虔诚度增加10！"
+    "{cps=50}在众人对重伤的巴塞洛缪不闻不问的时候，是你设法救了他的性命。{vspace=5}{color=#A9A9A9}美德度增加10！"
 
 # game/script_dlc_3.rpy:3229
 translate chinese overthrow_end_alyssa_cd57f412:
 
     nvl clear
-    "{cps=50}北安普顿命你征集粮草、授予你任意行事的全权时，是你放过了那些农民。{vspace=5}{color=#A9A9A9}虔诚度增加10！"
+    "{cps=50}北安普顿命你征集粮草、授予你任意行事的全权时，是你放过了那些农民。{vspace=5}{color=#A9A9A9}美德度增加10！"
 
 # game/script_dlc_3.rpy:3233
 translate chinese overthrow_end_alyssa_8333526c:
 
     nvl clear
-    "{cps=50}是你帮助伊娃手下的人挣得了糊口的面包。{vspace=5}{color=#A9A9A9}虔诚度增加10！"
+    "{cps=50}是你帮助伊娃手下的人挣得了糊口的面包。{vspace=5}{color=#A9A9A9}美德度增加10！"
 
 # game/script_dlc_3.rpy:3237
 translate chinese overthrow_end_alyssa_67e2a8da:
 
     nvl clear
-    "{cps=50}你本可轻易取走手无寸铁的德·罗什的性命，却还是放过了他。{vspace=5}{color=#A9A9A9}虔诚度增加10！"
+    "{cps=50}你本可轻易取走手无寸铁的德·罗什的性命，却还是放过了他。{vspace=5}{color=#A9A9A9}美德度增加10！"
 
 # game/script_dlc_3.rpy:3241
 translate chinese overthrow_end_alyssa_4c6c6831:
 
     nvl clear
-    "{cps=50}是你向塞西莉亚提供药品，让她救下了数十名普通士兵的性命。{vspace=5}{color=#A9A9A9}虔诚度增加10！"
+    "{cps=50}是你向塞西莉亚提供药品，让她救下了数十名普通士兵的性命。{vspace=5}{color=#A9A9A9}美德度增加10！"
 
 # game/script_dlc_3.rpy:3245
 translate chinese overthrow_end_alyssa_a842fc31:
 
     nvl clear
-    "{cps=50}是你从林迪斯法恩修道院院长手中接过了正义之剑。{vspace=5}{color=#A9A9A9}虔诚度增加10！"
+    "{cps=50}是你从林迪斯法恩修道院院长手中接过了正义之剑。{vspace=5}{color=#A9A9A9}美德度增加10！"
 
 # game/script_dlc_3.rpy:3249
 translate chinese overthrow_end_alyssa_5ffe4e90:
 
     nvl clear
-    "{cps=50}是你身先士卒，第一个登上了康布雷的城墙。{vspace=5}{color=#A9A9A9}虔诚度增加10！"
+    "{cps=50}是你身先士卒，第一个登上了康布雷的城墙。{vspace=5}{color=#A9A9A9}美德度增加10！"
 
 # game/script_dlc_3.rpy:3253
 translate chinese overthrow_end_alyssa_bb7c7017:
@@ -3056,7 +3056,7 @@ translate chinese kingdom_of_london_intro_7de1ac2e:
 translate chinese kingdom_of_london_intro_3371c889:
 
     nvl clear
-    "{cps=50}这些见闻，连同艾丽莎手下人散布的传闻，把你塑造成了底层民众眼中极具魅力的人物。{vspace=5}{color=#A9A9A9}虔诚度——大获成功！"
+    "{cps=50}这些见闻，连同艾丽莎手下人散布的传闻，把你塑造成了底层民众眼中极具魅力的人物。{vspace=5}{color=#A9A9A9}美德度——大获成功！"
 
 # game/script_dlc_3.rpy:5479
 translate chinese kingdom_of_london_intro_ab11a986:
@@ -3079,7 +3079,7 @@ translate chinese kingdom_of_london_intro_84abad10:
 translate chinese kingdom_of_london_intro_87ed316a:
 
     nvl clear
-    "{cps=50}这些见闻，连同艾丽莎手下人散布的传闻，把你塑造成了底层民众眼中颇具魅力的人物。{vspace=5}{color=#A9A9A9}虔诚度——部分成功！"
+    "{cps=50}这些见闻，连同艾丽莎手下人散布的传闻，把你塑造成了底层民众眼中颇具魅力的人物。{vspace=5}{color=#A9A9A9}美德度——部分成功！"
 
 # game/script_dlc_3.rpy:5489
 translate chinese kingdom_of_london_intro_9b6c18c8:
@@ -3102,7 +3102,7 @@ translate chinese kingdom_of_london_intro_7701f861:
 translate chinese kingdom_of_london_intro_6b5215bc:
 
     nvl clear
-    "{cps=50}结果，底层民众的舆论对你颇为不利。{vspace=5}{color=#A9A9A9}虔诚度——部分失败！"
+    "{cps=50}结果，底层民众的舆论对你颇为不利。{vspace=5}{color=#A9A9A9}美德度——部分失败！"
 
 # game/script_dlc_3.rpy:5502
 translate chinese kingdom_of_london_intro_b1e40286:
@@ -3113,7 +3113,7 @@ translate chinese kingdom_of_london_intro_b1e40286:
 translate chinese kingdom_of_london_intro_5e249e7d:
 
     nvl clear
-    "{cps=50}结果，底层民众的舆论对你是压倒性的不利。{vspace=5}{color=#A9A9A9}虔诚度——彻底失败！"
+    "{cps=50}结果，底层民众的舆论对你是压倒性的不利。{vspace=5}{color=#A9A9A9}美德度——彻底失败！"
 
 # game/script_dlc_3.rpy:5525
 translate chinese kingdom_of_london_intro_5e92e54b:
@@ -3439,7 +3439,7 @@ translate chinese kingdom_of_london_1_finale_1fc58744:
 translate chinese kingdom_of_london_1_finale_3aa9b50a:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}生命值减少5！"
+    "{cps=50}{color=#A9A9A9}活力减少5！"
 
 # game/script_dlc_3.rpy:5902
 translate chinese kingdom_of_london_1_finale_b7e6e9a3:
@@ -3770,7 +3770,7 @@ translate chinese kingdom_decide_prisoners_fate_76b2fe88_1:
 # game/script_dlc_3.rpy:6338
 translate chinese kingdom_decide_prisoners_fate_71088c1f:
 
-    "{cps=50}你决定处决俘虏。{vspace=5}{color=#A9A9A9}处决[kingdom_of_london_prisoners_captured_temp]名俘虏！{vspace=5}虔诚度降低[storyroll]！"
+    "{cps=50}你决定处决俘虏。{vspace=5}{color=#A9A9A9}处决[kingdom_of_london_prisoners_captured_temp]名俘虏！{vspace=5}美德度降低[storyroll]！"
 
 # game/script_dlc_3.rpy:6342
 translate chinese kingdom_decide_prisoners_fate_76b2fe88_2:
@@ -3809,7 +3809,7 @@ translate chinese kingdom_decide_prisoners_fate_383e636a:
 # game/script_dlc_3.rpy:6402
 translate chinese kingdom_decide_prisoners_fate_2a763e4d:
 
-    "{cps=50}你决定无偿释放俘虏。{vspace=5}{color=#A9A9A9}[kingdom_of_london_prisoners_captured_temp]名敌军士兵获释。{vspace=5}人气（教会）增加[storyroll]！{vspace=5}虔诚度增加[storyroll]！"
+    "{cps=50}你决定无偿释放俘虏。{vspace=5}{color=#A9A9A9}[kingdom_of_london_prisoners_captured_temp]名敌军士兵获释。{vspace=5}人气（教会）增加[storyroll]！{vspace=5}美德度增加[storyroll]！"
 
 # game/script_dlc_3.rpy:6442
 translate chinese kingdom_decide_prisoners_fate_end_76b2fe88:
@@ -4449,7 +4449,7 @@ translate chinese kingdom_of_london_end_of_chapter_check_76b2fe88:
 # game/script_dlc_3.rpy:7290
 translate chinese kingdom_of_london_end_of_chapter_check_499eae6d:
 
-    "{cps=50}犒赏三军耗费了你[kingdom_army_total_upkeep_price]弗罗林。{vspace=5}{color=#A9A9A9}损失[kingdom_army_total_upkeep_price]弗罗林。"
+    "{cps=50}为军队发放军饷耗去你[kingdom_army_total_upkeep_price]弗罗林。{vspace=5}{color=#A9A9A9}损失[kingdom_army_total_upkeep_price]弗罗林。"
 
 # game/script_dlc_3.rpy:7291
 translate chinese kingdom_of_london_end_of_chapter_check_76b2fe88_1:
@@ -7923,7 +7923,7 @@ translate chinese kingdom_of_london_4_spain_fail_76b2fe88_4:
 # game/script_dlc_3.rpy:13264
 translate chinese kingdom_of_london_4_spain_fail_38dcee0a:
 
-    "{cps=50}你把桑坦德视作理所当然的战利品，听任手下洗劫全城。{vspace=5}{color=#A9A9A9}获得[storyroll]弗罗林。{vspace=5}虔诚度降低[storyroll2]！"
+    "{cps=50}你把桑坦德视作理所当然的战利品，听任手下洗劫全城。{vspace=5}{color=#A9A9A9}获得[storyroll]弗罗林。{vspace=5}美德度降低[storyroll2]！"
 
 # game/script_dlc_3.rpy:13267
 translate chinese kingdom_of_london_4_spain_fail_76b2fe88_2:
@@ -7939,7 +7939,7 @@ translate chinese kingdom_of_london_4_spain_fail_6cc5fc61:
 # game/script_dlc_3.rpy:13272
 translate chinese kingdom_of_london_4_spain_fail_cf81692c:
 
-    "{cps=50}出乎士兵们的意料，你下令禁止洗劫城市，这引起了军中的不满。{vspace=5}{color=#A9A9A9}虔诚度增加15！"
+    "{cps=50}出乎士兵们的意料，你下令禁止洗劫城市，这引起了军中的不满。{vspace=5}{color=#A9A9A9}美德度增加15！"
 
 # game/script_dlc_3.rpy:13275
 translate chinese kingdom_of_london_4_spain_fail_a864c6f3:
@@ -8325,7 +8325,7 @@ translate chinese kingdom_of_london_4_africa_provisions_menu_76b2fe88:
 # game/script_dlc_3.rpy:13536
 translate chinese kingdom_of_london_4_africa_provisions_menu_822021a1:
 
-    "{cps=50}你的名号分量十足，众多领主当即响应了你的请求。{vspace=5}{color=#A9A9A9}威望、权威——成功！"
+    "{cps=50}你的名号分量十足，众多领主当即响应了你的请求。{vspace=5}{color=#A9A9A9}权威、权威——成功！"
 
 # game/script_dlc_3.rpy:13539
 translate chinese kingdom_of_london_4_africa_provisions_menu_6a54df49:
@@ -8735,7 +8735,7 @@ translate chinese kingdom_of_london_4_africa_end_c2c2d9fc:
 translate chinese kingdom_of_london_4_africa_end_9fa96611:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}虔诚度增加[storyroll]。"
+    "{cps=50}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}美德度增加[storyroll]。"
 
 # game/script_dlc_3.rpy:13799
 translate chinese kingdom_of_london_4_africa_end_76b2fe88_2:
@@ -11362,7 +11362,7 @@ translate chinese alyssa_killed_by_duncan_76b2fe88:
 translate chinese alyssa_killed_by_duncan_7844ae5d:
 
     nvl clear
-    "{cps=50}出于虔诚的天性，你不得不承认，艾丽莎的死似乎有着某种天意注定的成分……{color=#A9A9A9}{vspace=5}虔诚——大获成功！"
+    "{cps=50}出于美德的天性，你不得不承认，艾丽莎的死似乎有着某种天意注定的成分……{color=#A9A9A9}{vspace=5}美德——大获成功！"
 
 # game/script_dlc_3.rpy:17823
 translate chinese alyssa_killed_by_duncan_558dbd59:
@@ -13250,7 +13250,7 @@ translate chinese tod_dlc_intro_finish_him_76b2fe88_1:
 # game/script_dlc_3.rpy:19921
 translate chinese tod_dlc_intro_fight_2fec7e20:
 
-    "{cps=50}你决意饶骑士一命，正要开口宣布他已成为你的俘虏。{vspace=5}{color=#A9A9A9}虔诚 +10！"
+    "{cps=50}你决意饶骑士一命，正要开口宣布他已成为你的俘虏。{vspace=5}{color=#A9A9A9}美德 +10！"
 
 # game/script_dlc_3.rpy:19923
 translate chinese tod_dlc_intro_fight_9bbaf88a:
@@ -13268,7 +13268,7 @@ translate chinese tod_dlc_intro_fight_61b952c5:
 # game/script_dlc_3.rpy:19931
 translate chinese tod_dlc_intro_fight_b725e632:
 
-    "{cps=50}你决意饶骑士一命，向他宣布他已成为你的俘虏。{vspace=5}{color=#A9A9A9}虔诚 +10！"
+    "{cps=50}你决意饶骑士一命，向他宣布他已成为你的俘虏。{vspace=5}{color=#A9A9A9}美德 +10！"
 
 # game/script_dlc_3.rpy:19933
 translate chinese tod_dlc_intro_fight_8e5eff19:
@@ -13328,7 +13328,7 @@ translate chinese tod_dlc_intro_fight_76b2fe88:
 translate chinese tod_dlc_intro_finish_him_53cb1402:
 
     nvl clear
-    "{cps=50}你理智地想到，俘虏远比尸体麻烦，于是抡起一击，结果了这位骑士。{vspace=5}{color=#A9A9A9}虔诚 -20！"
+    "{cps=50}你盘算着，俘虏远比尸体麻烦，于是抡起一击，结果了这位骑士。{vspace=5}{color=#A9A9A9}美德 -20！"
 
 # game/script_dlc_3.rpy:19959
 translate chinese tod_dlc_intro_finish_him_76b2fe88:
@@ -13375,12 +13375,12 @@ translate chinese tod_dlc_intro_postfight_76b2fe88:
 # game/script_dlc_3.rpy:20165
 translate chinese tod_dlc_intro_postfight_cf7d8c68:
 
-    "{cps=50}{color=#A9A9A9}脑震荡！{vspace=5}生命力 -1！"
+    "{cps=50}{color=#A9A9A9}脑震荡！{vspace=5}活力 -1！"
 
 # game/script_dlc_3.rpy:20172
 translate chinese tod_dlc_intro_postfight_bb94e64d:
 
-    "{cps=50}{color=#A9A9A9}生命力 -3！"
+    "{cps=50}{color=#A9A9A9}活力 -3！"
 
 # game/script_dlc_3.rpy:20175
 translate chinese tod_dlc_intro_postfight_5a26c3f0:
@@ -13398,7 +13398,7 @@ translate chinese tod_dlc_intro_postfight_76b2fe88_1:
 translate chinese player_in_french_prison_dlc_54c96457:
 
     nvl clear
-    "{cps=50}接下来的整整一天，你被丢进附近一座庄园地窖里的单人牢房，没有食物，没有饮水，只有寒冷与黑暗相伴。{color=#A9A9A9}{vspace=5}疲劳上升！{vspace=5}毒性上升！{vspace=5}生命力 -5！"
+    "{cps=50}接下来的整整一天，你被丢进附近一座庄园地窖里的单人牢房，没有食物，没有饮水，只有寒冷与黑暗相伴。{color=#A9A9A9}{vspace=5}疲劳上升！{vspace=5}毒性上升！{vspace=5}活力 -5！"
 
 # game/script_dlc_3.rpy:20191
 translate chinese player_in_french_prison_dlc_c23c0578:
@@ -15910,7 +15910,7 @@ translate chinese rouen_city_of_thieves_city_menu_info_buy_d2b44195:
 # game/script_dlc_3.rpy:23733
 translate chinese rouen_city_of_thieves_city_menu_info_buy_5d93fb71:
 
-    "{cps=50}你把他当成喝多了、不看路的醉汉，正要开口训斥，却为时已晚地瞥见匕首的寒光——下一瞬，刀锋便刺进了你的肋下。{vspace=5}{color=#A9A9A9}敏捷、协调——失败！{vspace=5}生命力 -5！{vspace=5}失血！"
+    "{cps=50}你把他当成喝多了、不看路的醉汉，正要开口训斥，却为时已晚地瞥见匕首的寒光——下一瞬，刀锋便刺进了你的肋下。{vspace=5}{color=#A9A9A9}敏捷、协调——失败！{vspace=5}活力 -5！{vspace=5}失血！"
 
 # game/script_dlc_3.rpy:23736
 translate chinese rouen_city_of_thieves_city_menu_info_buy_d46fa3eb:
@@ -15985,7 +15985,7 @@ translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_76b2fe88_2:
 # game/script_dlc_3.rpy:23814
 translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_03e77779:
 
-    "{cps=50}你决定亲自参与缉捕强盗。{vspace=5}{color=#A9A9A9}虔诚 +10！"
+    "{cps=50}你决定亲自参与缉捕强盗。{vspace=5}{color=#A9A9A9}美德 +10！"
 
 # game/script_dlc_3.rpy:23816
 translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_76b2fe88:
@@ -15997,7 +15997,7 @@ translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_76b2fe88:
 translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_20c681c9:
 
     nvl clear
-    "{cps=50}城防卫队成功擒获了匪徒，粮草安然无恙。{vspace=5}{color=#A9A9A9}虔诚 +15！"
+    "{cps=50}城防卫队成功擒获了匪徒，粮草安然无恙。{vspace=5}{color=#A9A9A9}美德 +15！"
 
 # game/script_dlc_3.rpy:23826
 translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_76b2fe88_1:
@@ -16009,7 +16009,7 @@ translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_76b2fe88_1:
 translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_44298906:
 
     nvl clear
-    "{cps=50}身为一个不止一次站在律法对立面的人，你毫不费力便与当地黑道的头面人物搭上了线，并约见了匪帮的首领。{vspace=5}{color=#A9A9A9}虔诚低下——成功！"
+    "{cps=50}身为一个不止一次站在律法对立面的人，你毫不费力便与当地黑道的头面人物搭上了线，并约见了匪帮的首领。{vspace=5}{color=#A9A9A9}美德低下——成功！"
 
 # game/script_dlc_3.rpy:23836
 translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_13298e84:
@@ -16032,7 +16032,7 @@ translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_76b2fe88_6:
 # game/script_dlc_3.rpy:23844
 translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_bd319444:
 
-    "{cps=50}你接受了这笔交易，向卫队长递上了假情报。{vspace=5}{color=#A9A9A9}虔诚 -20！"
+    "{cps=50}你接受了这笔交易，向卫队长递上了假情报。{vspace=5}{color=#A9A9A9}美德 -20！"
 
 # game/script_dlc_3.rpy:23846
 translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_a1a7db9b:
@@ -16085,7 +16085,7 @@ translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_a05b2db9:
 translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_ef81324e:
 
     nvl clear
-    "{cps=50}你回到卫队长身边，将打探到的情报悉数相告，并协助他缉捕罪犯。{vspace=5}{color=#A9A9A9}虔诚 +15！"
+    "{cps=50}你回到卫队长身边，将打探到的情报悉数相告，并协助他缉捕罪犯。{vspace=5}{color=#A9A9A9}美德 +15！"
 
 # game/script_dlc_3.rpy:23879
 translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_76b2fe88_5:
@@ -16120,7 +16120,7 @@ translate chinese rouen_city_of_thieves_fight_76b2fe88_1:
 translate chinese rouen_city_of_thieves_postfight_77828961:
 
     nvl clear
-    "{cps=50}剿灭匪徒之后，你把好消息禀报给卫队长与德·罗什。{vspace=5}{color=#A9A9A9}虔诚 +15！"
+    "{cps=50}剿灭匪徒之后，你把好消息禀报给卫队长与德·罗什。{vspace=5}{color=#A9A9A9}美德 +15！"
 
 # game/script_dlc_3.rpy:24415
 translate chinese rouen_city_of_thieves_postfight_76b2fe88:
@@ -16922,7 +16922,7 @@ translate chinese notre_dame_menu_76b2fe88_3:
 translate chinese notre_dame_menu_135f8287:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚 +15！"
+    "{cps=50}{color=#A9A9A9}美德 +15！"
 
 # game/script_dlc_3.rpy:26398
 translate chinese notre_dame_menu_76b2fe88_4:
@@ -17346,7 +17346,7 @@ translate chinese kings_feast_76b2fe88_1:
 translate chinese paris_noble_recruitment_intro_5fbd6f20:
 
     nvl clear
-    "{cps=50}你心怀[wandering_knight_container_full_name!ti]入伙的提议，按图索骥来到了他位于巴黎的庄园……"
+    "{cps=50}你记着[wandering_knight_container_full_name!ti]加入队伍的提议，来到了他位于巴黎的庄园……"
 
 # game/script_dlc_3.rpy:26616
 translate chinese paris_noble_recruitment_intro_6892b68c:
@@ -17456,7 +17456,7 @@ translate chinese paris_second_assassination_intro_76b2fe88:
 # game/script_dlc_3.rpy:26693
 translate chinese paris_second_assassination_intro_d925e461:
 
-    "{cps=50}你命令自己的人留在原地，守护德·罗什的书房。{vspace=5}{color=#A9A9A9}虔诚 +5！"
+    "{cps=50}你命令自己的人留在原地，守护德·罗什的书房。{vspace=5}{color=#A9A9A9}美德 +5！"
 
 # game/script_dlc_3.rpy:26700
 translate chinese paris_second_assassination_intro_4e61be00:
@@ -17561,7 +17561,7 @@ translate chinese paris_second_assassination_outro_bad_76b2fe88:
 # game/script_dlc_3.rpy:26767
 translate chinese paris_second_assassination_outro_good_2c4d0080:
 
-    "{cps=50}仗着你的雷霆手段，两名刺客皆已伏诛。然而[storyroll!ti]要想从死人嘴里撬出半句真言，却是难如登天。"
+    "{cps=50}多亏你的介入，两名刺客都已毙命。然而[storyroll!ti]从死人嘴里撬不出任何答案。"
 
 # game/script_dlc_3.rpy:26768
 translate chinese paris_second_assassination_outro_good_8566b650:
@@ -17924,7 +17924,7 @@ translate chinese paris_prison_menu_76b2fe88_8:
 # game/script_dlc_3.rpy:29009
 translate chinese paris_prison_menu_2f3a096f:
 
-    "{cps=50}撤退时你反应慢了半拍，被追兵砍伤了几处。{color=#A9A9A9}疲劳——失败！{vspace=5}生命力 -2！"
+    "{cps=50}撤退时你反应慢了半拍，被追兵砍伤了几处。{color=#A9A9A9}疲劳——失败！{vspace=5}活力 -2！"
 
 # game/script_dlc_3.rpy:29012
 translate chinese paris_prison_menu_b8bbc94f:
@@ -18003,7 +18003,7 @@ translate chinese paris_prison_menu_76b2fe88_14:
 # game/script_dlc_3.rpy:29044
 translate chinese paris_prison_menu_d3bc80c1:
 
-    "{cps=50}数次尝试无果，为了不被淹死，你决定放弃这个计划。灌了一肚子水、险些沉底之后，你总算狼狈地爬回了岸上。{color=#A9A9A9}疲劳——失败！{vspace=5}生命力 -1！"
+    "{cps=50}数次尝试无果，为了不被淹死，你决定放弃这个计划。灌了一肚子水、险些沉底之后，你总算狼狈地爬回了岸上。{color=#A9A9A9}疲劳——失败！{vspace=5}活力 -1！"
 
 # game/script_dlc_3.rpy:29047
 translate chinese paris_prison_menu_e1433968:
@@ -18236,7 +18236,7 @@ translate chinese prison_give_alcohol_76b2fe88_9:
 # game/script_dlc_3.rpy:29214
 translate chinese prison_give_alcohol_2f3a096f:
 
-    "{cps=50}撤退时你反应慢了半拍，被追兵砍伤了几处。{color=#A9A9A9}疲劳——失败！{vspace=5}生命力 -2！"
+    "{cps=50}撤退时你反应慢了半拍，被追兵砍伤了几处。{color=#A9A9A9}疲劳——失败！{vspace=5}活力 -2！"
 
 # game/script_dlc_3.rpy:29217
 translate chinese prison_give_alcohol_b8bbc94f:
@@ -18304,7 +18304,7 @@ translate chinese prison_give_alcohol_76b2fe88_13:
 # game/script_dlc_3.rpy:29243
 translate chinese prison_give_alcohol_2f3a096f_1:
 
-    "{cps=50}撤退时你反应慢了半拍，被追兵砍伤了几处。{color=#A9A9A9}疲劳——失败！{vspace=5}生命力 -2！"
+    "{cps=50}撤退时你反应慢了半拍，被追兵砍伤了几处。{color=#A9A9A9}疲劳——失败！{vspace=5}活力 -2！"
 
 # game/script_dlc_3.rpy:29246
 translate chinese prison_give_alcohol_b8bbc94f_1:
@@ -18656,12 +18656,12 @@ translate chinese dauphin_prison_talk_contd_76b2fe88:
 # game/script_dlc_3.rpy:29366
 translate chinese dauphin_prison_talk_contd_4ceb78b5:
 
-    "{cps=50}一提及丰厚的报酬，你立刻打起了生意人的算盘，答应照办，随后匆匆离开康西尔热里监狱。{vspace=5}{color=#A9A9A9}虔诚 -15！{vspace=5}新增任务——[thiefs_honor.name!ti]。"
+    "{cps=50}一提及丰厚的报酬，你立刻打起了生意人的算盘，答应照办，随后匆匆离开康西尔热里监狱。{vspace=5}{color=#A9A9A9}美德 -15！{vspace=5}新增任务——[thiefs_honor.name!ti]。"
 
 # game/script_dlc_3.rpy:29371
 translate chinese dauphin_prison_talk_contd_ee49cf54:
 
-    "{cps=50}你无意相助罪犯，一口回绝了这位囚徒，随后匆匆离开康西尔热里监狱。{vspace=5}{color=#A9A9A9}虔诚 +5！"
+    "{cps=50}你无意相助罪犯，一口回绝了这位囚徒，随后匆匆离开康西尔热里监狱。{vspace=5}{color=#A9A9A9}美德 +5！"
 
 # game/script_dlc_3.rpy:29376
 translate chinese dauphin_prison_talk_contd_95db6aa9:
@@ -18818,7 +18818,7 @@ translate chinese boulogne_camp_6d205992:
 translate chinese boulogne_camp_a3ceea01:
 
     nvl clear
-    "{cps=50}你走访了正闹痢疾的营地，与病患多有接触，自己也染上了病……{vspace=5}{color=#A9A9A9}生命值 -5！{vspace=5}毒性上升！"
+    "{cps=50}你走访了正闹痢疾的营地，与病患多有接触，自己也染上了病……{vspace=5}{color=#A9A9A9}活力 -5！{vspace=5}毒性上升！"
 
 # game/script_dlc_3.rpy:29467
 translate chinese boulogne_camp_76b2fe88:
@@ -19233,7 +19233,7 @@ translate chinese anselm_mercenary_gamble_76b2fe88_15:
 translate chinese anselm_mercenary_gamble_b06437e4:
 
     nvl clear
-    "{cps=50}你弄来了解药，助营地扑灭疫病，让自由佣兵们恢复了战力。{vspace=5}{color=#A9A9A9}失去物品——[antidote2.name!ti]。{vspace=5}虔诚 +10！"
+    "{cps=50}你弄来了解药，助营地扑灭疫病，让自由佣兵们恢复了战力。{vspace=5}{color=#A9A9A9}失去物品——[antidote2.name!ti]。{vspace=5}美德 +10！"
 
 # game/script_dlc_3.rpy:29976
 translate chinese anselm_mercenary_gamble_76b2fe88_13:
@@ -19245,7 +19245,7 @@ translate chinese anselm_mercenary_gamble_76b2fe88_13:
 translate chinese anselm_mercenary_gamble_b06437e4_1:
 
     nvl clear
-    "{cps=50}你弄来了解药，助营地扑灭疫病，让自由佣兵们恢复了战力。{vspace=5}{color=#A9A9A9}失去物品——[antidote2.name!ti]。{vspace=5}虔诚 +10！"
+    "{cps=50}你弄来了解药，助营地扑灭疫病，让自由佣兵们恢复了战力。{vspace=5}{color=#A9A9A9}失去物品——[antidote2.name!ti]。{vspace=5}美德 +10！"
 
 # game/script_dlc_3.rpy:29986
 translate chinese anselm_mercenary_gamble_76b2fe88_14:
@@ -19460,7 +19460,7 @@ translate chinese last_honest_man_menu_10d8d95b:
 translate chinese last_honest_man_menu_54d33932:
 
     nvl clear
-    "{cps=50}你出入营地，与病患接触频繁，自己也染上了疫病……{vspace=5}{color=#A9A9A9}生命值 -5！{vspace=5}毒性上升！"
+    "{cps=50}你出入营地，与病患接触频繁，自己也染上了疫病……{vspace=5}{color=#A9A9A9}活力 -5！{vspace=5}毒性上升！"
 
 # game/script_dlc_3.rpy:30138
 translate chinese last_honest_man_menu_76b2fe88_8:
@@ -20338,7 +20338,7 @@ translate chinese saint_germain_raoul_trade_menu_76b2fe88_1:
 translate chinese bridge_checkpoint_intro_6df08129:
 
     nvl clear
-    "{cps=50}横跨塞纳河的进城大桥重兵把守，那带队的军官铁面无私，任谁都不肯放行——对持刃带甲之徒更是如临大敌。"
+    "{cps=50}通往城内的塞纳河桥由一队士兵把守，领头的是位队长，他死活不肯放任何人进京——尤其不许携带武器的人过桥。"
 
 # game/script_dlc_3.rpy:32306
 translate chinese bridge_checkpoint_item_drown_76b2fe88:
@@ -20588,17 +20588,17 @@ translate chinese bridge_checkpoint_swim_65b1504d:
 # game/script_dlc_3.rpy:32503
 translate chinese bridge_checkpoint_swim_063d35c2:
 
-    "{cps=50}你利落地游过了河，在冰水中只泡了不久，身体所受的损耗微乎其微。{vspace=5}{color=#A9A9A9}生命值 -1！{vspace=5}毒性上升！"
+    "{cps=50}你利落地游过了河，在冰水中只泡了不久，身体所受的损耗微乎其微。{vspace=5}{color=#A9A9A9}活力 -1！{vspace=5}毒性上升！"
 
 # game/script_dlc_3.rpy:32507
 translate chinese bridge_checkpoint_swim_d95a6b0d:
 
-    "{cps=50}长时间浸在冰水里，对你的身体和状态都大为不利……{vspace=5}{color=#A9A9A9}生命值 -5！{vspace=5}毒性上升！"
+    "{cps=50}长时间浸在冰水里，对你的身体和状态都大为不利……{vspace=5}{color=#A9A9A9}活力 -5！{vspace=5}毒性上升！"
 
 # game/script_dlc_3.rpy:32511
 translate chinese bridge_checkpoint_swim_6770238b:
 
-    "{cps=50}长时间泡在冰水里，又加体力耗尽，你的身体和状态都糟透了……{vspace=5}{color=#A9A9A9}生命值 -10！{vspace=5}毒性上升！"
+    "{cps=50}长时间泡在冰水里，又加体力耗尽，你的身体和状态都糟透了……{vspace=5}{color=#A9A9A9}活力 -10！{vspace=5}毒性上升！"
 
 # game/script_dlc_3.rpy:32515
 translate chinese bridge_checkpoint_swim_22cf3675:
@@ -20861,7 +20861,7 @@ translate chinese paris_city_navigation_marauders_76b2fe88:
 # game/script_dlc_3.rpy:32941
 translate chinese paris_city_navigation_marauders_9f55ed7e:
 
-    "{cps=50}你宁可绕路避开这场乱子，也不愿多生枝节。{vspace=5}{color=#A9A9A9}耗费时间：[paris_riots_time_loss!i]！{vspace=5}虔诚 -20！"
+    "{cps=50}你宁可绕路避开这场乱子，也不愿多生枝节。{vspace=5}{color=#A9A9A9}耗费时间：[paris_riots_time_loss!i]！{vspace=5}美德 -20！"
 
 # game/script_dlc_3.rpy:32944
 translate chinese paris_city_navigation_marauders_76b2fe88_1:
@@ -20872,7 +20872,7 @@ translate chinese paris_city_navigation_marauders_76b2fe88_1:
 # game/script_dlc_3.rpy:32949
 translate chinese paris_city_navigation_marauders_d806a33f:
 
-    "{cps=50}你机敏地冒充劫匪同伙，混入其中，顺走几件看得上眼的东西，便继续赶路。{vspace=5}{color=#A9A9A9}低虔诚——成功！{vspace=5}虔诚 -15！"
+    "{cps=50}你机敏地冒充劫匪同伙，混入其中，顺走几件看得上眼的东西，便继续赶路。{vspace=5}{color=#A9A9A9}低美德——成功！{vspace=5}美德 -15！"
 
 # game/script_dlc_3.rpy:32952
 translate chinese paris_city_navigation_marauders_76b2fe88_2:
@@ -20883,7 +20883,7 @@ translate chinese paris_city_navigation_marauders_76b2fe88_2:
 # game/script_dlc_3.rpy:32956
 translate chinese paris_city_navigation_marauders_41f63b89:
 
-    "{cps=50}你想冒充劫匪混水摸鱼，可这点把戏转眼就被拆穿了……{vspace=5}{color=#A9A9A9}低虔诚——失败！"
+    "{cps=50}你想冒充劫匪混水摸鱼，可这点把戏转眼就被拆穿了……{vspace=5}{color=#A9A9A9}低美德——失败！"
 
 # game/script_dlc_3.rpy:32957
 translate chinese paris_city_navigation_marauders_76b2fe88_3:
@@ -20984,7 +20984,7 @@ translate chinese paris_city_navigation_church_f6d44063:
 translate chinese paris_city_navigation_church_ad5cef62:
 
     nvl clear
-    "{cps=50}见你走近，一位教堂执事冲你招手，示意可以进来避一避。{vspace=5}{color=#A9A9A9}虔诚——成功！"
+    "{cps=50}见你走近，一位教堂执事冲你招手，示意可以进来避一避。{vspace=5}{color=#A9A9A9}美德——成功！"
 
 # game/script_dlc_3.rpy:33015
 translate chinese paris_city_navigation_church_76b2fe88_1:
@@ -21122,7 +21122,7 @@ translate chinese paris_city_navigation_wounded_menu_f185dda3:
 translate chinese paris_city_navigation_wounded_menu_6b1abba3:
 
     nvl clear
-    "{cps=50}随即，他便不再有气息。{vspace=5}{color=#A9A9A9}虔诚 -30！"
+    "{cps=50}随即，他便不再有气息。{vspace=5}{color=#A9A9A9}美德 -30！"
 
 # game/script_dlc_3.rpy:33106
 translate chinese paris_city_navigation_wounded_menu_76b2fe88_4:
@@ -23597,7 +23597,7 @@ translate chinese navarre_finale_fight_2_76b2fe88_3:
 translate chinese navarre_finale_fight_2_9dc9703c:
 
     nvl clear
-    "{cps=50}敌军的攻势丝毫不减，你们开始且战且退，节节让出阵地……{vspace=5}{color=#A9A9A9}虔诚降低 20 点！"
+    "{cps=50}敌军的攻势丝毫不减，你们开始且战且退，节节让出阵地……{vspace=5}{color=#A9A9A9}美德降低 20 点！"
 
 # game/script_dlc_3.rpy:38358
 translate chinese navaree_flee_76b2fe88_3:
@@ -23655,7 +23655,7 @@ translate chinese navarre_finale_postfight_2_76b2fe88:
 translate chinese navarre_finale_postfight_2_c5116d0f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚检定——失败！"
+    "{cps=50}{color=#A9A9A9}美德检定——失败！"
 
 # game/script_dlc_3.rpy:38381
 translate chinese navarre_finale_postfight_2_76b2fe88_1:
@@ -23685,7 +23685,7 @@ translate chinese navaree_flee_76b2fe88:
 translate chinese navaree_flee_021ea149:
 
     nvl clear
-    "{cps=50}你决定杀开一条血路，冲回德·罗什的遗体身边。{vspace=5}{color=#A9A9A9}虔诚提升 15 点！"
+    "{cps=50}你决定杀开一条血路，冲回德·罗什的遗体身边。{vspace=5}{color=#A9A9A9}美德提升 15 点！"
 
 # game/script_dlc_3.rpy:38399
 translate chinese navaree_flee_76b2fe88_1:
@@ -26162,7 +26162,7 @@ translate chinese zaragoza_journey_mountain_088fb23d:
 translate chinese zaragoza_journey_mountain_7dd3fe48:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}生命力减少 4！"
+    "{cps=50}{color=#A9A9A9}活力减少 4！"
 
 # game/script_dlc_3.rpy:42480
 translate chinese zaragoza_journey_mountain_953f4f6c:
@@ -26522,7 +26522,7 @@ translate chinese navarre_hunt_prisoner_76b2fe88_2:
 # game/script_dlc_3.rpy:42886
 translate chinese navarre_hunt_prisoner_80baded3:
 
-    "{cps=50}你喝令强盗放人，理所当然地遭到拒绝，于是你准备动武救人。{vspace=5}{color=#A9A9A9}虔诚提升 10 点！"
+    "{cps=50}你喝令强盗放人，理所当然地遭到拒绝，于是你准备动武救人。{vspace=5}{color=#A9A9A9}美德提升 10 点！"
 
 # game/script_dlc_3.rpy:42890
 translate chinese navarre_hunt_prisoner_76b2fe88:
@@ -26544,7 +26544,7 @@ translate chinese navarre_hunt_prisoner_76b2fe88_1:
 # game/script_dlc_3.rpy:42899
 translate chinese navarre_hunt_prisoner_bc55d016:
 
-    "{cps=50}你无视那声声呼救，策马而去。{vspace=5}{color=#A9A9A9}虔诚降低 20 点！"
+    "{cps=50}你无视那声声呼救，策马而去。{vspace=5}{color=#A9A9A9}美德降低 20 点！"
 
 # game/script_dlc_3.rpy:42901
 translate chinese navarre_hunt_prisoner_76b2fe88_3:
@@ -28915,7 +28915,7 @@ translate chinese de_roche_ratcatcher_reaction_eeee7e2d:
 translate chinese pedro_spies_harm_player_678a51d1:
 
     nvl clear
-    "{cps=50}一直为你诊治的医生竟被佩德罗国王收买，非但不予医治，反而故意对你痛下毒手，让你伤上加伤！{vspace=5}{color=#A9A9A9}生命力减少 6！"
+    "{cps=50}一直为你诊治的医生竟被佩德罗国王收买，非但不予医治，反而故意对你痛下毒手，让你伤上加伤！{vspace=5}{color=#A9A9A9}活力减少 6！"
 
 # game/script_dlc_3.rpy:46566
 translate chinese pedro_spies_harm_player_76b2fe88:
@@ -29821,7 +29821,7 @@ translate chinese bailli_talk_menu_76b2fe88_4:
 translate chinese player_treats_bailifs_soldiers_with_alcohol_f0c8ee3c:
 
     nvl clear
-    "{cps=50}苦无良策之下，你只好捏着鼻子走了捷径：对军汉们许下海口，只要操练卖力，定有美酒犒赏。{color=#A9A9A9}{vspace=5}失去酒水：6。"
+    "{cps=50}想不出更好的法子，你决定走最省事的路——向兵卒们许诺，每场操练表现得好，便以酒水相酬。{color=#A9A9A9}{vspace=5}酒水减少：6。"
 
 # game/script_dlc_3.rpy:47234
 translate chinese player_treats_bailifs_soldiers_with_alcohol_658d22a8:
@@ -31615,7 +31615,7 @@ translate chinese grace_and_glory_rouen_1_postfight_76b2fe88:
 # game/script_dlc_3.rpy:49270
 translate chinese grace_and_glory_rouen_1_postfight_778e94dc:
 
-    "{cps=50}贴身侍卫拼死护主，生生拖延了数息功夫。然而就是这须臾之间，德·罗什已然循着暗门逃之夭夭。"
+    "{cps=50}那保镖临死前好歹拖住了你们片刻——可这点时间，已足以让德·罗什从暗门溜走。"
 
 # game/script_dlc_3.rpy:49271
 translate chinese grace_and_glory_rouen_1_postfight_3f467c2c:
@@ -33879,7 +33879,7 @@ translate chinese kingdom_people_unhappy_76b2fe88_1:
 # game/script_dlc_3.rpy:56048
 translate chinese kingdom_people_unhappy_424a28c5:
 
-    "{cps=50}你下令大举搜捕那些胆敢对国王出言不逊之人。{vspace=5}{color=#A9A9A9}权威提升[player_kingdom_authority_change]。{vspace=5}声望（平民）降低[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你下令大举搜捕那些胆敢对国王出言不逊之人。{vspace=5}{color=#A9A9A9}权威提升[player_kingdom_authority_change]。{vspace=5}人望（平民）降低[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56051
 translate chinese kingdom_people_unhappy_76b2fe88_2:
@@ -33998,7 +33998,7 @@ translate chinese kingdom_treasurer_2_76b2fe88:
 # game/script_dlc_3.rpy:56106
 translate chinese kingdom_treasurer_2_cd9eed25:
 
-    "{cps=50}你下令向贵族征收新税。{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]。"
+    "{cps=50}你下令向贵族征收新税。{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}人望（贵族）降低[player_kingdom_rep_nobles_change]。"
 
 # game/script_dlc_3.rpy:56109
 translate chinese kingdom_treasurer_2_76b2fe88_1:
@@ -34009,7 +34009,7 @@ translate chinese kingdom_treasurer_2_76b2fe88_1:
 # game/script_dlc_3.rpy:56112
 translate chinese kingdom_treasurer_2_59bb460b:
 
-    "{cps=50}你下令向农民征收新税。{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}声望（平民）降低[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你下令向农民征收新税。{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}人望（平民）降低[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56115
 translate chinese kingdom_treasurer_2_76b2fe88_2:
@@ -34079,7 +34079,7 @@ translate chinese kingdom_northamptons_spies_in_government_e5bae5b3:
 translate chinese kingdom_northamptons_spies_in_government_9bae7b71:
 
     nvl clear
-    "{cps=50}枢密院首脑掀起了一场声势浩大的清洗……{vspace=5}{color=#A9A9A9}声望（贵族）降低[player_kingdom_rep_nobles_change]。{vspace=5}权威提升[player_kingdom_authority_change]。"
+    "{cps=50}枢密院首脑掀起了一场声势浩大的清洗……{vspace=5}{color=#A9A9A9}人望（贵族）降低[player_kingdom_rep_nobles_change]。{vspace=5}权威提升[player_kingdom_authority_change]。"
 
 # game/script_dlc_3.rpy:56162
 translate chinese kingdom_northamptons_spies_in_government_e07d08ee:
@@ -34091,7 +34091,7 @@ translate chinese kingdom_northamptons_spies_in_government_e07d08ee:
 translate chinese kingdom_northamptons_spies_in_government_00d7bd6b:
 
     nvl clear
-    "{cps=50}枢密院首脑展开调查，最终逮捕并处决了数名涉嫌为北安普顿效命之人……{vspace=5}{color=#A9A9A9}声望（贵族）降低[player_kingdom_rep_nobles_change]。"
+    "{cps=50}枢密院首脑展开调查，最终逮捕并处决了数名涉嫌为北安普顿效命之人……{vspace=5}{color=#A9A9A9}人望（贵族）降低[player_kingdom_rep_nobles_change]。"
 
 # game/script_dlc_3.rpy:56176
 translate chinese kingdom_northamptons_spies_in_government_76b2fe88:
@@ -34151,7 +34151,7 @@ translate chinese kingdom_london_on_fire_76b2fe88:
 # game/script_dlc_3.rpy:56214
 translate chinese kingdom_london_on_fire_b78cd99f:
 
-    "{cps=50}你应允了。{vspace=5}{color=#A9A9A9}声望（平民）提升[player_kingdom_rep_commoners_change]。{vspace=5}花费[player_kingdom_gold_change]弗罗林！"
+    "{cps=50}你应允了。{vspace=5}{color=#A9A9A9}人望（平民）提升[player_kingdom_rep_commoners_change]。{vspace=5}花费[player_kingdom_gold_change]弗罗林！"
 
 # game/script_dlc_3.rpy:56219
 translate chinese kingdom_london_on_fire_76b2fe88_2:
@@ -34162,7 +34162,7 @@ translate chinese kingdom_london_on_fire_76b2fe88_2:
 # game/script_dlc_3.rpy:56221
 translate chinese kingdom_london_on_fire_c7ce0d9f:
 
-    "{cps=50}你回绝了。{vspace=5}{color=#A9A9A9}声望（平民）降低[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你回绝了。{vspace=5}{color=#A9A9A9}人望（平民）降低[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56224
 translate chinese kingdom_london_on_fire_76b2fe88_3:
@@ -34293,7 +34293,7 @@ translate chinese kingdom_anna_arrives_3_76b2fe88_1:
 # game/script_dlc_3.rpy:56304
 translate chinese kingdom_anna_arrives_3_0b1aa002:
 
-    "{cps=50}你未理会神父的告发。{vspace=5}{color=#A9A9A9}权威降低[player_kingdom_authority_change]。{vspace=5}声望（教会）降低[player_kingdom_rep_church_change]。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]。{vspace=5}声望（平民）降低[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你未理会神父的告发。{vspace=5}{color=#A9A9A9}权威降低[player_kingdom_authority_change]。{vspace=5}声望（教会）降低[player_kingdom_rep_church_change]。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]。{vspace=5}人望（平民）降低[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56310
 translate chinese kingdom_anna_arrives_3_76b2fe88_2:
@@ -34384,7 +34384,7 @@ translate chinese kingdom_anna_arrives_5_76b2fe88_1:
 # game/script_dlc_3.rpy:56354
 translate chinese kingdom_anna_arrives_5_8da1d46a:
 
-    "{cps=50}案情的审理快得出奇——被捕不过两周，她便被判犯有巫蛊与亵渎尸骸之罪，在满城百姓的欢呼声中，判了死刑。{vspace=5}{color=#A9A9A9}声望（教会）提升[player_kingdom_rep_church_change]。{vspace=5}声望（平民）提升[player_kingdom_rep_commoners_change]。"
+    "{cps=50}案情的审理快得出奇——被捕不过两周，她便被判犯有巫蛊与亵渎尸骸之罪，在满城百姓的欢呼声中，判了死刑。{vspace=5}{color=#A9A9A9}声望（教会）提升[player_kingdom_rep_church_change]。{vspace=5}人望（平民）提升[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56357
 translate chinese kingdom_anna_arrives_5_76b2fe88_2:
@@ -34395,7 +34395,7 @@ translate chinese kingdom_anna_arrives_5_76b2fe88_2:
 # game/script_dlc_3.rpy:56361
 translate chinese kingdom_anna_arrives_5_13b33dd5:
 
-    "{cps=50}你未理会王室议会议长的呈报。{vspace=5}{color=#A9A9A9}声望（教会）降低[player_kingdom_rep_church_change]。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]。{vspace=5}声望（平民）降低[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你未理会王室议会议长的呈报。{vspace=5}{color=#A9A9A9}声望（教会）降低[player_kingdom_rep_church_change]。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]。{vspace=5}人望（平民）降低[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56366
 translate chinese kingdom_anna_arrives_5_76b2fe88_3:
@@ -34469,7 +34469,7 @@ translate chinese kingdom_new_sources_of_income_2_76b2fe88_1:
 # game/script_dlc_3.rpy:56405
 translate chinese kingdom_new_sources_of_income_2_ed6089d9:
 
-    "{cps=50}你决意向平民加征财产税……{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}声望（平民）降低[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你决意向平民加征财产税……{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}人望（平民）降低[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56408
 translate chinese kingdom_new_sources_of_income_2_76b2fe88_2:
@@ -34480,7 +34480,7 @@ translate chinese kingdom_new_sources_of_income_2_76b2fe88_2:
 # game/script_dlc_3.rpy:56411
 translate chinese kingdom_new_sources_of_income_2_cb5bdb3e:
 
-    "{cps=50}你决意向贵族加征财产税……{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}声望（贵族）降低[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你决意向贵族加征财产税……{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}人望（贵族）降低[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56414
 translate chinese kingdom_new_sources_of_income_2_76b2fe88_3:
@@ -34631,7 +34631,7 @@ translate chinese kingdom_archbishop_bad_arc_2_76b2fe88_3:
 # game/script_dlc_3.rpy:56518
 translate chinese kingdom_archbishop_bad_arc_3_good_74223878:
 
-    "{cps=50}枢密院首脑前来复命：在逃的大主教已被他的人手干净利落地解决了。{vspace=5}{color=#A9A9A9}权威提升[player_kingdom_authority_change]。{vspace=5}声望（贵族）提升[player_kingdom_rep_nobles_change]。"
+    "{cps=50}枢密院首脑前来复命：在逃的大主教已被他的人手干净利落地解决了。{vspace=5}{color=#A9A9A9}权威提升[player_kingdom_authority_change]。{vspace=5}人望（贵族）提升[player_kingdom_rep_nobles_change]。"
 
 # game/script_dlc_3.rpy:56521
 translate chinese kingdom_archbishop_bad_arc_3_good_76b2fe88:
@@ -34659,7 +34659,7 @@ translate chinese kingdom_archbishop_bad_arc_3_bad_76b2fe88:
 # game/script_dlc_3.rpy:56538
 translate chinese kingdom_archbishop_bad_arc_3_bad_b3f6d4a5:
 
-    "{cps=50}你下令将他逮捕。{vspace=5}{color=#A9A9A9}权威提升[player_kingdom_authority_change]。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]。"
+    "{cps=50}你下令将他逮捕。{vspace=5}{color=#A9A9A9}权威提升[player_kingdom_authority_change]。{vspace=5}人望（贵族）降低[player_kingdom_rep_nobles_change]。"
 
 # game/script_dlc_3.rpy:56541
 translate chinese kingdom_archbishop_bad_arc_3_bad_76b2fe88_1:
@@ -34704,7 +34704,7 @@ translate chinese kingdom_meet_the_archbishop_2_76b2fe88:
 # game/script_dlc_3.rpy:56566
 translate chinese kingdom_meet_the_archbishop_2_48a15a07:
 
-    "{cps=50}你批准此事，按数拨付款项。{vspace=5}{color=#A9A9A9}花费[player_kingdom_gold_change]弗罗林。{vspace=5}声望（教会）提升[player_kingdom_rep_church_change]。{vspace=5}声望（平民）提升[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你批准此事，按数拨付款项。{vspace=5}{color=#A9A9A9}花费[player_kingdom_gold_change]弗罗林。{vspace=5}声望（教会）提升[player_kingdom_rep_church_change]。{vspace=5}人望（平民）提升[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56571
 translate chinese kingdom_meet_the_archbishop_2_76b2fe88_2:
@@ -34749,7 +34749,7 @@ translate chinese kingdom_meet_the_archbishop_3_76b2fe88:
 # game/script_dlc_3.rpy:56596
 translate chinese kingdom_meet_the_archbishop_3_ff4d3ccf:
 
-    "{cps=50}你下令将他逮捕。{vspace=5}{color=#A9A9A9}权威提升[player_kingdom_authority_change]。{vspace=5}声望（教会）降低[player_kingdom_rep_church_change]。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]。{vspace=5}声望（平民）降低[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你下令将他逮捕。{vspace=5}{color=#A9A9A9}权威提升[player_kingdom_authority_change]。{vspace=5}声望（教会）降低[player_kingdom_rep_church_change]。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]。{vspace=5}人望（平民）降低[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56601
 translate chinese kingdom_meet_the_archbishop_3_76b2fe88_1:
@@ -34805,7 +34805,7 @@ translate chinese kingdom_tourney_76b2fe88:
 # game/script_dlc_3.rpy:56632
 translate chinese kingdom_tourney_a50695da:
 
-    "{cps=50}你应允了，并拨出款项筹办比武大会。{vspace=5}{color=#A9A9A9}花费[player_kingdom_gold_change]弗罗林！{vspace=5}时间：-2{vspace=5}权威提升[player_kingdom_authority_change]。{vspace=5}声望（贵族）提升[player_kingdom_rep_nobles_change]。{vspace=5}声望（平民）提升[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你应允了，并拨出款项筹办比武大会。{vspace=5}{color=#A9A9A9}花费[player_kingdom_gold_change]弗罗林！{vspace=5}时间：-2{vspace=5}权威提升[player_kingdom_authority_change]。{vspace=5}声望（贵族）提升[player_kingdom_rep_nobles_change]。{vspace=5}人望（平民）提升[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56637
 translate chinese kingdom_tourney_ff10be2d:
@@ -34868,7 +34868,7 @@ translate chinese kingdom_merchants_need_protection_76b2fe88:
 # game/script_dlc_3.rpy:56669
 translate chinese kingdom_merchants_need_protection_df847449:
 
-    "{cps=50}你应允了，抽调部分人手护送商队。{vspace=5}{color=#A9A9A9}损失了[temp_value]人！{vspace=5}权威提升[player_kingdom_authority_change]。{vspace=5}声望（贵族）提升[player_kingdom_rep_nobles_change]。{vspace=5}声望（平民）提升[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你应允了，抽调部分人手护送商队。{vspace=5}{color=#A9A9A9}损失了[temp_value]人！{vspace=5}权威提升[player_kingdom_authority_change]。{vspace=5}声望（贵族）提升[player_kingdom_rep_nobles_change]。{vspace=5}人望（平民）提升[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56672
 translate chinese kingdom_merchants_need_protection_088c7c1d:
@@ -34885,7 +34885,7 @@ translate chinese kingdom_merchants_need_protection_resufe_76b2fe88:
 # game/script_dlc_3.rpy:56682
 translate chinese kingdom_merchants_need_protection_resufe_95f9b64e:
 
-    "{cps=50}你打消了这个念头。{vspace=5}{color=#A9A9A9}权威降低[player_kingdom_authority_change]。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]。{vspace=5}声望（平民）降低[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你打消了这个念头。{vspace=5}{color=#A9A9A9}权威降低[player_kingdom_authority_change]。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]。{vspace=5}人望（平民）降低[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56687
 translate chinese kingdom_merchants_need_protection_resufe_76b2fe88_1:
@@ -34970,7 +34970,7 @@ translate chinese kingdom_army_training_1_76b2fe88:
 # game/script_dlc_3.rpy:56736
 translate chinese kingdom_army_training_1_72f48631:
 
-    "{cps=50}你应允了，不顾若干贵族嫌“耍把戏”浪费时间而啧有烦言，坚持组织了全军合练。{vspace=5}{color=#A9A9A9}耗时：2{vspace=5}军队凝聚力提升！{vspace=5}作战计划质量提升5！{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]。"
+    "{cps=50}你应允了，不顾若干贵族嫌“耍把戏”浪费时间而啧有烦言，坚持组织了全军合练。{vspace=5}{color=#A9A9A9}耗时：2{vspace=5}军队凝聚力提升！{vspace=5}作战计划质量提升5！{vspace=5}人望（贵族）降低[player_kingdom_rep_nobles_change]。"
 
 # game/script_dlc_3.rpy:56742
 translate chinese kingdom_army_training_1_76a1a4ac:
@@ -35010,7 +35010,7 @@ translate chinese kingdom_army_training_2_76b2fe88:
 # game/script_dlc_3.rpy:56763
 translate chinese kingdom_army_training_2_f976c05d:
 
-    "{cps=50}你传召诸位领主，当面训斥，并以严惩相胁，警告日后再敢抗命不遵，绝无轻饶。{vspace=5}{color=#A9A9A9}声望（贵族）提升[player_kingdom_rep_nobles_change]。{vspace=5}声望（平民）提升[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你传召诸位领主，当面训斥，并以严惩相胁，警告日后再敢抗命不遵，绝无轻饶。{vspace=5}{color=#A9A9A9}声望（贵族）提升[player_kingdom_rep_nobles_change]。{vspace=5}人望（平民）提升[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56767
 translate chinese kingdom_army_training_2_4efa7904:
@@ -35021,7 +35021,7 @@ translate chinese kingdom_army_training_2_4efa7904:
 translate chinese kingdom_army_training_2_1171a5fb:
 
     nvl clear
-    "{cps=50}然而其中数人再次借口种种麻烦，拒不应召入宫。即便勉强赶到的，也分明把你的话当耳旁风。{vspace=5}{color=#A9A9A9}权威降低[player_kingdom_authority_change]！{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]。"
+    "{cps=50}然而其中数人再次借口种种麻烦，拒不应召入宫。即便勉强赶到的，也分明把你的话当耳旁风。{vspace=5}{color=#A9A9A9}权威降低[player_kingdom_authority_change]！{vspace=5}人望（贵族）降低[player_kingdom_rep_nobles_change]。"
 
 # game/script_dlc_3.rpy:56774
 translate chinese kingdom_army_training_2_76b2fe88_1:
@@ -35112,7 +35112,7 @@ translate chinese kingdom_thames_flood_76b2fe88:
 # game/script_dlc_3.rpy:56826
 translate chinese kingdom_thames_flood_b78cd99f:
 
-    "{cps=50}你应允了。{vspace=5}{color=#A9A9A9}声望（平民）提升[player_kingdom_rep_commoners_change]。{vspace=5}花费[player_kingdom_gold_change]弗罗林！"
+    "{cps=50}你应允了。{vspace=5}{color=#A9A9A9}人望（平民）提升[player_kingdom_rep_commoners_change]。{vspace=5}花费[player_kingdom_gold_change]弗罗林！"
 
 # game/script_dlc_3.rpy:56831
 translate chinese kingdom_thames_flood_76b2fe88_2:
@@ -35123,7 +35123,7 @@ translate chinese kingdom_thames_flood_76b2fe88_2:
 # game/script_dlc_3.rpy:56833
 translate chinese kingdom_thames_flood_c7ce0d9f:
 
-    "{cps=50}你回绝了。{vspace=5}{color=#A9A9A9}声望（平民）降低[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你回绝了。{vspace=5}{color=#A9A9A9}人望（平民）降低[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56836
 translate chinese kingdom_thames_flood_76b2fe88_3:
@@ -35168,7 +35168,7 @@ translate chinese kingdom_hospital_construction_76b2fe88_2:
 # game/script_dlc_3.rpy:56861
 translate chinese kingdom_hospital_construction_88392540:
 
-    "{cps=50}你应允了。{vspace=5}{color=#A9A9A9}声望（教会）提升[player_kingdom_rep_church_change]。{vspace=5}声望（贵族）提升[player_kingdom_rep_nobles_change]。{vspace=5}声望（平民）提升[player_kingdom_rep_commoners_change]。{vspace=5}花费[player_kingdom_gold_change]弗罗林。"
+    "{cps=50}你应允了。{vspace=5}{color=#A9A9A9}声望（教会）提升[player_kingdom_rep_church_change]。{vspace=5}声望（贵族）提升[player_kingdom_rep_nobles_change]。{vspace=5}人望（平民）提升[player_kingdom_rep_commoners_change]。{vspace=5}花费[player_kingdom_gold_change]弗罗林。"
 
 # game/script_dlc_3.rpy:56866
 translate chinese kingdom_hospital_construction_0814551a:
@@ -35357,7 +35357,7 @@ translate chinese kingdom_canterbury_amnesty_76b2fe88:
 # game/script_dlc_3.rpy:56968
 translate chinese kingdom_canterbury_amnesty_a1eefe28:
 
-    "{cps=50}然而你手下的人对此决议颇为不满。{vspace=5}{color=#A9A9A9}权威降低[player_kingdom_authority_change]点。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]点。{vspace=5}军队增加[storyroll]人。"
+    "{cps=50}然而你手下的人对此决议颇为不满。{vspace=5}{color=#A9A9A9}权威降低[player_kingdom_authority_change]点。{vspace=5}人望（贵族）降低[player_kingdom_rep_nobles_change]点。{vspace=5}军队增加[storyroll]人。"
 
 # game/script_dlc_3.rpy:56975
 translate chinese kingdom_canterbury_amnesty_76b2fe88_1:
@@ -35368,7 +35368,7 @@ translate chinese kingdom_canterbury_amnesty_76b2fe88_1:
 # game/script_dlc_3.rpy:56979
 translate chinese kingdom_canterbury_amnesty_fd4af1c3:
 
-    "{cps=50}你决定将土地分封给自己人，而那些在此战中站错阵营的旧主，则处以死刑。{vspace=5}{color=#A9A9A9}权威提升[player_kingdom_authority_change]点。{vspace=5}声望（贵族）提升[player_kingdom_rep_nobles_change]点。"
+    "{cps=50}你决定将土地分封给自己人，而那些在此战中站错阵营的旧主，则处以死刑。{vspace=5}{color=#A9A9A9}权威提升[player_kingdom_authority_change]点。{vspace=5}人望（贵族）提升[player_kingdom_rep_nobles_change]点。"
 
 # game/script_dlc_3.rpy:56982
 translate chinese kingdom_canterbury_amnesty_4c997570:
@@ -35385,7 +35385,7 @@ translate chinese kingdom_canterbury_amnesty_76b2fe88_2:
 # game/script_dlc_3.rpy:56990
 translate chinese kingdom_canterbury_amnesty_44ef59a2:
 
-    "{cps=50}此举虽可令王室国库大为充实，却严重损害你与封臣们的关系。{vspace=5}{color=#A9A9A9}权威降低[player_kingdom_authority_change]点。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]点。{vspace=5}获得[player_kingdom_gold_change]弗罗林。"
+    "{cps=50}此举虽可令王室国库大为充实，却严重损害你与封臣们的关系。{vspace=5}{color=#A9A9A9}权威降低[player_kingdom_authority_change]点。{vspace=5}人望（贵族）降低[player_kingdom_rep_nobles_change]点。{vspace=5}获得[player_kingdom_gold_change]弗罗林。"
 
 # game/script_dlc_3.rpy:56995
 translate chinese kingdom_canterbury_amnesty_76b2fe88_3:
@@ -35425,7 +35425,7 @@ translate chinese kingdom_italian_merchants_intervention_76b2fe88:
 # game/script_dlc_3.rpy:57018
 translate chinese kingdom_italian_merchants_intervention_c58cf68a:
 
-    "{cps=50}你同意给予意大利人若干优于英格兰商人的特许。{vspace=5}{color=#A9A9A9}声望（平民）降低[player_kingdom_rep_commoners_change]点。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]点。{vspace=5}获得[player_kingdom_gold_change]弗罗林。"
+    "{cps=50}你同意给予意大利人若干优于英格兰商人的特许。{vspace=5}{color=#A9A9A9}人望（平民）降低[player_kingdom_rep_commoners_change]点。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]点。{vspace=5}获得[player_kingdom_gold_change]弗罗林。"
 
 # game/script_dlc_3.rpy:57023
 translate chinese kingdom_italian_merchants_intervention_eec3abad:
@@ -35477,7 +35477,7 @@ translate chinese kingdom_no_taxes_for_nobles_76b2fe88:
 # game/script_dlc_3.rpy:57049
 translate chinese kingdom_no_taxes_for_nobles_d3694442:
 
-    "{cps=50}你同意并宣布免除男爵们的赋税，在贵族中的声望立时大增。{vspace=5}{color=#A9A9A9}声望（贵族）提升[player_kingdom_rep_nobles_change]点。"
+    "{cps=50}你同意并宣布免除男爵们的赋税，在贵族中的声望立时大增。{vspace=5}{color=#A9A9A9}人望（贵族）提升[player_kingdom_rep_nobles_change]点。"
 
 # game/script_dlc_3.rpy:57051
 translate chinese kingdom_no_taxes_for_nobles_76b2fe88_1:
@@ -35607,7 +35607,7 @@ translate chinese kingdom_buy_arrows_76b2fe88_2:
 translate chinese kingdom_hire_irish_6644c6ae:
 
     nvl clear
-    "{cps=50}一位在布里斯托尔近郊拥有封地的男爵请求觐见。{vspace=5}{color=#A9A9A9}声望（贵族） - 成功！"
+    "{cps=50}一位在布里斯托尔近郊拥有封地的男爵请求觐见。{vspace=5}{color=#A9A9A9}人望（贵族） - 成功！"
 
 # game/script_dlc_3.rpy:57130
 translate chinese kingdom_hire_irish_84957c4e:
@@ -35692,7 +35692,7 @@ translate chinese kingdom_bread_giveaway_76b2fe88:
 # game/script_dlc_3.rpy:57183
 translate chinese kingdom_bread_giveaway_ccdb9725:
 
-    "{cps=50}你同意并着手组织赈粮发放。{vspace=5}{color=#A9A9A9}声望（平民）提升[player_kingdom_rep_commoners_change]点。{vspace=5}花费[player_kingdom_gold_change]弗罗林。"
+    "{cps=50}你同意并着手组织赈粮发放。{vspace=5}{color=#A9A9A9}人望（平民）提升[player_kingdom_rep_commoners_change]点。{vspace=5}花费[player_kingdom_gold_change]弗罗林。"
 
 # game/script_dlc_3.rpy:57186
 translate chinese kingdom_bread_giveaway_76b2fe88_1:
@@ -35703,7 +35703,7 @@ translate chinese kingdom_bread_giveaway_76b2fe88_1:
 # game/script_dlc_3.rpy:57189
 translate chinese kingdom_bread_giveaway_ccdb9725_1:
 
-    "{cps=50}你同意并着手组织赈粮发放。{vspace=5}{color=#A9A9A9}声望（平民）提升[player_kingdom_rep_commoners_change]点。{vspace=5}花费[player_kingdom_gold_change]弗罗林。"
+    "{cps=50}你同意并着手组织赈粮发放。{vspace=5}{color=#A9A9A9}人望（平民）提升[player_kingdom_rep_commoners_change]点。{vspace=5}花费[player_kingdom_gold_change]弗罗林。"
 
 # game/script_dlc_3.rpy:57192
 translate chinese kingdom_bread_giveaway_76b2fe88_2:
@@ -35714,7 +35714,7 @@ translate chinese kingdom_bread_giveaway_76b2fe88_2:
 # game/script_dlc_3.rpy:57195
 translate chinese kingdom_bread_giveaway_ccdb9725_2:
 
-    "{cps=50}你同意并着手组织赈粮发放。{vspace=5}{color=#A9A9A9}声望（平民）提升[player_kingdom_rep_commoners_change]点。{vspace=5}花费[player_kingdom_gold_change]弗罗林。"
+    "{cps=50}你同意并着手组织赈粮发放。{vspace=5}{color=#A9A9A9}人望（平民）提升[player_kingdom_rep_commoners_change]点。{vspace=5}花费[player_kingdom_gold_change]弗罗林。"
 
 # game/script_dlc_3.rpy:57199
 translate chinese kingdom_bread_giveaway_76a1a4ac:
@@ -35754,7 +35754,7 @@ translate chinese kingdom_bonuses_for_nobles_76b2fe88:
 # game/script_dlc_3.rpy:57221
 translate chinese kingdom_bonuses_for_nobles_1dae93f5:
 
-    "{cps=50}你同意并着手发放赏金。{vspace=5}{color=#A9A9A9}声望（贵族）提升[player_kingdom_rep_nobles_change]点。{vspace=5}花费[player_kingdom_gold_change]弗罗林。"
+    "{cps=50}你同意并着手发放赏金。{vspace=5}{color=#A9A9A9}人望（贵族）提升[player_kingdom_rep_nobles_change]点。{vspace=5}花费[player_kingdom_gold_change]弗罗林。"
 
 # game/script_dlc_3.rpy:57224
 translate chinese kingdom_bonuses_for_nobles_76b2fe88_1:
@@ -35765,7 +35765,7 @@ translate chinese kingdom_bonuses_for_nobles_76b2fe88_1:
 # game/script_dlc_3.rpy:57227
 translate chinese kingdom_bonuses_for_nobles_1dae93f5_1:
 
-    "{cps=50}你同意并着手发放赏金。{vspace=5}{color=#A9A9A9}声望（贵族）提升[player_kingdom_rep_nobles_change]点。{vspace=5}花费[player_kingdom_gold_change]弗罗林。"
+    "{cps=50}你同意并着手发放赏金。{vspace=5}{color=#A9A9A9}人望（贵族）提升[player_kingdom_rep_nobles_change]点。{vspace=5}花费[player_kingdom_gold_change]弗罗林。"
 
 # game/script_dlc_3.rpy:57230
 translate chinese kingdom_bonuses_for_nobles_76b2fe88_2:
@@ -35776,7 +35776,7 @@ translate chinese kingdom_bonuses_for_nobles_76b2fe88_2:
 # game/script_dlc_3.rpy:57233
 translate chinese kingdom_bonuses_for_nobles_1dae93f5_2:
 
-    "{cps=50}你同意并着手发放赏金。{vspace=5}{color=#A9A9A9}声望（贵族）提升[player_kingdom_rep_nobles_change]点。{vspace=5}花费[player_kingdom_gold_change]弗罗林。"
+    "{cps=50}你同意并着手发放赏金。{vspace=5}{color=#A9A9A9}人望（贵族）提升[player_kingdom_rep_nobles_change]点。{vspace=5}花费[player_kingdom_gold_change]弗罗林。"
 
 # game/script_dlc_3.rpy:57237
 translate chinese kingdom_bonuses_for_nobles_76a1a4ac:
@@ -35816,7 +35816,7 @@ translate chinese kingdom_city_guards_to_army_76b2fe88:
 # game/script_dlc_3.rpy:57259
 translate chinese kingdom_city_guards_to_army_776245ef:
 
-    "{cps=50}{color=#A9A9A9}军队增加[storyroll]人。{vspace=5}权威降低[player_kingdom_authority_change]点。{vspace=5}声望（平民）降低[player_kingdom_rep_commoners_change]点。"
+    "{cps=50}{color=#A9A9A9}军队增加[storyroll]人。{vspace=5}权威降低[player_kingdom_authority_change]点。{vspace=5}人望（平民）降低[player_kingdom_rep_commoners_change]点。"
 
 # game/script_dlc_3.rpy:57265
 translate chinese kingdom_city_guards_to_army_76a1a4ac:
@@ -35947,7 +35947,7 @@ translate chinese kingdom_prisoners_to_army_17fc7c78:
 translate chinese kingdom_prisoners_to_army_e289e2ab:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}声望（贵族）降低[player_kingdom_rep_nobles_change]点。{vspace=5}声望（平民）降低[player_kingdom_rep_commoners_change]点。{vspace=5}声望（教会）降低[player_kingdom_rep_church_change]点。"
+    "{cps=50}{color=#A9A9A9}声望（贵族）降低[player_kingdom_rep_nobles_change]点。{vspace=5}人望（平民）降低[player_kingdom_rep_commoners_change]点。{vspace=5}声望（教会）降低[player_kingdom_rep_church_change]点。"
 
 # game/script_dlc_3.rpy:57340
 translate chinese kingdom_prisoners_to_army_c0e116bf:
@@ -36025,7 +36025,7 @@ translate chinese kingdom_fleet_1_23498891:
 translate chinese kingdom_fleet_1_ee50cda7:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}军队补充[storyroll]人。{vspace=5}获得[storyroll2]门火炮。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]点！"
+    "{cps=50}{color=#A9A9A9}军队补充[storyroll]人。{vspace=5}获得[storyroll2]门火炮。{vspace=5}人望（贵族）降低[player_kingdom_rep_nobles_change]点！"
 
 # game/script_dlc_3.rpy:57400
 translate chinese kingdom_fleet_1_955da9b4:
@@ -36099,7 +36099,7 @@ translate chinese kingdom_fleet_2_bad_76b2fe88:
 # game/script_dlc_3.rpy:57443
 translate chinese kingdom_fleet_2_bad_bb3c0f2d:
 
-    "{cps=50}你下令将其处决。{vspace=5}{color=#A9A9A9}权威提升[player_kingdom_authority_change]点。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]点。"
+    "{cps=50}你下令将其处决。{vspace=5}{color=#A9A9A9}权威提升[player_kingdom_authority_change]点。{vspace=5}人望（贵族）降低[player_kingdom_rep_nobles_change]点。"
 
 # game/script_dlc_3.rpy:57446
 translate chinese kingdom_fleet_2_bad_aa54daf6:
@@ -36116,7 +36116,7 @@ translate chinese kingdom_fleet_2_bad_76b2fe88_1:
 # game/script_dlc_3.rpy:57454
 translate chinese kingdom_fleet_2_bad_181b2a2a:
 
-    "{cps=50}你将他及舰队其余将官一并贬为列兵。{vspace=5}{color=#A9A9A9}声望（贵族）降低[player_kingdom_rep_nobles_change]点。{vspace=5}声望（平民）提升[player_kingdom_rep_commoners_change]点。{vspace=5}军队增加[storyroll]人。"
+    "{cps=50}你将他及舰队其余将官一并贬为列兵。{vspace=5}{color=#A9A9A9}声望（贵族）降低[player_kingdom_rep_nobles_change]点。{vspace=5}人望（平民）提升[player_kingdom_rep_commoners_change]点。{vspace=5}军队增加[storyroll]人。"
 
 # game/script_dlc_3.rpy:57458
 translate chinese kingdom_fleet_2_bad_76b2fe88_2:
@@ -36207,7 +36207,7 @@ translate chinese strings:
     old "Убедить эрла в своей верности"
     new "向伯爵表明你的忠诚"
     old "Рассказать о планах Алисы"
-    new "说出爱丽丝的图谋"
+    new "说出艾丽莎的图谋"
     old ", Виндзор и голову Руффина"
     new "，温莎，以及鲁芬的头颅"
     old " и Виндзор"
@@ -36423,7 +36423,7 @@ translate chinese strings:
     old "герцогу Кембриджу"
     new "剑桥公爵"
     old " с Алисой "
-    new " 与爱丽丝 "
+    new " 与艾丽莎 "
     old " обоих."
     new " 两人。"
     old "Атаковать всеми силами - [dynamic_battle_player_force_tiny] чел., [dynamic_battle_player_cost_tiny] флоринов"
@@ -36641,9 +36641,9 @@ translate chinese strings:
     old "Я понимаю тебя, но разве мы можем что-то сейчас сделать?"
     new "我明白你的心思，可眼下我们又能做什么呢？"
     old "Передать Алисе людей для усиления охраны Гринвича"
-    new "调拨人手给爱丽丝，加强格林威治的戒备"
+    new "调拨人手给艾丽莎，加强格林威治的戒备"
     old "Рассказать Алисе о ситуации в Хэдли"
-    new "向爱丽丝说明哈德利的局势"
+    new "向艾丽莎说明哈德利的局势"
     old "Попросить помощи в поиске солдат"
     new "请她相助征募兵员"
     old "Передать инструкторов для ополчения"
@@ -36711,7 +36711,7 @@ translate chinese strings:
     old "Рассказать о романе с Сесилией"
     new "讲述与塞西莉亚的旧情"
     old "Рассказать о романе с Алисой"
-    new "讲述与爱丽丝的旧情"
+    new "讲述与艾丽莎的旧情"
     old "Рассказать о своей военной карьере"
     new "讲述自己的戎马生涯"
     old "Рассказать о том, как вы спасали раненых солдат в Камбрэ"
@@ -36819,9 +36819,9 @@ translate chinese strings:
     old "Pray"
     new "祈祷"
     old "{size=-7}Вы устраиваете пир, куда приглашаете{vspace=1}всех самых знатных людей королевства.{color=#A9A9A9}{vspace=1}Потеряно [kingdom_of_london_feast_price] флоринов!{vspace=1}Популярность (знать) увеличена на [player_kingdom_rep_nobles_change]!"
-    new "{size=-7}你设宴款待{vspace=1}王国中所有最显赫的贵族。{color=#A9A9A9}{vspace=1}花费[kingdom_of_london_feast_price]弗罗林！{vspace=1}声望（贵族）提升[player_kingdom_rep_nobles_change]点！"
+    new "{size=-7}你设宴款待{vspace=1}王国中所有最显赫的贵族。{color=#A9A9A9}{vspace=1}花费[kingdom_of_london_feast_price]弗罗林！{vspace=1}人望（贵族）提升[player_kingdom_rep_nobles_change]点！"
     old "{size=-7}Вы устраиваете пир, куда приглашаете{vspace=1}всех самых знатных людей королевства.{color=#A9A9A9}{vspace=1}Потеряно [kingdom_of_london_feast_price] флоринов!{vspace=1}Популярность (знать) увеличена на [player_kingdom_rep_nobles_change]!{vspace=1}{/color}Чрезмерное увлечение пирами, выпивкой{vspace=1}и увеселениями вредит вашей репутации...{vspace=1}{color=#A9A9A9}Популярность (церковь) уменьшена на [player_kingdom_rep_church_change]!{vspace=1}Популярность (простолюдины) уменьш.{vspace=1}на [player_kingdom_rep_commoners_change]!"
-    new "{size=-7}你设宴款待{vspace=1}王国中所有最显赫的贵族。{color=#A9A9A9}{vspace=1}花费[kingdom_of_london_feast_price]弗罗林！{vspace=1}声望（贵族）提升[player_kingdom_rep_nobles_change]点！{vspace=1}{/color}然而沉溺于宴饮享乐{vspace=1}有损你的声誉……{vspace=1}{color=#A9A9A9}声望（教会）降低[player_kingdom_rep_church_change]点！{vspace=1}声望（平民）降低{vspace=1}[player_kingdom_rep_commoners_change]点！"
+    new "{size=-7}你设宴款待{vspace=1}王国中所有最显赫的贵族。{color=#A9A9A9}{vspace=1}花费[kingdom_of_london_feast_price]弗罗林！{vspace=1}声望（贵族）提升[player_kingdom_rep_nobles_change]点！{vspace=1}{/color}然而沉溺于宴饮享乐{vspace=1}有损你的声誉……{vspace=1}{color=#A9A9A9}声望（教会）降低[player_kingdom_rep_church_change]点！{vspace=1}人望（平民）降低{vspace=1}[player_kingdom_rep_commoners_change]点！"
     old "{size=-7}Вы проводите время за охотой..."
     new "{size=-7}你以狩猎消磨时光……"
     old "{size=-7}Вы проводите время за охотой...{vspace=5}Частые отсутствия в столице мешают{vspace=5}вам следить за государственными{vspace=5}делами.{color=#A9A9A9}{vspace=5}Власть уменьшена на [player_kingdom_authority_change]!"

@@ -1279,7 +1279,7 @@ translate chinese damanhur_text_death_76b2fe88_1:
 translate chinese alyssa_marriage_934a7ef2:
 
     nvl clear
-    "{cps=50}你从伦敦启程前往格林威治，来到考德威尔伯爵的府邸，在爱丽丝满心欢喜的注视下，向她的父亲求娶她的芳心。"
+    "{cps=50}你从伦敦启程前往格林威治，来到考德威尔伯爵的府邸，在艾丽莎满心欢喜的注视下，向她的父亲求娶她的芳心。"
 
 # game/script_dlc_1.rpy:4785
 translate chinese alyssa_marriage_89bda8a9:
@@ -2562,7 +2562,7 @@ translate chinese avignon_robbery_action_0119e5e7:
 translate chinese avignon_robbery_action_2b8002db:
 
     nvl clear
-    "{cps=50}把钱财留给自己，用于那些善行、益事与要紧的营生，岂不更明智？而这样的营生，你向来不乏。{vspace=5}{color=#A9A9A9}虔诚降低40点！{vspace=5}获得500弗罗林！"
+    "{cps=50}把钱财留给自己，用于那些善行、益事与要紧的营生，岂不更明智？而这样的营生，你向来不乏。{vspace=5}{color=#A9A9A9}美德降低40点！{vspace=5}获得500弗罗林！"
 
 # game/script_dlc_1.rpy:5767
 translate chinese avignon_robbery_action_7eb01219:
@@ -2837,7 +2837,7 @@ translate chinese avignon_robbery_fight_76b2fe88_4:
 translate chinese avignon_robbery_fight_41c3e463:
 
     nvl clear
-    "{cps=50}性命攸关，你只得抛下藏红花，仓皇后撤。{vspace=5}{color=#A9A9A9}威望降低1点！{vspace=5}虔诚降低25点！"
+    "{cps=50}性命攸关，你只得抛下藏红花，仓皇后撤。{vspace=5}{color=#A9A9A9}威望降低1点！{vspace=5}美德降低25点！"
 
 # game/script_dlc_1.rpy:6281
 translate chinese avignon_robbery_fight_e7653490:

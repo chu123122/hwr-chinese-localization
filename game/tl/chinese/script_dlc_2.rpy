@@ -4,13 +4,13 @@
 translate chinese story_journey_to_maidstone_alternative_intro_9eb2d7b4:
 
     nvl clear
-    "这几个月里，你的不少同伴早已厌倦了被迫的等待与无所事事，纷纷投效了本地的各色领主与贵族——这些人正需要经验丰富的士兵效力，出手也相当慷慨。"
+    "{cps=50}这几个月里，你的不少同伴早已厌倦了被迫的等待与无所事事，纷纷投效了本地的各色领主与贵族——这些人正需要经验丰富的士兵效力，出手也相当慷慨。"
 
 # game/script_dlc_2.rpy:5
 translate chinese story_journey_to_maidstone_alternative_intro_38cb0d65:
 
     nvl clear
-    "不过，他们开出的诱人条件并未打动你。{color=#A9A9A9}{vspace=5}声望（士兵）、军衔——失败！"
+    "{cps=50}不过，他们开出的诱人条件并未打动你。{color=#A9A9A9}{vspace=5}声望（士兵）、军衔——失败！"
 
 # game/script_dlc_2.rpy:7
 translate chinese story_journey_to_maidstone_alternative_intro_76b2fe88:
@@ -22,7 +22,7 @@ translate chinese story_journey_to_maidstone_alternative_intro_76b2fe88:
 translate chinese story_journey_to_maidstone_intro_cb6ce480:
 
     nvl clear
-    "许多士兵对这些招揽跃跃欲试，但你不在其列。"
+    "{cps=50}许多士兵对这些招揽跃跃欲试，但你不在其列。"
 
 # game/script_dlc_2.rpy:15
 translate chinese story_journey_to_maidstone_intro_quickjump_76b2fe88:
@@ -34,37 +34,37 @@ translate chinese story_journey_to_maidstone_intro_quickjump_76b2fe88:
 translate chinese story_journey_to_maidstone_intro_quickjump_3d11e76a:
 
     nvl clear
-    "你本是被迫卷入法兰西的战事，能活着撑过这场战争，便已谢天谢地。如今你只盼着回家，过安稳太平的日子——至于再卷入什么新的危险勾当，想都没想过。"
+    "{cps=50}你本是被迫卷入法兰西的战事，能活着撑过这场战争，便已谢天谢地。如今你只盼着回家，过安稳太平的日子——至于再卷入什么新的危险勾当，想都没想过。"
 
 # game/script_dlc_2.rpy:53
 translate chinese story_journey_to_maidstone_intro_quickjump_d5bcea2b:
 
     nvl clear
-    "你决定留在敦刻尔克，等待撤离返乡。"
+    "{cps=50}你决定留在敦刻尔克，等待撤离返乡。"
 
 # game/script_dlc_2.rpy:56
 translate chinese story_journey_to_maidstone_intro_quickjump_c0f9460e:
 
     nvl clear
-    "在这长达数月的等待里，本就捉襟见肘的补给彻底断绝了。"
+    "{cps=50}在这长达数月的等待里，本就捉襟见肘的补给彻底断绝了。"
 
 # game/script_dlc_2.rpy:58
 translate chinese story_journey_to_maidstone_intro_quickjump_a9595643:
 
     nvl clear
-    "士兵们不得不自谋口粮——用打仗攒下的钱向当地人购买，到附近的林子里偷猎，甚至干脆去打家劫舍。"
+    "{cps=50}士兵们不得不自谋口粮——用打仗攒下的钱向当地人购买，到附近的林子里偷猎，甚至干脆去打家劫舍。"
 
 # game/script_dlc_2.rpy:60
 translate chinese story_journey_to_maidstone_intro_quickjump_fa5abe81:
 
     nvl clear
-    "起初，你也不免心动，想学着去劫掠或偷猎。可当十来个干这营生的士兵接连被擒，送上了刽子手的刑台，这份念想便自行烟消云散了……"
+    "{cps=50}起初，你也不免心动，想学着去劫掠或偷猎。可当十来个干这营生的士兵接连被擒，送上了刽子手的刑台，这份念想便自行烟消云散了……"
 
 # game/script_dlc_2.rpy:62
 translate chinese story_journey_to_maidstone_intro_quickjump_7e1a2deb:
 
     nvl clear
-    "不愿重蹈那些因违法而丧命的同伴的覆辙，许多士兵索性变卖了劫掠所得与随身装备，只为换一口饭吃。"
+    "{cps=50}不愿重蹈那些因违法而丧命的同伴的覆辙，许多士兵索性变卖了劫掠所得与随身装备，只为换一口饭吃。"
 
 # game/script_dlc_2.rpy:64
 translate chinese dunkirk_famine_76b2fe88:
@@ -81,12 +81,12 @@ translate chinese dunkirk_famine_76b2fe88_2:
 # game/script_dlc_2.rpy:74
 translate chinese dunkirk_famine_725ab1cc:
 
-    "你的积蓄足够支付整个等待期间的开销，既不必挨饿，身子也无大碍。{color=#A9A9A9}{vspace=5}损失了300弗罗林！"
+    "{cps=50}你的积蓄足够支付整个等待期间的开销，既不必挨饿，身子也无大碍。{color=#A9A9A9}{vspace=5}损失了300弗罗林！"
 
 # game/script_dlc_2.rpy:77
 translate chinese dunkirk_famine_94547691:
 
-    "{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}钱不够！"
 
 # game/script_dlc_2.rpy:78
 translate chinese dunkirk_famine_76b2fe88_1:
@@ -103,18 +103,18 @@ translate chinese dunkirk_famine_76b2fe88_4:
 # game/script_dlc_2.rpy:84
 translate chinese dunkirk_famine_ad67d3b6:
 
-    "虽说这场战事并未让你发财，但口袋里总归攒下了一些弗罗林——买块面包、来一品脱啤酒还是付得起的。"
+    "{cps=50}虽说这场战事并未让你发财，但口袋里总归攒下了一些弗罗林——买块面包、来一品脱啤酒还是付得起的。"
 
 # game/script_dlc_2.rpy:85
 translate chinese dunkirk_famine_30548e03:
 
     nvl clear
-    "你的积蓄能撑过大部分等待的日子，几乎不用挨饿，身体也只受了些微损伤。{color=#A9A9A9}{vspace=5}损失了200弗罗林！{vspace=5}所有属性降低1点！"
+    "{cps=50}你的积蓄能撑过大部分等待的日子，几乎不用挨饿，身体也只受了些微损伤。{color=#A9A9A9}{vspace=5}损失了200弗罗林！{vspace=5}所有属性降低1点！"
 
 # game/script_dlc_2.rpy:101
 translate chinese dunkirk_famine_94547691_1:
 
-    "{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}钱不够！"
 
 # game/script_dlc_2.rpy:102
 translate chinese dunkirk_famine_76b2fe88_3:
@@ -131,12 +131,12 @@ translate chinese dunkirk_famine_76b2fe88_6:
 # game/script_dlc_2.rpy:108
 translate chinese dunkirk_famine_7c1170ab:
 
-    "你的钱只够在等待期间勉强糊口，身体因此大受损伤。{color=#A9A9A9}{vspace=5}损失了100弗罗林！{vspace=5}所有属性降低2点！"
+    "{cps=50}你的钱只够在等待期间勉强糊口，身体因此大受损伤。{color=#A9A9A9}{vspace=5}损失了100弗罗林！{vspace=5}所有属性降低2点！"
 
 # game/script_dlc_2.rpy:123
 translate chinese dunkirk_famine_94547691_2:
 
-    "{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}钱不够！"
 
 # game/script_dlc_2.rpy:124
 translate chinese dunkirk_famine_76b2fe88_5:
@@ -154,18 +154,18 @@ translate chinese dunkirk_famine_76b2fe88_8:
 translate chinese dunkirk_famine_3c224987:
 
     nvl clear
-    "你身上那点可怜的铜板，只够靠硬面包皮和清水勉强吊住性命。{color=#A9A9A9}{vspace=5}损失了50弗罗林！"
+    "{cps=50}你身上那点可怜的铜板，只够靠硬面包皮和清水勉强吊住性命。{color=#A9A9A9}{vspace=5}损失了50弗罗林！"
 
 # game/script_dlc_2.rpy:132
 translate chinese dunkirk_famine_b06f0f39:
 
     nvl clear
-    "如此伙食，自然对身子损伤极大。{color=#A9A9A9}{vspace=5}所有属性降低3点！"
+    "{cps=50}如此伙食，自然对身子损伤极大。{color=#A9A9A9}{vspace=5}所有属性降低3点！"
 
 # game/script_dlc_2.rpy:148
 translate chinese dunkirk_famine_94547691_3:
 
-    "{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}钱不够！"
 
 # game/script_dlc_2.rpy:149
 translate chinese dunkirk_famine_76b2fe88_7:
@@ -194,18 +194,18 @@ translate chinese dunkirk_famine_76b2fe88_11:
 # game/script_dlc_2.rpy:166
 translate chinese dunkirk_famine_0241d213:
 
-    "你几乎身无分文，除了挨饿别无选择——偶尔得来的一枚铜板，也立刻换成了硬面包皮。"
+    "{cps=50}你几乎身无分文，除了挨饿别无选择——偶尔得来的一枚铜板，也立刻换成了硬面包皮。"
 
 # game/script_dlc_2.rpy:168
 translate chinese dunkirk_famine_933bf66e:
 
-    "虽然口袋里还有弗罗林，你却宁愿挨饿，只靠雨水和零星的硬面包皮度日。"
+    "{cps=50}虽然口袋里还有弗罗林，你却宁愿挨饿，只靠雨水和零星的硬面包皮度日。"
 
 # game/script_dlc_2.rpy:169
 translate chinese dunkirk_famine_da10d048:
 
     nvl clear
-    "不知走了什么运，你竟没被饿死，可身体受到的损害实难估量。{color=#A9A9A9}{vspace=5}所有属性降低4点！"
+    "{cps=50}不知走了什么运，你竟没被饿死，可身体受到的损害实难估量。{color=#A9A9A9}{vspace=5}所有属性降低4点！"
 
 # game/script_dlc_2.rpy:171
 translate chinese dunkirk_famine_76b2fe88_12:
@@ -222,7 +222,7 @@ translate chinese dunkirk_famine_76b2fe88_15:
 # game/script_dlc_2.rpy:189
 translate chinese dunkirk_famine_f82f4904:
 
-    "漫长的等待终于结束。作为国王军中最后一批离港的士兵，你登上驶回英格兰的船只，离开了敦刻尔克。"
+    "{cps=50}漫长的等待终于结束。作为国王军中最后一批离港的士兵，你登上驶回英格兰的船只，离开了敦刻尔克。"
 
 # game/script_dlc_2.rpy:190
 translate chinese dunkirk_famine_76b2fe88_13:
@@ -233,13 +233,13 @@ translate chinese dunkirk_famine_76b2fe88_13:
 # game/script_dlc_2.rpy:194
 translate chinese dunkirk_famine_204997a6:
 
-    "漫长的等待终于结束，接你们的船只终究还是来了。"
+    "{cps=50}漫长的等待终于结束，接你们的船只终究还是来了。"
 
 # game/script_dlc_2.rpy:195
 translate chinese dunkirk_famine_65d0aea1:
 
     nvl clear
-    "然而，喜讯之外还伴着坏消息——船舱里地方有限，普通士兵和民兵一律不许把装战利品的箱子带上船。"
+    "{cps=50}然而，喜讯之外还伴着坏消息——船舱里地方有限，普通士兵和民兵一律不许把装战利品的箱子带上船。"
 
 # game/script_dlc_2.rpy:197
 translate chinese dunkirk_famine_76b2fe88_14:
@@ -250,7 +250,7 @@ translate chinese dunkirk_famine_76b2fe88_14:
 # game/script_dlc_2.rpy:204
 translate chinese dunkirk_chest_loss_1ec61ec9:
 
-    "你只得把箱子留在岸上……"
+    "{cps=50}你只得把箱子留在岸上……"
 
 # game/script_dlc_2.rpy:338
 translate chinese dunkirk_clear_chest_76b2fe88:
@@ -262,7 +262,7 @@ translate chinese dunkirk_clear_chest_76b2fe88:
 translate chinese dunkirk_clear_chest_5aa3399f:
 
     nvl clear
-    "作为国王军中最后一批离开的士兵，你登上驶回英格兰的船只，离开了敦刻尔克。"
+    "{cps=50}作为国王军中最后一批离开的士兵，你登上驶回英格兰的船只，离开了敦刻尔克。"
 
 # game/script_dlc_2.rpy:345
 translate chinese dunkirk_clear_chest_76b2fe88_1:
@@ -274,37 +274,37 @@ translate chinese dunkirk_clear_chest_76b2fe88_1:
 translate chinese dunkirk_chest_loss_end_3cba439d:
 
     nvl clear
-    "航行途中，不少同伴饱受晕船之苦，而你却安然无恙。{vspace=5}{color=#A9A9A9}协调——成功！"
+    "{cps=50}航行途中，不少同伴饱受晕船之苦，而你却安然无恙。{vspace=5}{color=#A9A9A9}协调——成功！"
 
 # game/script_dlc_2.rpy:361
 translate chinese dunkirk_chest_loss_end_dc7bf3e5:
 
     nvl clear
-    "航行途中，你被晕船折磨得苦不堪言。{vspace=5}{color=#A9A9A9}协调——失败！{vspace=5}生命力降低2点！"
+    "{cps=50}航行途中，你被晕船折磨得苦不堪言。{vspace=5}{color=#A9A9A9}协调——失败！{vspace=5}活力降低2点！"
 
 # game/script_dlc_2.rpy:365
 translate chinese dunkirk_chest_loss_end_d488589d:
 
     nvl clear
-    "航行途中，严重的晕船把你折腾得死去活来。{vspace=5}{color=#A9A9A9}协调——失败！{vspace=5}中毒值上升！"
+    "{cps=50}航行途中，严重的晕船把你折腾得死去活来。{vspace=5}{color=#A9A9A9}协调——失败！{vspace=5}中毒值上升！"
 
 # game/script_dlc_2.rpy:369
 translate chinese dunkirk_chest_loss_end_1020effe:
 
     nvl clear
-    "途中，船遇上了无风的海面。苦等数小时后，风总算重新扬起，傍晚时分你们平安抵达了多佛。"
+    "{cps=50}途中，船遇上了无风的海面。苦等数小时后，风总算重新扬起，傍晚时分你们平安抵达了多佛。"
 
 # game/script_dlc_2.rpy:371
 translate chinese dunkirk_chest_loss_end_65137cb3:
 
     nvl clear
-    "吱呀作响的甲板和满是咸腥味的货舱被抛在身后，敦刻尔克、康布雷，还有王军营地的帐篷，都渐渐化作愈发遥远的记忆。"
+    "{cps=50}吱呀作响的甲板和满是咸腥味的货舱被抛在身后，敦刻尔克、康布雷，还有王军营地的帐篷，都渐渐化作愈发遥远的记忆。"
 
 # game/script_dlc_2.rpy:373
 translate chinese dunkirk_chest_loss_end_6b536f3c:
 
     nvl clear
-    "是时候翻开人生的新一页了。"
+    "{cps=50}是时候翻开人生的新一页了。"
 
 # game/script_dlc_2.rpy:375
 translate chinese dunkirk_chest_loss_end_76b2fe88:
@@ -316,25 +316,25 @@ translate chinese dunkirk_chest_loss_end_76b2fe88:
 translate chinese dunkirk_chest_loss_end_4daf4f9c:
 
     nvl clear
-    "你在多佛举目无亲，纵然疲惫，也打定主意立刻动身赶回故乡梅德斯通——从南海岸过去大约是一天的路程。"
+    "{cps=50}你在多佛举目无亲，纵然疲惫，也打定主意立刻动身赶回故乡梅德斯通——从南海岸过去大约是一天的路程。"
 
 # game/script_dlc_2.rpy:382
 translate chinese dunkirk_chest_loss_end_b213f962:
 
     nvl clear
-    "不过，一位与你一同从法兰西归来、家在本地的士兵劝阻了你。据他说，多佛周边向来恶名在外，孤身行路极为危险——尤其是敢在日落后赶路的人，更容易遭殃。"
+    "{cps=50}不过，一位与你一同从法兰西归来、家在本地的士兵劝阻了你。据他说，多佛周边向来恶名在外，孤身行路极为危险——尤其是敢在日落后赶路的人，更容易遭殃。"
 
 # game/script_dlc_2.rpy:384
 translate chinese dunkirk_chest_loss_end_35e6b0cd:
 
     nvl clear
-    "他劝你别在夜色里瞎闯，不如同其他士兵一道，寻城里的酒馆落脚——庆贺平安归来，在安全处过上一夜，好好歇息，待天亮再上路。"
+    "{cps=50}他劝你别在夜色里瞎闯，不如同其他士兵一道，寻城里的酒馆落脚——庆贺平安归来，在安全处过上一夜，好好歇息，待天亮再上路。"
 
 # game/script_dlc_2.rpy:386
 translate chinese dunkirk_chest_loss_end_d491a322:
 
     nvl clear
-    "他的话确实在理，可他提议过夜的那家店，往客气里说，也让人难以放心……"
+    "{cps=50}他的话确实在理，可他提议过夜的那家店，往客气里说，也让人难以放心……"
 
 # game/script_dlc_2.rpy:388
 translate chinese journey_to_maidstone_tavern_76b2fe88:
@@ -346,7 +346,7 @@ translate chinese journey_to_maidstone_tavern_76b2fe88:
 translate chinese journey_to_maidstone_tavern_e4b2e291:
 
     nvl clear
-    "思量再三，你决定不在夜里赶路，听从了他的劝告。{vspace=5}{color=#A9A9A9}损失了10弗罗林！"
+    "{cps=50}思量再三，你决定不在夜里赶路，听从了他的劝告。{vspace=5}{color=#A9A9A9}损失了10弗罗林！"
 
 # game/script_dlc_2.rpy:397
 translate chinese journey_to_maidstone_tavern_76b2fe88_1:
@@ -358,7 +358,7 @@ translate chinese journey_to_maidstone_tavern_76b2fe88_1:
 translate chinese journey_to_maidstone_tavern_d102d9e6:
 
     nvl clear
-    "{color=#A9A9A9}钱不够！"
+    "{cps=50}{color=#A9A9A9}钱不够！"
 
 # game/script_dlc_2.rpy:401
 translate chinese journey_to_maidstone_tavern_76b2fe88_2:
@@ -369,19 +369,19 @@ translate chinese journey_to_maidstone_tavern_76b2fe88_2:
 # game/script_dlc_2.rpy:407
 translate chinese journey_to_maidstone_tavern_1c141fc3:
 
-    "这家酒馆虽外表看着可疑，住下来却发现，它在各方面都还算体面……"
+    "{cps=50}这家酒馆虽外表看着可疑，住下来却发现，它在各方面都还算体面……"
 
 # game/script_dlc_2.rpy:408
 translate chinese journey_to_maidstone_tavern_64296642:
 
     nvl clear
-    "唯一的例外，是那格外酸涩的啤酒——喝起来却意外地冲头。"
+    "{cps=50}唯一的例外，是那格外酸涩的啤酒——喝起来却意外地冲头。"
 
 # game/script_dlc_2.rpy:410
 translate chinese journey_to_maidstone_tavern_a04406a8:
 
     nvl clear
-    "饱餐畅饮之后，你踉踉跄跄摸回房间，一头栽倒在床上，睡得死沉。{color=#A9A9A9}{vspace=5}疲劳值清零！"
+    "{cps=50}饱餐畅饮之后，你踉踉跄跄摸回房间，一头栽倒在床上，睡得死沉。{color=#A9A9A9}{vspace=5}疲劳值清零！"
 
 # game/script_dlc_2.rpy:413
 translate chinese journey_to_maidstone_tavern_76b2fe88_5:
@@ -392,25 +392,25 @@ translate chinese journey_to_maidstone_tavern_76b2fe88_5:
 # game/script_dlc_2.rpy:416
 translate chinese journey_to_maidstone_tavern_ce0bb9ec:
 
-    "清晨，正当你收拾行装准备上路时……你惊恐地发现，装钱的荷包不见了。{color=#A9A9A9}{vspace=5}损失了[player_gold]弗罗林！"
+    "{cps=50}清晨，正当你收拾行装准备上路时……你惊恐地发现，装钱的荷包不见了。{color=#A9A9A9}{vspace=5}损失了[player_gold]弗罗林！"
 
 # game/script_dlc_2.rpy:418
 translate chinese journey_to_maidstone_tavern_5396167e:
 
     nvl clear
-    "你向酒馆老板理论，却毫无结果——他只是不耐烦地摆摆手，把一切归咎于你昨晚的酗酒胡闹。"
+    "{cps=50}你向酒馆老板理论，却毫无结果——他只是不耐烦地摆摆手，把一切归咎于你昨晚的酗酒胡闹。"
 
 # game/script_dlc_2.rpy:420
 translate chinese journey_to_maidstone_tavern_db763b59:
 
     nvl clear
-    "当怒火终于压过理智，你开始威胁他时——他立刻召来了城中守卫，你被连踢带踹地赶出酒馆，随后又撵出了城。"
+    "{cps=50}当怒火终于压过理智，你开始威胁他时——他立刻召来了城中守卫，你被连踢带踹地赶出酒馆，随后又撵出了城。"
 
 # game/script_dlc_2.rpy:422
 translate chinese journey_to_maidstone_tavern_2d7c9a2f:
 
     nvl clear
-    "你别无他法，只能身无分文地前往梅德斯通。唯一的慰藉，大约便是此刻天色尚明，而你也休整充分。"
+    "{cps=50}你别无他法，只能身无分文地前往梅德斯通。唯一的慰藉，大约便是此刻天色尚明，而你也休整充分。"
 
 # game/script_dlc_2.rpy:424
 translate chinese journey_to_maidstone_tavern_76b2fe88_3:
@@ -422,7 +422,7 @@ translate chinese journey_to_maidstone_tavern_76b2fe88_3:
 translate chinese journey_to_maidstone_tavern_0c7240ff:
 
     nvl clear
-    "天刚亮你就起身，立刻踏上了归途。"
+    "{cps=50}天刚亮你就起身，立刻踏上了归途。"
 
 # game/script_dlc_2.rpy:428
 translate chinese journey_to_maidstone_tavern_76b2fe88_4:
@@ -433,7 +433,7 @@ translate chinese journey_to_maidstone_tavern_76b2fe88_4:
 # game/script_dlc_2.rpy:433
 translate chinese journey_to_maidstone_tavern_a8145e8a:
 
-    "一路平安无事。当市政厅那熟悉的尖顶出现在最近的小丘背后时，你心头一暖。"
+    "{cps=50}一路平安无事。当市政厅那熟悉的尖顶出现在最近的小丘背后时，你心头一暖。"
 
 # game/script_dlc_2.rpy:434
 translate chinese journey_to_maidstone_tavern_76b2fe88_6:
@@ -445,7 +445,7 @@ translate chinese journey_to_maidstone_tavern_76b2fe88_6:
 translate chinese journey_to_maidstone_tavern_08156889:
 
     nvl clear
-    "他的说辞没能打动你，你宁愿立刻动身。"
+    "{cps=50}他的说辞没能打动你，你宁愿立刻动身。"
 
 # game/script_dlc_2.rpy:439
 translate chinese journey_to_maidstone_tavern_76b2fe88_7:
@@ -457,43 +457,43 @@ translate chinese journey_to_maidstone_tavern_76b2fe88_7:
 translate chinese journey_to_maidstone_tavern_1f804332:
 
     nvl clear
-    "这个决定的后果来得很快：走了大约三个钟头，疲惫终究占了上风，你坐在马背上先是打起瞌睡，接着便沉沉睡去。"
+    "{cps=50}这个决定的后果来得很快：走了大约三个钟头，疲惫终究占了上风，你坐在马背上先是打起瞌睡，接着便沉沉睡去。"
 
 # game/script_dlc_2.rpy:447
 translate chinese journey_to_maidstone_tavern_724e69d9:
 
     nvl clear
-    "后脑一记重击将你从梦中惊醒。还没等你想明白发生了什么，一伙陌生人已把你拽下马鞍，朝你的身体和脑袋劈头盖脸地打来。{color=#A9A9A9}{vspace=5}脑震荡！"
+    "{cps=50}后脑一记重击将你从梦中惊醒。还没等你想明白发生了什么，一伙陌生人已把你拽下马鞍，朝你的身体和脑袋劈头盖脸地打来。{color=#A9A9A9}{vspace=5}脑震荡！"
 
 # game/script_dlc_2.rpy:452
 translate chinese journey_to_maidstone_tavern_f2fbaa6e:
 
     nvl clear
-    "片刻之后你总算回过神来，拔出武器奋力挥砍，逼退围攻的袭击者。"
+    "{cps=50}片刻之后你总算回过神来，拔出武器奋力挥砍，逼退围攻的袭击者。"
 
 # game/script_dlc_2.rpy:454
 translate chinese journey_to_maidstone_tavern_c9618884:
 
     nvl clear
-    "没过多久，袭击者果然退去，不再纠缠。你摸了摸周身，确认没有重伤，随身物件也都在，正要松口气……"
+    "{cps=50}没过多久，袭击者果然退去，不再纠缠。你摸了摸周身，确认没有重伤，随身物件也都在，正要松口气……"
 
 # game/script_dlc_2.rpy:456
 translate chinese journey_to_maidstone_tavern_45007d38:
 
     nvl clear
-    "却猛然发觉，那伙歹徒并非空手而去——系在腰间的钱袋已被利落地割走了。{color=#A9A9A9}{vspace=5}损失了[player_gold]弗罗林！"
+    "{cps=50}却猛然发觉，那伙歹徒并非空手而去——系在腰间的钱袋已被利落地割走了。{color=#A9A9A9}{vspace=5}损失了[player_gold]弗罗林！"
 
 # game/script_dlc_2.rpy:459
 translate chinese journey_to_maidstone_tavern_96f6cff8:
 
     nvl clear
-    "所幸劫难到此为止，前往梅德斯通的余路再无波折。"
+    "{cps=50}所幸劫难到此为止，前往梅德斯通的余路再无波折。"
 
 # game/script_dlc_2.rpy:461
 translate chinese journey_to_maidstone_tavern_08f8cbc3:
 
     nvl clear
-    "当市政厅那熟悉的尖顶从最近的小丘背后显露出来时，你心头一暖。"
+    "{cps=50}当市政厅那熟悉的尖顶从最近的小丘背后显露出来时，你心头一暖。"
 
 # game/script_dlc_2.rpy:463
 translate chinese journey_to_maidstone_tavern_76b2fe88_8:
@@ -505,13 +505,13 @@ translate chinese journey_to_maidstone_tavern_76b2fe88_8:
 translate chinese journey_to_maidstone_tavern_b51590fe:
 
     nvl clear
-    "庆幸的是，一路上没有遇到任何强盗，唯一的麻烦，是在陌生的地方辨明方向。"
+    "{cps=50}庆幸的是，一路上没有遇到任何强盗，唯一的麻烦，是在陌生的地方辨明方向。"
 
 # game/script_dlc_2.rpy:467
 translate chinese journey_to_maidstone_tavern_05ce04f5:
 
     nvl clear
-    "在附近兜了好大一圈，你总算找对了路。当市政厅那熟悉的尖顶出现在最近的小丘背后时，你心头一暖。"
+    "{cps=50}在附近兜了好大一圈，你总算找对了路。当市政厅那熟悉的尖顶出现在最近的小丘背后时，你心头一暖。"
 
 # game/script_dlc_2.rpy:469
 translate chinese journey_to_maidstone_tavern_76b2fe88_9:
@@ -523,7 +523,7 @@ translate chinese journey_to_maidstone_tavern_76b2fe88_9:
 translate chinese journey_to_maidstone_tavern_2a581f4c:
 
     nvl clear
-    "你回到了家。"
+    "{cps=50}你回到了家。"
 
 # game/script_dlc_2.rpy:473
 translate chinese journey_to_maidstone_tavern_61b952c5:
@@ -536,25 +536,25 @@ translate chinese journey_to_maidstone_tavern_61b952c5:
 translate chinese story_maidstone_1_2540be3b:
 
     nvl clear
-    "小城自有小城的道理——你离开的日子看似漫长，回来却发现一切如旧，分毫未变。"
+    "{cps=50}小城自有小城的道理——你离开的日子看似漫长，回来却发现一切如旧，分毫未变。"
 
 # game/script_dlc_2.rpy:572
 translate chinese story_maidstone_1_25f0da08:
 
     nvl clear
-    "守城的卫兵依旧懒散，酒馆老板依旧臃肿，而店里的猫依旧温顺蓬松。酒馆的啤酒还是那股熟悉的酸涩，常驻的客人们也依旧形迹可疑。"
+    "{cps=50}守城的卫兵依旧懒散，酒馆老板依旧臃肿，而店里的猫依旧温顺蓬松。酒馆的啤酒还是那股熟悉的酸涩，常驻的客人们也依旧形迹可疑。"
 
 # game/script_dlc_2.rpy:574
 translate chinese story_maidstone_1_53c9ee05:
 
     nvl clear
-    "街上依旧挤满闲逛的看客，商贩们照旧吆喝着揽客。梅德斯通以你当年离家参战时一模一样的模样迎回了你。"
+    "{cps=50}街上依旧挤满闲逛的看客，商贩们照旧吆喝着揽客。梅德斯通以你当年离家参战时一模一样的模样迎回了你。"
 
 # game/script_dlc_2.rpy:576
 translate chinese story_maidstone_1_ba537a6f:
 
     nvl clear
-    "家人见你平安归来，欢喜得难以言表。为迎接你而摆开的长桌旁，聚集了众多的亲戚故旧——啤酒与葡萄酒川流不息，祝福与祝酒声此起彼伏，你只得一遍又一遍地讲述自己那些离奇的冒险经历。"
+    "{cps=50}家人见你平安归来，欢喜得难以言表。为迎接你而摆开的长桌旁，聚集了众多的亲戚故旧——啤酒与葡萄酒川流不息，祝福与祝酒声此起彼伏，你只得一遍又一遍地讲述自己那些离奇的冒险经历。"
 
 # game/script_dlc_2.rpy:578
 translate chinese story_maidstone_1_76b2fe88:
@@ -565,37 +565,37 @@ translate chinese story_maidstone_1_76b2fe88:
 # game/script_dlc_2.rpy:649
 translate chinese story_maidstone_1_b024461f:
 
-    "抵达敦刻尔克城堡，[memories_bartholomew_met!ti][memories_dunkirk_arsenal_pillaged!ti]第一次在战斗中流血，[memories_cambrai_prince_saved!ti][memories_cecilia_met!ti][memories_cambrai_infiltrated!ti][memories_go_up_the_wall_first!ti][memories_duel_with_young_knight!ti][memories_eva_met!ti][memories_bartholomew_saved!ti][memories_bartholomew_schemes!ti]围城以凯旋告终，随即而来的却是漫无边际的法国大军，[memories_de_roche_killed!ti][memories_refused_to_kill_de_roche!ti][memories_captured_by_the_french!ti]国王的神秘暴毙，以及太多太多别的……"
+    "{cps=50}抵达敦刻尔克城堡，[memories_bartholomew_met!ti][memories_dunkirk_arsenal_pillaged!ti]第一次在战斗中流血，[memories_cambrai_prince_saved!ti][memories_cecilia_met!ti][memories_cambrai_infiltrated!ti][memories_go_up_the_wall_first!ti][memories_duel_with_young_knight!ti][memories_eva_met!ti][memories_bartholomew_saved!ti][memories_bartholomew_schemes!ti]围城以凯旋告终，随即而来的却是漫无边际的法国大军，[memories_de_roche_killed!ti][memories_refused_to_kill_de_roche!ti][memories_captured_by_the_french!ti]国王的神秘暴毙，以及太多太多别的……"
 
 # game/script_dlc_2.rpy:651
 translate chinese story_maidstone_1_512fed7b:
 
     nvl clear
-    "一连数日，你成了众人瞩目的焦点，沐浴在这份不大不小的荣光之中。"
+    "{cps=50}一连数日，你成了众人瞩目的焦点，沐浴在这份不大不小的荣光之中。"
 
 # game/script_dlc_2.rpy:653
 translate chinese story_maidstone_1_965cecf9:
 
     nvl clear
-    "不过，为你举办的宴席终有散场之时，宾客们各归各家，你也不得不回到现实——而现实，一如既往地严酷。"
+    "{cps=50}不过，为你举办的宴席终有散场之时，宾客们各归各家，你也不得不回到现实——而现实，一如既往地严酷。"
 
 # game/script_dlc_2.rpy:655
 translate chinese story_maidstone_1_78232226:
 
     nvl clear
-    "父亲的农场经营得不甚景气，显然再也养不起一张嘴——何况还是像你这样能吃的。想跟着父亲和弟弟们一起劳作，是指望不上了。"
+    "{cps=50}父亲的农场经营得不甚景气，显然再也养不起一张嘴——何况还是像你这样能吃的。想跟着父亲和弟弟们一起劳作，是指望不上了。"
 
 # game/script_dlc_2.rpy:657
 translate chinese story_maidstone_1_ef5d0349:
 
     nvl clear
-    "栖身之所同样没那么简单。挤在父母家中——那里本就已经人满为患——既极不方便，也颇不合宜。于是，无需旁人暗示，你已认定该另寻住处了。"
+    "{cps=50}栖身之所同样没那么简单。挤在父母家中——那里本就已经人满为患——既极不方便，也颇不合宜。于是，无需旁人暗示，你已认定该另寻住处了。"
 
 # game/script_dlc_2.rpy:659
 translate chinese story_maidstone_1_3e3c2456:
 
     nvl clear
-    "托老相识的帮忙，你在城郊寻到一间空置的小屋，租金倒还公道。"
+    "{cps=50}托老相识的帮忙，你在城郊寻到一间空置的小屋，租金倒还公道。"
 
 # game/script_dlc_2.rpy:661
 translate chinese story_maidstone_1_76b2fe88_1:
@@ -606,25 +606,25 @@ translate chinese story_maidstone_1_76b2fe88_1:
 # game/script_dlc_2.rpy:690
 translate chinese story_maidstone_1_d67662a9:
 
-    "拜访城里的放债人，你得以借得一小笔启动资金——凭口头担保与一纸承诺，约定一周之后便开始偿还。"
+    "{cps=50}拜访城里的放债人，你得以借得一小笔启动资金——凭口头担保与一纸承诺，约定一周之后便开始偿还。"
 
 # game/script_dlc_2.rpy:691
 translate chinese story_maidstone_1_ce32728c:
 
     nvl clear
-    "{color=#A9A9A9}虔诚、威望——[debt.timed_out!ti]结果！{vspace=5}你借得[player_borrowed_sum]弗罗林，利息为[lender_interest]%%！{vspace=5}应还总额：[player_debt]弗罗林。{vspace=5}逾期每周罚款：[weekly_sum_increase]弗罗林。"
+    "{cps=50}{color=#A9A9A9}虔诚、威望——[debt.timed_out!ti]结果！{vspace=5}你借得[player_borrowed_sum]弗罗林，利息为[lender_interest]%%！{vspace=5}应还总额：[player_debt]弗罗林。{vspace=5}逾期每周罚款：[weekly_sum_increase]弗罗林。"
 
 # game/script_dlc_2.rpy:693
 translate chinese story_maidstone_1_6b77c42b:
 
     nvl clear
-    "就这样，你人生的新篇章开始了——这一次是平静的日子。{color=#A9A9A9}{vspace=5}获得新任务——[debt.name!ti]！"
+    "{cps=50}就这样，你人生的新篇章开始了——这一次是平静的日子。{color=#A9A9A9}{vspace=5}获得新任务——[debt.name!ti]！"
 
 # game/script_dlc_2.rpy:697
 translate chinese story_maidstone_1_874e8058:
 
     nvl clear
-    "{color=#A9A9A9}你已支付房租[player_house_rent_payment]！{color=#A9A9A9}{vspace=5}损失了[player_house_rent_payment]弗罗林！"
+    "{cps=50}{color=#A9A9A9}你已支付房租[player_house_rent_payment]！{color=#A9A9A9}{vspace=5}损失了[player_house_rent_payment]弗罗林！"
 
 # game/script_dlc_2.rpy:718
 translate chinese story_maidstone_1_76b2fe88_2:
@@ -636,7 +636,7 @@ translate chinese story_maidstone_1_76b2fe88_2:
 translate chinese story_maidstone_1_52c493cf:
 
     nvl clear
-    "有了自己的住处，你也就有了存放物品的地方。{vspace=5}{color=#A9A9A9}获得箱子！"
+    "{cps=50}有了自己的住处，你也就有了存放物品的地方。{vspace=5}{color=#A9A9A9}获得箱子！"
 
 # game/script_dlc_2.rpy:730
 translate chinese story_maidstone_1_76b2fe88_3:
@@ -648,13 +648,13 @@ translate chinese story_maidstone_1_76b2fe88_3:
 translate chinese story_maidstone_2_18bda3f0:
 
     nvl clear
-    "拒绝履行应尽的职责会损害你的名声，还会让你丢掉差事。"
+    "{cps=50}拒绝履行应尽的职责会损害你的名声，还会让你丢掉差事。"
 
 # game/script_dlc_2.rpy:759
 translate chinese story_maidstone_2_001ac443:
 
     nvl clear
-    "{color=#A9A9A9}任务失败——[boy_who_cried_wolves.name!ti]。{vspace=5}虔诚降低15点！{vspace=5}威望降低1点！"
+    "{cps=50}{color=#A9A9A9}任务失败——[boy_who_cried_wolves.name!ti]。{vspace=5}美德降低15点！{vspace=5}威望降低1点！"
 
 # game/script_dlc_2.rpy:763
 translate chinese story_maidstone_2_76b2fe88:
@@ -666,13 +666,13 @@ translate chinese story_maidstone_2_76b2fe88:
 translate chinese story_maidstone_2_18bda3f0_1:
 
     nvl clear
-    "拒绝履行应尽的职责会损害你的名声，还会让你丢掉差事。"
+    "{cps=50}拒绝履行应尽的职责会损害你的名声，还会让你丢掉差事。"
 
 # game/script_dlc_2.rpy:770
 translate chinese story_maidstone_2_f52e6add:
 
     nvl clear
-    "{color=#A9A9A9}任务失败——[roadhouse.name!ti]。{vspace=5}虔诚降低15点！{vspace=5}威望降低1点！"
+    "{cps=50}{color=#A9A9A9}任务失败——[roadhouse.name!ti]。{vspace=5}美德降低15点！{vspace=5}威望降低1点！"
 
 # game/script_dlc_2.rpy:774
 translate chinese story_maidstone_2_76b2fe88_1:
@@ -684,13 +684,13 @@ translate chinese story_maidstone_2_76b2fe88_1:
 translate chinese story_maidstone_2_18bda3f0_2:
 
     nvl clear
-    "拒绝履行应尽的职责会损害你的名声，还会让你丢掉差事。"
+    "{cps=50}拒绝履行应尽的职责会损害你的名声，还会让你丢掉差事。"
 
 # game/script_dlc_2.rpy:779
 translate chinese story_maidstone_2_bfc1302f:
 
     nvl clear
-    "{color=#A9A9A9}任务失败——[hunting_monsters.name!ti]。{vspace=5}虔诚降低15点！{vspace=5}威望降低1点！"
+    "{cps=50}{color=#A9A9A9}任务失败——[hunting_monsters.name!ti]。{vspace=5}美德降低15点！{vspace=5}威望降低1点！"
 
 # game/script_dlc_2.rpy:783
 translate chinese story_maidstone_2_76b2fe88_2:
@@ -702,13 +702,13 @@ translate chinese story_maidstone_2_76b2fe88_2:
 translate chinese maidstone_debt_interaction_f39fc6f8:
 
     nvl clear
-    "一周行将结束，这意味着又到了付清账单、与债主结算的时候。"
+    "{cps=50}一周行将结束，这意味着又到了付清账单、与债主结算的时候。"
 
 # game/script_dlc_2.rpy:876
 translate chinese maidstone_debt_interaction_994bc582:
 
     nvl clear
-    "你房子的租金为[player_house_rent_payment!i]弗罗林。"
+    "{cps=50}你房子的租金为[player_house_rent_payment!i]弗罗林。"
 
 # game/script_dlc_2.rpy:878
 translate chinese maidstone_attempt_to_flee_city_76b2fe88_2:
@@ -719,7 +719,7 @@ translate chinese maidstone_attempt_to_flee_city_76b2fe88_2:
 # game/script_dlc_2.rpy:881
 translate chinese maidstone_debt_interaction_3b190cf9:
 
-    "{color=#A9A9A9}损失了[player_house_rent_payment!i]弗罗林！"
+    "{cps=50}{color=#A9A9A9}损失了[player_house_rent_payment!i]弗罗林！"
 
 # game/script_dlc_2.rpy:883
 translate chinese maidstone_debt_interaction_76b2fe88:
@@ -730,48 +730,48 @@ translate chinese maidstone_debt_interaction_76b2fe88:
 # game/script_dlc_2.rpy:886
 translate chinese maidstone_debt_interaction_53e4d1ce:
 
-    "你囊中羞涩，既付不起房租，也还不清欠放债人的债……"
+    "{cps=50}你囊中羞涩，既付不起房租，也还不清欠放债人的债……"
 
 # game/script_dlc_2.rpy:888
 translate chinese maidstone_debt_interaction_202a8b6f:
 
-    "你手头的钱不够付房租，只好再次向放债人举债。"
+    "{cps=50}你手头的钱不够付房租，只好再次向放债人举债。"
 
 # game/script_dlc_2.rpy:916
 translate chinese maidstone_debt_interaction_ce32728c:
 
     nvl clear
-    "{color=#A9A9A9}虔诚、威望——[debt.timed_out!ti]结果！{vspace=5}你借得[player_borrowed_sum]弗罗林，利息为[lender_interest]%%！{vspace=5}应还总额：[player_debt]弗罗林。{vspace=5}逾期每周罚款：[weekly_sum_increase]弗罗林。"
+    "{cps=50}{color=#A9A9A9}虔诚、威望——[debt.timed_out!ti]结果！{vspace=5}你借得[player_borrowed_sum]弗罗林，利息为[lender_interest]%%！{vspace=5}应还总额：[player_debt]弗罗林。{vspace=5}逾期每周罚款：[weekly_sum_increase]弗罗林。"
 
 # game/script_dlc_2.rpy:918
 translate chinese maidstone_debt_interaction_8cdd9b4a:
 
     nvl clear
-    "{color=#A9A9A9}{vspace=5}获得新任务——[debt.name!ti]！"
+    "{cps=50}{color=#A9A9A9}{vspace=5}获得新任务——[debt.name!ti]！"
 
 # game/script_dlc_2.rpy:921
 translate chinese maidstone_debt_interaction_874e8058:
 
     nvl clear
-    "{color=#A9A9A9}你已支付房租[player_house_rent_payment]！{color=#A9A9A9}{vspace=5}损失了[player_house_rent_payment]弗罗林！"
+    "{cps=50}{color=#A9A9A9}你已支付房租[player_house_rent_payment]！{color=#A9A9A9}{vspace=5}损失了[player_house_rent_payment]弗罗林！"
 
 # game/script_dlc_2.rpy:933
 translate chinese maidstone_attempt_to_flee_city_2f6a0172:
 
     nvl clear
-    "自知无力偿清债务，你打定主意逃跑。"
+    "{cps=50}自知无力偿清债务，你打定主意逃跑。"
 
 # game/script_dlc_2.rpy:935
 translate chinese maidstone_attempt_to_flee_city_ff553f27:
 
     nvl clear
-    "然而，你的债主们早有预感，预先知会了守卫。于是你刚出城便被当场抓获，投入监禁。"
+    "{cps=50}然而，你的债主们早有预感，预先知会了守卫。于是你刚出城便被当场抓获，投入监禁。"
 
 # game/script_dlc_2.rpy:937
 translate chinese maidstone_attempt_to_flee_city_3d4e1c6d:
 
     nvl clear
-    "为抵偿你的债务，市政当局决定没收你的一部分财产。"
+    "{cps=50}为抵偿你的债务，市政当局决定没收你的一部分财产。"
 
 # game/script_dlc_2.rpy:939
 translate chinese maidstone_attempt_to_flee_city_76b2fe88:
@@ -783,73 +783,73 @@ translate chinese maidstone_attempt_to_flee_city_76b2fe88:
 translate chinese maidstone_attempt_to_flee_city_1ea2c18d:
 
     nvl clear
-    "{color=#A9A9A9}你的盔甲被没收了！"
+    "{cps=50}{color=#A9A9A9}你的盔甲被没收了！"
 
 # game/script_dlc_2.rpy:966
 translate chinese maidstone_attempt_to_flee_city_003d89dc:
 
     nvl clear
-    "{color=#A9A9A9}你的头盔被没收了！"
+    "{cps=50}{color=#A9A9A9}你的头盔被没收了！"
 
 # game/script_dlc_2.rpy:986
 translate chinese maidstone_attempt_to_flee_city_8d105794:
 
     nvl clear
-    "{color=#A9A9A9}你的护腕被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护腕被没收了！"
 
 # game/script_dlc_2.rpy:1017
 translate chinese maidstone_attempt_to_flee_city_e1a36fc6:
 
     nvl clear
-    "{color=#A9A9A9}你的护喉被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护喉被没收了！"
 
 # game/script_dlc_2.rpy:1049
 translate chinese maidstone_attempt_to_flee_city_8f7718e6:
 
     nvl clear
-    "{color=#A9A9A9}你的护腿被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护腿被没收了！"
 
 # game/script_dlc_2.rpy:1081
 translate chinese maidstone_attempt_to_flee_city_c303d1aa:
 
     nvl clear
-    "{color=#A9A9A9}你的盾牌被没收了！"
+    "{cps=50}{color=#A9A9A9}你的盾牌被没收了！"
 
 # game/script_dlc_2.rpy:1097
 translate chinese maidstone_attempt_to_flee_city_1ea2c18d_1:
 
     nvl clear
-    "{color=#A9A9A9}你的盔甲被没收了！"
+    "{cps=50}{color=#A9A9A9}你的盔甲被没收了！"
 
 # game/script_dlc_2.rpy:1121
 translate chinese maidstone_attempt_to_flee_city_003d89dc_1:
 
     nvl clear
-    "{color=#A9A9A9}你的头盔被没收了！"
+    "{cps=50}{color=#A9A9A9}你的头盔被没收了！"
 
 # game/script_dlc_2.rpy:1141
 translate chinese maidstone_attempt_to_flee_city_8d105794_1:
 
     nvl clear
-    "{color=#A9A9A9}你的护腕被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护腕被没收了！"
 
 # game/script_dlc_2.rpy:1172
 translate chinese maidstone_attempt_to_flee_city_e1a36fc6_1:
 
     nvl clear
-    "{color=#A9A9A9}你的护喉被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护喉被没收了！"
 
 # game/script_dlc_2.rpy:1204
 translate chinese maidstone_attempt_to_flee_city_8f7718e6_1:
 
     nvl clear
-    "{color=#A9A9A9}你的护腿被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护腿被没收了！"
 
 # game/script_dlc_2.rpy:1236
 translate chinese maidstone_attempt_to_flee_city_c303d1aa_1:
 
     nvl clear
-    "{color=#A9A9A9}你的盾牌被没收了！"
+    "{cps=50}{color=#A9A9A9}你的盾牌被没收了！"
 
 # game/script_dlc_2.rpy:1251
 translate chinese maidstone_attempt_to_flee_city_76b2fe88_1:
@@ -861,7 +861,7 @@ translate chinese maidstone_attempt_to_flee_city_76b2fe88_1:
 translate chinese maidstone_attempt_to_flee_city_ecc7d052:
 
     nvl clear
-    "你欠放债人[player_debt!i]弗罗林。"
+    "{cps=50}你欠放债人[player_debt!i]弗罗林。"
 
 # game/script_dlc_2.rpy:1259
 translate chinese maidstone_attempt_to_flee_city_76b2fe88_4:
@@ -872,19 +872,19 @@ translate chinese maidstone_attempt_to_flee_city_76b2fe88_4:
 # game/script_dlc_2.rpy:1262
 translate chinese maidstone_attempt_to_flee_city_c1eba321:
 
-    "{color=#A9A9A9}损失了[player_debt!i]弗罗林！"
+    "{cps=50}{color=#A9A9A9}损失了[player_debt!i]弗罗林！"
 
 # game/script_dlc_2.rpy:1264
 translate chinese maidstone_attempt_to_flee_city_b7473d85:
 
     nvl clear
-    "你成功还清了债务，如今可以安心过日子了！"
+    "{cps=50}你成功还清了债务，如今可以安心过日子了！"
 
 # game/script_dlc_2.rpy:1273
 translate chinese maidstone_attempt_to_flee_city_88141a15:
 
     nvl clear
-    "{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:1275
 translate chinese maidstone_attempt_to_flee_city_76b2fe88_3:
@@ -895,24 +895,24 @@ translate chinese maidstone_attempt_to_flee_city_76b2fe88_3:
 # game/script_dlc_2.rpy:1277
 translate chinese maidstone_attempt_to_flee_city_bdf78777:
 
-    "你无法一次还清债务，只能先偿还[player_gold!i]弗罗林！"
+    "{cps=50}你无法一次还清债务，只能先偿还[player_gold!i]弗罗林！"
 
 # game/script_dlc_2.rpy:1281
 translate chinese maidstone_attempt_to_flee_city_e1bdfb98:
 
     nvl clear
-    "由于逾期未还，你的剩余债务上增加了[weekly_sum_increase!i]弗罗林的罚款，现在总额为[player_debt!i]弗罗林。"
+    "{cps=50}由于逾期未还，你的剩余债务上增加了[weekly_sum_increase!i]弗罗林的罚款，现在总额为[player_debt!i]弗罗林。"
 
 # game/script_dlc_2.rpy:1284
 translate chinese maidstone_attempt_to_flee_city_6b8572ce:
 
-    "你无力偿还债务，与债主商定了延期。"
+    "{cps=50}你无力偿还债务，与债主商定了延期。"
 
 # game/script_dlc_2.rpy:1288
 translate chinese maidstone_attempt_to_flee_city_e1bdfb98_1:
 
     nvl clear
-    "由于逾期未还，你的剩余债务上增加了[weekly_sum_increase!i]弗罗林的罚款，现在总额为[player_debt!i]弗罗林。"
+    "{cps=50}由于逾期未还，你的剩余债务上增加了[weekly_sum_increase!i]弗罗林的罚款，现在总额为[player_debt!i]弗罗林。"
 
 # game/script_dlc_2.rpy:1296
 translate chinese maidstone_debt_interaction_end_quickjump_76b2fe88:
@@ -924,13 +924,13 @@ translate chinese maidstone_debt_interaction_end_quickjump_76b2fe88:
 translate chinese story_maidstone_3_18bda3f0:
 
     nvl clear
-    "拒绝履行应尽的职责会损害你的名声，还会让你丢掉差事。"
+    "{cps=50}拒绝履行应尽的职责会损害你的名声，还会让你丢掉差事。"
 
 # game/script_dlc_2.rpy:1329
 translate chinese story_maidstone_3_001ac443:
 
     nvl clear
-    "{color=#A9A9A9}任务失败——[boy_who_cried_wolves.name!ti]。{vspace=5}虔诚降低15点！{vspace=5}威望降低1点！"
+    "{cps=50}{color=#A9A9A9}任务失败——[boy_who_cried_wolves.name!ti]。{vspace=5}美德降低15点！{vspace=5}威望降低1点！"
 
 # game/script_dlc_2.rpy:1333
 translate chinese story_maidstone_3_76b2fe88:
@@ -942,13 +942,13 @@ translate chinese story_maidstone_3_76b2fe88:
 translate chinese story_maidstone_3_18bda3f0_1:
 
     nvl clear
-    "拒绝履行应尽的职责会损害你的名声，还会让你丢掉差事。"
+    "{cps=50}拒绝履行应尽的职责会损害你的名声，还会让你丢掉差事。"
 
 # game/script_dlc_2.rpy:1340
 translate chinese story_maidstone_3_f52e6add:
 
     nvl clear
-    "{color=#A9A9A9}任务失败——[roadhouse.name!ti]。{vspace=5}虔诚降低15点！{vspace=5}威望降低1点！"
+    "{cps=50}{color=#A9A9A9}任务失败——[roadhouse.name!ti]。{vspace=5}美德降低15点！{vspace=5}威望降低1点！"
 
 # game/script_dlc_2.rpy:1344
 translate chinese story_maidstone_3_76b2fe88_1:
@@ -960,13 +960,13 @@ translate chinese story_maidstone_3_76b2fe88_1:
 translate chinese story_maidstone_3_18bda3f0_2:
 
     nvl clear
-    "拒绝履行应尽的职责会损害你的名声，还会让你丢掉差事。"
+    "{cps=50}拒绝履行应尽的职责会损害你的名声，还会让你丢掉差事。"
 
 # game/script_dlc_2.rpy:1349
 translate chinese story_maidstone_3_bfc1302f:
 
     nvl clear
-    "{color=#A9A9A9}任务失败——[hunting_monsters.name!ti]。{vspace=5}虔诚降低15点！{vspace=5}威望降低1点！"
+    "{cps=50}{color=#A9A9A9}任务失败——[hunting_monsters.name!ti]。{vspace=5}美德降低15点！{vspace=5}威望降低1点！"
 
 # game/script_dlc_2.rpy:1353
 translate chinese story_maidstone_3_76b2fe88_2:
@@ -978,25 +978,25 @@ translate chinese story_maidstone_3_76b2fe88_2:
 translate chinese story_maidstone_end_contd_6c19f6b4:
 
     nvl clear
-    "你回到梅德斯通约莫一个月后，城里传来消息：年轻的王子——死于战事的先王之子——与议会彻底翻脸，双方正火速集结兵马。"
+    "{cps=50}你回到梅德斯通约莫一个月后，城里传来消息：年轻的王子——死于战事的先王之子——与议会彻底翻脸，双方正火速集结军队。"
 
 # game/script_dlc_2.rpy:1457
 translate chinese story_maidstone_end_contd_522f18b6:
 
     nvl clear
-    "紧接着，一队募兵官也进了城，号召自由民加入议会军，以保卫王国，免遭疯狂王子的专横暴政。"
+    "{cps=50}紧接着，一队募兵官也进了城，号召自由民加入议会军，以保卫王国，免遭疯狂王子的专横暴政。"
 
 # game/script_dlc_2.rpy:1459
 translate chinese story_maidstone_end_contd_e4158297:
 
     nvl clear
-    "志愿从军者许诺优厚饷银，伙食、装备和军服也一律由国库负担。"
+    "{cps=50}志愿从军者许诺优厚饷银，伙食、装备和军服也一律由国库负担。"
 
 # game/script_dlc_2.rpy:1461
 translate chinese story_maidstone_end_contd_ec8ac934:
 
     nvl clear
-    "就在不久之前，你从法兰西登船起航时，还对归家后的平静生活抱满期待，想象着它会何等美好。"
+    "{cps=50}就在不久之前，你从法兰西登船起航时，还对归家后的平静生活抱满期待，想象着它会何等美好。"
 
 # game/script_dlc_2.rpy:1463
 translate chinese story_maidstone_end_contd_76b2fe88_1:
@@ -1008,31 +1008,31 @@ translate chinese story_maidstone_end_contd_76b2fe88_1:
 translate chinese story_maidstone_end_contd_763bc17c:
 
     nvl clear
-    "然而，在梅德斯通最初的几个月只带来了彻底的失望。债务日渐沉重，压得你喘不过气；每天挖空心思另寻生计，令人身心俱疲；而那些平淡乏味的营生，与你在法兰西经历的冒险相比简直天差地别，只徒添惆怅与失落。"
+    "{cps=50}然而，在梅德斯通最初的几个月只带来了彻底的失望。债务日渐沉重，压得你喘不过气；每天挖空心思另寻生计，令人身心俱疲；而那些平淡乏味的营生，与你在法兰西经历的冒险相比简直天差地别，只徒添惆怅与失落。"
 
 # game/script_dlc_2.rpy:1468
 translate chinese story_maidstone_end_contd_080c2158:
 
     nvl clear
-    "连你自己都不敢相信，竟会渐渐怀念起战争。不仅怀念那些危险的任务与生死一线的刺激，也怀念那段不必为栖身之所发愁的日子。"
+    "{cps=50}连你自己都不敢相信，竟会渐渐怀念起战争。不仅怀念那些危险的任务与生死一线的刺激，也怀念那段不必为栖身之所发愁的日子。"
 
 # game/script_dlc_2.rpy:1470
 translate chinese story_maidstone_end_contd_49d156c8:
 
     nvl clear
-    "还有不必再与那些烦人债主周旋的清净。"
+    "{cps=50}还有不必再与那些烦人债主周旋的清净。"
 
 # game/script_dlc_2.rpy:1472
 translate chinese story_maidstone_end_contd_59379780:
 
     nvl clear
-    "于是，一天清晨，你下定了决心。卷起全部家当，给家人留下一张字条，动身前往最近的募兵站，在盖着纹章火漆的羊皮卷上签下了自己的名字。"
+    "{cps=50}于是，一天清晨，你下定了决心。卷起全部家当，给家人留下一张字条，动身前往最近的募兵站，在盖着纹章火漆的羊皮卷上签下了自己的名字。"
 
 # game/script_dlc_2.rpy:1474
 translate chinese story_maidstone_end_contd_b4762a0b:
 
     nvl clear
-    "你再一次踏上了战场。"
+    "{cps=50}你再一次踏上了战场。"
 
 # game/script_dlc_2.rpy:1476
 translate chinese story_maidstone_end_contd_76b2fe88:
@@ -1044,25 +1044,25 @@ translate chinese story_maidstone_end_contd_76b2fe88:
 translate chinese story_maidstone_end_contd_4eceaf8a:
 
     nvl clear
-    "然而，在梅德斯通最初几个月的生活，只带来了彻底的失望。每天为生计四处奔波令人疲惫不堪，而那些平淡乏味的差事，与你在法兰西经历过的冒险相去甚远，只令人感到惆怅与失落。"
+    "{cps=50}然而，在梅德斯通最初几个月的生活，只带来了彻底的失望。每天为生计四处奔波令人疲惫不堪，而那些平淡乏味的差事，与你在法兰西经历过的冒险相去甚远，只令人感到惆怅与失落。"
 
 # game/script_dlc_2.rpy:1484
 translate chinese story_maidstone_end_contd_f82b36ba:
 
     nvl clear
-    "你渐渐开始怀念战争。怀念那些危险的任务与生死一线的刺激，怀念生死与共的战友和恢弘的会战，怀念战利品和沾染着血腥味的金子。"
+    "{cps=50}你渐渐开始怀念战争。怀念那些危险的任务与生死一线的刺激，怀念生死与共的战友和恢弘的会战，怀念战利品和沾染着血腥味的金子。"
 
 # game/script_dlc_2.rpy:1486
 translate chinese story_maidstone_end_contd_59379780_1:
 
     nvl clear
-    "于是，一天清晨，你下定了决心。卷起全部家当，给家人留下一张字条，动身前往最近的募兵站，在盖着纹章火漆的羊皮卷上签下了自己的名字。"
+    "{cps=50}于是，一天清晨，你下定了决心。卷起全部家当，给家人留下一张字条，动身前往最近的募兵站，在盖着纹章火漆的羊皮卷上签下了自己的名字。"
 
 # game/script_dlc_2.rpy:1488
 translate chinese story_maidstone_end_contd_b4762a0b_1:
 
     nvl clear
-    "你再一次踏上了战场。"
+    "{cps=50}你再一次踏上了战场。"
 
 # game/script_dlc_2.rpy:1490
 translate chinese story_maidstone_end_contd_76b2fe88_2:
@@ -1074,13 +1074,13 @@ translate chinese story_maidstone_end_contd_76b2fe88_2:
 translate chinese story_maidstone_end_contd_28e939f6:
 
     nvl clear
-    "现实，一如既往地并非蜜糖，可你终究撑了过来。找到了住处，还清了债务，甚至开始有了些进项。"
+    "{cps=50}现实，一如既往地并非蜜糖，可你终究撑了过来。找到了住处，还清了债务，甚至开始有了些进项。"
 
 # game/script_dlc_2.rpy:1497
 translate chinese story_maidstone_end_contd_7ea19511:
 
     nvl clear
-    "于是如今，当战争的阴影再次在地平线上浮现时，你宁可把路让给别人。你早已打完了自己该打的仗。"
+    "{cps=50}于是如今，当战争的阴影再次在地平线上浮现时，你宁可把路让给别人。你早已打完了自己该打的仗。"
 
 # game/script_dlc_2.rpy:1499
 translate chinese maidstone_craftsman_ending_76b2fe88_4:
@@ -1092,31 +1092,31 @@ translate chinese maidstone_craftsman_ending_76b2fe88_4:
 translate chinese maidstone_blacksmith_ending_a59b0377:
 
     nvl clear
-    "你开设的铁匠铺生意日渐兴隆，规模不断壮大，先是成为全城最大的铁匠铺，继而誉满全国。"
+    "{cps=50}你开设的铁匠铺生意日渐兴隆，规模不断壮大，先是成为全城最大的铁匠铺，继而誉满全国。"
 
 # game/script_dlc_2.rpy:1507
 translate chinese maidstone_blacksmith_ending_8d925ed8:
 
     nvl clear
-    "你的技艺也随之精进：从替人修补改造盔甲起步，多年之后，你已炉火纯青，开始亲手锻造自己的上乘甲胄。"
+    "{cps=50}你的技艺也随之精进：从替人修补改造盔甲起步，多年之后，你已炉火纯青，开始亲手锻造自己的上乘甲胄。"
 
 # game/script_dlc_2.rpy:1509
 translate chinese maidstone_blacksmith_ending_2ca12cb3:
 
     nvl clear
-    "你的客户名录越来越长：先是四邻的乡绅领主，后来，整个王国的显贵都慕名而来。"
+    "{cps=50}你的客户名录越来越长：先是四邻的乡绅领主，后来，整个王国的显贵都慕名而来。"
 
 # game/script_dlc_2.rpy:1511
 translate chinese maidstone_blacksmith_ending_e43a7254:
 
     nvl clear
-    "职业道路的顶点，是为一国之君——新国王——打造整套礼仪甲胄。"
+    "{cps=50}职业道路的顶点，是为一国之君——新国王——打造整套礼仪甲胄。"
 
 # game/script_dlc_2.rpy:1513
 translate chinese maidstone_blacksmith_ending_0811e12c:
 
     nvl clear
-    "你的子女们也学得了一身打铁的手艺，继承家业，让家族赢得了铁匠世家的名声。"
+    "{cps=50}你的子女们也学得了一身打铁的手艺，继承家业，让家族赢得了铁匠世家的名声。"
 
 # game/script_dlc_2.rpy:1515
 translate chinese maidstone_blacksmith_ending_76b2fe88:
@@ -1127,7 +1127,7 @@ translate chinese maidstone_blacksmith_ending_76b2fe88:
 # game/script_dlc_2.rpy:1517
 translate chinese maidstone_blacksmith_ending_1acdb84b:
 
-    "{color=#A9A9A9}{i}结局12，共[game_total_endings_number]个。"
+    "{cps=50}{color=#A9A9A9}{i}结局12，共[game_total_endings_number]个。"
 
 # game/script_dlc_2.rpy:1518
 translate chinese maidstone_blacksmith_ending_76b2fe88_1:
@@ -1139,31 +1139,31 @@ translate chinese maidstone_blacksmith_ending_76b2fe88_1:
 translate chinese maidstone_alchemist_ending_d2ab8f8a:
 
     nvl clear
-    "你开设的炼金铺子生意日渐红火，接下来几年里，你积攒起了一笔可观的财富。"
+    "{cps=50}你开设的炼金铺子生意日渐红火，接下来几年里，你积攒起了一笔可观的财富。"
 
 # game/script_dlc_2.rpy:1542
 translate chinese maidstone_alchemist_ending_0aa429a2:
 
     nvl clear
-    "到那时，你的志趣也发生了转变。发家之后，你拿出一笔钱，建起一座大型炼金实验室——在这里，不仅能替顾客调制解毒剂与凝血药，还能从事正经的学术研究。"
+    "{cps=50}到那时，你的志趣也发生了转变。发家之后，你拿出一笔钱，建起一座大型炼金实验室——在这里，不仅能替顾客调制解毒剂与凝血药，还能从事正经的学术研究。"
 
 # game/script_dlc_2.rpy:1544
 translate chinese maidstone_alchemist_ending_97e8a968:
 
     nvl clear
-    "接下来的几十年，你穷尽心血地追寻点金石、长生不老药与包治百病的万灵药，却始终一无所获。"
+    "{cps=50}接下来的几十年，你穷尽心血地追寻点金石、长生不老药与包治百病的万灵药，却始终一无所获。"
 
 # game/script_dlc_2.rpy:1546
 translate chinese maidstone_alchemist_ending_582e1b2f:
 
     nvl clear
-    "尽管这些探索最终都以失望收场，你却积累了极其渊博的学识，实实在在地推动了医学乃至诸多学科的发展。"
+    "{cps=50}尽管这些探索最终都以失望收场，你却积累了极其渊博的学识，实实在在地推动了医学乃至诸多学科的发展。"
 
 # game/script_dlc_2.rpy:1548
 translate chinese maidstone_alchemist_ending_47965336:
 
     nvl clear
-    "你的名字被载入史册，成为那个时代最伟大的学者之一。"
+    "{cps=50}你的名字被载入史册，成为那个时代最伟大的学者之一。"
 
 # game/script_dlc_2.rpy:1550
 translate chinese maidstone_alchemist_ending_76b2fe88:
@@ -1174,7 +1174,7 @@ translate chinese maidstone_alchemist_ending_76b2fe88:
 # game/script_dlc_2.rpy:1552
 translate chinese maidstone_alchemist_ending_c9fca86e:
 
-    "{color=#A9A9A9}{i}结局13，共[game_total_endings_number]个。"
+    "{cps=50}{color=#A9A9A9}{i}结局13，共[game_total_endings_number]个。"
 
 # game/script_dlc_2.rpy:1553
 translate chinese maidstone_alchemist_ending_76b2fe88_1:
@@ -1186,19 +1186,19 @@ translate chinese maidstone_alchemist_ending_76b2fe88_1:
 translate chinese maidstone_craftsman_ending_7bae156c:
 
     nvl clear
-    "你开设的作坊生意日渐兴隆，规模不断扩大，最终成了一桩家业兴旺的买卖。"
+    "{cps=50}你开设的作坊生意日渐兴隆，规模不断扩大，最终成了一桩家业兴旺的买卖。"
 
 # game/script_dlc_2.rpy:1577
 translate chinese maidstone_craftsman_ending_9c1a9367:
 
     nvl clear
-    "在工匠的行当里，你没能挣得什么显赫的名声，直到晚年仍是梅德斯通的一名普通匠人——一位受人敬重的家长，一位参加过英格兰法兰西远征的老兵。"
+    "{cps=50}在工匠的行当里，你没能挣得什么显赫的名声，直到晚年仍是梅德斯通的一名普通匠人——一位受人敬重的家长，一位参加过英格兰法兰西远征的老兵。"
 
 # game/script_dlc_2.rpy:1579
 translate chinese maidstone_craftsman_ending_b8c118e9:
 
     nvl clear
-    "不过，缺失的荣名你以质朴的家常幸福尽数弥补——一位深情的妻子，一群孝顺的儿女，足以光耀门楣、延续香火。"
+    "{cps=50}不过，缺失的荣名你以质朴的家常幸福尽数弥补——一位深情的妻子，一群孝顺的儿女，足以光耀门楣、延续香火。"
 
 # game/script_dlc_2.rpy:1581
 translate chinese maidstone_craftsman_ending_76b2fe88:
@@ -1209,7 +1209,7 @@ translate chinese maidstone_craftsman_ending_76b2fe88:
 # game/script_dlc_2.rpy:1583
 translate chinese maidstone_craftsman_ending_62b89d50:
 
-    "{color=#A9A9A9}{i}结局14，共[game_total_endings_number]个。"
+    "{cps=50}{color=#A9A9A9}{i}结局14，共[game_total_endings_number]个。"
 
 # game/script_dlc_2.rpy:1584
 translate chinese maidstone_craftsman_ending_76b2fe88_1:
@@ -1221,31 +1221,31 @@ translate chinese maidstone_craftsman_ending_76b2fe88_1:
 translate chinese maidstone_craftsman_ending_31336767:
 
     nvl clear
-    "你靠各式各样的零工维持生计，日子过得简单朴素，别无奢求。不会挨饿，却也存不下余钱。"
+    "{cps=50}你靠各式各样的零工维持生计，日子过得简单朴素，别无奢求。不会挨饿，却也存不下余钱。"
 
 # game/script_dlc_2.rpy:1615
 translate chinese maidstone_craftsman_ending_ca449158:
 
     nvl clear
-    "这样的结局，对旁人而言或许是苦涩的遗憾，于你却不然。"
+    "{cps=50}这样的结局，对旁人而言或许是苦涩的遗憾，于你却不然。"
 
 # game/script_dlc_2.rpy:1617
 translate chinese maidstone_craftsman_ending_78f52824:
 
     nvl clear
-    "当年被迫踏上法兰西战场时，你唯一的愿望就是毫发无伤地回到家乡，过上寻常太平的日子。如今，这愿望实现了。"
+    "{cps=50}当年被迫踏上法兰西战场时，你唯一的愿望就是毫发无伤地回到家乡，过上寻常太平的日子。如今，这愿望实现了。"
 
 # game/script_dlc_2.rpy:1619
 translate chinese maidstone_craftsman_ending_fecacd13:
 
     nvl clear
-    "日子久了，你娶妻生子，攒下些积蓄后，搬进了属于自己的房子……"
+    "{cps=50}日子久了，你娶妻生子，攒下些积蓄后，搬进了属于自己的房子……"
 
 # game/script_dlc_2.rpy:1621
 translate chinese maidstone_craftsman_ending_daefbeff:
 
     nvl clear
-    "在那里安度余生，尽享安宁与平和。"
+    "{cps=50}在那里安度余生，尽享安宁与平和。"
 
 # game/script_dlc_2.rpy:1623
 translate chinese maidstone_craftsman_ending_76b2fe88_2:
@@ -1256,7 +1256,7 @@ translate chinese maidstone_craftsman_ending_76b2fe88_2:
 # game/script_dlc_2.rpy:1625
 translate chinese maidstone_craftsman_ending_c68bbcb2:
 
-    "{color=#A9A9A9}{i}结局15，共[game_total_endings_number]个。"
+    "{cps=50}{color=#A9A9A9}{i}结局15，共[game_total_endings_number]个。"
 
 # game/script_dlc_2.rpy:1626
 translate chinese maidstone_craftsman_ending_76b2fe88_3:
@@ -1274,31 +1274,31 @@ translate chinese maidstone_low_virtue_confiscation_76b2fe88:
 translate chinese maidstone_low_virtue_confiscation_f9d8f2e9:
 
     nvl clear
-    "你抵达梅德斯通才不过两天，刚在新居安顿下来，一队由一名队长率领的城中守卫便出现在了门前。"
+    "{cps=50}你抵达梅德斯通才不过两天，刚在新居安顿下来，一队由一名队长率领的城中守卫便出现在了门前。"
 
 # game/script_dlc_2.rpy:1867
 translate chinese maidstone_low_virtue_confiscation_5c097af3:
 
     nvl clear
-    "据他说，鉴于王国这一带局势动荡，梅德斯通的官府对每一个进城的人都严加审视，以便及早甄别出可能扰乱城中安宁的\"麻烦人物\"与\"不受欢迎者\"。"
+    "{cps=50}据他说，鉴于王国这一带局势动荡，梅德斯通的官府对每一个进城的人都严加审视，以便及早甄别出可能扰乱城中安宁的\"麻烦人物\"与\"不受欢迎者\"。"
 
 # game/script_dlc_2.rpy:1869
 translate chinese maidstone_low_virtue_confiscation_52c41507:
 
     nvl clear
-    "这样的审查也落到了你头上。结果，你被认定是个不可靠、有违法之嫌的人物。{vspace=5}{color=#A9A9A9}虔诚——失败！"
+    "{cps=50}这样的审查也落到了你头上。结果，你被认定是个不可靠、有违法之嫌的人物。{vspace=5}{color=#A9A9A9}美德——失败！"
 
 # game/script_dlc_2.rpy:1871
 translate chinese maidstone_low_virtue_confiscation_3ecc78dd:
 
     nvl clear
-    "于是，市政当局决定将你置于监视之下，并先行没收你的一部分武器与军用装备，以削弱你将来可能给官府和城中居民带来的隐患。"
+    "{cps=50}于是，市政当局决定将你置于监视之下，并先行没收你的一部分武器与军用装备，以削弱你将来可能给官府和城中居民带来的隐患。"
 
 # game/script_dlc_2.rpy:1873
 translate chinese maidstone_low_virtue_confiscation_3de52687:
 
     nvl clear
-    "面对你的抗议和\"专横\"的指责，守卫队长提醒你：像你这样的无根乡下人，最好对官家客气些……否则他倒乐意让你见识见识什么叫真正的专横——到那时，你丢掉的就不只是武器和盔甲，还有房子、全部家当，甚至项上人头。"
+    "{cps=50}面对你的抗议和\"专横\"的指责，守卫队长提醒你：像你这样的无根乡下人，最好对官家客气些……否则他倒乐意让你见识见识什么叫真正的专横——到那时，你丢掉的就不只是武器和盔甲，还有房子、全部家当，甚至项上人头。"
 
 # game/script_dlc_2.rpy:1875
 translate chinese maidstone_low_virtue_confiscation_76b2fe88_1:
@@ -1310,7 +1310,7 @@ translate chinese maidstone_low_virtue_confiscation_76b2fe88_1:
 translate chinese maidstone_fare_demanded_292177a9:
 
     nvl clear
-    "你在梅德斯通的林子里打猎、采药的事被人告发，森林所属领主的代理人找上门来，要你缴纳56弗罗林的税。"
+    "{cps=50}你在梅德斯通的林子里打猎、采药的事被人告发，森林所属领主的代理人找上门来，要你缴纳56弗罗林的税。"
 
 # game/script_dlc_2.rpy:1979
 translate chinese maidstone_fare_demanded_76b2fe88_3:
@@ -1321,7 +1321,7 @@ translate chinese maidstone_fare_demanded_76b2fe88_3:
 # game/script_dlc_2.rpy:1981
 translate chinese maidstone_fare_demanded_dec9fc74:
 
-    "{color=#A9A9A9}{vspace=5}损失了56弗罗林！"
+    "{cps=50}{color=#A9A9A9}{vspace=5}损失了56弗罗林！"
 
 # game/script_dlc_2.rpy:1983
 translate chinese maidstone_fare_demanded_76b2fe88:
@@ -1332,7 +1332,7 @@ translate chinese maidstone_fare_demanded_76b2fe88:
 # game/script_dlc_2.rpy:1987
 translate chinese maidstone_fare_demanded_ed7c2438:
 
-    "由于你拿不出这笔税款，市政当局决定没收你的一部分财产以作抵偿。"
+    "{cps=50}由于你拿不出这笔税款，市政当局决定没收你的一部分财产以作抵偿。"
 
 # game/script_dlc_2.rpy:1988
 translate chinese maidstone_fare_demanded_76b2fe88_1:
@@ -1343,7 +1343,7 @@ translate chinese maidstone_fare_demanded_76b2fe88_1:
 # game/script_dlc_2.rpy:1991
 translate chinese maidstone_fare_demanded_2c75b9e0:
 
-    "由于你拿不出这笔税款，市政当局决定将你逮捕。"
+    "{cps=50}由于你拿不出这笔税款，市政当局决定将你逮捕。"
 
 # game/script_dlc_2.rpy:1992
 translate chinese maidstone_fare_demanded_76b2fe88_2:
@@ -1360,12 +1360,12 @@ translate chinese maidstone_city_tax_demanded_76b2fe88:
 # game/script_dlc_2.rpy:2001
 translate chinese maidstone_city_tax_demanded_e7f1703c:
 
-    "你刚租下房子，几乎是第二天，市政官便带着武装随从登门造访，要求你缴纳梅德斯通统一市政税，计33弗罗林。"
+    "{cps=50}你刚租下房子，几乎是第二天，市政官便带着武装随从登门造访，要求你缴纳梅德斯通统一市政税，计33弗罗林。"
 
 # game/script_dlc_2.rpy:2003
 translate chinese maidstone_city_tax_demanded_0677314b:
 
-    "市政官又一次出现在你家门口，再度要求你缴纳梅德斯通统一市政税，计33弗罗林。"
+    "{cps=50}市政官又一次出现在你家门口，再度要求你缴纳梅德斯通统一市政税，计33弗罗林。"
 
 # game/script_dlc_2.rpy:2004
 translate chinese maidstone_city_tax_demanded_76b2fe88_4:
@@ -1376,7 +1376,7 @@ translate chinese maidstone_city_tax_demanded_76b2fe88_4:
 # game/script_dlc_2.rpy:2006
 translate chinese maidstone_city_tax_demanded_a2072e06:
 
-    "{color=#A9A9A9}{vspace=5}损失了33弗罗林！"
+    "{cps=50}{color=#A9A9A9}{vspace=5}损失了33弗罗林！"
 
 # game/script_dlc_2.rpy:2008
 translate chinese maidstone_city_tax_demanded_76b2fe88_1:
@@ -1387,7 +1387,7 @@ translate chinese maidstone_city_tax_demanded_76b2fe88_1:
 # game/script_dlc_2.rpy:2012
 translate chinese maidstone_city_tax_demanded_4c384b9e:
 
-    "由于你拿不出这笔税款，市政当局决定没收你的一部分财产以作抵偿。"
+    "{cps=50}由于你拿不出这笔税款，市政当局决定没收你的一部分财产以作抵偿。"
 
 # game/script_dlc_2.rpy:2013
 translate chinese maidstone_city_tax_demanded_76b2fe88_2:
@@ -1398,7 +1398,7 @@ translate chinese maidstone_city_tax_demanded_76b2fe88_2:
 # game/script_dlc_2.rpy:2016
 translate chinese maidstone_city_tax_demanded_8cc2c04e:
 
-    "由于你拿不出这笔税款，市政当局决定将你逮捕。"
+    "{cps=50}由于你拿不出这笔税款，市政当局决定将你逮捕。"
 
 # game/script_dlc_2.rpy:2017
 translate chinese maidstone_city_tax_demanded_76b2fe88_3:
@@ -1410,13 +1410,13 @@ translate chinese maidstone_city_tax_demanded_76b2fe88_3:
 translate chinese maidstone_trade_tax_demanded_1afeef5c:
 
     nvl clear
-    "梅德斯通官府得知你未持有城内经营许可，却经常贩卖各种货物，便勒令你立刻补办执照，并缴纳罚款。"
+    "{cps=50}梅德斯通市政当局得知你未持有城内经营许可，却经常贩卖各种货物，便勒令你立刻补办执照，并缴纳罚款。"
 
 # game/script_dlc_2.rpy:2026
 translate chinese maidstone_trade_tax_demanded_ba33dc9b:
 
     nvl clear
-    "两笔款项合计211弗罗林。"
+    "{cps=50}两笔款项合计211弗罗林。"
 
 # game/script_dlc_2.rpy:2028
 translate chinese maidstone_trade_tax_demanded_76b2fe88_3:
@@ -1427,7 +1427,7 @@ translate chinese maidstone_trade_tax_demanded_76b2fe88_3:
 # game/script_dlc_2.rpy:2030
 translate chinese maidstone_trade_tax_demanded_1c764ddf:
 
-    "{color=#A9A9A9}{vspace=5}损失了211弗罗林！"
+    "{cps=50}{color=#A9A9A9}{vspace=5}损失了211弗罗林！"
 
 # game/script_dlc_2.rpy:2032
 translate chinese maidstone_trade_tax_demanded_76b2fe88:
@@ -1438,7 +1438,7 @@ translate chinese maidstone_trade_tax_demanded_76b2fe88:
 # game/script_dlc_2.rpy:2036
 translate chinese maidstone_trade_tax_demanded_023a4c1a:
 
-    "由于你既付不起罚款，也买不起执照，市政当局决定没收你的一部分财产以作抵偿。"
+    "{cps=50}由于你既付不起罚款，也买不起执照，市政当局决定没收你的一部分财产以作抵偿。"
 
 # game/script_dlc_2.rpy:2037
 translate chinese maidstone_trade_tax_demanded_76b2fe88_1:
@@ -1449,7 +1449,7 @@ translate chinese maidstone_trade_tax_demanded_76b2fe88_1:
 # game/script_dlc_2.rpy:2040
 translate chinese maidstone_trade_tax_demanded_f71c1010:
 
-    "由于你既付不起罚款，也买不起执照，市政当局决定将你逮捕。"
+    "{cps=50}由于你既付不起罚款，也买不起执照，市政当局决定将你逮捕。"
 
 # game/script_dlc_2.rpy:2041
 translate chinese maidstone_trade_tax_demanded_76b2fe88_2:
@@ -1461,7 +1461,7 @@ translate chinese maidstone_trade_tax_demanded_76b2fe88_2:
 translate chinese maidstone_work_tax_demanded_alchemist_68151e71:
 
     nvl clear
-    "梅德斯通官府得知你在家中开设了炼金作坊，打算接活营生，立刻要求你缴纳城内经营税。税额为[maidstone_work_tax_alchemist_sum]弗罗林。"
+    "{cps=50}梅德斯通官府得知你在家中开设了炼金作坊，打算接活营生，立刻要求你缴纳城内经营税。税额为[maidstone_work_tax_alchemist_sum]弗罗林。"
 
 # game/script_dlc_2.rpy:2050
 translate chinese maidstone_work_tax_demanded_alchemist_76b2fe88_3:
@@ -1472,7 +1472,7 @@ translate chinese maidstone_work_tax_demanded_alchemist_76b2fe88_3:
 # game/script_dlc_2.rpy:2052
 translate chinese maidstone_work_tax_demanded_alchemist_9b8c5893:
 
-    "{color=#A9A9A9}{vspace=5}损失了[maidstone_work_tax_alchemist_sum]弗罗林！"
+    "{cps=50}{color=#A9A9A9}{vspace=5}损失了[maidstone_work_tax_alchemist_sum]弗罗林！"
 
 # game/script_dlc_2.rpy:2054
 translate chinese maidstone_work_tax_demanded_alchemist_76b2fe88:
@@ -1483,7 +1483,7 @@ translate chinese maidstone_work_tax_demanded_alchemist_76b2fe88:
 # game/script_dlc_2.rpy:2058
 translate chinese maidstone_work_tax_demanded_alchemist_ed7c2438:
 
-    "由于你拿不出这笔税款，市政当局决定没收你的一部分财产以作抵偿。"
+    "{cps=50}由于你拿不出这笔税款，市政当局决定没收你的一部分财产以作抵偿。"
 
 # game/script_dlc_2.rpy:2059
 translate chinese maidstone_work_tax_demanded_alchemist_76b2fe88_1:
@@ -1494,7 +1494,7 @@ translate chinese maidstone_work_tax_demanded_alchemist_76b2fe88_1:
 # game/script_dlc_2.rpy:2062
 translate chinese maidstone_work_tax_demanded_alchemist_2c75b9e0:
 
-    "由于你拿不出这笔税款，市政当局决定将你逮捕。"
+    "{cps=50}由于你拿不出这笔税款，市政当局决定将你逮捕。"
 
 # game/script_dlc_2.rpy:2063
 translate chinese maidstone_work_tax_demanded_alchemist_76b2fe88_2:
@@ -1506,7 +1506,7 @@ translate chinese maidstone_work_tax_demanded_alchemist_76b2fe88_2:
 translate chinese maidstone_work_tax_demanded_craftsman_1f0f0d48:
 
     nvl clear
-    "梅德斯通官府得知你在家中开设了手工作坊，打算接活营生，立刻要求你缴纳城内经营税。税额为[maidstone_work_tax_craftsman_sum]弗罗林。"
+    "{cps=50}梅德斯通官府得知你在家中开设了手工作坊，打算接活营生，立刻要求你缴纳城内经营税。税额为[maidstone_work_tax_craftsman_sum]弗罗林。"
 
 # game/script_dlc_2.rpy:2071
 translate chinese maidstone_work_tax_demanded_craftsman_76b2fe88_3:
@@ -1517,7 +1517,7 @@ translate chinese maidstone_work_tax_demanded_craftsman_76b2fe88_3:
 # game/script_dlc_2.rpy:2073
 translate chinese maidstone_work_tax_demanded_craftsman_3b7d07b0:
 
-    "{color=#A9A9A9}{vspace=5}损失了[maidstone_work_tax_craftsman_sum]弗罗林！"
+    "{cps=50}{color=#A9A9A9}{vspace=5}损失了[maidstone_work_tax_craftsman_sum]弗罗林！"
 
 # game/script_dlc_2.rpy:2075
 translate chinese maidstone_work_tax_demanded_craftsman_76b2fe88:
@@ -1528,7 +1528,7 @@ translate chinese maidstone_work_tax_demanded_craftsman_76b2fe88:
 # game/script_dlc_2.rpy:2079
 translate chinese maidstone_work_tax_demanded_craftsman_ed7c2438:
 
-    "由于你拿不出这笔税款，市政当局决定没收你的一部分财产以作抵偿。"
+    "{cps=50}由于你拿不出这笔税款，市政当局决定没收你的一部分财产以作抵偿。"
 
 # game/script_dlc_2.rpy:2080
 translate chinese maidstone_work_tax_demanded_craftsman_76b2fe88_1:
@@ -1539,7 +1539,7 @@ translate chinese maidstone_work_tax_demanded_craftsman_76b2fe88_1:
 # game/script_dlc_2.rpy:2083
 translate chinese maidstone_work_tax_demanded_craftsman_2c75b9e0:
 
-    "由于你拿不出这笔税款，市政当局决定将你逮捕。"
+    "{cps=50}由于你拿不出这笔税款，市政当局决定将你逮捕。"
 
 # game/script_dlc_2.rpy:2084
 translate chinese maidstone_work_tax_demanded_craftsman_76b2fe88_2:
@@ -1551,7 +1551,7 @@ translate chinese maidstone_work_tax_demanded_craftsman_76b2fe88_2:
 translate chinese maidstone_work_tax_demanded_blacksmith_c5e1c2b0:
 
     nvl clear
-    "梅德斯通官府得知你在家中开设了铁匠铺，打算接活营生，立刻要求你缴纳城内经营税。税额为[maidstone_work_tax_blacksmith_sum]弗罗林。"
+    "{cps=50}梅德斯通官府得知你在家中开设了铁匠铺，打算接活营生，立刻要求你缴纳城内经营税。税额为[maidstone_work_tax_blacksmith_sum]弗罗林。"
 
 # game/script_dlc_2.rpy:2092
 translate chinese maidstone_work_tax_demanded_blacksmith_76b2fe88_3:
@@ -1562,7 +1562,7 @@ translate chinese maidstone_work_tax_demanded_blacksmith_76b2fe88_3:
 # game/script_dlc_2.rpy:2094
 translate chinese maidstone_work_tax_demanded_blacksmith_3f6da7c4:
 
-    "{color=#A9A9A9}{vspace=5}损失了[maidstone_work_tax_blacksmith_sum]弗罗林！"
+    "{cps=50}{color=#A9A9A9}{vspace=5}损失了[maidstone_work_tax_blacksmith_sum]弗罗林！"
 
 # game/script_dlc_2.rpy:2096
 translate chinese maidstone_work_tax_demanded_blacksmith_76b2fe88:
@@ -1573,7 +1573,7 @@ translate chinese maidstone_work_tax_demanded_blacksmith_76b2fe88:
 # game/script_dlc_2.rpy:2100
 translate chinese maidstone_work_tax_demanded_blacksmith_ed7c2438:
 
-    "由于你拿不出这笔税款，市政当局决定没收你的一部分财产以作抵偿。"
+    "{cps=50}由于你拿不出这笔税款，市政当局决定没收你的一部分财产以作抵偿。"
 
 # game/script_dlc_2.rpy:2101
 translate chinese maidstone_work_tax_demanded_blacksmith_76b2fe88_1:
@@ -1584,7 +1584,7 @@ translate chinese maidstone_work_tax_demanded_blacksmith_76b2fe88_1:
 # game/script_dlc_2.rpy:2104
 translate chinese maidstone_work_tax_demanded_blacksmith_2c75b9e0:
 
-    "由于你拿不出这笔税款，市政当局决定将你逮捕。"
+    "{cps=50}由于你拿不出这笔税款，市政当局决定将你逮捕。"
 
 # game/script_dlc_2.rpy:2105
 translate chinese maidstone_work_tax_demanded_blacksmith_76b2fe88_2:
@@ -1601,7 +1601,7 @@ translate chinese maidstone_punishment_for_crimes_76b2fe88_2:
 # game/script_dlc_2.rpy:2111
 translate chinese maidstone_punishment_for_crimes_7fd42f59:
 
-    "由于你拿不出这笔罚款，市政当局决定没收你的一部分财产以作抵偿。"
+    "{cps=50}由于你拿不出这笔罚款，市政当局决定没收你的一部分财产以作抵偿。"
 
 # game/script_dlc_2.rpy:2112
 translate chinese maidstone_punishment_for_crimes_76b2fe88:
@@ -1612,7 +1612,7 @@ translate chinese maidstone_punishment_for_crimes_76b2fe88:
 # game/script_dlc_2.rpy:2114
 translate chinese maidstone_punishment_for_crimes_5ad968e0:
 
-    "由于你拿不出这笔罚款，市政当局决定将你逮捕。"
+    "{cps=50}由于你拿不出这笔罚款，市政当局决定将你逮捕。"
 
 # game/script_dlc_2.rpy:2115
 translate chinese maidstone_punishment_for_crimes_76b2fe88_1:
@@ -1624,79 +1624,79 @@ translate chinese maidstone_punishment_for_crimes_76b2fe88_1:
 translate chinese maidstone_items_confiscated_1ea2c18d:
 
     nvl clear
-    "{color=#A9A9A9}你的盔甲被没收了！"
+    "{cps=50}{color=#A9A9A9}你的盔甲被没收了！"
 
 # game/script_dlc_2.rpy:2145
 translate chinese maidstone_items_confiscated_003d89dc:
 
     nvl clear
-    "{color=#A9A9A9}你的头盔被没收了！"
+    "{cps=50}{color=#A9A9A9}你的头盔被没收了！"
 
 # game/script_dlc_2.rpy:2165
 translate chinese maidstone_items_confiscated_8d105794:
 
     nvl clear
-    "{color=#A9A9A9}你的护腕被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护腕被没收了！"
 
 # game/script_dlc_2.rpy:2196
 translate chinese maidstone_items_confiscated_e1a36fc6:
 
     nvl clear
-    "{color=#A9A9A9}你的护喉被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护喉被没收了！"
 
 # game/script_dlc_2.rpy:2228
 translate chinese maidstone_items_confiscated_8f7718e6:
 
     nvl clear
-    "{color=#A9A9A9}你的护腿被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护腿被没收了！"
 
 # game/script_dlc_2.rpy:2260
 translate chinese maidstone_items_confiscated_c303d1aa:
 
     nvl clear
-    "{color=#A9A9A9}你的盾牌被没收了！"
+    "{cps=50}{color=#A9A9A9}你的盾牌被没收了！"
 
 # game/script_dlc_2.rpy:2276
 translate chinese maidstone_items_confiscated_1ea2c18d_1:
 
     nvl clear
-    "{color=#A9A9A9}你的盔甲被没收了！"
+    "{cps=50}{color=#A9A9A9}你的盔甲被没收了！"
 
 # game/script_dlc_2.rpy:2300
 translate chinese maidstone_items_confiscated_003d89dc_1:
 
     nvl clear
-    "{color=#A9A9A9}你的头盔被没收了！"
+    "{cps=50}{color=#A9A9A9}你的头盔被没收了！"
 
 # game/script_dlc_2.rpy:2320
 translate chinese maidstone_items_confiscated_8d105794_1:
 
     nvl clear
-    "{color=#A9A9A9}你的护腕被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护腕被没收了！"
 
 # game/script_dlc_2.rpy:2351
 translate chinese maidstone_items_confiscated_e1a36fc6_1:
 
     nvl clear
-    "{color=#A9A9A9}你的护喉被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护喉被没收了！"
 
 # game/script_dlc_2.rpy:2383
 translate chinese maidstone_items_confiscated_8f7718e6_1:
 
     nvl clear
-    "{color=#A9A9A9}你的护腿被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护腿被没收了！"
 
 # game/script_dlc_2.rpy:2415
 translate chinese maidstone_items_confiscated_c303d1aa_1:
 
     nvl clear
-    "{color=#A9A9A9}你的盾牌被没收了！"
+    "{cps=50}{color=#A9A9A9}你的盾牌被没收了！"
 
 # game/script_dlc_2.rpy:2430
 translate chinese maidstone_items_confiscated_685aa861:
 
     nvl clear
-    "放你自由的同时，他们让你明白：下一次违法，等待你的将是更严厉的惩罚。"
+    "{cps=50}放你自由的同时，他们让你明白：下一次违法，等待你的将是更严厉的惩罚。"
 
 # game/script_dlc_2.rpy:2432
 translate chinese maidstone_items_confiscated_76b2fe88:
@@ -1708,25 +1708,25 @@ translate chinese maidstone_items_confiscated_76b2fe88:
 translate chinese maidstone_city_arrest_a44d43c9:
 
     nvl clear
-    "梅德斯通监狱的阴冷、潮湿与粗劣伙食迅速侵蚀着你的身体，在候审中度过的每一天都是煎熬。{color=#A9A9A9}{vspace=5}所有属性降低1点！{vspace=5}中毒值上升！"
+    "{cps=50}梅德斯通监狱的阴冷、潮湿与粗劣伙食迅速侵蚀着你的身体，在候审中度过的每一天都是煎熬。{color=#A9A9A9}{vspace=5}所有属性降低1点！{vspace=5}中毒值上升！"
 
 # game/script_dlc_2.rpy:2460
 translate chinese maidstone_city_arrest_51fe2625:
 
     nvl clear
-    "法庭在你案卷中翻出了一连串不知从何而来的加重情节，判处你死刑，并定于次日清晨行刑。"
+    "{cps=50}法庭在你案卷中翻出了一连串不知从何而来的加重情节，判处你死刑，并定于次日清晨行刑。"
 
 # game/script_dlc_2.rpy:2462
 translate chinese maidstone_city_arrest_f11adb90:
 
     nvl clear
-    "夜深人静，你躺在牢房里，将一生在眼前逐一回放，苦苦思索自己究竟是在何时何地走错了路。"
+    "{cps=50}夜深人静，你躺在牢房里，将一生在眼前逐一回放，苦苦思索自己究竟是在何时何地走错了路。"
 
 # game/script_dlc_2.rpy:2464
 translate chinese maidstone_city_arrest_f44f9493:
 
     nvl clear
-    "又是否曾有机会扭转这一切？"
+    "{cps=50}又是否曾有机会扭转这一切？"
 
 # game/script_dlc_2.rpy:2466
 translate chinese maidstone_city_arrest_76b2fe88:
@@ -1738,7 +1738,7 @@ translate chinese maidstone_city_arrest_76b2fe88:
 translate chinese maidstone_city_arrest_da8e178d:
 
     nvl clear
-    "就在你已向死亡认命之际，牢门发出一声悠长的吱呀，罗道夫那张眯缝着眼的脸探了进来。"
+    "{cps=50}就在你已向死亡认命之际，牢门发出一声悠长的吱呀，罗道夫那张眯缝着眼的脸探了进来。"
 
 # game/script_dlc_2.rpy:2473
 translate chinese maidstone_city_arrest_76b2fe88_1:
@@ -1959,7 +1959,7 @@ translate chinese maidstone_blacksmith_work_76b2fe88:
 # game/script_dlc_2.rpy:2553
 translate chinese maidstone_blacksmith_work_d3820076:
 
-    "你在家中辟出一间小小的铁匠铺，试着接下打造各种装备的活儿……{color=#A9A9A9}{vspace=5}损失了40弗罗林。"
+    "{cps=50}你在家中辟出一间小小的铁匠铺，试着接下打造各种装备的活儿……{color=#A9A9A9}{vspace=5}损失了40弗罗林。"
 
 # game/script_dlc_2.rpy:2555
 translate chinese maidstone_blacksmith_work_76b2fe88_1:
@@ -1971,7 +1971,7 @@ translate chinese maidstone_blacksmith_work_76b2fe88_1:
 translate chinese maidstone_blacksmith_work_4ef0524c:
 
     nvl clear
-    "暂时还没有新订单……"
+    "{cps=50}暂时还没有新订单……"
 
 # game/script_dlc_2.rpy:2567
 translate chinese maidstone_blacksmith_work_76b2fe88_3:
@@ -1983,7 +1983,7 @@ translate chinese maidstone_blacksmith_work_76b2fe88_3:
 translate chinese maidstone_blacksmith_give_item_result_4324ece2:
 
     nvl clear
-    "客户收下了你的成品。{color=#A9A9A9}{vspace=5}获得[storyroll!i]弗罗林！{vspace=5}声望加成（已完成订单数）：[maidstone_blacksmith_work_bonus_sum]。"
+    "{cps=50}客户收下了你的成品。{color=#A9A9A9}{vspace=5}获得[storyroll!i]弗罗林！{vspace=5}声望加成（已完成订单数）：[maidstone_blacksmith_work_bonus_sum]。"
 
 # game/script_dlc_2.rpy:2718
 translate chinese maidstone_blacksmith_give_item_result_76b2fe88_1:
@@ -1995,7 +1995,7 @@ translate chinese maidstone_blacksmith_give_item_result_76b2fe88_1:
 translate chinese maidstone_blacksmith_give_item_result_88141a15:
 
     nvl clear
-    "{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:2726
 translate chinese maidstone_blacksmith_give_item_result_76b2fe88:
@@ -2007,7 +2007,7 @@ translate chinese maidstone_blacksmith_give_item_result_76b2fe88:
 translate chinese maidstone_blacksmith_request_roll_4ef0524c:
 
     nvl clear
-    "暂时还没有新订单……"
+    "{cps=50}暂时还没有新订单……"
 
 # game/script_dlc_2.rpy:2753
 translate chinese maidstone_blacksmith_request_roll_76b2fe88:
@@ -2024,42 +2024,42 @@ translate chinese maidstone_blacksmith_request_roll_76b2fe88_1:
 # game/script_dlc_2.rpy:2763
 translate chinese maidstone_blacksmith_request_roll_quick_3c7f1c32:
 
-    "一位住在你附近的落魄骑士请你为他打造一顶坚固的全封闭头盔，要能抵御箭矢与弩弹——他打算戴着它前往圣地朝圣。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_helmet_1.name!ti]。"
+    "{cps=50}一位住在你附近的落魄骑士请你为他打造一顶坚固的全封闭头盔，要能抵御箭矢与弩弹——他打算戴着它前往圣地朝圣。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_helmet_1.name!ti]。"
 
 # game/script_dlc_2.rpy:2772
 translate chinese maidstone_blacksmith_request_roll_quick_7ec42931:
 
-    "梅德斯通一位殷实的商人登门拜访，请你为他的幼子打造一套轻便的头盔与盔甲。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_helmet_2.name!ti]。{vspace=5}获得任务——[maidstone_blacksmith_armor_4.name!ti]。"
+    "{cps=50}梅德斯通一位殷实的商人登门拜访，请你为他的幼子打造一套轻便的头盔与盔甲。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_helmet_2.name!ti]。{vspace=5}获得任务——[maidstone_blacksmith_armor_4.name!ti]。"
 
 # game/script_dlc_2.rpy:2782
 translate chinese maidstone_blacksmith_request_roll_quick_ef2e8bdf:
 
-    "梅德斯通城防军的一位什长登门拜访，请你为他打造一顶装饰精美的头盔。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_helmet_3.name!ti]。"
+    "{cps=50}梅德斯通城防军的一位什长登门拜访，请你为他打造一顶装饰精美的头盔。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_helmet_3.name!ti]。"
 
 # game/script_dlc_2.rpy:2791
 translate chinese maidstone_blacksmith_request_roll_quick_7de290d4:
 
-    "一名城防士兵请你为他打造一具结实的实战甲胄。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_armor_1.name!ti]。"
+    "{cps=50}一名城防士兵请你为他打造一具结实的实战甲胄。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_armor_1.name!ti]。"
 
 # game/script_dlc_2.rpy:2800
 translate chinese maidstone_blacksmith_request_roll_quick_1ec9c9c1:
 
-    "一个形迹可疑的匕首贩子请你为他打造一具盔甲，好让他穿着向顾客展示自己的货物。他要的盔甲几乎覆盖穿着者全身，只留下极小的一个缺口。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_armor_2.name!ti]。"
+    "{cps=50}一个形迹可疑的匕首贩子请你为他打造一具盔甲，好让他穿着向顾客展示自己的货物。他要的盔甲几乎覆盖穿着者全身，只留下极小的一个缺口。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_armor_2.name!ti]。"
 
 # game/script_dlc_2.rpy:2809
 translate chinese maidstone_blacksmith_request_roll_quick_02500c36:
 
-    "附近某位领主麾下的一名战士新近发了财，来找你为他打造一套华丽讲究的盔甲——他好穿着它，体体面面地去向队长的女儿求亲。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_armor_3.name!ti]。"
+    "{cps=50}附近某位领主麾下的一名战士新近发了财，来找你为他打造一套华丽讲究的盔甲——他好穿着它，体体面面地去向队长的女儿求亲。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_armor_3.name!ti]。"
 
 # game/script_dlc_2.rpy:2818
 translate chinese maidstone_blacksmith_request_roll_quick_7ec42931_1:
 
-    "梅德斯通一位殷实的商人登门拜访，请你为他的幼子打造一套轻便的头盔与盔甲。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_helmet_2.name!ti]。{vspace=5}获得任务——[maidstone_blacksmith_armor_4.name!ti]。"
+    "{cps=50}梅德斯通一位殷实的商人登门拜访，请你为他的幼子打造一套轻便的头盔与盔甲。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_helmet_2.name!ti]。{vspace=5}获得任务——[maidstone_blacksmith_armor_4.name!ti]。"
 
 # game/script_dlc_2.rpy:2828
 translate chinese maidstone_blacksmith_request_roll_quick_19b7b520:
 
-    "一位衣着体面的夫人登门拜访。她不愿幼子过分沉迷武事，便请你为他打造一具加重盔甲——穿上它，没受过训练的人连迈两步都费劲。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_armor_5.name!ti]。"
+    "{cps=50}一位衣着体面的夫人登门拜访。她不愿幼子过分沉迷武事，便请你为他打造一具加重盔甲——穿上它，没受过训练的人连迈两步都费劲。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_blacksmith_armor_5.name!ti]。"
 
 # game/script_dlc_2.rpy:2837
 translate chinese maidstone_blacksmith_request_roll_quick_76b2fe88:
@@ -2094,7 +2094,7 @@ translate chinese maidstone_craftsman_work_76b2fe88_1:
 translate chinese maidstone_craftsman_work_4ef0524c:
 
     nvl clear
-    "暂时还没有新订单……"
+    "{cps=50}暂时还没有新订单……"
 
 # game/script_dlc_2.rpy:2864
 translate chinese maidstone_craftsman_work_76b2fe88_3:
@@ -2106,7 +2106,7 @@ translate chinese maidstone_craftsman_work_76b2fe88_3:
 translate chinese maidstone_craftsman_work_01bc5f6f:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:2919
 translate chinese maidstone_craftsman_work_76b2fe88_4:
@@ -2118,7 +2118,7 @@ translate chinese maidstone_craftsman_work_76b2fe88_4:
 translate chinese maidstone_craftsman_work_01bc5f6f_1:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:2938
 translate chinese maidstone_craftsman_work_76b2fe88_5:
@@ -2130,7 +2130,7 @@ translate chinese maidstone_craftsman_work_76b2fe88_5:
 translate chinese maidstone_craftsman_work_01bc5f6f_2:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:2957
 translate chinese maidstone_craftsman_work_76b2fe88_6:
@@ -2142,7 +2142,7 @@ translate chinese maidstone_craftsman_work_76b2fe88_6:
 translate chinese maidstone_craftsman_work_01bc5f6f_3:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:2978
 translate chinese maidstone_craftsman_work_76b2fe88_7:
@@ -2154,7 +2154,7 @@ translate chinese maidstone_craftsman_work_76b2fe88_7:
 translate chinese maidstone_craftsman_work_01bc5f6f_4:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:2997
 translate chinese maidstone_craftsman_work_76b2fe88_8:
@@ -2166,7 +2166,7 @@ translate chinese maidstone_craftsman_work_76b2fe88_8:
 translate chinese maidstone_craftsman_work_01bc5f6f_5:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:3018
 translate chinese maidstone_craftsman_work_76b2fe88_9:
@@ -2178,7 +2178,7 @@ translate chinese maidstone_craftsman_work_76b2fe88_9:
 translate chinese maidstone_craftsman_work_01bc5f6f_6:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:3037
 translate chinese maidstone_craftsman_work_76b2fe88_10:
@@ -2190,7 +2190,7 @@ translate chinese maidstone_craftsman_work_76b2fe88_10:
 translate chinese maidstone_craftsman_work_01bc5f6f_7:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:3075
 translate chinese maidstone_craftsman_work_76b2fe88_11:
@@ -2202,7 +2202,7 @@ translate chinese maidstone_craftsman_work_76b2fe88_11:
 translate chinese maidstone_craftsman_give_item_result_d9c47743:
 
     nvl clear
-    "客户收下了你的成品。{color=#A9A9A9}{vspace=5}获得[storyroll!i]弗罗林！{vspace=5}声望加成（已完成订单数）：[maidstone_craftsman_work_bonus_sum]。"
+    "{cps=50}客户收下了你的成品。{color=#A9A9A9}{vspace=5}获得[storyroll!i]弗罗林！{vspace=5}声望加成（已完成订单数）：[maidstone_craftsman_work_bonus_sum]。"
 
 # game/script_dlc_2.rpy:3087
 translate chinese maidstone_craftsman_give_item_result_76b2fe88_1:
@@ -2214,7 +2214,7 @@ translate chinese maidstone_craftsman_give_item_result_76b2fe88_1:
 translate chinese maidstone_craftsman_give_item_result_88141a15:
 
     nvl clear
-    "{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:3095
 translate chinese maidstone_craftsman_give_item_result_76b2fe88:
@@ -2226,7 +2226,7 @@ translate chinese maidstone_craftsman_give_item_result_76b2fe88:
 translate chinese maidstone_craftsman_request_roll_4ef0524c:
 
     nvl clear
-    "暂时还没有新订单……"
+    "{cps=50}暂时还没有新订单……"
 
 # game/script_dlc_2.rpy:3122
 translate chinese maidstone_craftsman_request_roll_76b2fe88:
@@ -2243,42 +2243,42 @@ translate chinese maidstone_craftsman_request_roll_76b2fe88_1:
 # game/script_dlc_2.rpy:3130
 translate chinese maidstone_craftsman_request_roll_29656167:
 
-    "一群途经梅德斯通、要继续北上的旅人请你帮忙修缮他们破旧的装备。他们需要一双靴子、一副刀鞘和一只结实的水壶。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_1.name!ti]。"
+    "{cps=50}一群途经梅德斯通、要继续北上的旅人请你帮忙修缮他们破旧的装备。他们需要一双靴子、一副刀鞘和一只结实的水壶。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_1.name!ti]。"
 
 # game/script_dlc_2.rpy:3134
 translate chinese maidstone_craftsman_request_roll_8113f73c:
 
-    "城防军的一名新兵请你为他做一副便宜的刀鞘——公家发的那副，被他在酒馆一场豪饮后弄丢了。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_2.name!ti]。"
+    "{cps=50}城防军的一名新兵请你为他做一副便宜的刀鞘——公家发的那副，被他在酒馆一场豪饮后弄丢了。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_2.name!ti]。"
 
 # game/script_dlc_2.rpy:3138
 translate chinese maidstone_craftsman_request_roll_d72345cf:
 
-    "市政雇来修缮破败城墙的一位工程匠师请你为他做一只合用的腰包。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_3.name!ti]。"
+    "{cps=50}市政雇来修缮破败城墙的一位工程匠师请你为他做一只合用的腰包。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_3.name!ti]。"
 
 # game/script_dlc_2.rpy:3142
 translate chinese maidstone_craftsman_request_roll_6367b5df:
 
-    "城西农场旁一座大磨坊的主人请你为他缝制三只结实的面粉袋。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_4.name!ti]。"
+    "{cps=50}城西农场旁一座大磨坊的主人请你为他缝制三只结实的面粉袋。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_4.name!ti]。"
 
 # game/script_dlc_2.rpy:3146
 translate chinese maidstone_craftsman_request_roll_b15b46e8:
 
-    "听说你开了作坊，住同院的邻居找上门来，想请你做一双新靴子。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_5.name!ti]。"
+    "{cps=50}听说你开了作坊，住同院的邻居找上门来，想请你做一双新靴子。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_5.name!ti]。"
 
 # game/script_dlc_2.rpy:3150
 translate chinese maidstone_craftsman_request_roll_4fd99269:
 
-    "城里一家酒馆的老板向你订做两只大皮囊，盛水装酒皆可。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_6.name!ti]。"
+    "{cps=50}城里一家酒馆的老板向你订做两只大皮囊，盛水装酒皆可。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_6.name!ti]。"
 
 # game/script_dlc_2.rpy:3154
 translate chinese maidstone_craftsman_request_roll_7d2ab304:
 
-    "住在城门旁歪斜小屋里的那位猎兔人，向你订做一只宽大的口袋。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_7.name!ti]。"
+    "{cps=50}住在城门旁歪斜小屋里的那位猎兔人，向你订做一只宽大的口袋。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_7.name!ti]。"
 
 # game/script_dlc_2.rpy:3158
 translate chinese maidstone_craftsman_request_roll_5261629b:
 
-    "你的铺子声名渐传渐远，城防军也送来了订单：五条止血带与五卷绷带。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_8.name!ti]。"
+    "{cps=50}你的铺子声名渐传渐远，城防军也送来了订单：五条止血带与五卷绷带。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_craftsman_8.name!ti]。"
 
 # game/script_dlc_2.rpy:3163
 translate chinese maidstone_craftsman_request_roll_76b2fe88_2:
@@ -2313,7 +2313,7 @@ translate chinese maidstone_alchemist_work_76b2fe88_1:
 translate chinese maidstone_alchemist_work_4ef0524c:
 
     nvl clear
-    "暂时还没有新订单……"
+    "{cps=50}暂时还没有新订单……"
 
 # game/script_dlc_2.rpy:3190
 translate chinese maidstone_alchemist_work_76b2fe88_3:
@@ -2325,7 +2325,7 @@ translate chinese maidstone_alchemist_work_76b2fe88_3:
 translate chinese maidstone_alchemist_work_01bc5f6f:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:3210
 translate chinese maidstone_alchemist_work_76b2fe88_4:
@@ -2337,7 +2337,7 @@ translate chinese maidstone_alchemist_work_76b2fe88_4:
 translate chinese maidstone_alchemist_work_01bc5f6f_1:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:3231
 translate chinese maidstone_alchemist_work_76b2fe88_5:
@@ -2349,7 +2349,7 @@ translate chinese maidstone_alchemist_work_76b2fe88_5:
 translate chinese maidstone_alchemist_work_01bc5f6f_2:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:3250
 translate chinese maidstone_alchemist_work_76b2fe88_6:
@@ -2361,7 +2361,7 @@ translate chinese maidstone_alchemist_work_76b2fe88_6:
 translate chinese maidstone_alchemist_work_01bc5f6f_3:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:3269
 translate chinese maidstone_alchemist_work_76b2fe88_7:
@@ -2373,7 +2373,7 @@ translate chinese maidstone_alchemist_work_76b2fe88_7:
 translate chinese maidstone_alchemist_work_01bc5f6f_4:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:3288
 translate chinese maidstone_alchemist_work_76b2fe88_8:
@@ -2385,7 +2385,7 @@ translate chinese maidstone_alchemist_work_76b2fe88_8:
 translate chinese maidstone_alchemist_work_01bc5f6f_5:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:3307
 translate chinese maidstone_alchemist_work_76b2fe88_9:
@@ -2397,7 +2397,7 @@ translate chinese maidstone_alchemist_work_76b2fe88_9:
 translate chinese maidstone_alchemist_work_01bc5f6f_6:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:3328
 translate chinese maidstone_alchemist_work_76b2fe88_10:
@@ -2409,7 +2409,7 @@ translate chinese maidstone_alchemist_work_76b2fe88_10:
 translate chinese maidstone_alchemist_work_01bc5f6f_7:
 
     nvl clear
-    "{color=#A9A9A9}你缺少所需的物品！"
+    "{cps=50}{color=#A9A9A9}你缺少所需的物品！"
 
 # game/script_dlc_2.rpy:3347
 translate chinese maidstone_alchemist_work_76b2fe88_11:
@@ -2421,7 +2421,7 @@ translate chinese maidstone_alchemist_work_76b2fe88_11:
 translate chinese maidstone_alchemist_give_item_result_f758a221:
 
     nvl clear
-    "客户收下了你的成品。{color=#A9A9A9}{vspace=5}获得[storyroll!i]弗罗林！{vspace=5}声望加成（已完成订单数）：[maidstone_alchemist_work_bonus_sum]。"
+    "{cps=50}客户收下了你的成品。{color=#A9A9A9}{vspace=5}获得[storyroll!i]弗罗林！{vspace=5}声望加成（已完成订单数）：[maidstone_alchemist_work_bonus_sum]。"
 
 # game/script_dlc_2.rpy:3359
 translate chinese maidstone_alchemist_give_item_result_76b2fe88_1:
@@ -2433,7 +2433,7 @@ translate chinese maidstone_alchemist_give_item_result_76b2fe88_1:
 translate chinese maidstone_alchemist_give_item_result_88141a15:
 
     nvl clear
-    "{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:3367
 translate chinese maidstone_alchemist_give_item_result_76b2fe88:
@@ -2445,7 +2445,7 @@ translate chinese maidstone_alchemist_give_item_result_76b2fe88:
 translate chinese maidstone_alchemist_request_roll_4ef0524c:
 
     nvl clear
-    "暂时还没有新订单……"
+    "{cps=50}暂时还没有新订单……"
 
 # game/script_dlc_2.rpy:3394
 translate chinese maidstone_alchemist_request_roll_76b2fe88:
@@ -2462,42 +2462,42 @@ translate chinese maidstone_alchemist_request_roll_76b2fe88_1:
 # game/script_dlc_2.rpy:3401
 translate chinese maidstone_alchemist_request_roll_f2f1aae2:
 
-    "梅德斯通一位杂货店主请你为他配制一种强效的土制毒药，用来毒杀店铺地下室里闹腾的啮齿类。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_1.name!ti]。"
+    "{cps=50}梅德斯通一位杂货店主请你为他配制一种强效的土制毒药，用来毒杀店铺地下室里闹腾的啮齿类。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_1.name!ti]。"
 
 # game/script_dlc_2.rpy:3405
 translate chinese maidstone_alchemist_request_roll_c00fa4d3:
 
-    "一队梅德斯通守卫请你为他们赶制一批消毒绷带。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_2.name!ti]。"
+    "{cps=50}一队梅德斯通守卫请你为他们赶制一批消毒绷带。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_2.name!ti]。"
 
 # game/script_dlc_2.rpy:3409
 translate chinese maidstone_alchemist_request_roll_aa1509b7:
 
-    "一位感染热病的猎人的妻子，请你为她的丈夫配制一剂强效药物。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_3.name!ti]。"
+    "{cps=50}一位感染热病的猎人的妻子，请你为她的丈夫配制一剂强效药物。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_3.name!ti]。"
 
 # game/script_dlc_2.rpy:3413
 translate chinese maidstone_alchemist_request_roll_f20fb78d:
 
-    "一位途经梅德斯通的游方郎中请你帮忙配制一剂有效的解毒药，以对抗正在城东北各村蔓延的怪病疫情。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_4.name!ti]。"
+    "{cps=50}一位途经梅德斯通的游方郎中请你帮忙配制一剂有效的解毒药，以对抗正在城东北各村蔓延的怪病疫情。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_4.name!ti]。"
 
 # game/script_dlc_2.rpy:3417
 translate chinese maidstone_alchemist_request_roll_beff862a:
 
-    "梅德斯通一位屠户的妻子请你为她配制某种简单廉价的毒药。她不肯说明用途，却信誓旦旦地发誓，这和她丈夫的情妇绝无关系。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_5.name!ti]。"
+    "{cps=50}梅德斯通一位屠户的妻子请你为她配制某种简单廉价的毒药。她不肯说明用途，却信誓旦旦地发誓，这和她丈夫的情妇绝无关系。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_5.name!ti]。"
 
 # game/script_dlc_2.rpy:3421
 translate chinese maidstone_alchemist_request_roll_c5900864:
 
-    "一个披着兜帽斗篷、形迹可疑的家伙请你为他配制毒性最强的致命毒药，并许诺重金酬谢。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_6.name!ti]。"
+    "{cps=50}一个披着兜帽斗篷、形迹可疑的家伙请你为他配制毒性最强的致命毒药，并许诺重金酬谢。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_6.name!ti]。"
 
 # game/script_dlc_2.rpy:3425
 translate chinese maidstone_alchemist_request_roll_0e5f30cd:
 
-    "附近某位领主麾下的什长请你为他手下的人赶制一批凝血药剂。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_7.name!ti]。"
+    "{cps=50}附近某位领主麾下的什长请你为他手下的人赶制一批凝血药剂。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_7.name!ti]。"
 
 # game/script_dlc_2.rpy:3429
 translate chinese maidstone_alchemist_request_roll_1a13aef0:
 
-    "你炼金铺子的名声传到了附近一位领主的府邸。他遣人前来，请你炼制一剂强得不可思议的解毒药，据说能治愈任何疾病。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_8.name!ti]。"
+    "{cps=50}你炼金铺子的名声传到了附近一位领主的府邸。他遣人前来，请你炼制一剂强得不可思议的解毒药，据说能治愈任何疾病。{color=#A9A9A9}{vspace=5}获得任务——[maidstone_alchemist_8.name!ti]。"
 
 # game/script_dlc_2.rpy:3434
 translate chinese maidstone_alchemist_request_roll_76b2fe88_2:
@@ -2509,7 +2509,7 @@ translate chinese maidstone_alchemist_request_roll_76b2fe88_2:
 translate chinese maidstone_city_quest_hub_847e7e5e:
 
     nvl clear
-    "{cps=50}你四下里寻觅生计，却始终没遇上合适的差事……"
+    "{cps=50}你四处寻活干，却还没有合适的差事……"
 
 # game/script_dlc_2.rpy:3455
 translate chinese maidstone_city_quest_hub_76b2fe88:
@@ -2521,13 +2521,13 @@ translate chinese maidstone_city_quest_hub_76b2fe88:
 translate chinese maidstone_city_quest_wolves_invitation_2aa7eba1:
 
     nvl clear
-    "得知你身经百战，附近一位农夫因牲畜频频遭狼群袭扰，特来请你相助。"
+    "{cps=50}得知你身经百战，附近一位农夫因牲畜频频遭狼群袭扰，特来请你相助。"
 
 # game/script_dlc_2.rpy:3484
 translate chinese maidstone_city_quest_wolves_invitation_de579e50:
 
     nvl clear
-    "虽说农夫许诺的报酬微薄，这活儿本身倒也算不上凶险——在林中驱赶野狼，终究不是攻打康布雷。"
+    "{cps=50}虽说农夫许诺的报酬微薄，这活儿本身倒也算不上凶险——在林中驱赶野狼，终究不是攻打康布雷。"
 
 # game/script_dlc_2.rpy:3486
 translate chinese maidstone_city_quest_wolves_invitation_76b2fe88:
@@ -2538,12 +2538,12 @@ translate chinese maidstone_city_quest_wolves_invitation_76b2fe88:
 # game/script_dlc_2.rpy:3489
 translate chinese maidstone_city_quest_wolves_invitation_a40fb11d:
 
-    "你应允了下来。{color=#A9A9A9}{vspace=5}新增任务——[boy_who_cried_wolves.name!ti]。"
+    "{cps=50}你应允了下来。{color=#A9A9A9}{vspace=5}新增任务——[boy_who_cried_wolves.name!ti]。"
 
 # game/script_dlc_2.rpy:3492
 translate chinese maidstone_city_quest_wolves_invitation_42d5f7f2:
 
-    "你对他的提议兴致缺缺，婉言谢绝了。"
+    "{cps=50}你对他的提议兴致缺缺，婉言谢绝了。"
 
 # game/script_dlc_2.rpy:3494
 translate chinese maidstone_city_quest_wolves_invitation_76b2fe88_1:
@@ -2555,13 +2555,13 @@ translate chinese maidstone_city_quest_wolves_invitation_76b2fe88_1:
 translate chinese maidstone_city_quest_wolves_1_e3efdbb5:
 
     nvl clear
-    "到了农夫的田庄，你与他的牧人约好：一旦狼群出现，他便吹响号角为号。"
+    "{cps=50}到了农夫的田庄，你与他的牧人约好：一旦狼群出现，他便吹响号角为号。"
 
 # game/script_dlc_2.rpy:3501
 translate chinese maidstone_city_quest_wolves_1_a1ba911d:
 
     nvl clear
-    "等候了大约一个时辰，牧人的号角声在四周响起，你闻讯赶去增援……"
+    "{cps=50}等候了大约一个时辰，牧人的号角声在四周响起，你闻讯赶去增援……"
 
 # game/script_dlc_2.rpy:3503
 translate chinese maidstone_city_quest_wolves_1_76b2fe88:
@@ -2572,7 +2572,7 @@ translate chinese maidstone_city_quest_wolves_1_76b2fe88:
 # game/script_dlc_2.rpy:3859
 translate chinese maidstone_city_quest_wolves_fight_d40e534d:
 
-    "局势正在变化，战斗可能很快就要结束了。"
+    "{cps=50}局势正在变化，战斗可能很快就要结束了。"
 
 # game/script_dlc_2.rpy:3861
 translate chinese maidstone_city_quest_wolves_fight_76b2fe88:
@@ -2584,7 +2584,7 @@ translate chinese maidstone_city_quest_wolves_fight_76b2fe88:
 translate chinese maidstone_city_quest_wolves_fight_c7b6c7cf:
 
     nvl clear
-    "狼群明白讨不到便宜，纷纷逃窜而去。"
+    "{cps=50}狼群明白讨不到便宜，纷纷逃窜而去。"
 
 # game/script_dlc_2.rpy:3878
 translate chinese maidstone_city_quest_wolves_fight_76b2fe88_1:
@@ -2601,13 +2601,13 @@ translate chinese maidstone_city_quest_wolves_postfight_76b2fe88_1:
 # game/script_dlc_2.rpy:3954
 translate chinese maidstone_city_quest_wolves_postfight_068e0203:
 
-    "打退了狼群，你从农夫手中领到了应得的报酬。{color=#A9A9A9}{vspace=5}获得50弗罗林！"
+    "{cps=50}打退了狼群，你从农夫手中领到了应得的报酬。{color=#A9A9A9}{vspace=5}获得50弗罗林！"
 
 # game/script_dlc_2.rpy:3961
 translate chinese maidstone_city_quest_wolves_postfight_88141a15:
 
     nvl clear
-    "{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:3963
 translate chinese maidstone_city_quest_wolves_postfight_76b2fe88:
@@ -2618,7 +2618,7 @@ translate chinese maidstone_city_quest_wolves_postfight_76b2fe88:
 # game/script_dlc_2.rpy:3965
 translate chinese maidstone_city_quest_wolves_postfight_5fb368e3:
 
-    "尽管你没能杀尽群狼，农夫却认为你已给了它们一个足够深刻的教训，仍将大部分许诺的报酬付给了你。{color=#A9A9A9}{vspace=5}获得35弗罗林！"
+    "{cps=50}尽管你没能杀尽群狼，农夫却认为你已给了它们一个足够深刻的教训，仍将大部分许诺的报酬付给了你。{color=#A9A9A9}{vspace=5}获得35弗罗林！"
 
 # game/script_dlc_2.rpy:3968
 translate chinese maidstone_city_quest_wolves_postfight_76b2fe88_2:
@@ -2630,19 +2630,19 @@ translate chinese maidstone_city_quest_wolves_postfight_76b2fe88_2:
 translate chinese maidstone_city_quest_personal_trainer_invitation_987c3851:
 
     nvl clear
-    "你听闻梅德斯通一位殷实商人正在为幼子物色击剑教习。"
+    "{cps=50}你听闻梅德斯通一位殷实商人正在为幼子物色击剑教习。"
 
 # game/script_dlc_2.rpy:3978
 translate chinese maidstone_city_quest_personal_trainer_invitation_9e1936ee:
 
     nvl clear
-    "这差事既清闲又报酬丰厚，争抢者想必大有人在。"
+    "{cps=50}这差事既清闲又报酬丰厚，争抢者想必大有人在。"
 
 # game/script_dlc_2.rpy:3980
 translate chinese maidstone_city_quest_personal_trainer_invitation_f96e6527:
 
     nvl clear
-    "而众所周知，第一印象全凭外观——它很可能就此决定成败。{color=#A9A9A9}{vspace=5}获得新任务——[personal_trainer.name!ti]。"
+    "{cps=50}而众所周知，第一印象全凭外观——它很可能就此决定成败。{color=#A9A9A9}{vspace=5}获得新任务——[personal_trainer.name!ti]。"
 
 # game/script_dlc_2.rpy:3983
 translate chinese maidstone_city_quest_personal_trainer_invitation_76b2fe88:
@@ -2654,19 +2654,19 @@ translate chinese maidstone_city_quest_personal_trainer_invitation_76b2fe88:
 translate chinese maidstone_city_quest_personal_trainer_1_b4ddb5f2:
 
     nvl clear
-    "你登门拜访商人家中，毛遂自荐，愿担任他儿子的击剑教习。"
+    "{cps=50}你登门拜访商人家中，毛遂自荐，愿担任他儿子的击剑教习。"
 
 # game/script_dlc_2.rpy:3993
 translate chinese maidstone_city_quest_personal_trainer_1_5489727d:
 
     nvl clear
-    "你的仪表令人印象深刻，在一众求职者中脱颖而出。{color=#A9A9A9}{vspace=5}威望——成功！"
+    "{cps=50}你的仪表令人印象深刻，在一众求职者中脱颖而出。{color=#A9A9A9}{vspace=5}威望——成功！"
 
 # game/script_dlc_2.rpy:3995
 translate chinese maidstone_city_quest_personal_trainer_1_b2da29f7:
 
     nvl clear
-    "而当商人得知你还是法兰西战役的老兵后，当即拍板，选定了你。"
+    "{cps=50}而当商人得知你还是法兰西战役的老兵后，当即拍板，选定了你。"
 
 # game/script_dlc_2.rpy:3997
 translate chinese maidstone_city_quest_personal_trainer_1_76b2fe88:
@@ -2678,13 +2678,13 @@ translate chinese maidstone_city_quest_personal_trainer_1_76b2fe88:
 translate chinese maidstone_city_quest_personal_trainer_1_f1a35982:
 
     nvl clear
-    "你的仪表平平无奇，在一众求职者中毫不起眼。{color=#A9A9A9}{vspace=5}威望——结果平平！"
+    "{cps=50}你的仪表平平无奇，在一众求职者中毫不起眼。{color=#A9A9A9}{vspace=5}威望——结果平平！"
 
 # game/script_dlc_2.rpy:4001
 translate chinese maidstone_city_quest_personal_trainer_1_840c649c:
 
     nvl clear
-    "为了在几位最有希望的候选人中定下人选，商人决定让所有人当场一试身手，安排了数场木制兵器的考核对决。"
+    "{cps=50}为了在几位最有希望的候选人中定下人选，商人决定让所有人当场一试身手，安排了数场木制兵器的考核对决。"
 
 # game/script_dlc_2.rpy:4003
 translate chinese maidstone_city_quest_personal_trainer_1_76b2fe88_2:
@@ -2696,25 +2696,25 @@ translate chinese maidstone_city_quest_personal_trainer_1_76b2fe88_2:
 translate chinese maidstone_city_quest_personal_trainer_1_75727c19:
 
     nvl clear
-    "你轻松击败了所有竞争者，赢得商人的青睐，拿到了这份差事。{color=#A9A9A9}{vspace=5}武器技能——成功！"
+    "{cps=50}你轻松击败了所有竞争者，赢得商人的青睐，拿到了这份差事。{color=#A9A9A9}{vspace=5}武器技能——成功！"
 
 # game/script_dlc_2.rpy:4009
 translate chinese maidstone_city_quest_personal_trainer_1_c66bd02a:
 
     nvl clear
-    "虽然赢得并不轻松，你还是战胜了大多数候选人。与最后一位交手时，局面着实不妙，可天意使然，对手接连几次脚下打滑，让你抓住机会连中要害，凑够了取胜的分数。{color=#A9A9A9}{vspace=5}武器技能——结果平平！{vspace=5}运气——成功！"
+    "{cps=50}虽然赢得并不轻松，你还是战胜了大多数候选人。与最后一位交手时，局面着实不妙，可天意使然，对手接连几次脚下打滑，让你抓住机会连中要害，凑够了取胜的分数。{color=#A9A9A9}{vspace=5}武器技能——结果平平！{vspace=5}运气——成功！"
 
 # game/script_dlc_2.rpy:4011
 translate chinese maidstone_city_quest_personal_trainer_1_65c5367b:
 
     nvl clear
-    "几场比试下来，商人最终选中了你。"
+    "{cps=50}几场比试下来，商人最终选中了你。"
 
 # game/script_dlc_2.rpy:4014
 translate chinese maidstone_city_quest_personal_trainer_1_a905689e:
 
     nvl clear
-    "你的身手还欠火候，在大部分考核对决中败下阵来，彻底与这份差事无缘。{color=#A9A9A9}{vspace=5}武器技能、运气——失败！"
+    "{cps=50}你的身手还欠火候，在大部分考核对决中败下阵来，彻底与这份差事无缘。{color=#A9A9A9}{vspace=5}武器技能、运气——失败！"
 
 # game/script_dlc_2.rpy:4016
 translate chinese maidstone_city_quest_personal_trainer_1_76b2fe88_1:
@@ -2726,13 +2726,13 @@ translate chinese maidstone_city_quest_personal_trainer_1_76b2fe88_1:
 translate chinese maidstone_city_quest_personal_trainer_1_22291c29:
 
     nvl clear
-    "你的仪表令人不敢恭维，在一众求职者中落了下风。{color=#A9A9A9}{vspace=5}威望——失败！"
+    "{cps=50}你的仪表令人不敢恭维，在一众求职者中落了下风。{color=#A9A9A9}{vspace=5}威望——失败！"
 
 # game/script_dlc_2.rpy:4022
 translate chinese maidstone_city_quest_personal_trainer_1_4ec9724b:
 
     nvl clear
-    "结果，你几乎当场就被回绝了。"
+    "{cps=50}结果，你几乎当场就被回绝了。"
 
 # game/script_dlc_2.rpy:4024
 translate chinese maidstone_city_quest_personal_trainer_1_76b2fe88_3:
@@ -2744,13 +2744,13 @@ translate chinese maidstone_city_quest_personal_trainer_1_76b2fe88_3:
 translate chinese maidstone_city_quest_personal_trainer_1_ecbe0cc8:
 
     nvl clear
-    "这份差事果然如传闻般轻松，不费什么气力，报酬却相当丰厚。{color=#A9A9A9}{vspace=5}耗时：2。{vspace=5}获得150弗罗林！"
+    "{cps=50}这份差事果然如传闻般轻松，不费什么气力，报酬却相当丰厚。{color=#A9A9A9}{vspace=5}耗时：2。{vspace=5}获得150弗罗林！"
 
 # game/script_dlc_2.rpy:4035
 translate chinese maidstone_city_quest_personal_trainer_1_88141a15:
 
     nvl clear
-    "{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:4037
 translate chinese maidstone_city_quest_personal_trainer_1_76b2fe88_4:
@@ -2768,43 +2768,43 @@ translate chinese maidstone_city_quest_personal_trainer_1_76b2fe88_5:
 translate chinese maidstone_city_quest_bear_invitation_927aa597:
 
     nvl clear
-    "阔别许久之后重新在梅德斯通安顿下来，你渐渐摸清了当地的世情、丑闻与是非。"
+    "{cps=50}阔别许久之后重新在梅德斯通安顿下来，你渐渐摸清了当地的世情、丑闻与是非。"
 
 # game/script_dlc_2.rpy:4050
 translate chinese maidstone_city_quest_bear_invitation_fbca8203:
 
     nvl clear
-    "其中大多数，顶多值得集市上的婆娘们嚼嚼舌头，或在酒馆里就着一品脱淡啤闲扯两句。但其中也有值得留意的事。"
+    "{cps=50}其中大多数，顶多值得集市上的婆娘们嚼嚼舌头，或在酒馆里就着一品脱淡啤闲扯两句。但其中也有值得留意的事。"
 
 # game/script_dlc_2.rpy:4052
 translate chinese maidstone_city_quest_bear_invitation_34b344f6:
 
     nvl clear
-    "譬如，就在几个月前，附近那片林子里开始有人失踪——有进林狩猎的猎人，有采菇摘浆果的农户，还有被派去拾柴的孩子。"
+    "{cps=50}譬如，就在几个月前，附近那片林子里开始有人失踪——有进林狩猎的猎人，有采菇摘浆果的农户，还有被派去拾柴的孩子。"
 
 # game/script_dlc_2.rpy:4054
 translate chinese maidstone_city_quest_bear_invitation_30ad29a5:
 
     nvl clear
-    "失踪者的亲属数次组织搜寻，却往往无功而返。而最近这一次，竟又酿成了一场新的惨祸。"
+    "{cps=50}失踪者的亲属数次组织搜寻，却往往无功而返。而最近这一次，竟又酿成了一场新的惨祸。"
 
 # game/script_dlc_2.rpy:4056
 translate chinese maidstone_city_quest_bear_invitation_1f5ff281:
 
     nvl clear
-    "出发搜寻的队伍遭到某种地狱恶兽的袭击——它眨眼间便活活吞掉了数人，其余的人被吓得魂飞魄散，侥幸逃回之后，竟连这头地狱魔物是什么模样都说不清楚。"
+    "{cps=50}出发搜寻的队伍遭到某种地狱恶兽的袭击——它眨眼间便活活吞掉了数人，其余的人被吓得魂飞魄散，侥幸逃回之后，竟连这头地狱魔物是什么模样都说不清楚。"
 
 # game/script_dlc_2.rpy:4058
 translate chinese maidstone_city_quest_bear_invitation_8a1d5613:
 
     nvl clear
-    "从他们语无伦次的呓语中拼凑出：袭击他们的怪物生着犄角、拖着尾巴，利爪獠牙俱全。双目喷火，血盆大口里白沫翻涌。"
+    "{cps=50}从他们语无伦次的呓语中拼凑出：袭击他们的怪物生着犄角、拖着尾巴，利爪獠牙俱全。双目喷火，血盆大口里白沫翻涌。"
 
 # game/script_dlc_2.rpy:4060
 translate chinese maidstone_city_quest_bear_invitation_ea7a350c:
 
     nvl clear
-    "此事在城中与四野闹得沸沸扬扬，梅德斯通的镇长遂悬赏缉杀此獠。然而不知何故，愿进林子的人反而大为减少，悬赏至今无人领取。"
+    "{cps=50}此事在城中与四野闹得沸沸扬扬，梅德斯通的镇长遂悬赏缉杀此獠。然而不知何故，愿进林子的人反而大为减少，悬赏至今无人领取。"
 
 # game/script_dlc_2.rpy:4062
 translate chinese maidstone_city_quest_bear_invitation_76b2fe88:
@@ -2816,13 +2816,13 @@ translate chinese maidstone_city_quest_bear_invitation_76b2fe88:
 translate chinese maidstone_city_quest_bear_invitation_2643f4d2:
 
     nvl clear
-    "与梅德斯通的其他居民不同，林中怪物的传闻没能让你动容。你当即自告奋勇，前去收拾它。{color=#A9A9A9}{vspace=5}获得新任务——[hunting_monsters.name!ti]！"
+    "{cps=50}与梅德斯通的其他居民不同，林中怪物的传闻没能让你动容。你当即自告奋勇，前去收拾它。{color=#A9A9A9}{vspace=5}获得新任务——[hunting_monsters.name!ti]！"
 
 # game/script_dlc_2.rpy:4069
 translate chinese maidstone_city_quest_bear_invitation_e76ed3e0:
 
     nvl clear
-    "赏金固然诱人，但理智终究占了上风，你决定把这件事抛诸脑后。"
+    "{cps=50}赏金固然诱人，但理智终究占了上风，你决定把这件事抛诸脑后。"
 
 # game/script_dlc_2.rpy:4072
 translate chinese maidstone_city_quest_bear_invitation_76b2fe88_1:
@@ -2833,25 +2833,25 @@ translate chinese maidstone_city_quest_bear_invitation_76b2fe88_1:
 # game/script_dlc_2.rpy:4079
 translate chinese maidstone_city_quest_bear_1_cc76749a:
 
-    "做好万全准备后，你动身进林，搜寻那头神秘的怪物。"
+    "{cps=50}做好万全准备后，你动身进林，搜寻那头神秘的怪物。"
 
 # game/script_dlc_2.rpy:4080
 translate chinese maidstone_city_quest_bear_1_7a0ff8b1:
 
     nvl clear
-    "你越往密林深处走，心弦绷得越紧。"
+    "{cps=50}你越往密林深处走，心弦绷得越紧。"
 
 # game/script_dlc_2.rpy:4082
 translate chinese maidstone_city_quest_bear_1_3eaa9c86:
 
     nvl clear
-    "你反复宽慰自己没什么好怕的，心境稍稍平复。"
+    "{cps=50}你反复宽慰自己没什么好怕的，心境稍稍平复。"
 
 # game/script_dlc_2.rpy:4084
 translate chinese maidstone_city_quest_bear_1_c29360a8:
 
     nvl clear
-    "就在这时，一声咆哮传来……"
+    "{cps=50}就在这时，一声咆哮传来……"
 
 # game/script_dlc_2.rpy:4086
 translate chinese maidstone_city_quest_bear_1_76b2fe88:
@@ -2869,7 +2869,7 @@ translate chinese maidstone_city_quest_bear_fight_76b2fe88:
 translate chinese maidstone_city_quest_bear_fight_466b4e81:
 
     nvl clear
-    "搏斗陷入僵持。也许，你该暂且退避，保命要紧……"
+    "{cps=50}搏斗陷入僵持。也许，你该暂且退避，保命要紧……"
 
 # game/script_dlc_2.rpy:4377
 translate chinese maidstone_city_quest_bear_fight_76b2fe88_3:
@@ -2898,24 +2898,24 @@ translate chinese maidstone_city_quest_bear_postfight_76b2fe88_1:
 # game/script_dlc_2.rpy:4455
 translate chinese maidstone_city_quest_bear_postfight_bc54ddaf:
 
-    "为了活命，你拔腿狂奔，竟侥幸从怪物爪下逃得性命。"
+    "{cps=50}为了活命，你拔腿狂奔，竟侥幸从怪物爪下逃得性命。"
 
 # game/script_dlc_2.rpy:4456
 translate chinese maidstone_city_quest_bear_postfight_7f11f784:
 
     nvl clear
-    "回到梅德斯通的家中，面对人们一遍遍追问你在密林深处遇见了什么，你与所有其他幸存者一样，只能语无伦次地嗫嚅着，反复描摹那份亲身经历的恐怖。"
+    "{cps=50}回到梅德斯通的家中，面对人们一遍遍追问你在密林深处遇见了什么，你与所有其他幸存者一样，只能语无伦次地嗫嚅着，反复描摹那份亲身经历的恐怖。"
 
 # game/script_dlc_2.rpy:4459
 translate chinese maidstone_city_quest_bear_postfight_2de437b1:
 
-    "斩除怪物之后，你割下它的头颅，送往梅德斯通镇长处，作为完成任务的凭据。{color=#A9A9A9}{vspace=5}威望提升1点！{vspace=5}获得100弗罗林！"
+    "{cps=50}斩除怪物之后，你割下它的头颅，送往梅德斯通镇长处，作为完成任务的凭据。{color=#A9A9A9}{vspace=5}威望提升1点！{vspace=5}获得100弗罗林！"
 
 # game/script_dlc_2.rpy:4467
 translate chinese maidstone_city_quest_bear_postfight_88141a15:
 
     nvl clear
-    "{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:4469
 translate chinese maidstone_city_quest_bear_postfight_76b2fe88:
@@ -2933,49 +2933,49 @@ translate chinese maidstone_city_quest_bear_postfight_76b2fe88_2:
 translate chinese maidstone_city_quest_roadhouse_invitation_a54ead30:
 
     nvl clear
-    "你战功赫赫的名声在周边越传越广，越来越多的雇主开始找上门来。"
+    "{cps=50}你战功赫赫的名声在周边越传越广，越来越多的雇主开始找上门来。"
 
 # game/script_dlc_2.rpy:4481
 translate chinese maidstone_city_quest_roadhouse_invitation_e5295f67:
 
     nvl clear
-    "这一次，梅德斯通一家小酒馆的老板向你递来了橄榄枝——这家店在本地颇有名气，宾客盈门，坐落在城郊的官道旁，那条路从多佛一路通往伦敦，再向北延伸。"
+    "{cps=50}这一次，梅德斯通一家小酒馆的老板向你递来了橄榄枝——这家店在本地颇有名气，宾客盈门，坐落在城郊的官道旁，那条路从多佛一路通往伦敦，再向北延伸。"
 
 # game/script_dlc_2.rpy:4483
 translate chinese maidstone_city_quest_roadhouse_invitation_26aea7c6:
 
     nvl clear
-    "不难想见，地处这条熙攘商路之侧，酒馆的客流从不间断——店里几乎总是人满为患。可这些客人的品性，就有些堪忧了。"
+    "{cps=50}不难想见，地处这条熙攘商路之侧，酒馆的客流从不间断——店里几乎总是人满为患。可这些客人的品性，就有些堪忧了。"
 
 # game/script_dlc_2.rpy:4485
 translate chinese maidstone_city_quest_roadhouse_invitation_aa62b2c9:
 
     nvl clear
-    "每进来三位喝一杯就走的正经工人或行商，就至少混着一个逃出来的苦役犯、一个随时准备拔刀的强盗、一个寻衅滋事的醉汉——更糟的是，往往还是整帮这样的人。"
+    "{cps=50}每进来三位喝一杯就走的正经工人或行商，就至少混着一个逃出来的苦役犯、一个随时准备拔刀的强盗、一个寻衅滋事的醉汉——更糟的是，往往还是整帮这样的人。"
 
 # game/script_dlc_2.rpy:4487
 translate chinese maidstone_city_quest_roadhouse_invitation_db3e857a:
 
     nvl clear
-    "在\"路边之家\"——这是当地人对这家酒馆的称呼——流血斗殴与凶狠群殴几乎是每日例行的家常便饭。"
+    "{cps=50}在\"路边之家\"——这是当地人对这家酒馆的称呼——流血斗殴与凶狠群殴几乎是每日例行的家常便饭。"
 
 # game/script_dlc_2.rpy:4489
 translate chinese maidstone_city_quest_roadhouse_invitation_c23a912f:
 
     nvl clear
-    "正因如此，店里始终需要一位得力护卫——既能维持秩序、严惩闹事者，又得把握分寸，不能把酒馆变成角斗场，让人横着被抬出去。"
+    "{cps=50}正因如此，店里始终需要一位得力护卫——既能维持秩序、严惩闹事者，又得把握分寸，不能把酒馆变成角斗场，让人横着被抬出去。"
 
 # game/script_dlc_2.rpy:4491
 translate chinese maidstone_city_quest_roadhouse_invitation_60ca0f57:
 
     nvl clear
-    "眼下，酒馆老板正物色人手顶替一名打手——那家伙把几个闹事的醉鬼活活打死，让这家本就名声不佳的店更加声名狼藉。"
+    "{cps=50}眼下，酒馆老板正物色人手顶替一名打手——那家伙把几个闹事的醉鬼活活打死，让这家本就名声不佳的店更加声名狼藉。"
 
 # game/script_dlc_2.rpy:4493
 translate chinese maidstone_city_quest_roadhouse_invitation_d8f872b8:
 
     nvl clear
-    "凭你行伍出身的底子，这份差事应当不在话下——前提是你愿意守规矩，一切行动严格采用非致命手段。"
+    "{cps=50}凭你行伍出身的底子，这份差事应当不在话下——前提是你愿意守规矩，一切行动严格采用非致命手段。"
 
 # game/script_dlc_2.rpy:4495
 translate chinese maidstone_city_quest_roadhouse_invitation_76b2fe88_2:
@@ -2987,37 +2987,37 @@ translate chinese maidstone_city_quest_roadhouse_invitation_76b2fe88_2:
 translate chinese maidstone_city_quest_roadhouse_invitation_c1e887d7:
 
     nvl clear
-    "这个提议勾起了你的兴趣，你同意去酒馆一试打手的差事。"
+    "{cps=50}这个提议勾起了你的兴趣，你同意去酒馆一试打手的差事。"
 
 # game/script_dlc_2.rpy:4500
 translate chinese maidstone_city_quest_roadhouse_invitation_6beedb67:
 
     nvl clear
-    "见你应允，酒馆老板喜出望外，许诺每个班次都会付给你可观的报酬，并让你下周一正式上工。{color=#A9A9A9}{vspace=5}获得新任务——[roadhouse.name!ti]！"
+    "{cps=50}见你应允，酒馆老板喜出望外，许诺每个班次都会付给你可观的报酬，并让你下周一正式上工。{color=#A9A9A9}{vspace=5}获得新任务——[roadhouse.name!ti]！"
 
 # game/script_dlc_2.rpy:4503
 translate chinese maidstone_city_quest_roadhouse_invitation_8e34972c:
 
     nvl clear
-    "{color=#A9A9A9}教程——打手工作。{vspace=5}打手的职责，是使用仅限非致命的手段制服扰乱秩序者。无故杀人属于违法行为，将招致种种惩处，包括逮捕监禁，乃至处决。"
+    "{cps=50}{color=#A9A9A9}教程——打手工作。{vspace=5}打手的职责，是使用仅限非致命的手段制服扰乱秩序者。无故杀人属于违法行为，将招致种种惩处，包括逮捕监禁，乃至处决。"
 
 # game/script_dlc_2.rpy:4505
 translate chinese maidstone_city_quest_roadhouse_invitation_13a10941:
 
     nvl clear
-    "{color=#A9A9A9}制服对手的方式有几种：{vspace=5}-将其击晕；{vspace=5}-将其体力彻底耗尽；{vspace=5}-使其身受三处或更多伤势；{vspace=5}-将其生命降到最大值的10%%（或更低，但不得低于1%%）。"
+    "{cps=50}{color=#A9A9A9}制服对手的方式有几种：{vspace=5}-将其击晕；{vspace=5}-将其体力彻底耗尽；{vspace=5}-使其身受三处或更多伤势；{vspace=5}-将其生命降到最大值的10%%（或更低，但不得低于1%%）。"
 
 # game/script_dlc_2.rpy:4507
 translate chinese maidstone_city_quest_roadhouse_invitation_32735119:
 
     nvl clear
-    "{color=#A9A9A9}打手的标配武器是棍棒。打手可以随身携带其他武器，但任何致命武器的使用都为店家所明令禁止，违者将被解雇。"
+    "{cps=50}{color=#A9A9A9}打手的标配武器是棍棒。打手可以随身携带其他武器，但任何致命武器的使用都为店家所明令禁止，违者将被解雇。"
 
 # game/script_dlc_2.rpy:4509
 translate chinese maidstone_city_quest_roadhouse_invitation_c35f13ba:
 
     nvl clear
-    "{color=#A9A9A9}打手不得穿戴金属甲胄，除非是将锁子甲藏于衣内。"
+    "{cps=50}{color=#A9A9A9}打手不得穿戴金属甲胄，除非是将锁子甲藏于衣内。"
 
 # game/script_dlc_2.rpy:4513
 translate chinese maidstone_city_quest_roadhouse_invitation_76b2fe88:
@@ -3029,7 +3029,7 @@ translate chinese maidstone_city_quest_roadhouse_invitation_76b2fe88:
 translate chinese maidstone_city_quest_roadhouse_invitation_fb7e6882:
 
     nvl clear
-    "你对这份差事不感兴趣，谢绝了老板的提议。"
+    "{cps=50}你对这份差事不感兴趣，谢绝了老板的提议。"
 
 # game/script_dlc_2.rpy:4519
 translate chinese maidstone_city_quest_roadhouse_invitation_76b2fe88_1:
@@ -3040,7 +3040,7 @@ translate chinese maidstone_city_quest_roadhouse_invitation_76b2fe88_1:
 # game/script_dlc_2.rpy:4529
 translate chinese maidstone_city_quest_roadhouse_item_check_839e7838:
 
-    "你不能身着盔甲上工。"
+    "{cps=50}你不能身着盔甲上工。"
 
 # game/script_dlc_2.rpy:4530
 translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88:
@@ -3051,7 +3051,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88:
 # game/script_dlc_2.rpy:4539
 translate chinese maidstone_city_quest_roadhouse_item_check_839e7838_1:
 
-    "你不能身着盔甲上工。"
+    "{cps=50}你不能身着盔甲上工。"
 
 # game/script_dlc_2.rpy:4540
 translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88_1:
@@ -3062,7 +3062,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88_1:
 # game/script_dlc_2.rpy:4547
 translate chinese maidstone_city_quest_roadhouse_item_check_839e7838_2:
 
-    "你不能身着盔甲上工。"
+    "{cps=50}你不能身着盔甲上工。"
 
 # game/script_dlc_2.rpy:4548
 translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88_2:
@@ -3073,7 +3073,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88_2:
 # game/script_dlc_2.rpy:4555
 translate chinese maidstone_city_quest_roadhouse_item_check_da390fff:
 
-    "你不能带着盾牌上工。"
+    "{cps=50}你不能带着盾牌上工。"
 
 # game/script_dlc_2.rpy:4556
 translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88_3:
@@ -3084,7 +3084,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88_3:
 # game/script_dlc_2.rpy:4565
 translate chinese maidstone_city_quest_roadhouse_item_check_839e7838_3:
 
-    "你不能身着盔甲上工。"
+    "{cps=50}你不能身着盔甲上工。"
 
 # game/script_dlc_2.rpy:4566
 translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88_4:
@@ -3095,7 +3095,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88_4:
 # game/script_dlc_2.rpy:4575
 translate chinese maidstone_city_quest_roadhouse_item_check_1a360fd1:
 
-    "没有棍棒，你无法上工。"
+    "{cps=50}没有棍棒，你无法上工。"
 
 # game/script_dlc_2.rpy:4576
 translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88_5:
@@ -3106,7 +3106,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88_5:
 # game/script_dlc_2.rpy:4582
 translate chinese maidstone_city_quest_roadhouse_item_check_1a360fd1_1:
 
-    "没有棍棒，你无法上工。"
+    "{cps=50}没有棍棒，你无法上工。"
 
 # game/script_dlc_2.rpy:4583
 translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88_6:
@@ -3117,7 +3117,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88_6:
 # game/script_dlc_2.rpy:4588
 translate chinese maidstone_city_quest_roadhouse_item_check_8090c0d4:
 
-    "你不能携带淬毒武器上工。"
+    "{cps=50}你不能携带淬毒武器上工。"
 
 # game/script_dlc_2.rpy:4589
 translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88_7:
@@ -3128,7 +3128,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_76b2fe88_7:
 # game/script_dlc_2.rpy:4616
 translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_839e7838:
 
-    "你不能身着盔甲上工。"
+    "{cps=50}你不能身着盔甲上工。"
 
 # game/script_dlc_2.rpy:4617
 translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88:
@@ -3139,7 +3139,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88:
 # game/script_dlc_2.rpy:4626
 translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_839e7838_1:
 
-    "你不能身着盔甲上工。"
+    "{cps=50}你不能身着盔甲上工。"
 
 # game/script_dlc_2.rpy:4627
 translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88_1:
@@ -3150,7 +3150,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88_1
 # game/script_dlc_2.rpy:4634
 translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_839e7838_2:
 
-    "你不能身着盔甲上工。"
+    "{cps=50}你不能身着盔甲上工。"
 
 # game/script_dlc_2.rpy:4635
 translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88_2:
@@ -3161,7 +3161,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88_2
 # game/script_dlc_2.rpy:4642
 translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_da390fff:
 
-    "你不能带着盾牌上工。"
+    "{cps=50}你不能带着盾牌上工。"
 
 # game/script_dlc_2.rpy:4643
 translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88_3:
@@ -3172,7 +3172,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88_3
 # game/script_dlc_2.rpy:4652
 translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_839e7838_3:
 
-    "你不能身着盔甲上工。"
+    "{cps=50}你不能身着盔甲上工。"
 
 # game/script_dlc_2.rpy:4653
 translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88_4:
@@ -3183,7 +3183,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88_4
 # game/script_dlc_2.rpy:4664
 translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_1a360fd1:
 
-    "没有棍棒，你无法上工。"
+    "{cps=50}没有棍棒，你无法上工。"
 
 # game/script_dlc_2.rpy:4665
 translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88_5:
@@ -3194,7 +3194,7 @@ translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88_5
 # game/script_dlc_2.rpy:4670
 translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_8090c0d4:
 
-    "你不能携带淬毒武器上工。"
+    "{cps=50}你不能携带淬毒武器上工。"
 
 # game/script_dlc_2.rpy:4671
 translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88_6:
@@ -3206,25 +3206,25 @@ translate chinese maidstone_city_quest_roadhouse_item_check_battlehub_76b2fe88_6
 translate chinese maidstone_city_quest_roadhouse_1_29904493:
 
     nvl clear
-    "{cps=50}新差事的头一天波澜不惊地过去了。"
+    "{cps=50}新差事的第一天过得相当平静。"
 
 # game/script_dlc_2.rpy:4704
 translate chinese maidstone_city_quest_roadhouse_1_08b264d6:
 
     nvl clear
-    "没有遇到特别撒野的酒鬼；少数几个开始闹事的，只需你一声呵斥，便立刻安分下来。"
+    "{cps=50}没有遇到特别撒野的酒鬼；少数几个开始闹事的，只需你一声呵斥，便立刻安分下来。"
 
 # game/script_dlc_2.rpy:4706
 translate chinese maidstone_city_quest_roadhouse_1_5c99f74c:
 
     nvl clear
-    "到了中午，你已底气十足；及至晚餐时分，更是如鱼得水。"
+    "{cps=50}到了中午，你已底气十足；及至晚餐时分，更是如鱼得水。"
 
 # game/script_dlc_2.rpy:4708
 translate chinese maidstone_city_quest_roadhouse_1_e9b1d6d6:
 
     nvl clear
-    "唯一棘手的，是四周那前所未有的美酒琳琅，诱人之处实在太多。"
+    "{cps=50}唯一棘手的，是四周那前所未有的美酒琳琅，诱人之处实在太多。"
 
 # game/script_dlc_2.rpy:4710
 translate chinese maidstone_city_quest_roadhouse_1_76b2fe88:
@@ -3235,54 +3235,54 @@ translate chinese maidstone_city_quest_roadhouse_1_76b2fe88:
 # game/script_dlc_2.rpy:4712
 translate chinese maidstone_city_quest_roadhouse_1_60c65721:
 
-    "好在你的道德操守足够坚定，抵住了种种诱惑。{color=#A9A9A9}{vspace=5}虔诚——成功！"
+    "{cps=50}好在你的道德操守足够坚定，抵住了种种诱惑。{color=#A9A9A9}{vspace=5}美德——成功！"
 
 # game/script_dlc_2.rpy:4713
 translate chinese maidstone_city_quest_roadhouse_1_cc81a12b:
 
     nvl clear
-    "傍晚时分，一伙约莫五六人的嘈杂汉子闯进店里，这帮人即便滴酒未沾，举止也算不上体面。"
+    "{cps=50}傍晚时分，一伙约莫五六人的嘈杂汉子闯进店里，这帮人即便滴酒未沾，举止也算不上体面。"
 
 # game/script_dlc_2.rpy:4716
 translate chinese maidstone_city_quest_roadhouse_1_746d5235:
 
-    "你终究没能扛住诱惑，趁无人注意，偷偷灌下了一两品脱。{color=#A9A9A9}{vspace=5}虔诚——失败！"
+    "{cps=50}你终究没能扛住诱惑，趁无人注意，偷偷灌下了一两品脱。{color=#A9A9A9}{vspace=5}美德——失败！"
 
 # game/script_dlc_2.rpy:4717
 translate chinese maidstone_city_quest_roadhouse_1_ef9a4039:
 
     nvl clear
-    "接着又是第三品脱、第四品脱。"
+    "{cps=50}接着又是第三品脱、第四品脱。"
 
 # game/script_dlc_2.rpy:4719
 translate chinese maidstone_city_quest_roadhouse_1_a6b863f1:
 
     nvl clear
-    "结果，到了傍晚，你已经喝得颇有醉意。{color=#A9A9A9}{vspace=5}醉酒！"
+    "{cps=50}结果，到了傍晚，你已经喝得颇有醉意。{color=#A9A9A9}{vspace=5}醉酒！"
 
 # game/script_dlc_2.rpy:4735
 translate chinese maidstone_city_quest_roadhouse_1_dccf0941:
 
     nvl clear
-    "偏偏不巧，恰在此时，一伙约莫五六人的嘈杂汉子闯进店里，这帮人即便滴酒未沾，举止也算不上体面。"
+    "{cps=50}偏偏不巧，恰在此时，一伙约莫五六人的嘈杂汉子闯进店里，这帮人即便滴酒未沾，举止也算不上体面。"
 
 # game/script_dlc_2.rpy:4738
 translate chinese maidstone_city_quest_roadhouse_1_411d31ba:
 
     nvl clear
-    "随着他们灌下肚的麦酒越来越多，闯下的祸也像滚雪球一般越滚越大：那帮人公然对女招待动手动脚，拿残羹剩饭砸其他客人，砸盘子摔碗，最后干脆赖账不付。"
+    "{cps=50}随着他们灌下肚的麦酒越来越多，闯下的祸也像滚雪球一般越滚越大：那帮人公然对女招待动手动脚，拿残羹剩饭砸其他客人，砸盘子摔碗，最后干脆赖账不付。"
 
 # game/script_dlc_2.rpy:4740
 translate chinese maidstone_city_quest_roadhouse_1_ce38ef9e:
 
     nvl clear
-    "酒馆老板最后出面，想劝住这帮恶客，结果话还没说两句，头上就挨了一凳子。"
+    "{cps=50}酒馆老板最后出面，想劝住这帮恶客，结果话还没说两句，头上就挨了一凳子。"
 
 # game/script_dlc_2.rpy:4742
 translate chinese maidstone_city_quest_roadhouse_1_fb22788f:
 
     nvl clear
-    "你出手了。"
+    "{cps=50}你出手了。"
 
 # game/script_dlc_2.rpy:4745
 translate chinese maidstone_city_quest_roadhouse_1_76b2fe88_1:
@@ -3300,7 +3300,7 @@ translate chinese maidstone_city_quest_roadhouse_fight_76b2fe88:
 translate chinese maidstone_city_quest_roadhouse_postfight_15be6fa5:
 
     nvl clear
-    "混战中，你失手杀了几个人——正如酒馆老板事先警告的那样，当晚你便被逮捕了。"
+    "{cps=50}混战中，你失手杀了几个人——正如酒馆老板事先警告的那样，当晚你便被逮捕了。"
 
 # game/script_dlc_2.rpy:5263
 translate chinese maidstone_city_quest_roadhouse_postfight_76b2fe88:
@@ -3312,13 +3312,13 @@ translate chinese maidstone_city_quest_roadhouse_postfight_76b2fe88:
 translate chinese maidstone_city_quest_roadhouse_postfight_b2f9ec88:
 
     nvl clear
-    "尽管那伙恶客企图反抗，你仍将他们一个接一个地扔出了酒馆。"
+    "{cps=50}尽管那伙恶客企图反抗，你仍将他们一个接一个地扔出了酒馆。"
 
 # game/script_dlc_2.rpy:5269
 translate chinese maidstone_city_quest_roadhouse_postfight_ae70b91d:
 
     nvl clear
-    "酒馆老板对你干练的表现赞不绝口，爽快地支付了许诺的报酬。{color=#A9A9A9}{vspace=5}获得150弗罗林！"
+    "{cps=50}酒馆老板对你干练的表现赞不绝口，爽快地支付了许诺的报酬。{color=#A9A9A9}{vspace=5}获得150弗罗林！"
 
 # game/script_dlc_2.rpy:5273
 translate chinese maidstone_city_quest_roadhouse_postfight_76b2fe88_1:
@@ -3330,19 +3330,19 @@ translate chinese maidstone_city_quest_roadhouse_postfight_76b2fe88_1:
 translate chinese maidstone_city_quest_roadhouse_2_fbcf0749:
 
     nvl clear
-    "新差事的第二天，开头与第一天如出一辙——风平浪静。"
+    "{cps=50}新差事的第二天，开头与第一天如出一辙——风平浪静。"
 
 # game/script_dlc_2.rpy:5288
 translate chinese maidstone_city_quest_roadhouse_2_52f99c1c:
 
     nvl clear
-    "将近正午时分，店里一位面色阴沉的常客喝多了葡萄酒，开始对女招待动手动脚。"
+    "{cps=50}将近正午时分，店里一位面色阴沉的常客喝多了葡萄酒，开始对女招待动手动脚。"
 
 # game/script_dlc_2.rpy:5290
 translate chinese maidstone_city_quest_roadhouse_2_d71bf198:
 
     nvl clear
-    "你出声呵止了他。"
+    "{cps=50}你出声呵止了他。"
 
 # game/script_dlc_2.rpy:5292
 translate chinese maidstone_city_quest_roadhouse_2_76b2fe88:
@@ -3353,67 +3353,67 @@ translate chinese maidstone_city_quest_roadhouse_2_76b2fe88:
 # game/script_dlc_2.rpy:5294
 translate chinese maidstone_city_quest_roadhouse_2_3e2aa5b0:
 
-    "见与打手硬碰没有好处，这位常客当即收敛，很快就离开了酒馆。{color=#A9A9A9}{vspace=5}力量——成功！"
+    "{cps=50}见与打手硬碰没有好处，这位常客当即收敛，很快就离开了酒馆。{color=#A9A9A9}{vspace=5}力量——成功！"
 
 # game/script_dlc_2.rpy:5296
 translate chinese maidstone_city_quest_roadhouse_2_68950b10:
 
     nvl clear
-    "这位常客装出一副不想招惹你的样子，假装要走。可你目光刚移开一瞬，他便抄起桌上一只沉甸甸的酒瓶，朝你脑袋砸了下来。{color=#A9A9A9}{vspace=5}力量——失败！"
+    "{cps=50}这位常客装出一副不想招惹你的样子，假装要走。可你目光刚移开一瞬，他便抄起桌上一只沉甸甸的酒瓶，朝你脑袋砸了下来。{color=#A9A9A9}{vspace=5}力量——失败！"
 
 # game/script_dlc_2.rpy:5300
 translate chinese maidstone_city_quest_roadhouse_2_f5f8fe0c:
 
     nvl clear
-    "千钧一发之际，你堪堪避开了这一击。{color=#A9A9A9}{vspace=5}敏捷、协调——成功！"
+    "{cps=50}千钧一发之际，你堪堪避开了这一击。{color=#A9A9A9}{vspace=5}敏捷、协调——成功！"
 
 # game/script_dlc_2.rpy:5303
 translate chinese maidstone_city_quest_roadhouse_2_877a6dcd:
 
     nvl clear
-    "你没能躲开这一击……{color=#A9A9A9}{vspace=5}敏捷、协调——失败！"
+    "{cps=50}你没能躲开这一击……{color=#A9A9A9}{vspace=5}敏捷、协调——失败！"
 
 # game/script_dlc_2.rpy:5307
 translate chinese maidstone_city_quest_roadhouse_2_fdd5dcdd:
 
     nvl clear
-    "剧烈的脑震荡接踵而至，叠加此前头部的旧伤，你的身体大受摧残！{color=#A9A9A9}{vspace=5}生命力降低2点！"
+    "{cps=50}剧烈的脑震荡接踵而至，叠加此前头部的旧伤，你的身体大受摧残！{color=#A9A9A9}{vspace=5}活力降低2点！"
 
 # game/script_dlc_2.rpy:5311
 translate chinese maidstone_city_quest_roadhouse_2_e2b4b555:
 
     nvl clear
-    "你遭到了严重的脑震荡！{color=#A9A9A9}{vspace=5}脑震荡！"
+    "{cps=50}你遭到了严重的脑震荡！{color=#A9A9A9}{vspace=5}脑震荡！"
 
 # game/script_dlc_2.rpy:5317
 translate chinese maidstone_city_quest_roadhouse_2_bb6bb59d:
 
     nvl clear
-    "所幸，这个闹事者很快就被你制服，扔出店外，临了还顺手赏了他一记响亮的屁股脚，好让他滚得更利索。"
+    "{cps=50}所幸，这个闹事者很快就被你制服，扔出店外，临了还顺手赏了他一记响亮的屁股脚，好让他滚得更利索。"
 
 # game/script_dlc_2.rpy:5320
 translate chinese maidstone_city_quest_roadhouse_2_87b12833:
 
     nvl clear
-    "平静了几个时辰之后，新的麻烦出现了：一位过路的骑士也喝得酩酊大醉，如今死活不肯结账。"
+    "{cps=50}平静了几个时辰之后，新的麻烦出现了：一位过路的骑士也喝得酩酊大醉，如今死活不肯结账。"
 
 # game/script_dlc_2.rpy:5322
 translate chinese maidstone_city_quest_roadhouse_2_cfe57dc7:
 
     nvl clear
-    "骑士对催账的女招待视若无睹，粗鲁地拨开挡道的客人，脚步踉跄地朝门口走去。"
+    "{cps=50}骑士对催账的女招待视若无睹，粗鲁地拨开挡道的客人，脚步踉跄地朝门口走去。"
 
 # game/script_dlc_2.rpy:5324
 translate chinese maidstone_city_quest_roadhouse_2_9733985e:
 
     nvl clear
-    "你拦在他面前，作最后的劝告，提醒他先付清酒钱。"
+    "{cps=50}你拦在他面前，作最后的劝告，提醒他先付清酒钱。"
 
 # game/script_dlc_2.rpy:5326
 translate chinese maidstone_city_quest_roadhouse_2_b35fcfa0:
 
     nvl clear
-    "骑士抛下一句——{i}\"所有欠我钱的人，我都宽恕了\"{/i}——便试图连你也推开。见你不肯放他走，他伸手握住了剑柄。"
+    "{cps=50}骑士抛下一句——{i}\"所有欠我钱的人，我都宽恕了\"{/i}——便试图连你也推开。见你不肯放他走，他伸手握住了剑柄。"
 
 # game/script_dlc_2.rpy:5330
 translate chinese maidstone_city_quest_roadhouse_2_76b2fe88_1:
@@ -3425,7 +3425,7 @@ translate chinese maidstone_city_quest_roadhouse_2_76b2fe88_1:
 translate chinese maidstone_city_quest_roadhouse_fight2_7e24f86e:
 
     nvl clear
-    "闻讯赶来的守军帮着你制服了骑士，将他逐出店外。"
+    "{cps=50}闻讯赶来的守军帮着你制服了骑士，将他逐出店外。"
 
 # game/script_dlc_2.rpy:5647
 translate chinese maidstone_city_quest_roadhouse_fight2_76b2fe88:
@@ -3437,7 +3437,7 @@ translate chinese maidstone_city_quest_roadhouse_fight2_76b2fe88:
 translate chinese maidstone_city_quest_roadhouse_postfight2_2dab78e3:
 
     nvl clear
-    "当着众多目击者之面杀害骑士，此事无法遮掩。当晚，你便被逮捕了。"
+    "{cps=50}当着众多目击者之面杀害骑士，此事无法遮掩。当晚，你便被逮捕了。"
 
 # game/script_dlc_2.rpy:5715
 translate chinese maidstone_city_quest_roadhouse_postfight2_76b2fe88:
@@ -3449,7 +3449,7 @@ translate chinese maidstone_city_quest_roadhouse_postfight2_76b2fe88:
 translate chinese maidstone_city_quest_roadhouse_postfight2_04f201c8:
 
     nvl clear
-    "制伏骑士之后，你平静地干完了这一天剩下的活。{color=#A9A9A9}{vspace=5}获得150弗罗林！"
+    "{cps=50}制伏骑士之后，你平静地干完了这一天剩下的活。{color=#A9A9A9}{vspace=5}获得150弗罗林！"
 
 # game/script_dlc_2.rpy:5723
 translate chinese maidstone_city_quest_roadhouse_postfight2_76b2fe88_1:
@@ -3461,31 +3461,31 @@ translate chinese maidstone_city_quest_roadhouse_postfight2_76b2fe88_1:
 translate chinese maidstone_city_quest_roadhouse_3_ad7526d8:
 
     nvl clear
-    "第三天照例平静开场，可惜这份安宁未能长久。"
+    "{cps=50}第三天照例平静开场，可惜这份安宁未能长久。"
 
 # game/script_dlc_2.rpy:5737
 translate chinese maidstone_city_quest_roadhouse_3_e370d289:
 
     nvl clear
-    "将近正午，一大帮附近某位领主麾下的士兵涌进了酒馆。这帮人喧闹不休、笑声不断，渐渐把店里搅得天翻地覆，好在总体上还算没出格。"
+    "{cps=50}将近正午，一大帮附近某位领主麾下的士兵涌进了酒馆。这帮人喧闹不休、笑声不断，渐渐把店里搅得天翻地覆，好在总体上还算没出格。"
 
 # game/script_dlc_2.rpy:5739
 translate chinese maidstone_city_quest_roadhouse_3_c3e14e08:
 
     nvl clear
-    "过了一阵，真正的麻烦来了——另一伙士兵陆续进店，他们是梅德斯通城防军的。"
+    "{cps=50}过了一阵，真正的麻烦来了——另一伙士兵陆续进店，他们是梅德斯通城防军的。"
 
 # game/script_dlc_2.rpy:5741
 translate chinese maidstone_city_quest_roadhouse_3_d672ac7a:
 
     nvl clear
-    "这两伙人之间显然有过节，从彼此针锋相对的挖苦和敌意来看，那绝不是一段愉快的往事。"
+    "{cps=50}这两伙人之间显然有过节，从彼此针锋相对的挖苦和敌意来看，那绝不是一段愉快的往事。"
 
 # game/script_dlc_2.rpy:5743
 translate chinese maidstone_city_quest_roadhouse_3_1e7b0cde:
 
     nvl clear
-    "当双方灌下的酒量越过临界点，一场毫无章法的混战爆发了……"
+    "{cps=50}当双方灌下的酒量越过临界点，一场毫无章法的混战爆发了……"
 
 # game/script_dlc_2.rpy:5747
 translate chinese maidstone_city_quest_roadhouse_3_76b2fe88:
@@ -3503,7 +3503,7 @@ translate chinese maidstone_city_quest_roadhouse_fight3_76b2fe88:
 translate chinese maidstone_city_quest_roadhouse_postfight3_15be6fa5:
 
     nvl clear
-    "混战中，你失手杀了几个人——正如酒馆老板事先警告的那样，当晚你便被逮捕了。"
+    "{cps=50}混战中，你失手杀了几个人——正如酒馆老板事先警告的那样，当晚你便被逮捕了。"
 
 # game/script_dlc_2.rpy:6228
 translate chinese maidstone_city_quest_roadhouse_postfight3_76b2fe88:
@@ -3515,19 +3515,19 @@ translate chinese maidstone_city_quest_roadhouse_postfight3_76b2fe88:
 translate chinese maidstone_city_quest_roadhouse_postfight3_70f85669:
 
     nvl clear
-    "你一个接一个地将斗殴者打翻在地，总算止住了这场群殴，免去那些醉兵自相残杀的惨剧。但酒馆你却实在护不住了——一场混战下来，店里已被砸得底朝天。"
+    "{cps=50}你一个接一个地将斗殴者打翻在地，总算止住了这场群殴，免去那些醉兵自相残杀的惨剧。但酒馆你却实在护不住了——一场混战下来，店里已被砸得底朝天。"
 
 # game/script_dlc_2.rpy:6234
 translate chinese maidstone_city_quest_roadhouse_postfight3_a7a5ec5d:
 
     nvl clear
-    "好在老板并不怎么沮丧——据他说，\"路边之家\"出这种事早已不是头一遭。收拾残局约莫要一两个星期，之后酒馆便会重新开门迎客。"
+    "{cps=50}好在老板并不怎么沮丧——据他说，\"路边之家\"出这种事早已不是头一遭。收拾残局约莫要一两个星期，之后酒馆便会重新开门迎客。"
 
 # game/script_dlc_2.rpy:6236
 translate chinese maidstone_city_quest_roadhouse_postfight3_8623d593:
 
     nvl clear
-    "他结清了这一班的工钱，并说等店里恢复后自会通知你回来上工。{color=#A9A9A9}{vspace=5}获得150弗罗林！"
+    "{cps=50}他结清了这一班的工钱，并说等店里恢复后自会通知你回来上工。{color=#A9A9A9}{vspace=5}获得150弗罗林！"
 
 # game/script_dlc_2.rpy:6240
 translate chinese maidstone_city_quest_roadhouse_postfight3_76b2fe88_2:
@@ -3539,7 +3539,7 @@ translate chinese maidstone_city_quest_roadhouse_postfight3_76b2fe88_2:
 translate chinese maidstone_city_quest_roadhouse_postfight3_88141a15:
 
     nvl clear
-    "{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:6248
 translate chinese maidstone_city_quest_roadhouse_postfight3_76b2fe88_1:
@@ -3551,165 +3551,165 @@ translate chinese maidstone_city_quest_roadhouse_postfight3_76b2fe88_1:
 translate chinese player_drafted_into_canterburys_army_28863aa2:
 
     nvl clear
-    "事态急转直下。你在颠簸的货车里度过了大约一天，与另外五六个人一同被送进了伦敦城外那座庞大的军营。"
+    "{cps=50}事态急转直下。你在颠簸的货车里度过了大约一天，与另外五六个人一同被送进了伦敦城外那座庞大的军营。"
 
 # game/script_dlc_2.rpy:6276
 translate chinese player_drafted_into_canterburys_army_6a6c4acf:
 
     nvl clear
-    "其规模之大令人咋舌。凭目力估算，伦敦这座营盘至少比当年王军围困康布雷城时的营地大出一倍。"
+    "{cps=50}其规模之大令人咋舌。凭目力估算，伦敦这座营盘至少比当年王军围困康布雷城时的营地大出一倍。"
 
 # game/script_dlc_2.rpy:6278
 translate chinese player_drafted_into_canterburys_army_5be4b53a:
 
     nvl clear
-    "此地集结的兵马之多、军容之盛，令人屏息。"
+    "{cps=50}此地集结的兵马之多、军容之盛，令人屏息。"
 
 # game/script_dlc_2.rpy:6280
 translate chinese player_drafted_into_canterburys_army_38812220:
 
     nvl clear
-    "然而，一如往常，第一印象并不可靠——至少部分是假象。"
+    "{cps=50}然而，一如往常，第一印象并不可靠——至少部分是假象。"
 
 # game/script_dlc_2.rpy:6282
 translate chinese player_drafted_into_canterburys_army_ffb5eb3a:
 
     nvl clear
-    "在营中待了数个时辰，你明白了两件事。"
+    "{cps=50}在营中待了数个时辰，你明白了两件事。"
 
 # game/script_dlc_2.rpy:6284
 translate chinese player_drafted_into_canterburys_army_f1ed2f1e:
 
     nvl clear
-    "其一，营中至少四分之三是民兵——都是从四面八方随便拉来的乌合之众，对自己将要干什么几乎一无所知。"
+    "{cps=50}其一，营中至少四分之三是民兵——都是从四面八方随便拉来的乌合之众，对自己将要干什么几乎一无所知。"
 
 # game/script_dlc_2.rpy:6286
 translate chinese player_drafted_into_canterburys_army_00d145dd:
 
     nvl clear
-    "其二，民兵们占据的大半个营区，正处于一种匪夷所思的混乱之中。"
+    "{cps=50}其二，民兵们占据的大半个营区，正处于一种匪夷所思的混乱之中。"
 
 # game/script_dlc_2.rpy:6288
 translate chinese player_drafted_into_canterburys_army_e4bb3c0a:
 
     nvl clear
-    "四处人影乱窜，互相矛盾的命令从四面八方传来；成群迷路的新兵在将领的帐篷间来回打转；刚卸空的辎重车不知为何又被重新装填，装完没多久，又开始卸货。"
+    "{cps=50}四处人影乱窜，互相矛盾的命令从四面八方传来；成群迷路的新兵在将领的帐篷间来回打转；刚卸空的辎重车不知为何又被重新装填，装完没多久，又开始卸货。"
 
 # game/script_dlc_2.rpy:6290
 translate chinese player_drafted_into_canterburys_army_b0061a99:
 
     nvl clear
-    "在这片喧嚣的汪洋中，唯一的宁静孤岛，是远处那片支起的营帐。帐顶飘扬的旗帜中，你认出了罗杰麾下的战旗。"
+    "{cps=50}在这片喧嚣的汪洋中，唯一的宁静孤岛，是远处那片支起的营帐。帐顶飘扬的旗帜中，你认出了罗杰麾下的战旗。"
 
 # game/script_dlc_2.rpy:6292
 translate chinese player_drafted_into_canterburys_army_347229e8:
 
     nvl clear
     nvl clear
-    "勉强安顿下来后，你从与其他士兵的攀谈中，大致弄清了眼下的局势。"
+    "{cps=50}勉强安顿下来后，你从与其他士兵的攀谈中，大致弄清了眼下的局势。"
 
 # game/script_dlc_2.rpy:6296
 translate chinese player_drafted_into_canterburys_army_618bec53:
 
     nvl clear
-    "据传闻，年轻的王子——战死先王之子——与伦敦议会爆发了冲突。王子不愿以和平方式协商，执意发兵进攻都城，就此点燃了战火。"
+    "{cps=50}据传闻，年轻的王子——战死先王之子——与伦敦议会爆发了冲突。王子不愿以和平方式协商，执意发兵进攻都城，就此点燃了战火。"
 
 # game/script_dlc_2.rpy:6298
 translate chinese player_drafted_into_canterburys_army_f896a1e0:
 
     nvl clear
-    "王子与议会究竟因何反目，谁也说不清楚——众说纷纭，莫衷一是。流传最广的说法是：王子想在欧陆再启战端，替亡父了却未竟之业；而议会则不愿再为这场战争掏钱，认定它毫无意义、得不偿失。"
+    "{cps=50}王子与议会究竟因何反目，谁也说不清楚——众说纷纭，莫衷一是。流传最广的说法是：王子想在欧陆再启战端，替亡父了却未竟之业；而议会则不愿再为这场战争掏钱，认定它毫无意义、得不偿失。"
 
 # game/script_dlc_2.rpy:6300
 translate chinese player_drafted_into_canterburys_army_b91e9b1a:
 
     nvl clear
-    "对你和你这些新结识的同伴这样的平头百姓而言，王子的野心同样不是好兆头。与法兰西的战事延续，意味着旧税加码、新税开征；而最要命的还是——极有可能被拉去充作民兵，再一次被送到某座\"康布雷\"的城墙之下。"
+    "{cps=50}对你和你这些新结识的同伴这样的平头百姓而言，王子的野心同样不是好兆头。与法兰西的战事延续，意味着旧税加码、新税开征；而最要命的还是——极有可能被拉去充作民兵，再一次被送到某座\"康布雷\"的城墙之下。"
 
 # game/script_dlc_2.rpy:6302
 translate chinese player_drafted_into_canterburys_army_bbd90f25:
 
     nvl clear
-    "身边愿意再去康布雷城下的人寥寥无几，因此，多数士兵的心都偏向议会。"
+    "{cps=50}身边愿意再去康布雷城下的人寥寥无几，因此，多数士兵的心都偏向议会。"
 
 # game/script_dlc_2.rpy:6304
 translate chinese player_drafted_into_canterburys_army_db367ec2:
 
     nvl clear
-    "至于先前罗杰提到的坎特伯雷伯爵，议会因其老练且孚众望，推举他为议会的护卫者，并授予了非常权力。"
+    "{cps=50}至于先前罗杰提到的坎特伯雷伯爵，议会因其老练且孚众望，推举他为议会的护卫者，并授予了非常权力。"
 
 # game/script_dlc_2.rpy:6306
 translate chinese player_drafted_into_canterburys_army_ef95f16e:
 
     nvl clear
     nvl clear
-    "在这样一番交谈与思忖之中，接下来的两天转眼而过。"
+    "{cps=50}在这样一番交谈与思忖之中，接下来的两天转眼而过。"
 
 # game/script_dlc_2.rpy:6310
 translate chinese player_drafted_into_canterburys_army_68da0633:
 
     nvl clear
-    "值得一提的是，尽管营中一片混乱，粮秣仍源源不断运抵；军需官照常发放饷银；装备官也没有忘记分发武器与军械；多数士兵——包括你在内——甚至被拉到军医处草草检查了一遍身体。"
+    "{cps=50}值得一提的是，尽管营中一片混乱，粮秣仍源源不断运抵；军需官照常发放饷银；装备官也没有忘记分发武器与军械；多数士兵——包括你在内——甚至被拉到军医处草草检查了一遍身体。"
 
 # game/script_dlc_2.rpy:6314
 translate chinese player_drafted_into_canterburys_army_06013d66:
 
     nvl clear
-    "{color=#A9A9A9}疲劳值降低了！"
+    "{cps=50}{color=#A9A9A9}疲劳值降低了！"
 
 # game/script_dlc_2.rpy:6319
 translate chinese player_drafted_into_canterburys_army_51083487:
 
     nvl clear
-    "{color=#A9A9A9}伤势已治愈：腿部伤。"
+    "{cps=50}{color=#A9A9A9}伤势已治愈：腿部伤。"
 
 # game/script_dlc_2.rpy:6327
 translate chinese player_drafted_into_canterburys_army_40160149:
 
     nvl clear
-    "{color=#A9A9A9}伤势已治愈：眼部伤。"
+    "{cps=50}{color=#A9A9A9}伤势已治愈：眼部伤。"
 
 # game/script_dlc_2.rpy:6335
 translate chinese player_drafted_into_canterburys_army_25ab733e:
 
     nvl clear
-    "{color=#A9A9A9}伤势已治愈：手臂伤。"
+    "{cps=50}{color=#A9A9A9}伤势已治愈：手臂伤。"
 
 # game/script_dlc_2.rpy:6346
 translate chinese player_drafted_into_canterburys_army_a119dbe1:
 
     nvl clear
-    "{color=#A9A9A9}伤势已治愈：肺部伤。"
+    "{cps=50}{color=#A9A9A9}伤势已治愈：肺部伤。"
 
 # game/script_dlc_2.rpy:6354
 translate chinese player_drafted_into_canterburys_army_62ac4206:
 
     nvl clear
-    "{color=#A9A9A9}伤势已治愈：残废。"
+    "{cps=50}{color=#A9A9A9}伤势已治愈：残废。"
 
 # game/script_dlc_2.rpy:6362
 translate chinese player_drafted_into_canterburys_army_4ec5901b:
 
     nvl clear
-    "{color=#A9A9A9}伤势已治愈：脑震荡。"
+    "{cps=50}{color=#A9A9A9}伤势已治愈：脑震荡。"
 
 # game/script_dlc_2.rpy:6370
 translate chinese player_drafted_into_canterburys_army_463ff7a5:
 
     nvl clear
-    "{color=#A9A9A9}伤势已治愈：中毒。"
+    "{cps=50}{color=#A9A9A9}伤势已治愈：中毒。"
 
 # game/script_dlc_2.rpy:6376
 translate chinese player_drafted_into_canterburys_army_a8c58a31:
 
     nvl clear
-    "{color=#A9A9A9}伤势已治愈：失血。"
+    "{cps=50}{color=#A9A9A9}伤势已治愈：失血。"
 
 # game/script_dlc_2.rpy:6381
 translate chinese player_drafted_into_canterburys_army_6b8f67eb:
 
     nvl clear
-    "{color=#A9A9A9}你被授予了军衔——民兵。"
+    "{cps=50}{color=#A9A9A9}你被授予了军衔——民兵。"
 
 # game/script_dlc_2.rpy:6383
 translate chinese player_drafted_into_canterburys_army_76b2fe88:
@@ -3720,13 +3720,13 @@ translate chinese player_drafted_into_canterburys_army_76b2fe88:
 # game/script_dlc_2.rpy:6391
 translate chinese player_drafted_into_canterburys_army_05d180f1:
 
-    "你按军衔领到了饷银。{vspace=5}{color=#A9A9A9}+[attackchance]弗罗林！{/color}{vspace=5}你还按威望等级领到了额外津贴。{vspace=5}{color=#A9A9A9}+[trait]弗罗林！"
+    "{cps=50}你按军衔领到了饷银。{vspace=5}{color=#A9A9A9}+[attackchance]弗罗林！{/color}{vspace=5}你还按威望等级领到了额外津贴。{vspace=5}{color=#A9A9A9}+[trait]弗罗林！"
 
 # game/script_dlc_2.rpy:6394
 translate chinese player_drafted_into_canterburys_army_44fbb133:
 
     nvl clear
-    "{color=#A9A9A9}你领到了军需补给。"
+    "{cps=50}{color=#A9A9A9}你领到了军需补给。"
 
 # game/script_dlc_2.rpy:6398
 translate chinese player_drafted_into_canterburys_army_76b2fe88_1:
@@ -3738,19 +3738,19 @@ translate chinese player_drafted_into_canterburys_army_76b2fe88_1:
 translate chinese canterburys_army_london_intro_d0233cee:
 
     nvl clear
-    "第三天清晨，全营被警报惊动。仓促列成歪歪扭扭的战阵，你们迎向不知从何处冒出来的王子大军——他们正从多个方向急速逼近营盘。"
+    "{cps=50}第三天清晨，全营被警报惊动。仓促列成歪歪扭扭的战阵，你们迎向不知从何处冒出来的王子大军——他们正从多个方向急速逼近营盘。"
 
 # game/script_dlc_2.rpy:6419
 translate chinese canterburys_army_london_intro_f657735f:
 
     nvl clear
-    "你身处阵列中段，眼睁睁看着一队装备精良的敌方骑士与军士扑向你方由新兵把守的侧翼，转眼便把他们冲得溃散奔逃。"
+    "{cps=50}你身处阵列中段，眼睁睁看着一队装备精良的敌方骑士与军士扑向你方由新兵把守的侧翼，转眼便把他们冲得溃散奔逃。"
 
 # game/script_dlc_2.rpy:6421
 translate chinese canterburys_army_london_intro_a8d33ecc:
 
     nvl clear
-    "为了堵住那个足以撕裂全阵的缺口，你们这支小队也被派了上去。"
+    "{cps=50}为了堵住那个足以撕裂全阵的缺口，你们这支小队也被派了上去。"
 
 # game/script_dlc_2.rpy:6423
 translate chinese canterburys_army_london_intro_76b2fe88:
@@ -3762,7 +3762,7 @@ translate chinese canterburys_army_london_intro_76b2fe88:
 translate chinese canterburys_army_london_fight_d22528fb:
 
     nvl clear
-    "骑士的攻势渐渐后继乏力……"
+    "{cps=50}骑士的攻势渐渐后继乏力……"
 
 # game/script_dlc_2.rpy:6816
 translate chinese canterburys_army_london_fight_76b2fe88:
@@ -3780,7 +3780,7 @@ translate chinese canterburys_army_london_fight_76b2fe88_1:
 translate chinese canterburys_army_london_fight_894f78cb:
 
     nvl clear
-    "{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc_2.rpy:6831
 translate chinese canterburys_army_london_fight_76b2fe88_2:
@@ -3791,7 +3791,7 @@ translate chinese canterburys_army_london_fight_76b2fe88_2:
 # game/script_dlc_2.rpy:6836
 translate chinese canterburys_army_london_fight_88928390:
 
-    "战场局势正在变化，战斗可能很快就要结束了……"
+    "{cps=50}战场局势正在变化，战斗可能很快就要结束了……"
 
 # game/script_dlc_2.rpy:6838
 translate chinese canterburys_army_london_fight_76b2fe88_3:
@@ -3808,7 +3808,7 @@ translate chinese canterburys_army_london_fight_76b2fe88_4:
 # game/script_dlc_2.rpy:6855
 translate chinese canterburys_army_london_fight_debada4c:
 
-    "骑士的攻势渐渐后继乏力……"
+    "{cps=50}骑士的攻势渐渐后继乏力……"
 
 # game/script_dlc_2.rpy:6857
 translate chinese canterburys_army_london_fight_76b2fe88_5:
@@ -3820,13 +3820,13 @@ translate chinese canterburys_army_london_fight_76b2fe88_5:
 translate chinese canterburys_army_london_postfight_910463e9:
 
     nvl clear
-    "你的参战止住了敌人的推进。然而敌军援兵也已赶到，围绕你方摇摇欲坠的侧翼，战火再度炽烈燃烧。"
+    "{cps=50}你的参战止住了敌人的推进。然而敌军援兵也已赶到，围绕你方摇摇欲坠的侧翼，战火再度炽烈燃烧。"
 
 # game/script_dlc_2.rpy:6916
 translate chinese canterburys_army_london_postfight_8783c4a4:
 
     nvl clear
-    "王子军的又一次冲锋，由五名身披金银纹饰甲胄的骑士领头。"
+    "{cps=50}王子军的又一次冲锋，由五名身披金银纹饰甲胄的骑士领头。"
 
 # game/script_dlc_2.rpy:6918
 translate chinese canterburys_army_london_postfight_76b2fe88:
@@ -3838,7 +3838,7 @@ translate chinese canterburys_army_london_postfight_76b2fe88:
 translate chinese canterburys_army_london_fight2_6894cb5f:
 
     nvl clear
-    "骑士们一个接一个被击落马下。"
+    "{cps=50}骑士们一个接一个被击落马下。"
 
 # game/script_dlc_2.rpy:7295
 translate chinese canterburys_army_london_fight2_76b2fe88:
@@ -3856,7 +3856,7 @@ translate chinese canterburys_army_london_fight2_76b2fe88_1:
 translate chinese canterburys_army_london_fight2_894f78cb:
 
     nvl clear
-    "{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc_2.rpy:7310
 translate chinese canterburys_army_london_fight2_76b2fe88_2:
@@ -3922,19 +3922,19 @@ translate chinese canterburys_army_london_fight2_76b2fe88_10:
 translate chinese canterburys_army_london_postfight2_3b7fecf5:
 
     nvl clear
-    "敌人的百般攻势都无法令你溃逃，然而在周遭兵败如山倒的映衬下，你个人的胜利黯然失色。{color=#A9A9A9}{vspace=5}指挥官好感提升2点！"
+    "{cps=50}敌人的百般攻势都无法令你溃逃，然而在周遭兵败如山倒的映衬下，你个人的胜利黯然失色。{color=#A9A9A9}{vspace=5}指挥官好感提升2点！"
 
 # game/script_dlc_2.rpy:7456
 translate chinese canterburys_army_london_postfight2_75e88a94:
 
     nvl clear
-    "首批新兵在敌军第一波冲击下便仓皇溃退，这股恐慌此刻已如野火燎原，席卷全军。"
+    "{cps=50}首批新兵在敌军第一波冲击下便仓皇溃退，这股恐慌此刻已如野火燎原，席卷全军。"
 
 # game/script_dlc_2.rpy:7458
 translate chinese canterburys_army_london_postfight2_e08f3eb9:
 
     nvl clear
-    "那几支仍在坚持作战的部队也已无力回天——大军主力正在逃窜。"
+    "{cps=50}那几支仍在坚持作战的部队也已无力回天——大军主力正在逃窜。"
 
 # game/script_dlc_2.rpy:7460
 translate chinese canterburys_army_london_postfight2_76b2fe88:
@@ -3946,13 +3946,13 @@ translate chinese canterburys_army_london_postfight2_76b2fe88:
 translate chinese canterburys_army_london_postfight2_62598428:
 
     nvl clear
-    "你扛不住这般压力，抛下阵列，开始后撤。"
+    "{cps=50}你扛不住这般压力，抛下阵列，开始后撤。"
 
 # game/script_dlc_2.rpy:7464
 translate chinese canterburys_army_london_postfight2_40d3e1a8:
 
     nvl clear
-    "左右四顾，数百名士兵也在做着同样的事。议会军投入战斗时的阵列，正在你眼前土崩瓦解。"
+    "{cps=50}左右四顾，数百名士兵也在做着同样的事。议会军投入战斗时的阵列，正在你眼前土崩瓦解。"
 
 # game/script_dlc_2.rpy:7466
 translate chinese canterburys_army_london_postfight2_76b2fe88_1:
@@ -3964,13 +3964,13 @@ translate chinese canterburys_army_london_postfight2_76b2fe88_1:
 translate chinese canterburys_army_london_postfight2_f77176d5:
 
     nvl clear
-    "这场仗，败了。"
+    "{cps=50}这场仗，败了。"
 
 # game/script_dlc_2.rpy:7470
 translate chinese canterburys_army_london_postfight2_93824dca:
 
     nvl clear
-    "这一天余下的经历，于你而言化作了一连串模糊交叠的画面。"
+    "{cps=50}这一天余下的经历，于你而言化作了一连串模糊交叠的画面。"
 
 # game/script_dlc_2.rpy:7472
 translate chinese london_retreat_item_loss_76b2fe88_1:
@@ -3982,37 +3982,37 @@ translate chinese london_retreat_item_loss_76b2fe88_1:
 translate chinese canterburys_army_london_postfight2_d4251855:
 
     nvl clear
-    "你正奔逃在旷野上，躲避着敌骑的追杀……"
+    "{cps=50}你正奔逃在旷野上，躲避着敌骑的追杀……"
 
 # game/script_dlc_2.rpy:7477
 translate chinese canterburys_army_london_postfight2_18408f9a:
 
     nvl clear
-    "你躲进一片树林，喘匀呼吸……"
+    "{cps=50}你躲进一片树林，喘匀呼吸……"
 
 # game/script_dlc_2.rpy:7479
 translate chinese canterburys_army_london_postfight2_60c4863a:
 
     nvl clear
-    "暮色中，你踉跄穿过密林……"
+    "{cps=50}暮色中，你踉跄穿过密林……"
 
 # game/script_dlc_2.rpy:7482
 translate chinese canterburys_army_london_postfight2_10adbceb:
 
     nvl clear
-    "你抛下随身装备，在田野上奔逃，躲避敌骑的追击……"
+    "{cps=50}你抛下随身装备，在田野上奔逃，躲避敌骑的追击……"
 
 # game/script_dlc_2.rpy:7484
 translate chinese canterburys_army_london_postfight2_18408f9a_1:
 
     nvl clear
-    "你躲进一片树林，喘匀呼吸……"
+    "{cps=50}你躲进一片树林，喘匀呼吸……"
 
 # game/script_dlc_2.rpy:7486
 translate chinese canterburys_army_london_postfight2_60c4863a_1:
 
     nvl clear
-    "暮色中，你踉跄穿过密林……"
+    "{cps=50}暮色中，你踉跄穿过密林……"
 
 # game/script_dlc_2.rpy:7492
 translate chinese london_retreat_item_loss_76b2fe88:
@@ -4023,44 +4023,44 @@ translate chinese london_retreat_item_loss_76b2fe88:
 # game/script_dlc_2.rpy:7495
 translate chinese london_retreat_item_loss_aecfd760:
 
-    "{color=#A9A9A9}你丢失了盔甲！"
+    "{cps=50}{color=#A9A9A9}你丢失了盔甲！"
 
 # game/script_dlc_2.rpy:7518
 translate chinese london_retreat_item_loss_7ef35f6a:
 
-    "{color=#A9A9A9}你丢失了头盔！"
+    "{cps=50}{color=#A9A9A9}你丢失了头盔！"
 
 # game/script_dlc_2.rpy:7537
 translate chinese london_retreat_item_loss_88a17817:
 
-    "{color=#A9A9A9}你丢失了护腕！"
+    "{cps=50}{color=#A9A9A9}你丢失了护腕！"
 
 # game/script_dlc_2.rpy:7567
 translate chinese london_retreat_item_loss_e971a9f9:
 
-    "{color=#A9A9A9}你丢失了护喉！"
+    "{cps=50}{color=#A9A9A9}你丢失了护喉！"
 
 # game/script_dlc_2.rpy:7598
 translate chinese london_retreat_item_loss_119f6b2f:
 
-    "{color=#A9A9A9}你丢失了护腿！"
+    "{cps=50}{color=#A9A9A9}你丢失了护腿！"
 
 # game/script_dlc_2.rpy:7629
 translate chinese london_retreat_item_loss_e481a175:
 
-    "{color=#A9A9A9}你丢失了盾牌！"
+    "{cps=50}{color=#A9A9A9}你丢失了盾牌！"
 
 # game/script_dlc_2.rpy:7646
 translate chinese london_retreat_item_loss_c54bf6f5:
 
     nvl clear
-    "傍晚时分，你来到一条路边，只见议会军的残兵正自南向北绵延不绝地行进。"
+    "{cps=50}傍晚时分，你来到一条路边，只见议会军的残兵正自南向北绵延不绝地行进。"
 
 # game/script_dlc_2.rpy:7648
 translate chinese london_retreat_item_loss_9f9e590b:
 
     nvl clear
-    "你混入其中一队，随他们一同前行……"
+    "{cps=50}你混入其中一队，随他们一同前行……"
 
 # game/script_dlc_2.rpy:7650
 translate chinese london_retreat_item_loss_76b2fe88_2:
@@ -4072,67 +4072,67 @@ translate chinese london_retreat_item_loss_76b2fe88_2:
 translate chinese oxford_camp_intro_00a9f22f:
 
     nvl clear
-    "在牛津营地的头几天，与你在伦敦军营里的经历如出一辙，令人心烦。"
+    "{cps=50}在牛津营地的头几天，与你在伦敦军营里的经历如出一辙，令人心烦。"
 
 # game/script_dlc_2.rpy:7670
 translate chinese oxford_camp_intro_3bbb239d:
 
     nvl clear
-    "从某种意义上说，境况甚至更糟——在习以为常的混乱之外，又添了补给中断、饷银迟发，以及帐篷营帐短缺，害得你连着两晚露宿野外。"
+    "{cps=50}从某种意义上说，境况甚至更糟——在习以为常的混乱之外，又添了补给中断、饷银迟发，以及帐篷营帐短缺，害得你连着两晚露宿野外。"
 
 # game/script_dlc_2.rpy:7672
 translate chinese oxford_camp_intro_e0437497:
 
     nvl clear
-    "眼见这一切，你对议会军的前景越发悲观，对自己这个小兵的前途，更是愈发怀疑。"
+    "{cps=50}眼见这一切，你对议会军的前景越发悲观，对自己这个小兵的前途，更是愈发怀疑。"
 
 # game/script_dlc_2.rpy:7674
 translate chinese oxford_camp_intro_817a6e50:
 
     nvl clear
-    "境况如此糟糕，逃跑之风渐盛也是顺理成章。"
+    "{cps=50}境况如此糟糕，逃跑之风渐盛也是顺理成章。"
 
 # game/script_dlc_2.rpy:7676
 translate chinese oxford_camp_intro_169f8ef7:
 
     nvl clear
-    "擅自离营的念头也曾在你心头盘桓，然而没过多久，局面便开始迅速改观。"
+    "{cps=50}擅自离营的念头也曾在你心头盘桓，然而没过多久，局面便开始迅速改观。"
 
 # game/script_dlc_2.rpy:7678
 translate chinese oxford_camp_intro_16374f41:
 
     nvl clear
-    "在露天苦熬两夜之后，军需官们终于送来了帐篷与营帐，你总算不必再在夜里冻得发抖。"
+    "{cps=50}在露天苦熬两夜之后，军需官们终于送来了帐篷与营帐，你总算不必再在夜里冻得发抖。"
 
 # game/script_dlc_2.rpy:7680
 translate chinese oxford_camp_intro_aa8165cd:
 
     nvl clear
-    "又过了两天，补给逐渐恢复。营地开始按时运来粮食，品质也算过得去——至少比当年围困康布雷时吃的东西强得多。"
+    "{cps=50}又过了两天，补给逐渐恢复。营地开始按时运来粮食，品质也算过得去——至少比当年围困康布雷时吃的东西强得多。"
 
 # game/script_dlc_2.rpy:7682
 translate chinese oxford_camp_intro_4a6378a7:
 
     nvl clear
-    "此后，几位郎中随后来到营地。他们自然主要照看骑士及其随从，但只要肯付一把弗罗林，也不介意给平民瞧上一瞧。"
+    "{cps=50}此后，几位郎中随后来到营地。他们自然主要照看骑士及其随从，但只要肯付一把弗罗林，也不介意给平民瞧上一瞧。"
 
 # game/script_dlc_2.rpy:7684
 translate chinese oxford_camp_intro_3dfff749:
 
     nvl clear
-    "逃兵之风被刹住，许多已经溜走的人被捉回，当众处决以儆效尤。"
+    "{cps=50}逃兵之风被刹住，许多已经溜走的人被捉回，当众处决以儆效尤。"
 
 # game/script_dlc_2.rpy:7686
 translate chinese oxford_camp_intro_79f2081a:
 
     nvl clear
-    "随着士兵名册重新编订、人人被编入有明确指挥官的队伍，营中的混乱与无序也渐渐消弭。"
+    "{cps=50}随着士兵名册重新编订、人人被编入有明确指挥官的队伍，营中的混乱与无序也渐渐消弭。"
 
 # game/script_dlc_2.rpy:7688
 translate chinese oxford_camp_intro_f94cc337:
 
     nvl clear
-    "你与一队同样参加过伦敦之战、且有往昔战阵经验的老兵，被编入了同一支队伍。"
+    "{cps=50}你与一队同样参加过伦敦之战、且有往昔战阵经验的老兵，被编入了同一支队伍。"
 
 # game/script_dlc_2.rpy:7690
 translate chinese oxford_camp_intro_76b2fe88:
@@ -4143,54 +4143,54 @@ translate chinese oxford_camp_intro_76b2fe88:
 # game/script_dlc_2.rpy:7693
 translate chinese oxford_camp_intro_9357f678:
 
-    "这支队伍的指挥官，正是当年把你从梅德斯通监狱刽子手手中救出的那位红发骑士——罗杰。"
+    "{cps=50}这支队伍的指挥官，正是当年把你从梅德斯通监狱刽子手手中救出的那位红发骑士——罗杰。"
 
 # game/script_dlc_2.rpy:7695
 translate chinese oxford_camp_intro_9e351a7a:
 
-    "带队的是个名叫罗杰的红发巨汉，一脸凶悍，活像个强盗头子。"
+    "{cps=50}带队的是个名叫罗杰的红发巨汉，一脸凶悍，活像个强盗头子。"
 
 # game/script_dlc_2.rpy:7697
 translate chinese oxford_camp_intro_2fc62dc4:
 
     nvl clear
-    "新兵一到手，他立刻开始操练你们，每日以体能训练和五花八门的操演把你们累个半死。"
+    "{cps=50}新兵一到手，他立刻开始操练你们，每日以体能训练和五花八门的操演把你们累个半死。"
 
 # game/script_dlc_2.rpy:7699
 translate chinese oxford_camp_intro_83623adc:
 
     nvl clear
-    "要让营中秩序与军纪彻底恢复，最后一步是解决饷银发放的问题。又过了几天，此事也终于落实。"
+    "{cps=50}要让营中秩序与军纪彻底恢复，最后一步是解决饷银发放的问题。又过了几天，此事也终于落实。"
 
 # game/script_dlc_2.rpy:7701
 translate chinese oxford_camp_intro_b7c83127:
 
     nvl clear
-    "将领们集结各自队伍后宣布：尽管王国的都城已被王子及其叛军占据，但以伦敦议会名义签订的契券依旧有效。"
+    "{cps=50}将领们集结各自队伍后宣布：尽管王国的都城已被王子及其叛军占据，但以伦敦议会名义签订的契券依旧有效。"
 
 # game/script_dlc_2.rpy:7703
 translate chinese oxford_camp_intro_b348fc6a:
 
     nvl clear
-    "履行契约的责任由坎特伯雷伯爵亲自承担，议会聚起的这支大军，也一并归他统辖。"
+    "{cps=50}履行契约的责任由坎特伯雷伯爵亲自承担，议会聚起的这支大军，也一并归他统辖。"
 
 # game/script_dlc_2.rpy:7705
 translate chinese oxford_camp_intro_0739803d:
 
     nvl clear
-    "契约存续期间，士兵们立下的誓言，如今意味着对伯爵个人的效忠。"
+    "{cps=50}契约存续期间，士兵们立下的誓言，如今意味着对伯爵个人的效忠。"
 
 # game/script_dlc_2.rpy:7707
 translate chinese oxford_camp_intro_5e3d1a99:
 
     nvl clear
-    "凡忠于所签契约、对伯爵恭顺效力者，承诺的军饷将如期如数发放；凡背弃誓言、违抗伯爵军令或扰乱军纪者，等待他的将是即刻处决。"
+    "{cps=50}凡忠于所签契约、对伯爵恭顺效力者，承诺的军饷将如期如数发放；凡背弃誓言、违抗伯爵军令或扰乱军纪者，等待他的将是即刻处决。"
 
 # game/script_dlc_2.rpy:7709
 translate chinese oxford_camp_intro_79d8434a:
 
     nvl clear
-    "就这样，经过一次惨败与再度整编，从王国各地聚拢来的人群，开始慢慢变成一支真正的军队。"
+    "{cps=50}就这样，经过一次惨败与再度整编，从王国各地聚拢来的人群，开始慢慢变成一支真正的军队。"
 
 # game/script_dlc_2.rpy:7711
 translate chinese oxford_camp_intro_76b2fe88_1:
@@ -4202,13 +4202,13 @@ translate chinese oxford_camp_intro_76b2fe88_1:
 translate chinese oxford_camp_windsor_recon_intro_7449aa03:
 
     nvl clear
-    "抵达牛津营地不久，你终于接到了第一个正式的任务。"
+    "{cps=50}抵达牛津营地不久，你终于接到了第一个正式的任务。"
 
 # game/script_dlc_2.rpy:7797
 translate chinese oxford_camp_windsor_recon_intro_4b1f5576:
 
     nvl clear
-    "罗杰从队中挑了几名机灵的士兵，命他们向东南方向侦查——目标是小城温莎一带。{color=#A9A9A9}{vspace=5}获得任务——[force_recon.name!ti]。"
+    "{cps=50}罗杰从队中挑了几名机灵的士兵，命他们向东南方向侦查——目标是小城温莎一带。{color=#A9A9A9}{vspace=5}获得任务——[force_recon.name!ti]。"
 
 # game/script_dlc_2.rpy:7800
 translate chinese oxford_camp_windsor_recon_intro_76b2fe88:
@@ -4220,7 +4220,7 @@ translate chinese oxford_camp_windsor_recon_intro_76b2fe88:
 translate chinese oxford_camp_windsor_recon_force_start_5ac2e416:
 
     nvl clear
-    "上头等得不耐烦，不再等你慢慢准备，直接下令：即刻动身前往温莎，执行侦察。{color=#A9A9A9}{vspace=5}指挥官好感降低1点！"
+    "{cps=50}上级等得不耐烦，不再等你慢慢准备，直接下令：即刻动身前往温莎，执行侦察。{color=#A9A9A9}{vspace=5}指挥官好感降低1点！"
 
 # game/script_dlc_2.rpy:7808
 translate chinese oxford_camp_windsor_recon_force_start_76b2fe88:
@@ -4238,37 +4238,37 @@ translate chinese oxford_camp_windsor_recon_1_b066fbb1:
 translate chinese oxford_camp_windsor_recon_1_fe6ff6d0:
 
     nvl clear
-    "温莎是一座不大却异常繁忙的小城，坐落于连接王国南部、东部与北部、西北部的道路交汇之处。"
+    "{cps=50}温莎是一座不大却异常繁忙的小城，坐落于连接王国南部、东部与北部、西北部的道路交汇之处。"
 
 # game/script_dlc_2.rpy:7819
 translate chinese oxford_camp_windsor_recon_1_f74d5566:
 
     nvl clear
-    "观察期间，你注意到大量单辆的货车与成队的大车正向伦敦方向驶去，车上满载的尽是军用物资。"
+    "{cps=50}观察期间，你注意到大量单辆的货车与成队的大车正向伦敦方向驶去，车上满载的尽是军用物资。"
 
 # game/script_dlc_2.rpy:7821
 translate chinese oxford_camp_windsor_recon_1_35bd11da:
 
     nvl clear
-    "看来，敌方也与你方一样在积极聚拢兵马，为下一场大战做准备。"
+    "{cps=50}看来，敌方也与你方一样在积极聚拢兵马，为下一场大战做准备。"
 
 # game/script_dlc_2.rpy:7823
 translate chinese oxford_camp_windsor_recon_1_5019eff7:
 
     nvl clear
-    "值得一提的是，温莎虽然战略位置显要，防御却显得相当松懈。城防工事颇为可观——虽然年久失修——可城墙与塔楼上几乎不见人影。"
+    "{cps=50}值得一提的是，温莎虽然战略位置显要，防御却显得相当松懈。城防工事颇为可观——虽然年久失修——可城墙与塔楼上几乎不见人影。"
 
 # game/script_dlc_2.rpy:7825
 translate chinese oxford_camp_windsor_recon_1_0b3943a4:
 
     nvl clear
-    "目睹这一切，你渐渐猜到了为何偏偏派你到此处侦察。"
+    "{cps=50}目睹这一切，你渐渐猜到了为何偏偏派你到此处侦察。"
 
 # game/script_dlc_2.rpy:7827
 translate chinese oxford_camp_windsor_recon_1_23a5085f:
 
     nvl clear
-    "完成了上头交代的一切，你准备动身返回牛津……"
+    "{cps=50}完成了上头交代的一切，你准备动身返回牛津……"
 
 # game/script_dlc_2.rpy:7829
 translate chinese oxford_camp_windsor_recon_1_76b2fe88_3:
@@ -4280,13 +4280,13 @@ translate chinese oxford_camp_windsor_recon_1_76b2fe88_3:
 translate chinese oxford_camp_windsor_recon_1_3b899abe:
 
     nvl clear
-    "归途一路平安，毫无波澜。"
+    "{cps=50}归途一路平安，毫无波澜。"
 
 # game/script_dlc_2.rpy:7834
 translate chinese oxford_camp_windsor_recon_1_788b8c86:
 
     nvl clear
-    "指挥部对你的出色表现表示了嘉许。"
+    "{cps=50}指挥部对你的出色表现表示了嘉许。"
 
 # game/script_dlc_2.rpy:7837
 translate chinese oxford_camp_windsor_recon_1_76b2fe88_1:
@@ -4298,7 +4298,7 @@ translate chinese oxford_camp_windsor_recon_1_76b2fe88_1:
 translate chinese oxford_camp_windsor_recon_1_88141a15:
 
     nvl clear
-    "{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:7845
 translate chinese oxford_camp_windsor_recon_1_76b2fe88:
@@ -4310,7 +4310,7 @@ translate chinese oxford_camp_windsor_recon_1_76b2fe88:
 translate chinese oxford_camp_windsor_recon_1_9621c320:
 
     nvl clear
-    "然而回程之前，你打起了商队的主意——他们几乎不带护卫便运送货物，实在疏于防范。你选中一支，动手袭击。"
+    "{cps=50}然而回程之前，你打起了商队的主意——他们几乎不带护卫便运送货物，实在疏于防范。你选中一支，动手袭击。"
 
 # game/script_dlc_2.rpy:7853
 translate chinese oxford_camp_windsor_recon_1_76b2fe88_2:
@@ -4322,7 +4322,7 @@ translate chinese oxford_camp_windsor_recon_1_76b2fe88_2:
 translate chinese oxford_camp_windsor_recon_fight_a50428d1:
 
     nvl clear
-    "商队的护卫很快被尽数打倒，车上的货物任你劫掠。{color=#A9A9A9}{vspace=5}指挥官好感提升1点！"
+    "{cps=50}商队的护卫很快被尽数打倒，车上的货物任你劫掠。{color=#A9A9A9}{vspace=5}指挥官好感提升1点！"
 
 # game/script_dlc_2.rpy:8208
 translate chinese oxford_camp_windsor_recon_fight_76b2fe88:
@@ -4340,7 +4340,7 @@ translate chinese oxford_camp_windsor_recon_fight_76b2fe88_1:
 translate chinese oxford_camp_windsor_recon_fight_894f78cb:
 
     nvl clear
-    "{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc_2.rpy:8222
 translate chinese oxford_camp_windsor_recon_fight_76b2fe88_2:
@@ -4357,7 +4357,7 @@ translate chinese oxford_camp_windsor_recon_fight_76b2fe88_3:
 # game/script_dlc_2.rpy:8239
 translate chinese oxford_camp_windsor_recon_fight_4dcedd44:
 
-    "见抵挡无望，商队的护卫丢下武器四散奔逃，车上的货物尽数成了你的战利品。"
+    "{cps=50}见抵挡无望，商队的护卫丢下武器四散奔逃，车上的货物尽数成了你的战利品。"
 
 # game/script_dlc_2.rpy:8241
 translate chinese oxford_camp_windsor_recon_fight_76b2fe88_4:
@@ -4369,13 +4369,13 @@ translate chinese oxford_camp_windsor_recon_fight_76b2fe88_4:
 translate chinese oxford_camp_windsor_recon_postfight_3b899abe:
 
     nvl clear
-    "归途一路平安，毫无波澜。"
+    "{cps=50}归途一路平安，毫无波澜。"
 
 # game/script_dlc_2.rpy:8300
 translate chinese oxford_camp_windsor_recon_postfight_788b8c86:
 
     nvl clear
-    "指挥部对你的出色表现表示了嘉许。"
+    "{cps=50}指挥部对你的出色表现表示了嘉许。"
 
 # game/script_dlc_2.rpy:8303
 translate chinese oxford_camp_windsor_recon_postfight_76b2fe88_1:
@@ -4387,7 +4387,7 @@ translate chinese oxford_camp_windsor_recon_postfight_76b2fe88_1:
 translate chinese oxford_camp_windsor_recon_postfight_88141a15:
 
     nvl clear
-    "{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:8311
 translate chinese oxford_camp_windsor_recon_postfight_76b2fe88:
@@ -4399,13 +4399,13 @@ translate chinese oxford_camp_windsor_recon_postfight_76b2fe88:
 translate chinese oxford_camp_visit_to_bristol_intro_b89daf13:
 
     nvl clear
-    "{cps=50}某个清晨，罗杰点齐部分人马，星夜兼程赶赴港城布里斯托尔，专候几艘商船落锚靠岸。"
+    "{cps=50}一天清晨，罗杰召集了队中部分人马，匆匆赶往港口城市布里斯托尔，在那里等候数艘商船靠岸。"
 
 # game/script_dlc_2.rpy:8327
 translate chinese oxford_camp_visit_to_bristol_intro_c1d65814:
 
     nvl clear
-    "趁那些满载货物的船只缓缓卸货，你与其他士兵奉命负责看守。"
+    "{cps=50}趁那些满载货物的船只缓缓卸货，你与其他士兵奉命负责看守。"
 
 # game/script_dlc_2.rpy:8329
 translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_9:
@@ -4417,13 +4417,13 @@ translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_9:
 translate chinese oxford_camp_visit_to_bristol_intro_f2c7ebe8:
 
     nvl clear
-    "你尽职尽责地执行任务，打起十二分精神看守船只。"
+    "{cps=50}你尽职尽责地执行任务，打起十二分精神看守船只。"
 
 # game/script_dlc_2.rpy:8334
 translate chinese oxford_camp_visit_to_bristol_intro_3145fc5b:
 
     nvl clear
-    "绝大多数时候风平浪静，不过仍有几个形迹可疑的破落户试图溜上船。"
+    "{cps=50}绝大多数时候风平浪静，不过仍有几个形迹可疑的破落户试图溜上船。"
 
 # game/script_dlc_2.rpy:8336
 translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88:
@@ -4435,19 +4435,19 @@ translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88:
 translate chinese oxford_camp_visit_to_bristol_intro_92df6407:
 
     nvl clear
-    "所幸你警惕十足，拦下了那帮歹徒。{color=#A9A9A9}{vspace=5}敏捷、协调、运气——成功！"
+    "{cps=50}所幸你警惕十足，拦下了那帮歹徒。{color=#A9A9A9}{vspace=5}敏捷、协调、运气——成功！"
 
 # game/script_dlc_2.rpy:8343
 translate chinese oxford_camp_visit_to_bristol_intro_b7831c6a:
 
     nvl clear
-    "卸货完毕，你护送满载货物的车队返回牛津营地。"
+    "{cps=50}卸货完毕，你护送满载货物的车队返回牛津营地。"
 
 # game/script_dlc_2.rpy:8345
 translate chinese oxford_camp_visit_to_bristol_intro_247dbbcc:
 
     nvl clear
-    "一切顺遂，罗杰心情大好，为犒劳众人的出色差事，给每人赏了一把弗罗林。{color=#A9A9A9}{vspace=5}获得50弗罗林！"
+    "{cps=50}一切顺遂，罗杰心情大好，为犒劳众人的出色差事，给每人赏了一把弗罗林。{color=#A9A9A9}{vspace=5}获得50弗罗林！"
 
 # game/script_dlc_2.rpy:8348
 translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_1:
@@ -4458,7 +4458,7 @@ translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_1:
 # game/script_dlc_2.rpy:8350
 translate chinese oxford_camp_visit_to_bristol_intro_b3e11abb:
 
-    "因为擒获了那些宵小，你得到了额外的嘉奖。{color=#A9A9A9}{vspace=5}指挥官好感提升1点！"
+    "{cps=50}因为擒获了那些宵小，你得到了额外的嘉奖。{color=#A9A9A9}{vspace=5}指挥官好感提升1点！"
 
 # game/script_dlc_2.rpy:8351
 translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_2:
@@ -4470,13 +4470,13 @@ translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_2:
 translate chinese oxford_camp_visit_to_bristol_intro_59f9ab8c:
 
     nvl clear
-    "可惜，你的警觉还差了些火候——几个小贼趁隙溜上船，带着偷来的东西扬长而去。{color=#A9A9A9}{vspace=5}敏捷、协调、运气——失败！"
+    "{cps=50}可惜，你的警觉还差了些火候——几个小贼趁隙溜上船，带着偷来的东西扬长而去。{color=#A9A9A9}{vspace=5}敏捷、协调、运气——失败！"
 
 # game/script_dlc_2.rpy:8357
 translate chinese oxford_camp_visit_to_bristol_intro_88cefe33:
 
     nvl clear
-    "失窃之事直到返回营地后才被发觉。罗杰查不清究竟是哪个看船的人放跑了贼，索性决定连坐惩处。"
+    "{cps=50}失窃之事直到返回营地后才被发觉。罗杰查不清究竟是哪个看船的人放跑了贼，索性决定连坐惩处。"
 
 # game/script_dlc_2.rpy:8359
 translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_5:
@@ -4488,19 +4488,19 @@ translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_5:
 translate chinese oxford_camp_visit_to_bristol_intro_a35453aa:
 
     nvl clear
-    "你不愿连累同伴受罚，向罗杰坦言，错在自己。"
+    "{cps=50}你不愿连累同伴受罚，向罗杰坦言，错在自己。"
 
 # game/script_dlc_2.rpy:8364
 translate chinese oxford_camp_visit_to_bristol_intro_9d637b95:
 
     nvl clear
-    "他赞许了你的胆识，并希望你日后能用自己的血来洗刷这次的失职。否则，他不介意亲手用锤子把你砸进土里，只留脑袋在外面。"
+    "{cps=50}他赞许了你的胆识，并希望你日后能用自己的血来洗刷这次的失职。否则，他不介意亲手用锤子把你砸进土里，只留脑袋在外面。"
 
 # game/script_dlc_2.rpy:8366
 translate chinese oxford_camp_visit_to_bristol_intro_4f933c91:
 
     nvl clear
-    "眼下，你只受了相对较轻的处罚：罗杰下令将你鞭笞一顿，然后放你回去。{color=#A9A9A9}{vspace=5}生命力降低2点！"
+    "{cps=50}眼下，你只受了相对较轻的处罚：罗杰下令将你鞭笞一顿，然后放你回去。{color=#A9A9A9}{vspace=5}活力降低2点！"
 
 # game/script_dlc_2.rpy:8369
 translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_3:
@@ -4512,25 +4512,25 @@ translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_3:
 translate chinese oxford_camp_visit_to_bristol_intro_72baa3b0:
 
     nvl clear
-    "你选择了沉默，于是二十个无辜的士兵代你受了这顿冤枉的责罚。"
+    "{cps=50}你选择了沉默，于是二十个无辜的士兵代你受了这顿冤枉的责罚。"
 
 # game/script_dlc_2.rpy:8376
 translate chinese oxford_camp_visit_to_bristol_intro_04be5464:
 
     nvl clear
-    "没人知道放跑贼的是你，可这件事终究没给同袍情谊带来什么好处。{color=#A9A9A9}{vspace=5}声望（士兵）降低30点！{vspace=5}虔诚降低40点！"
+    "{cps=50}没人知道放跑贼的是你，可这件事终究没给同袍情谊带来什么好处。{color=#A9A9A9}{vspace=5}声望（士兵）降低30点！{vspace=5}美德降低40点！"
 
 # game/script_dlc_2.rpy:8380
 translate chinese oxford_camp_visit_to_bristol_intro_101d1eb7:
 
     nvl clear
-    "你们所有人被鞭笞一顿，还被关进土坑里禁闭数日。"
+    "{cps=50}你们所有人被鞭笞一顿，还被关进土坑里禁闭数日。"
 
 # game/script_dlc_2.rpy:8382
 translate chinese oxford_camp_visit_to_bristol_intro_10a1ebc0:
 
     nvl clear
-    "{color=#A9A9A9}生命力降低4点！{vspace=5}中毒值上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
+    "{cps=50}{color=#A9A9A9}活力降低4点！{vspace=5}中毒值上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
 
 # game/script_dlc_2.rpy:8388
 translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_4:
@@ -4542,7 +4542,7 @@ translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_4:
 translate chinese oxford_camp_visit_to_bristol_intro_c4185c39:
 
     nvl clear
-    "你动了心思，想溜上一艘船，亲眼看看它的货舱里到底装着什么。{color=#A9A9A9}{vspace=5}虔诚降低25点！"
+    "{cps=50}你动了心思，想溜上一艘船，亲眼看看它的货舱里到底装着什么。{color=#A9A9A9}{vspace=5}美德降低25点！"
 
 # game/script_dlc_2.rpy:8396
 translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_6:
@@ -4554,7 +4554,7 @@ translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_6:
 translate chinese oxford_camp_visit_to_bristol_intro_b9b69429:
 
     nvl clear
-    "计划顺利得手，你有机会从船舱的货物里为自己顺走一些。{color=#A9A9A9}{vspace=5}敏捷、协调、运气——成功！"
+    "{cps=50}计划顺利得手，你有机会从船舱的货物里为自己顺走一些。{color=#A9A9A9}{vspace=5}敏捷、协调、运气——成功！"
 
 # game/script_dlc_2.rpy:8403
 translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_7:
@@ -4566,19 +4566,19 @@ translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_7:
 translate chinese oxford_camp_visit_to_bristol_intro_2cc9e7b0:
 
     nvl clear
-    "计划败露，你被当场擒获。因违抗军令、擅离职守，你被处以鞭笞，并关进土坑数日。{color=#A9A9A9}{vspace=5}敏捷、协调、运气——失败！"
+    "{cps=50}计划败露，你被当场擒获。因违抗军令、擅离职守，你被处以鞭笞，并关进土坑数日。{color=#A9A9A9}{vspace=5}敏捷、协调、运气——失败！"
 
 # game/script_dlc_2.rpy:8410
 translate chinese oxford_camp_visit_to_bristol_intro_10a1ebc0_1:
 
     nvl clear
-    "{color=#A9A9A9}生命力降低4点！{vspace=5}中毒值上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
+    "{cps=50}{color=#A9A9A9}活力降低4点！{vspace=5}中毒值上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
 
 # game/script_dlc_2.rpy:8416
 translate chinese oxford_camp_visit_to_bristol_intro_0e070d4e:
 
     nvl clear
-    "{color=#A9A9A9}指挥官好感降低3点！"
+    "{cps=50}{color=#A9A9A9}指挥官好感降低3点！"
 
 # game/script_dlc_2.rpy:8419
 translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_8:
@@ -4590,7 +4590,7 @@ translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_8:
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_766b7956:
 
     nvl clear
-    "失窃之事直到返回营地后才被发觉。罗杰查不清究竟是哪个看船的人犯下了这桩恶行，索性决定连坐惩处。"
+    "{cps=50}失窃之事直到返回营地后才被发觉。罗杰查不清究竟是哪个看船的人犯下了这桩恶行，索性决定把所有人一并处罚。"
 
 # game/script_dlc_2.rpy:8425
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_76b2fe88_3:
@@ -4602,19 +4602,19 @@ translate chinese oxford_camp_visit_to_bristol_roger_finds_out_76b2fe88_3:
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_a35453aa:
 
     nvl clear
-    "你不愿连累同伴受罚，向罗杰坦言，错在自己。"
+    "{cps=50}你不愿连累同伴受罚，向罗杰坦言，错在自己。"
 
 # game/script_dlc_2.rpy:8430
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_960bd675:
 
     nvl clear
-    "罗杰称赞你至少还有勇气认罪，随即下令将你狠狠鞭笞一顿，并没收你的一部分装备，以弥补损失。"
+    "{cps=50}罗杰称赞你至少还有勇气认罪，随即下令将你狠狠鞭笞一顿，并没收你的一部分装备，以弥补损失。"
 
 # game/script_dlc_2.rpy:8432
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_7dcf61c4:
 
     nvl clear
-    "{color=#A9A9A9}{vspace=5}生命力降低4点！"
+    "{cps=50}{color=#A9A9A9}{vspace=5}活力降低4点！"
 
 # game/script_dlc_2.rpy:8435
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_76b2fe88:
@@ -4626,73 +4626,73 @@ translate chinese oxford_camp_visit_to_bristol_roger_finds_out_76b2fe88:
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_1ea2c18d:
 
     nvl clear
-    "{color=#A9A9A9}你的盔甲被没收了！"
+    "{cps=50}{color=#A9A9A9}你的盔甲被没收了！"
 
 # game/script_dlc_2.rpy:8461
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_003d89dc:
 
     nvl clear
-    "{color=#A9A9A9}你的头盔被没收了！"
+    "{cps=50}{color=#A9A9A9}你的头盔被没收了！"
 
 # game/script_dlc_2.rpy:8481
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_8d105794:
 
     nvl clear
-    "{color=#A9A9A9}你的护腕被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护腕被没收了！"
 
 # game/script_dlc_2.rpy:8512
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_e1a36fc6:
 
     nvl clear
-    "{color=#A9A9A9}你的护喉被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护喉被没收了！"
 
 # game/script_dlc_2.rpy:8544
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_8f7718e6:
 
     nvl clear
-    "{color=#A9A9A9}你的护腿被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护腿被没收了！"
 
 # game/script_dlc_2.rpy:8576
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_c303d1aa:
 
     nvl clear
-    "{color=#A9A9A9}你的盾牌被没收了！"
+    "{cps=50}{color=#A9A9A9}你的盾牌被没收了！"
 
 # game/script_dlc_2.rpy:8592
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_1ea2c18d_1:
 
     nvl clear
-    "{color=#A9A9A9}你的盔甲被没收了！"
+    "{cps=50}{color=#A9A9A9}你的盔甲被没收了！"
 
 # game/script_dlc_2.rpy:8616
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_003d89dc_1:
 
     nvl clear
-    "{color=#A9A9A9}你的头盔被没收了！"
+    "{cps=50}{color=#A9A9A9}你的头盔被没收了！"
 
 # game/script_dlc_2.rpy:8636
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_8d105794_1:
 
     nvl clear
-    "{color=#A9A9A9}你的护腕被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护腕被没收了！"
 
 # game/script_dlc_2.rpy:8667
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_e1a36fc6_1:
 
     nvl clear
-    "{color=#A9A9A9}你的护喉被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护喉被没收了！"
 
 # game/script_dlc_2.rpy:8699
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_8f7718e6_1:
 
     nvl clear
-    "{color=#A9A9A9}你的护腿被没收了！"
+    "{cps=50}{color=#A9A9A9}你的护腿被没收了！"
 
 # game/script_dlc_2.rpy:8731
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_c303d1aa_1:
 
     nvl clear
-    "{color=#A9A9A9}你的盾牌被没收了！"
+    "{cps=50}{color=#A9A9A9}你的盾牌被没收了！"
 
 # game/script_dlc_2.rpy:8745
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_76b2fe88_1:
@@ -4704,25 +4704,25 @@ translate chinese oxford_camp_visit_to_bristol_roger_finds_out_76b2fe88_1:
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_72baa3b0:
 
     nvl clear
-    "你选择了沉默，于是二十个无辜的士兵代你受了这顿冤枉的责罚。"
+    "{cps=50}你选择了沉默，于是二十个无辜的士兵代你受了这顿冤枉的责罚。"
 
 # game/script_dlc_2.rpy:8752
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_8a5c8a63:
 
     nvl clear
-    "没人知道行窃的是你，可这件事终究没给同袍情谊带来什么好处。{color=#A9A9A9}{vspace=5}声望（士兵）降低30点！{vspace=5}虔诚降低40点！"
+    "{cps=50}没人知道行窃的是你，可这件事终究没给同袍情谊带来什么好处。{color=#A9A9A9}{vspace=5}声望（士兵）降低30点！{vspace=5}美德降低40点！"
 
 # game/script_dlc_2.rpy:8756
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_101d1eb7:
 
     nvl clear
-    "你们所有人被鞭笞一顿，还被关进土坑里禁闭数日。"
+    "{cps=50}你们所有人被鞭笞一顿，还被关进土坑里禁闭数日。"
 
 # game/script_dlc_2.rpy:8758
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_10a1ebc0:
 
     nvl clear
-    "{color=#A9A9A9}生命力降低4点！{vspace=5}中毒值上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
+    "{cps=50}{color=#A9A9A9}活力降低4点！{vspace=5}中毒值上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
 
 # game/script_dlc_2.rpy:8764
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_76b2fe88_2:
@@ -4739,7 +4739,7 @@ translate chinese oxford_city_visit_76b2fe88_1:
 # game/script_dlc_2.rpy:8774
 translate chinese oxford_city_visit_b3be5100:
 
-    "你的军衔太低，无权擅自离开营地。{color=#A9A9A9}{vspace=5}军衔——失败！"
+    "{cps=50}你的军衔太低，无权擅自离开营地。{color=#A9A9A9}{vspace=5}军衔——失败！"
 
 # game/script_dlc_2.rpy:8775
 translate chinese oxford_city_visit_76b2fe88:
@@ -4750,7 +4750,7 @@ translate chinese oxford_city_visit_76b2fe88:
 # game/script_dlc_2.rpy:8782
 translate chinese oxford_city_visit_02f35a5e:
 
-    "趁军营与牛津城近在咫尺，你进城走了一趟……"
+    "{cps=50}趁军营与牛津城近在咫尺，你进城走了一趟……"
 
 # game/script_dlc_2.rpy:8808
 translate chinese oxford_city_visit_menu_76b2fe88:
@@ -4762,55 +4762,55 @@ translate chinese oxford_city_visit_menu_76b2fe88:
 translate chinese oxford_city_amateur_assassin_invitation_c0740f3a:
 
     nvl clear
-    "办完正事，你决定拐进城里的酒馆，临行前喝上一品脱麦酒。"
+    "{cps=50}办完正事，你决定拐进城里的酒馆，临行前喝上一品脱麦酒。"
 
 # game/script_dlc_2.rpy:8827
 translate chinese oxford_city_amateur_assassin_invitation_41c7e86a:
 
     nvl clear
-    "正坐着，一个陌生人凑到你桌边，他竟不知从何处得知你的名字，还知道你是坎特伯雷伯爵军中服役的军士。"
+    "{cps=50}正坐着，一个陌生人凑到你桌边，他竟不知从何处得知你的名字，还知道你是坎特伯雷伯爵军中服役的军士。"
 
 # game/script_dlc_2.rpy:8829
 translate chinese oxford_city_amateur_assassin_invitation_a8695264:
 
     nvl clear
-    "面对你的追问，陌生人信誓旦旦地保证，他绝非你的敌人，无需担心。他找上你，只是为了谈一桩有利可图的买卖。"
+    "{cps=50}面对你的追问，陌生人信誓旦旦地保证，他绝非你的敌人，无需担心。他找上你，只是为了谈一桩有利可图的买卖。"
 
 # game/script_dlc_2.rpy:8831
 translate chinese oxford_city_amateur_assassin_invitation_d16fe4c3:
 
     nvl clear
-    "据他说，军营里藏着一个作恶多端的罪犯，他靠着与军队募兵官签订契约为护身符，逃脱了法律的制裁。而坎特伯雷勋爵明令：即便郡长前来要人，也不得移交涉嫌犯罪的士兵。因此此人如今有恃无恐——至少在战争结束前，谁也动不了他。"
+    "{cps=50}据他说，军营里藏着一个作恶多端的罪犯，他靠着与军队募兵官签订契约为护身符，逃脱了法律的制裁。而坎特伯雷勋爵明令：即便郡长前来要人，也不得移交涉嫌犯罪的士兵。因此此人如今有恃无恐——至少在战争结束前，谁也动不了他。"
 
 # game/script_dlc_2.rpy:8833
 translate chinese oxford_city_amateur_assassin_invitation_381cc09a:
 
     nvl clear
-    "你暗自冷笑——一个身在行伍的士兵，怎么会\"什么也不用怕\"？你径直问那陌生人：你到底想让我做什么？"
+    "{cps=50}你暗自冷笑——一个身在行伍的士兵，怎么会\"什么也不用怕\"？你径直问那陌生人：你到底想让我做什么？"
 
 # game/script_dlc_2.rpy:8835
 translate chinese oxford_city_amateur_assassin_invitation_fad9981d:
 
     nvl clear
-    "回答你的，是一只沉甸甸的钱袋——对方从怀里掏出，铛的一声放到你面前的桌上。"
+    "{cps=50}回答你的，是一只沉甸甸的钱袋——对方从怀里掏出，铛的一声放到你面前的桌上。"
 
 # game/script_dlc_2.rpy:8837
 translate chinese oxford_city_amateur_assassin_invitation_1b3cb876:
 
     nvl clear
-    "受过此人侵害的人中，不乏家资雄厚、人脉广阔、手眼通天之辈——如今，他们要的是复仇。"
+    "{cps=50}受过此人侵害的人中，不乏家资雄厚、人脉广阔、手眼通天之辈——如今，他们要的是复仇。"
 
 # game/script_dlc_2.rpy:8839
 translate chinese oxford_city_amateur_assassin_invitation_a1b6c69e:
 
     nvl clear
-    "你只需趁夜找到他的帐篷，割断他的喉咙。"
+    "{cps=50}你只需趁夜找到他的帐篷，割断他的喉咙。"
 
 # game/script_dlc_2.rpy:8841
 translate chinese oxford_city_amateur_assassin_invitation_082c9d0b:
 
     nvl clear
-    "这笔钱就是你的了。"
+    "{cps=50}这笔钱就是你的了。"
 
 # game/script_dlc_2.rpy:8843
 translate chinese oxford_city_amateur_assassin_invitation_76b2fe88_1:
@@ -4822,13 +4822,13 @@ translate chinese oxford_city_amateur_assassin_invitation_76b2fe88_1:
 translate chinese oxford_city_amateur_assassin_invitation_bdab11d1:
 
     nvl clear
-    "此情此景，让你立刻想起了当年与德·罗什的那段往事……"
+    "{cps=50}此情此景，让你立刻想起了当年与德·罗什的那段往事……"
 
 # game/script_dlc_2.rpy:8847
 translate chinese oxford_city_amateur_assassin_invitation_5d2ac848:
 
     nvl clear
-    "你从未想过当一名业余刺客，可这门行当，仿佛一次又一次地自己找上了你。"
+    "{cps=50}你从未想过当一名业余刺客，可这门行当，仿佛一次又一次地自己找上了你。"
 
 # game/script_dlc_2.rpy:8849
 translate chinese oxford_city_amateur_assassin_invitation_76b2fe88:
@@ -4840,19 +4840,19 @@ translate chinese oxford_city_amateur_assassin_invitation_76b2fe88:
 translate chinese oxford_city_amateur_assassin_invitation_ff78359a:
 
     nvl clear
-    "得到你的应允后，陌生人详细描述了罪犯的相貌，告知他隶属于哪个单位，以及该去营地哪个区域寻他。"
+    "{cps=50}得到你的应允后，陌生人详细描述了罪犯的相貌，告知他隶属于哪个单位，以及该去营地哪个区域寻他。"
 
 # game/script_dlc_2.rpy:8854
 translate chinese oxford_city_amateur_assassin_invitation_1f5d5228:
 
     nvl clear
-    "他还提醒你，此人极其危险，务必万分小心。{color=#A9A9A9}{vspace=5}获得新任务——[amateur_assassin.name!ti]。"
+    "{cps=50}他还提醒你，此人极其危险，务必万分小心。{color=#A9A9A9}{vspace=5}获得新任务——[amateur_assassin.name!ti]。"
 
 # game/script_dlc_2.rpy:8858
 translate chinese oxford_city_amateur_assassin_invitation_32eb8383:
 
     nvl clear
-    "你拒绝充当雇凶杀人的刀，起身离开了酒馆。"
+    "{cps=50}你拒绝充当雇凶杀人的刀，起身离开了酒馆。"
 
 # game/script_dlc_2.rpy:8861
 translate chinese oxford_city_amateur_assassin_invitation_76b2fe88_2:
@@ -4864,7 +4864,7 @@ translate chinese oxford_city_amateur_assassin_invitation_76b2fe88_2:
 translate chinese oxford_city_amateur_assassin_1_3ea08c68:
 
     nvl clear
-    "回到营地，你把这件事又从头掂量了一遍……"
+    "{cps=50}回到营地，你把这件事又从头掂量了一遍……"
 
 # game/script_dlc_2.rpy:8870
 translate chinese oxford_city_amateur_assassin_1_76b2fe88_3:
@@ -4876,37 +4876,37 @@ translate chinese oxford_city_amateur_assassin_1_76b2fe88_3:
 translate chinese oxford_city_amateur_assassin_1_62c67bc8:
 
     nvl clear
-    "最终，你仍决心践行诺言，去完成这个任务。"
+    "{cps=50}最终，你仍决心践行诺言，去完成这个任务。"
 
 # game/script_dlc_2.rpy:8875
 translate chinese oxford_city_amateur_assassin_1_1f33f6aa:
 
     nvl clear
-    "待到营地沉入梦乡，你摸黑寻到罪犯的帐篷，潜了进去。"
+    "{cps=50}待到营地沉入梦乡，你摸黑寻到罪犯的帐篷，潜了进去。"
 
 # game/script_dlc_2.rpy:8882
 translate chinese oxford_city_amateur_assassin_1_25d82921:
 
     nvl clear
-    "你悄无声息地逼近他的卧榻，手起刀落，割断了他的喉咙。{color=#A9A9A9}{vspace=5}敏捷、协调、运气——成功！"
+    "{cps=50}你悄无声息地逼近他的卧榻，手起刀落，割断了他的喉咙。{color=#A9A9A9}{vspace=5}敏捷、协调、运气——成功！"
 
 # game/script_dlc_2.rpy:8884
 translate chinese oxford_city_amateur_assassin_1_0d488bbf:
 
     nvl clear
-    "一切在开始之前便已结束。"
+    "{cps=50}一切在开始之前便已结束。"
 
 # game/script_dlc_2.rpy:8888
 translate chinese oxford_city_amateur_assassin_1_9e51303b:
 
     nvl clear
-    "然而在千钧一发之际，你的身手却掉了链子。几个不经意的动作弄出声响，顿时惊醒了睡梦中的目标。{color=#A9A9A9}{vspace=5}敏捷、协调、运气——失败！"
+    "{cps=50}然而在千钧一发之际，你的身手却掉了链子。几个不经意的动作弄出声响，顿时惊醒了睡梦中的目标。{color=#A9A9A9}{vspace=5}敏捷、协调、运气——失败！"
 
 # game/script_dlc_2.rpy:8894
 translate chinese oxford_city_amateur_assassin_1_d7515101:
 
     nvl clear
-    "……你没有去执行那份差事，而是决定把这件事报告给指挥部。{color=#A9A9A9}{vspace=5}指挥部注意到了你。{vspace=5}指挥官好感提升1点！"
+    "{cps=50}……你没有去执行那份差事，而是决定把这件事报告给指挥部。{color=#A9A9A9}{vspace=5}指挥部注意到了你。{vspace=5}指挥官好感提升1点！"
 
 # game/script_dlc_2.rpy:8899
 translate chinese oxford_city_amateur_assassin_1_76b2fe88_1:
@@ -4918,7 +4918,7 @@ translate chinese oxford_city_amateur_assassin_1_76b2fe88_1:
 translate chinese oxford_city_amateur_assassin_1_88141a15:
 
     nvl clear
-    "{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:8907
 translate chinese oxford_city_amateur_assassin_1_76b2fe88:
@@ -4942,7 +4942,7 @@ translate chinese oxford_city_amateur_assassin_fight_76b2fe88:
 translate chinese oxford_city_amateur_assassin_fight_4ca55e4b:
 
     nvl clear
-    "搏斗陷入僵持……"
+    "{cps=50}搏斗陷入僵持……"
 
 # game/script_dlc_2.rpy:9165
 translate chinese oxford_city_amateur_assassin_fight_76b2fe88_1:
@@ -4954,43 +4954,43 @@ translate chinese oxford_city_amateur_assassin_fight_76b2fe88_1:
 translate chinese oxford_city_amateur_assassin_postfight_824676cf:
 
     nvl clear
-    "料理了他，你仓皇逃离这片营地，祈祷没有人听见动静……"
+    "{cps=50}料理了他，你仓皇逃离这片营地，祈祷没有人听见动静……"
 
 # game/script_dlc_2.rpy:9240
 translate chinese oxford_city_amateur_assassin_postfight_02f7d8a8:
 
     nvl clear
-    "打斗的声响惊醒了其他士兵。两人被强行分开，在调查尘埃落定前，你们双双被看押起来。{color=#A9A9A9}{vspace=5}耗时：5"
+    "{cps=50}打斗的声响惊醒了其他士兵。两人被强行分开，在调查尘埃落定前，你们双双被看押起来。{color=#A9A9A9}{vspace=5}耗时：5"
 
 # game/script_dlc_2.rpy:9243
 translate chinese oxford_city_amateur_assassin_postfight_edafb6bd:
 
     nvl clear
-    "自然，没有哪位指挥官愿意费时费力去彻查两名士兵冲突的来龙去脉，于是判决便草草凭印象作出。"
+    "{cps=50}自然，没有哪位指挥官愿意费时费力去彻查两名士兵冲突的来龙去脉，于是判决便草草凭印象作出。"
 
 # game/script_dlc_2.rpy:9250
 translate chinese oxford_city_amateur_assassin_postfight_ca6f93db:
 
     nvl clear
-    "你显得更为可信，被判无罪；你的对手则被认定有罪，即刻处决。{color=#A9A9A9}{vspace=5}军衔、威望、虔诚、运气——成功！"
+    "{cps=50}你显得更为可信，被判无罪；你的对手则被认定有罪，即刻处决。{color=#A9A9A9}{vspace=5}军衔、威望、虔诚、运气——成功！"
 
 # game/script_dlc_2.rpy:9254
 translate chinese oxford_city_amateur_assassin_postfight_6c9e155d:
 
     nvl clear
-    "你们二人谁都不怎么可信。{color=#A9A9A9}{vspace=5}军衔、威望、虔诚、运气——失败！"
+    "{cps=50}你们二人谁都不怎么可信。{color=#A9A9A9}{vspace=5}军衔、威望、虔诚、运气——失败！"
 
 # game/script_dlc_2.rpy:9256
 translate chinese oxford_city_amateur_assassin_postfight_9379ad69:
 
     nvl clear
-    "不过，鉴于你们俩都是有丰富作战经验、身价不菲的老兵，上头决定不处死刑，只予以严惩：鞭笞一顿，再关进土坑数日。"
+    "{cps=50}不过，鉴于你们俩都是有丰富作战经验、身价不菲的老兵，上头决定不处死刑，只予以严惩：鞭笞一顿，再关进土坑数日。"
 
 # game/script_dlc_2.rpy:9258
 translate chinese oxford_city_amateur_assassin_postfight_10a1ebc0:
 
     nvl clear
-    "{color=#A9A9A9}生命力降低4点！{vspace=5}中毒值上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
+    "{cps=50}{color=#A9A9A9}活力降低4点！{vspace=5}中毒值上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
 
 # game/script_dlc_2.rpy:9266
 translate chinese oxford_city_amateur_assassin_postfight_76b2fe88:
@@ -5014,7 +5014,7 @@ translate chinese oxford_city_amateur_assassin_success_76b2fe88_1:
 translate chinese oxford_city_amateur_assassin_success_88141a15:
 
     nvl clear
-    "{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:9282
 translate chinese oxford_city_amateur_assassin_success_76b2fe88:
@@ -5026,43 +5026,43 @@ translate chinese oxford_city_amateur_assassin_success_76b2fe88:
 translate chinese oxford_city_a_guest_from_scotland_intro_4499256d:
 
     nvl clear
-    "你在一家铺子前端详陈列的货物，与店主攀谈起来。话题从盔甲的好坏说起，聊着聊着，便扯到了别处。"
+    "{cps=50}你在一家铺子前端详陈列的货物，与店主攀谈起来。话题从盔甲的好坏说起，聊着聊着，便扯到了别处。"
 
 # game/script_dlc_2.rpy:9296
 translate chinese oxford_city_a_guest_from_scotland_intro_61b6c4d3:
 
     nvl clear
-    "这位商人是个颇为和善的人。而你，也同样给他留下了不错的印象。{color=#A9A9A9}{vspace=5}虔诚——成功！"
+    "{cps=50}这位商人是个颇为和善的人。而你，也同样给他留下了不错的印象。{color=#A9A9A9}{vspace=5}美德——成功！"
 
 # game/script_dlc_2.rpy:9298
 translate chinese oxford_city_a_guest_from_scotland_intro_c41cd92b:
 
     nvl clear
-    "店主说他看你是个值得托付的人，想请你帮一个忙。"
+    "{cps=50}店主说他看你是个值得托付的人，想请你帮一个忙。"
 
 # game/script_dlc_2.rpy:9300
 translate chinese oxford_city_a_guest_from_scotland_intro_dc13104a:
 
     nvl clear
-    "他近日正翘首等待北方一位生意伙伴运来的新货。据说这批货件件价值不菲，在当地是极罕见的珍品。"
+    "{cps=50}他近日正翘首等待北方一位生意伙伴运来的新货。据说这批货件件价值不菲，在当地是极罕见的珍品。"
 
 # game/script_dlc_2.rpy:9302
 translate chinese oxford_city_a_guest_from_scotland_intro_3abe9a5f:
 
     nvl clear
-    "然而，运货的马车要途经奇彭纳姆附近。近几个月来，自从当地的领主被自己的佃农推翻之后，那一带的名声便臭名昭著。"
+    "{cps=50}然而，运货的马车要途经奇彭纳姆附近。近几个月来，自从当地的领主被自己的佃农推翻之后，那一带的名声便臭名昭著。"
 
 # game/script_dlc_2.rpy:9304
 translate chinese oxford_city_a_guest_from_scotland_intro_96d2862c:
 
     nvl clear
-    "店主的那位生意伙伴本会派人押运货物，可这种情形下，多一双手总归有益无害——尤其这双手的主人不是寻常之辈，而是一名经验老到的士兵。"
+    "{cps=50}店主的那位生意伙伴本会派人押运货物，可这种情形下，多一双手总归有益无害——尤其这双手的主人不是寻常之辈，而是一名经验老到的士兵。"
 
 # game/script_dlc_2.rpy:9306
 translate chinese oxford_city_a_guest_from_scotland_intro_1775b194:
 
     nvl clear
-    "只要你肯帮忙，他便许诺：等新货到了，以半价把那批货中的一柄苏格兰大剑让给你。"
+    "{cps=50}只要你肯帮忙，他便许诺：等新货到了，以半价把那批货中的一柄苏格兰大剑让给你。"
 
 # game/script_dlc_2.rpy:9308
 translate chinese oxford_city_a_guest_from_scotland_intro_76b2fe88_3:
@@ -5074,19 +5074,19 @@ translate chinese oxford_city_a_guest_from_scotland_intro_76b2fe88_3:
 translate chinese oxford_city_a_guest_from_scotland_intro_ab7b072c:
 
     nvl clear
-    "你哂然一笑，直言自己可不愿意为了\"买\"一把剑的机会去拿命冒险。"
+    "{cps=50}你哂然一笑，直言自己可不愿意为了\"买\"一把剑的机会去拿命冒险。"
 
 # game/script_dlc_2.rpy:9317
 translate chinese oxford_city_a_guest_from_scotland_intro_7b476763:
 
     nvl clear
-    "商人显然被刺痛了——与其说是因为你的拒绝，不如说是因为你对大剑的那番轻蔑之词。他声称，你根本不知道自己错过了怎样的机会。"
+    "{cps=50}商人显然被刺痛了——与其说是因为你的拒绝，不如说是因为你对大剑的那番轻蔑之词。他声称，你根本不知道自己错过了怎样的机会。"
 
 # game/script_dlc_2.rpy:9319
 translate chinese oxford_city_a_guest_from_scotland_intro_05bad00d:
 
     nvl clear
-    "据他说，苏格兰大剑威力惊人，在这片王国境内无人能敌。一旦得手，战场上便能所向披靡……"
+    "{cps=50}据他说，苏格兰大剑威力惊人，在这片王国境内无人能敌。一旦得手，战场上便能所向披靡……"
 
 # game/script_dlc_2.rpy:9321
 translate chinese oxford_city_a_guest_from_scotland_intro_76b2fe88_2:
@@ -5098,19 +5098,19 @@ translate chinese oxford_city_a_guest_from_scotland_intro_76b2fe88_2:
 translate chinese oxford_city_a_guest_from_scotland_intro_0243a838:
 
     nvl clear
-    "你再次回绝，重申道：商人托付的这份差事，需要的是实实在在的弗罗林酬劳——从他的口袋流进你的口袋，而绝不能反着来。"
+    "{cps=50}你再次回绝，重申道：商人托付的这份差事，需要的是实实在在的弗罗林酬劳——从他的口袋流进你的口袋，而绝不能反着来。"
 
 # game/script_dlc_2.rpy:9329
 translate chinese oxford_city_a_guest_from_scotland_intro_ca2908d9:
 
     nvl clear
-    "至于那把剑，能以折扣价入手，不过是干好活之后的额外彩头。"
+    "{cps=50}至于那把剑，能以折扣价入手，不过是干好活之后的额外彩头。"
 
 # game/script_dlc_2.rpy:9331
 translate chinese oxford_city_a_guest_from_scotland_intro_8ae73b05:
 
     nvl clear
-    "商人神色黯然，还是接受了你的条件：若你助他完好取回货物，他便付你酬劳，并给你买剑的折扣。"
+    "{cps=50}商人神色黯然，还是接受了你的条件：若你助他完好取回货物，他便付你酬劳，并给你买剑的折扣。"
 
 # game/script_dlc_2.rpy:9333
 translate chinese oxford_city_a_guest_from_scotland_intro_76b2fe88_1:
@@ -5122,13 +5122,13 @@ translate chinese oxford_city_a_guest_from_scotland_intro_76b2fe88_1:
 translate chinese oxford_city_a_guest_from_scotland_intro_d0a448ea:
 
     nvl clear
-    "你郑重颔首，承认如今他的提议确实值得考虑……不过遗憾的是，你这段时日已另有安排，分身乏术。"
+    "{cps=50}你郑重颔首，承认如今他的提议确实值得考虑……不过遗憾的是，你这段时日已另有安排，分身乏术。"
 
 # game/script_dlc_2.rpy:9341
 translate chinese oxford_city_a_guest_from_scotland_intro_c04559e4:
 
     nvl clear
-    "言罢，你便告辞离去。"
+    "{cps=50}言罢，你便告辞离去。"
 
 # game/script_dlc_2.rpy:9343
 translate chinese oxford_city_a_guest_from_scotland_intro_76b2fe88:
@@ -5140,7 +5140,7 @@ translate chinese oxford_city_a_guest_from_scotland_intro_76b2fe88:
 translate chinese oxford_city_a_guest_from_scotland_accept_5a28e821:
 
     nvl clear
-    "你应下了他的请求。"
+    "{cps=50}你应下了他的请求。"
 
 # game/script_dlc_2.rpy:9350
 translate chinese oxford_city_a_guest_from_scotland_accept_76b2fe88:
@@ -5152,13 +5152,13 @@ translate chinese oxford_city_a_guest_from_scotland_accept_76b2fe88:
 translate chinese oxford_city_a_guest_from_scotland_1_61872acd:
 
     nvl clear
-    "你弄来一匹快马，沿着约定的路线出发，去迎那批商人望眼欲穿的货物。"
+    "{cps=50}你弄来一匹快马，沿着约定的路线出发，去迎那批商人望眼欲穿的货物。"
 
 # game/script_dlc_2.rpy:9357
 translate chinese oxford_city_a_guest_from_scotland_1_2f32d10b:
 
     nvl clear
-    "行出数个小时，在奇彭纳姆附近的一片小树林里，你撞见一辆翻倒的货车——车主人正被一伙强盗团团围住，拼死抵抗……"
+    "{cps=50}行出数个小时，在奇彭纳姆附近的一片小树林里，你撞见一辆翻倒的货车——车主人正被一伙强盗团团围住，拼死抵抗……"
 
 # game/script_dlc_2.rpy:9359
 translate chinese oxford_city_a_guest_from_scotland_1_76b2fe88:
@@ -5170,7 +5170,7 @@ translate chinese oxford_city_a_guest_from_scotland_1_76b2fe88:
 translate chinese oxford_city_a_guest_from_scotland_fight_9c2633aa:
 
     nvl clear
-    "强盗们被尽数歼除……"
+    "{cps=50}强盗们被尽数歼除……"
 
 # game/script_dlc_2.rpy:9720
 translate chinese oxford_city_a_guest_from_scotland_fight_76b2fe88:
@@ -5188,7 +5188,7 @@ translate chinese oxford_city_a_guest_from_scotland_fight_76b2fe88_1:
 translate chinese oxford_city_a_guest_from_scotland_fight_894f78cb:
 
     nvl clear
-    "{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc_2.rpy:9734
 translate chinese oxford_city_a_guest_from_scotland_fight_76b2fe88_2:
@@ -5205,7 +5205,7 @@ translate chinese oxford_city_a_guest_from_scotland_fight_76b2fe88_3:
 # game/script_dlc_2.rpy:9751
 translate chinese oxford_city_a_guest_from_scotland_fight_64a8503f:
 
-    "残存的强盗仓皇退去……"
+    "{cps=50}残存的强盗仓皇退去……"
 
 # game/script_dlc_2.rpy:9755
 translate chinese oxford_city_a_guest_from_scotland_fight_76b2fe88_4:
@@ -5217,7 +5217,7 @@ translate chinese oxford_city_a_guest_from_scotland_fight_76b2fe88_4:
 translate chinese oxford_city_a_guest_from_scotland_fight_894f78cb_1:
 
     nvl clear
-    "{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc_2.rpy:9765
 translate chinese oxford_city_a_guest_from_scotland_fight_76b2fe88_5:
@@ -5229,7 +5229,7 @@ translate chinese oxford_city_a_guest_from_scotland_fight_76b2fe88_5:
 translate chinese oxford_city_a_guest_from_scotland_postfight_ae76ec80:
 
     nvl clear
-    "收拾完匪徒，你帮着几个侥幸活下来的押运人把货车重新扶上大路，一路平安地抵达牛津。"
+    "{cps=50}收拾完匪徒，你帮着几个侥幸活下来的押运人把货车重新扶上大路，一路平安地抵达牛津。"
 
 # game/script_dlc_2.rpy:9823
 translate chinese oxford_city_a_guest_from_scotland_postfight_76b2fe88:
@@ -5240,12 +5240,12 @@ translate chinese oxford_city_a_guest_from_scotland_postfight_76b2fe88:
 # game/script_dlc_2.rpy:9825
 translate chinese oxford_city_a_guest_from_scotland_postfight_76e45733:
 
-    "商人信守承诺，付给你一笔弗罗林作为谢意，并允许你以折扣价选购其中一把剑。{color=#A9A9A9}{vspace=5}获得100弗罗林。"
+    "{cps=50}商人信守承诺，付给你一笔弗罗林作为谢意，并允许你以折扣价选购其中一把剑。{color=#A9A9A9}{vspace=5}获得100弗罗林。"
 
 # game/script_dlc_2.rpy:9829
 translate chinese oxford_city_a_guest_from_scotland_postfight_6cc05ead:
 
-    "商人信守承诺，允许你以折扣价选购其中一把剑。"
+    "{cps=50}商人信守承诺，允许你以折扣价选购其中一把剑。"
 
 # game/script_dlc_2.rpy:9830
 translate chinese oxford_city_a_guest_from_scotland_postfight_76b2fe88_1:
@@ -5263,7 +5263,7 @@ translate chinese oxford_city_a_guest_from_scotland_postfight_76b2fe88_3:
 translate chinese oxford_city_a_guest_from_scotland_postfight_88141a15:
 
     nvl clear
-    "{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:9840
 translate chinese oxford_city_a_guest_from_scotland_postfight_76b2fe88_2:
@@ -5275,7 +5275,7 @@ translate chinese oxford_city_a_guest_from_scotland_postfight_76b2fe88_2:
 translate chinese oxford_camp_training_1_1d146534:
 
     nvl clear
-    "罗杰正带着队中士兵操练，教他们协同作战与兵刃功夫。{color=#A9A9A9}{vspace=5}武器天赋点：+1。"
+    "{cps=50}罗杰正带着队中士兵操练，教他们协同作战与武器使用技巧。{color=#A9A9A9}{vspace=5}武器天赋点：+1。"
 
 # game/script_dlc_2.rpy:9857
 translate chinese oxford_camp_training_1_76b2fe88:
@@ -5287,7 +5287,7 @@ translate chinese oxford_camp_training_1_76b2fe88:
 translate chinese oxford_camp_training_2_2279608e:
 
     nvl clear
-    "罗杰正带着队中士兵操练，检验他们的体魄与身手。"
+    "{cps=50}罗杰正带着队中士兵操练，检验他们的体魄与身手。"
 
 # game/script_dlc_2.rpy:9865
 translate chinese oxford_camp_training_2_76b2fe88:
@@ -5299,43 +5299,43 @@ translate chinese oxford_camp_training_2_76b2fe88:
 translate chinese oxford_camp_training_2_dd0a3e77:
 
     nvl clear
-    "你在力量科目上表现出色。{color=#A9A9A9}{vspace=5}力量——成功！"
+    "{cps=50}你在力量科目上表现出色。{color=#A9A9A9}{vspace=5}力量——成功！"
 
 # game/script_dlc_2.rpy:9874
 translate chinese oxford_camp_training_2_8cb25a55:
 
     nvl clear
-    "你在力量科目上表现欠佳。{color=#A9A9A9}{vspace=5}力量——失败！"
+    "{cps=50}你在力量科目上表现欠佳。{color=#A9A9A9}{vspace=5}力量——失败！"
 
 # game/script_dlc_2.rpy:9878
 translate chinese oxford_camp_training_2_d6678111:
 
     nvl clear
-    "你在敏捷科目上表现出色。{color=#A9A9A9}{vspace=5}敏捷——成功！"
+    "{cps=50}你在敏捷科目上表现出色。{color=#A9A9A9}{vspace=5}敏捷——成功！"
 
 # game/script_dlc_2.rpy:9882
 translate chinese oxford_camp_training_2_d0cfc76b:
 
     nvl clear
-    "你在敏捷科目上表现欠佳。{color=#A9A9A9}{vspace=5}敏捷——失败！"
+    "{cps=50}你在敏捷科目上表现欠佳。{color=#A9A9A9}{vspace=5}敏捷——失败！"
 
 # game/script_dlc_2.rpy:9886
 translate chinese oxford_camp_training_2_ad14e2b2:
 
     nvl clear
-    "你在耐力科目上表现出色。{color=#A9A9A9}{vspace=5}耐力——成功！"
+    "{cps=50}你在耐力科目上表现出色。{color=#A9A9A9}{vspace=5}耐力——成功！"
 
 # game/script_dlc_2.rpy:9890
 translate chinese oxford_camp_training_2_af71a46f:
 
     nvl clear
-    "你在耐力科目上表现欠佳。{color=#A9A9A9}{vspace=5}耐力——失败！"
+    "{cps=50}你在耐力科目上表现欠佳。{color=#A9A9A9}{vspace=5}耐力——失败！"
 
 # game/script_dlc_2.rpy:9894
 translate chinese oxford_camp_training_2_5ec061cf:
 
     nvl clear
-    "你展示出的优异表现，让上头开始考虑擢升你的军衔……{color=#A9A9A9}{vspace=5}指挥官好感提升1点！"
+    "{cps=50}你展示出的优异表现，让上头开始考虑擢升你的军衔……{color=#A9A9A9}{vspace=5}指挥官好感提升1点！"
 
 # game/script_dlc_2.rpy:9898
 translate chinese oxford_camp_training_2_76b2fe88_1:
@@ -5347,7 +5347,7 @@ translate chinese oxford_camp_training_2_76b2fe88_1:
 translate chinese oxford_camp_news_1_d15faceb:
 
     nvl clear
-    "营中渐起传闻：不久将有一支兵力被派去攻取敌方某座重镇……"
+    "{cps=50}营中渐起传闻：不久将有一支兵力被派去攻取敌方某座重镇……"
 
 # game/script_dlc_2.rpy:9907
 translate chinese oxford_camp_news_1_76b2fe88:
@@ -5364,19 +5364,19 @@ translate chinese windsor_defence_hub_5bbf92e7:
 translate chinese windsor_defence_intro_b321dd77:
 
     nvl clear
-    "出发的命令，一如既往，来得毫无预兆。"
+    "{cps=50}出发的命令，一如既往，来得毫无预兆。"
 
 # game/script_dlc_2.rpy:9967
 translate chinese windsor_defence_intro_e9309d61:
 
     nvl clear
-    "在牛津营地驻扎了约一个半月之后，某日清晨，罗杰召集麾下，命众人整备待发。"
+    "{cps=50}在牛津营地驻扎了约一个半月之后，某日清晨，罗杰召集麾下，命众人整备待发。"
 
 # game/script_dlc_2.rpy:9969
 translate chinese windsor_defence_intro_9e1a80cd:
 
     nvl clear
-    "数小时之后，你们急行军开赴温莎，傍晚时分抵达城下。"
+    "{cps=50}数小时之后，你们急行军开赴温莎，傍晚时分抵达城下。"
 
 # game/script_dlc_2.rpy:9971
 translate chinese windsor_defence_intro_76b2fe88:
@@ -5387,31 +5387,31 @@ translate chinese windsor_defence_intro_76b2fe88:
 # game/script_dlc_2.rpy:9977
 translate chinese windsor_defence_intro_c4a752cb:
 
-    "罗杰将队伍藏进近旁的小树林，只带上几名最老练的士兵，登上货车、裹紧斗篷，向城门驶去。"
+    "{cps=50}罗杰将队伍藏进近旁的小树林，只带上几名最老练的士兵，登上货车、裹紧斗篷，向城门驶去。"
 
 # game/script_dlc_2.rpy:9978
 translate chinese windsor_defence_intro_31d92709:
 
     nvl clear
-    "按照事先拟定的计划，先锋小队将不惊动城中守卫，悄悄逼近尚未落锁的城门，以迅雷不及掩耳之势将其夺下。"
+    "{cps=50}按照事先拟定的计划，先锋小队将不惊动城中守卫，悄悄逼近尚未落锁的城门，以迅雷不及掩耳之势将其夺下。"
 
 # game/script_dlc_2.rpy:9980
 translate chinese windsor_defence_intro_5871a91d:
 
     nvl clear
-    "随后发信号给其余人马——大队须趁势疾冲入城，一举将其拿下。"
+    "{cps=50}随后发信号给其余人马——大队须趁势疾冲入城，一举将其拿下。"
 
 # game/script_dlc_2.rpy:9982
 translate chinese windsor_defence_intro_d8dcaba5:
 
     nvl clear
-    "计划执行得天衣无缝。一刻钟后，你们便已冲入城中。温莎守军人单势孤，又遭突袭，无力招架，索性缴械投降。"
+    "{cps=50}计划执行得天衣无缝。一刻钟后，你们便已冲入城中。温莎守军人单势孤，又遭突袭，无力招架，索性缴械投降。"
 
 # game/script_dlc_2.rpy:9984
 translate chinese windsor_defence_intro_45379816:
 
     nvl clear
-    "这座城落入了你们的掌控。"
+    "{cps=50}这座城落入了你们的掌控。"
 
 # game/script_dlc_2.rpy:9986
 translate chinese windsor_defence_intro_76b2fe88_1:
@@ -5422,7 +5422,7 @@ translate chinese windsor_defence_intro_76b2fe88_1:
 # game/script_dlc_2.rpy:9992
 translate chinese windsor_defence_intro_dab25edc:
 
-    "在帐篷里苦捱了一个多月之后，奉罗杰之命住进温莎市政厅，这日子简直堪称安逸的极致。"
+    "{cps=50}在帐篷里苦捱了一个多月之后，奉罗杰之命住进温莎市政厅，这日子简直堪称安逸的极致。"
 
 # game/script_dlc_2.rpy:9993
 translate chinese windsor_defence_intro_76b2fe88_3:
@@ -5434,37 +5434,37 @@ translate chinese windsor_defence_intro_76b2fe88_3:
 translate chinese windsor_defence_intro_7c30053c:
 
     nvl clear
-    "军务也惬意了许多：不再是被折腾得筋疲力尽的单调操练，而是从容巡弋城墙，间或拦截那些经温莎郊野驶往伦敦的辎重粮草车队。{color=#A9A9A9}{vspace=5}军衔、威望——成功！"
+    "{cps=50}军务也惬意了许多：不再是被折腾得筋疲力尽的单调操练，而是从容巡弋城墙，间或拦截那些经温莎郊野驶往伦敦的辎重粮草车队。{color=#A9A9A9}{vspace=5}军衔、威望——成功！"
 
 # game/script_dlc_2.rpy:9997
 translate chinese windsor_defence_intro_2b4505ae:
 
     nvl clear
-    "车队的护卫通常不会负隅顽抗，宁可主动奉上货物任你劫掠，只求保全性命与自由。"
+    "{cps=50}车队的护卫通常不会负隅顽抗，宁可主动奉上货物任你劫掠，只求保全性命与自由。"
 
 # game/script_dlc_2.rpy:10000
 translate chinese windsor_defence_intro_3fe0ad9f:
 
     nvl clear
-    "然而军务却谈不上半分快意。自抵达温莎起，罗杰便打发绝大多数士兵去干土木营建、加固城防的差事。"
+    "{cps=50}然而军务却谈不上半分快意。自抵达温莎起，罗杰便打发绝大多数士兵去干土木营建、加固城防的差事。"
 
 # game/script_dlc_2.rpy:10002
 translate chinese windsor_defence_intro_83d3833d:
 
     nvl clear
-    "你也是这些\"匠役\"中的一员。{color=#A9A9A9}{vspace=5}军衔、威望——失败！"
+    "{cps=50}你也是这些\"匠役\"中的一员。{color=#A9A9A9}{vspace=5}军衔、威望——失败！"
 
 # game/script_dlc_2.rpy:10004
 translate chinese windsor_defence_intro_b04eac67:
 
     nvl clear
-    "这活计极是熬人，虽说食宿条件尚佳，疲惫感却还是一天天积攒起来。{color=#A9A9A9}{vspace=5}疲劳值上升！"
+    "{cps=50}这活计极是熬人，虽说食宿条件尚佳，疲惫感却还是一天天积攒起来。{color=#A9A9A9}{vspace=5}疲劳值上升！"
 
 # game/script_dlc_2.rpy:10009
 translate chinese windsor_defence_intro_55419b62:
 
     nvl clear
-    "不过，这差事也不全是坏处。见你心灵手巧，罗杰便委任你做了工事营建的一名管事，还额外给你添了份物资配给。{color=#A9A9A9}{vspace=5}手艺——成功！"
+    "{cps=50}不过，这差事也不全是坏处。见你心灵手巧，罗杰便委任你做了工事营建的一名管事，还额外给你添了份物资配给。{color=#A9A9A9}{vspace=5}手艺——成功！"
 
 # game/script_dlc_2.rpy:10012
 translate chinese windsor_defence_intro_76b2fe88_2:
@@ -5476,25 +5476,25 @@ translate chinese windsor_defence_intro_76b2fe88_2:
 translate chinese windsor_defence_intro_end_004e5ac2:
 
     nvl clear
-    "可惜这般好光景没能持续多久——夺城才一周，第一支敌军便已出现在城墙之下。"
+    "{cps=50}可惜这般好光景没能持续多久——夺城才一周，第一支敌军便已出现在城墙之下。"
 
 # game/script_dlc_2.rpy:10019
 translate chinese windsor_defence_intro_end_ef8957a0:
 
     nvl clear
-    "眼见城防已被大幅加固，敌军不敢贸然强攻温莎，只将城池半围起来，坐等援军到来。"
+    "{cps=50}眼见城防已被大幅加固，敌军不敢贸然强攻温莎，只将城池半围起来，坐等援军到来。"
 
 # game/script_dlc_2.rpy:10021
 translate chinese windsor_defence_intro_end_4d5e7245:
 
     nvl clear
-    "接下来的一周，新的敌军队伍源源不断地开抵城下。虽然其中大多是衣衫褴褛程度不一的民兵，装备精良的战士也为数不少。"
+    "{cps=50}接下来的一周，新的敌军队伍源源不断地开抵城下。虽然其中大多是衣衫褴褛程度不一的民兵，装备精良的战士也为数不少。"
 
 # game/script_dlc_2.rpy:10023
 translate chinese windsor_defence_intro_end_83ed01b1:
 
     nvl clear
-    "积攒起足够的兵力后，敌军终于决心发动一次像样的强攻。"
+    "{cps=50}积攒起足够的兵力后，敌军终于决心发动一次像样的强攻。"
 
 # game/script_dlc_2.rpy:10025
 translate chinese windsor_defence_intro_end_76b2fe88:
@@ -5506,7 +5506,7 @@ translate chinese windsor_defence_intro_end_76b2fe88:
 translate chinese windsor_defence_fight_923ba199:
 
     nvl clear
-    "你成功击退了这次强攻。"
+    "{cps=50}你成功击退了这次强攻。"
 
 # game/script_dlc_2.rpy:10418
 translate chinese windsor_defence_fight_76b2fe88:
@@ -5524,7 +5524,7 @@ translate chinese windsor_defence_fight_76b2fe88_1:
 translate chinese windsor_defence_fight_894f78cb:
 
     nvl clear
-    "{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc_2.rpy:10433
 translate chinese windsor_defence_fight_76b2fe88_2:
@@ -5542,37 +5542,37 @@ translate chinese windsor_defence_postfight_76b2fe88:
 translate chinese windsor_defence_2_fe675f38:
 
     nvl clear
-    "尽管失利且伤亡惨重，敌军却无意放弃夺回温莎的打算，转而开始了全面围城。"
+    "{cps=50}尽管失利且伤亡惨重，敌军却无意放弃夺回温莎的打算，转而开始了全面围城。"
 
 # game/script_dlc_2.rpy:10510
 translate chinese windsor_defence_2_32d83edc:
 
     nvl clear
-    "城中的补给线被彻底切断，敌军的投石机与抛石机又将腐烂的牲畜尸体抛入城中，疫病迅速蔓延开来。{color=#A9A9A9}{vspace=5}中毒值上升！"
+    "{cps=50}城中的补给线被彻底切断，敌军的投石机与抛石机又将腐烂的牲畜尸体抛入城中，疫病迅速蔓延开来。{color=#A9A9A9}{vspace=5}中毒值上升！"
 
 # game/script_dlc_2.rpy:10514
 translate chinese windsor_defence_2_42b62ae4:
 
     nvl clear
-    "城中的补给线被彻底切断，敌军的投石机与抛石机又将腐烂的牲畜尸体抛入城中，疫病迅速蔓延开来。{color=#A9A9A9}{vspace=5}中毒值上升！{vspace=5}生命力降低2点！"
+    "{cps=50}城中的补给线被彻底切断，敌军的投石机与抛石机又将腐烂的牲畜尸体抛入城中，疫病迅速蔓延开来。{color=#A9A9A9}{vspace=5}中毒值上升！{vspace=5}活力降低2点！"
 
 # game/script_dlc_2.rpy:10519
 translate chinese windsor_defence_2_05252be3:
 
     nvl clear
-    "与此同时，一队队雇佣兵陆续抵达围城营地，与首度攻城的民兵和士兵相比，他们看起来远为凶悍老辣。"
+    "{cps=50}与此同时，一队队雇佣兵陆续抵达围城营地，与首度攻城的民兵和士兵相比，他们看起来远为凶悍老辣。"
 
 # game/script_dlc_2.rpy:10521
 translate chinese windsor_defence_2_2803d88e:
 
     nvl clear
-    "过了大约两周，敌军又添了十来支生力军，营中一片热闹，围城方再度发起强攻。"
+    "{cps=50}过了大约两周，敌军又添了十来支生力军，营中一片热闹，围城方再度发起强攻。"
 
 # game/script_dlc_2.rpy:10523
 translate chinese windsor_defence_2_6f83ed7b:
 
     nvl clear
-    "第一波攻势与上次如出一辙：民兵扛着云梯冲了上来……"
+    "{cps=50}第一波攻势与上次如出一辙：民兵扛着云梯冲了上来……"
 
 # game/script_dlc_2.rpy:10525
 translate chinese windsor_defence_2_76b2fe88:
@@ -5589,7 +5589,7 @@ translate chinese windsor_defence_2_fight_76b2fe88:
 # game/script_dlc_2.rpy:10676
 translate chinese windsor_defence_2_fight_ac1996a2:
 
-    "趁着守军被民兵攻势牵制的当口，围城方将一座满载重甲战士的巨大攻城塔推抵温莎墙下……"
+    "{cps=50}趁着守军被民兵攻势牵制的当口，围城方将一座满载重甲战士的巨大攻城塔推抵温莎墙下……"
 
 # game/script_dlc_2.rpy:10677
 translate chinese windsor_defence_2_fight_76b2fe88_1:
@@ -5601,7 +5601,7 @@ translate chinese windsor_defence_2_fight_76b2fe88_1:
 translate chinese windsor_defence_2_fight_d82eb8b0:
 
     nvl clear
-    "残存的敌军退却了……"
+    "{cps=50}残存的敌军退却了……"
 
 # game/script_dlc_2.rpy:10935
 translate chinese windsor_defence_2_fight_76b2fe88_2:
@@ -5619,7 +5619,7 @@ translate chinese windsor_defence_2_fight_76b2fe88_3:
 translate chinese windsor_defence_2_fight_894f78cb:
 
     nvl clear
-    "{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc_2.rpy:10950
 translate chinese windsor_defence_2_fight_76b2fe88_4:
@@ -5637,49 +5637,49 @@ translate chinese windsor_defence_2_postfight_76b2fe88:
 translate chinese windsor_defence_3_1e539f20:
 
     nvl clear
-    "继第一波之后，第二波强攻同样以失败告终。"
+    "{cps=50}继第一波之后，第二波强攻同样以失败告终。"
 
 # game/script_dlc_2.rpy:11022
 translate chinese windsor_defence_3_3e2db12f:
 
     nvl clear
-    "然而到了次日，欢庆的气氛便迅速消散——你站在城墙上眺望敌营，只见一支支队伍仍在络绎不绝地抵达。敌人显然无意撤退认输。"
+    "{cps=50}然而到了次日，欢庆的气氛便迅速消散——你站在城墙上眺望敌营，只见一支支队伍仍在络绎不绝地抵达。敌人显然无意撤退认输。"
 
 # game/script_dlc_2.rpy:11024
 translate chinese windsor_defence_3_0fcf0fa2:
 
     nvl clear
-    "不过他们自己的损失同样惨重，围城方一时也不急着再送一批士兵去送死。"
+    "{cps=50}不过他们自己的损失同样惨重，围城方一时也不急着再送一批士兵去送死。"
 
 # game/script_dlc_2.rpy:11026
 translate chinese windsor_defence_3_a497e533:
 
     nvl clear
-    "大约一周之内，战事归于沉寂。"
+    "{cps=50}大约一周之内，战事归于沉寂。"
 
 # game/script_dlc_2.rpy:11028
 translate chinese windsor_defence_3_4a6e62d5:
 
     nvl clear
-    "与此同时，城中的境况也在一点点恶化。所幸存粮尚丰，暂无饿殍之虞，可每日的口粮配给正不断削减，想要吃饱已是奢望。{color=#A9A9A9}{vspace=5}生命力与耐力降低2点！"
+    "{cps=50}与此同时，城中的境况也在一点点恶化。所幸存粮尚丰，暂无饿殍之虞，可每日的口粮配给正不断削减，想要吃饱已是奢望。{color=#A9A9A9}{vspace=5}活力与耐力降低2点！"
 
 # game/script_dlc_2.rpy:11033
 translate chinese windsor_defence_3_d2301ff0:
 
     nvl clear
-    "某日清晨，你值完夜哨刚合上眼，便被一阵紧急号声惊起——敌军又对城墙发动了进攻。"
+    "{cps=50}某日清晨，你值完夜哨刚合上眼，便被一阵紧急号声惊起——敌军又对城墙发动了进攻。"
 
 # game/script_dlc_2.rpy:11035
 translate chinese windsor_defence_3_0e27d013:
 
     nvl clear
-    "你匆忙披挂，赶往城墙，半路却撞上另一名神色仓皇的信使：一伙雇佣兵正经由通往河边的下水道地穴，向下城区渗透突入。"
+    "{cps=50}你匆忙披挂，赶往城墙，半路却撞上另一名神色仓皇的信使：一伙雇佣兵正经由通往河边的下水道地穴，向下城区渗透突入。"
 
 # game/script_dlc_2.rpy:11037
 translate chinese windsor_defence_3_e66c578f:
 
     nvl clear
-    "你带上几名士兵，一头扎进了地穴。"
+    "{cps=50}你带上几名士兵，一头扎进了地穴。"
 
 # game/script_dlc_2.rpy:11039
 translate chinese windsor_defence_3_76b2fe88:
@@ -5696,7 +5696,7 @@ translate chinese windsor_defence_3_fight_76b2fe88:
 # game/script_dlc_2.rpy:11202
 translate chinese windsor_defence_3_fight_ac1996a2:
 
-    "趁着守军被民兵攻势牵制的当口，围城方将一座满载重甲战士的巨大攻城塔推抵温莎墙下……"
+    "{cps=50}趁着守军被民兵攻势牵制的当口，围城方将一座满载重甲战士的巨大攻城塔推抵温莎墙下……"
 
 # game/script_dlc_2.rpy:11203
 translate chinese windsor_defence_3_fight_76b2fe88_1:
@@ -5708,7 +5708,7 @@ translate chinese windsor_defence_3_fight_76b2fe88_1:
 translate chinese windsor_defence_3_fight_ee15d0d7:
 
     nvl clear
-    "围城军借地穴潜入城中的图谋落了空。"
+    "{cps=50}围城军借地穴潜入城中的图谋落了空。"
 
 # game/script_dlc_2.rpy:11449
 translate chinese windsor_defence_3_fight_76b2fe88_2:
@@ -5726,7 +5726,7 @@ translate chinese windsor_defence_3_fight_76b2fe88_3:
 translate chinese windsor_defence_3_fight_894f78cb:
 
     nvl clear
-    "{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
 
 # game/script_dlc_2.rpy:11464
 translate chinese windsor_defence_3_fight_76b2fe88_4:
@@ -5738,7 +5738,7 @@ translate chinese windsor_defence_3_fight_76b2fe88_4:
 translate chinese windsor_defence_3_fight_5551fff2:
 
     nvl clear
-    "战场局势正在转变，战斗或许很快就要结束了。"
+    "{cps=50}战场局势正在转变，战斗或许很快就要结束了。"
 
 # game/script_dlc_2.rpy:11472
 translate chinese windsor_defence_3_fight_76b2fe88_5:
@@ -5750,7 +5750,7 @@ translate chinese windsor_defence_3_fight_76b2fe88_5:
 translate chinese windsor_defence_3_fight_44c42f1d:
 
     nvl clear
-    "围城军借地穴潜入城中的图谋落了空。雇佣兵们拖走死伤的同伴，悻悻退去……"
+    "{cps=50}围城军借地穴潜入城中的图谋落了空。雇佣兵们拖走死伤的同伴，悻悻退去……"
 
 # game/script_dlc_2.rpy:11489
 translate chinese windsor_defence_3_fight_76b2fe88_6:
@@ -5768,19 +5768,19 @@ translate chinese windsor_defence_3_postfight_76b2fe88:
 translate chinese windsor_defence_4_d7d0bd81:
 
     nvl clear
-    "智取温莎无望，一周之后，王子的大军发起了又一场决定性的强攻。"
+    "{cps=50}智取温莎无望，一周之后，王子的大军发起了又一场决定性的强攻。"
 
 # game/script_dlc_2.rpy:11559
 translate chinese windsor_defence_4_03f12be9:
 
     nvl clear
-    "战前，罗杰对弟兄们说：敌人的气力已经耗尽，只要这波攻势再被击退，他们便只剩认输一途。"
+    "{cps=50}战前，罗杰对弟兄们说：敌人的气力已经耗尽，只要这波攻势再被击退，他们便只剩认输一途。"
 
 # game/script_dlc_2.rpy:11561
 translate chinese windsor_defence_4_f185e2b7:
 
     nvl clear
-    "你提起仅剩的气力，准备做最后一搏的防守。"
+    "{cps=50}你提起仅剩的气力，准备做最后一搏的防守。"
 
 # game/script_dlc_2.rpy:11563
 translate chinese windsor_defence_4_76b2fe88:
@@ -5797,7 +5797,7 @@ translate chinese windsor_defence_4_fight_76b2fe88:
 # game/script_dlc_2.rpy:11714
 translate chinese windsor_defence_4_fight_ac1996a2:
 
-    "趁着守军被民兵攻势牵制的当口，围城方将一座满载重甲战士的巨大攻城塔推抵温莎墙下……"
+    "{cps=50}趁着守军被民兵攻势牵制的当口，围城方将一座满载重甲战士的巨大攻城塔推抵温莎墙下……"
 
 # game/script_dlc_2.rpy:11715
 translate chinese windsor_defence_4_fight_76b2fe88_1:
@@ -5820,103 +5820,103 @@ translate chinese windsor_defence_4_postfight_76b2fe88:
 # game/script_dlc_2.rpy:12028
 translate chinese windsor_defence_4_postfight_5b1e00a6:
 
-    "围城方倾尽全部兵力和后备发动的第三波强攻，重蹈前两次覆辙，依旧铩羽而归。"
+    "{cps=50}围城方倾尽全部兵力和后备发动的第三波强攻，重蹈前两次覆辙，依旧铩羽而归。"
 
 # game/script_dlc_2.rpy:12029
 translate chinese windsor_defence_4_postfight_452df5b6:
 
     nvl clear
-    "温莎，屹立不倒。"
+    "{cps=50}温莎，屹立不倒。"
 
 # game/script_dlc_2.rpy:12031
 translate chinese windsor_defence_4_postfight_424b38db:
 
     nvl clear
-    "次日清晨，围城的敌军开始陆陆续续拔营撤离。围城，结束了。"
+    "{cps=50}次日清晨，围城的敌军开始陆陆续续拔营撤离。围城，结束了。"
 
 # game/script_dlc_2.rpy:12033
 translate chinese windsor_defence_4_postfight_85d798e8:
 
     nvl clear
-    "当晚，第一支运粮车队便抵达了温莎。时隔一个月，你终于又吃上了一顿饱饭。"
+    "{cps=50}当晚，第一支运粮车队便抵达了温莎。时隔一个月，你终于又吃上了一顿饱饭。"
 
 # game/script_dlc_2.rpy:12035
 translate chinese windsor_defence_4_postfight_719c0fa6:
 
     nvl clear
-    "收到坎特伯雷伯爵的信使后，罗杰便离开了温莎，将城中事务托付给了麾下的一名队长。"
+    "{cps=50}收到坎特伯雷伯爵的信使后，罗杰便离开了温莎，将城中事务托付给了麾下的一名队长。"
 
 # game/script_dlc_2.rpy:12037
 translate chinese windsor_defence_4_postfight_fcc757a5:
 
     nvl clear
-    "罗杰对离去的缘由只字未提。那位信使对围上来的士兵同样闭口不谈，不过临行前，他溜进一家重新开张的酒馆喝了一杯——几杯下肚，话便多了起来。"
+    "{cps=50}罗杰对离去的缘由只字未提。那位信使对围上来的士兵同样闭口不谈，不过临行前，他溜进一家重新开张的酒馆喝了一杯——几杯下肚，话便多了起来。"
 
 # game/script_dlc_2.rpy:12039
 translate chinese windsor_defence_4_postfight_6cf4e7f8:
 
     nvl clear
-    "不出一个时辰，全城上下都传开了同一个词：谈判。"
+    "{cps=50}不出一个时辰，全城上下都传开了同一个词：谈判。"
 
 # game/script_dlc_2.rpy:12041
 translate chinese windsor_defence_4_postfight_a11726f6:
 
     nvl clear
-    "接下来的两周里，途经此地的商贾旅人带来了形形色色的流言与消息……"
+    "{cps=50}接下来的两周里，途经此地的商贾旅人带来了形形色色的流言与消息……"
 
 # game/script_dlc_2.rpy:12043
 translate chinese windsor_defence_4_postfight_33a65934:
 
     nvl clear
-    "其中一条称：年轻的王子暴病而亡，他的大军因内讧四分五裂，作鸟兽散。"
+    "{cps=50}其中一条称：年轻的王子暴病而亡，他的大军因内讧四分五裂，作鸟兽散。"
 
 # game/script_dlc_2.rpy:12045
 translate chinese windsor_defence_4_postfight_8c321229:
 
     nvl clear
-    "王国的前途何去何从，谁也说不清楚。然而，随着一位特派司库的到来，王冠归属的问题很快便退居其次——他按契约结清了你的军饷，并宣布：你的服役与这场战争，都已正式终结。"
+    "{cps=50}王国的前途何去何从，谁也说不清楚。然而，随着一位特派司库的到来，王冠归属的问题很快便退居其次——他按契约结清了你的军饷，并宣布：你的服役与这场战争，都已正式终结。"
 
 # game/script_dlc_2.rpy:12047
 translate chinese windsor_defence_4_postfight_09ebc805:
 
     nvl clear
-    "怀揣沉甸甸的钱袋，重获自由之身，你同任何正常人一样，无意再为政治操心，只想好好经营自己的日子。"
+    "{cps=50}怀揣沉甸甸的钱袋，重获自由之身，你同任何正常人一样，无意再为政治操心，只想好好经营自己的日子。"
 
 # game/script_dlc_2.rpy:12049
 translate chinese windsor_defence_4_postfight_3604018a:
 
     nvl clear
-    "你原本打算在温莎歇上一周，便返回梅德斯通。可温莎的日子竟出乎意料地惬意，让你舍不得离开。"
+    "{cps=50}你原本打算在温莎歇上一周，便返回梅德斯通。可温莎的日子竟出乎意料地惬意，让你舍不得离开。"
 
 # game/script_dlc_2.rpy:12051
 translate chinese windsor_defence_4_postfight_a963a198:
 
     nvl clear
-    "这座刚从围城劫难中复苏的城市处处需要人手，谋生之道俯拾即是，弗罗林几乎是自己往口袋里钻。"
+    "{cps=50}这座刚从围城劫难中复苏的城市处处需要人手，谋生之道俯拾即是，弗罗林几乎是自己往口袋里钻。"
 
 # game/script_dlc_2.rpy:12053
 translate chinese windsor_defence_4_postfight_39ea85be:
 
     nvl clear
-    "仗着这段时日积攒的各色人脉，你轻松寻到了住处。军中与城里的众多朋友，也让日子过得有滋有味。"
+    "{cps=50}仗着这段时日积攒的各色人脉，你轻松寻到了住处。军中与城里的众多朋友，也让日子过得有滋有味。"
 
 # game/script_dlc_2.rpy:12055
 translate chinese windsor_defence_4_postfight_f83edf99:
 
     nvl clear
-    "新冒险的念头一度还在心头盘桓，可这一役连同往昔征战的无数伤创已掏空了你的身子，念想就此打消。思量再三，你决定在温莎定居。"
+    "{cps=50}新冒险的念头一度还在心头盘桓，可这一役连同往昔征战的无数伤创已掏空了你的身子，念想就此打消。思量再三，你决定在温莎定居。"
 
 # game/script_dlc_2.rpy:12057
 translate chinese windsor_defence_4_postfight_03bd962a:
 
     nvl clear
-    "为了给战场上挣来的钱寻个生财之道，你与城里一位商人结为生意伙伴，渐渐蜕变成了一个生意人。"
+    "{cps=50}为了给战场上挣来的钱寻个生财之道，你与城里一位商人结为生意伙伴，渐渐蜕变成了一个生意人。"
 
 # game/script_dlc_2.rpy:12059
 translate chinese windsor_defence_4_postfight_a2c4d4b4:
 
     nvl clear
-    "又过了一年，你娶了他的女儿，生儿育女。再过两年，你在上城置下了一座自己的小宅邸。"
+    "{cps=50}又过了一年，你娶了他的女儿，生儿育女。再过两年，你在上城置下了一座自己的小宅邸。"
 
 # game/script_dlc_2.rpy:12061
 translate chinese windsor_defence_4_postfight_76b2fe88_1:
@@ -5927,18 +5927,18 @@ translate chinese windsor_defence_4_postfight_76b2fe88_1:
 # game/script_dlc_2.rpy:12064
 translate chinese windsor_defence_4_postfight_c7d9cbf2:
 
-    "就这样，一位两度参战的老兵——头一回是被迫上阵，第二回则是从刽子手的斧刃下脱身——最终成了一位殷实的商人和体面的家主。"
+    "{cps=50}就这样，一位两度参战的老兵——头一回是被迫上阵，第二回则是从刽子手的斧刃下脱身——最终成了一位殷实的商人和体面的家主。"
 
 # game/script_dlc_2.rpy:12066
 translate chinese windsor_defence_4_postfight_17649caf:
 
-    "就这样，一位两度参战的老兵——头一回是被迫上阵，第二回则是闲得发慌——最终成了一位殷实的商人和体面的家主。"
+    "{cps=50}就这样，一位两度参战的老兵——头一回是被迫上阵，第二回则是闲得发慌——最终成了一位殷实的商人和体面的家主。"
 
 # game/script_dlc_2.rpy:12068
 translate chinese windsor_defence_4_postfight_fbf58cfe:
 
     nvl clear
-    "主的道路，当真深不可测。"
+    "{cps=50}主的道路，当真深不可测。"
 
 # game/script_dlc_2.rpy:12070
 translate chinese windsor_defence_4_postfight_76b2fe88_2:
@@ -5949,7 +5949,7 @@ translate chinese windsor_defence_4_postfight_76b2fe88_2:
 # game/script_dlc_2.rpy:12072
 translate chinese windsor_defence_4_postfight_3a306ae2:
 
-    "{color=#A9A9A9}{i}结局16，共[game_total_endings_number]个。"
+    "{cps=50}{color=#A9A9A9}{i}结局16，共[game_total_endings_number]个。"
 
 # game/script_dlc_2.rpy:12073
 translate chinese windsor_defence_4_postfight_76b2fe88_3:
@@ -5961,19 +5961,19 @@ translate chinese windsor_defence_4_postfight_76b2fe88_3:
 translate chinese duncan_first_offer_92f4051c:
 
     nvl clear
-    "某天傍晚，你拖着劳作一天的疲惫身子回到家，等待你的却是一个不快的意外。"
+    "{cps=50}某天傍晚，你拖着劳作一天的疲惫身子回到家，等待你的却是一个不快的意外。"
 
 # game/script_dlc_2.rpy:12160
 translate chinese duncan_first_offer_060197c0:
 
     nvl clear
-    "两个不速之客不知如何潜入了屋内，毫不避讳地大模大样坐在餐桌旁——这便是那个意外。"
+    "{cps=50}两个不速之客不知如何潜入了屋内，毫不避讳地大模大样坐在餐桌旁——这便是那个意外。"
 
 # game/script_dlc_2.rpy:12162
 translate chinese duncan_first_offer_93040297:
 
     nvl clear
-    "一见此景，你险些拔剑，但那两个陌生人并无敌意。"
+    "{cps=50}一见此景，你险些拔剑，但那两个陌生人并无敌意。"
 
 # game/script_dlc_2.rpy:12164
 translate chinese duncan_first_offer_76b2fe88:
@@ -6315,7 +6315,7 @@ translate chinese duncan_first_offer_7fe8961f:
 translate chinese player_joins_duncan_d286cf1d:
 
     nvl clear
-    "神秘的邓肯没有让你等太久。几天之后，罗道夫又在夜间秘密来访，这一次，你随他一同离开了家。"
+    "{cps=50}神秘的邓肯没有让你等太久。几天之后，罗道夫又在夜间秘密来访，这一次，你随他一同离开了家。"
 
 # game/script_dlc_2.rpy:12272
 translate chinese player_joins_duncan_after_prison_76b2fe88:
@@ -6327,37 +6327,37 @@ translate chinese player_joins_duncan_after_prison_76b2fe88:
 translate chinese clear_maidstone_quests_duncan_5864bfe3:
 
     nvl clear
-    "出城之后，你们在一处山丘上稍作歇息——正赶上一场好戏：梅德斯通放贷人公会的大楼正在烈焰中燃烧。"
+    "{cps=50}出城之后，你们在一处山丘上稍作歇息——正赶上一场好戏：梅德斯通放贷人公会的大楼正在烈焰中燃烧。"
 
 # game/script_dlc_2.rpy:12344
 translate chinese clear_maidstone_quests_duncan_0d099bd2:
 
     nvl clear
-    "\"琼斯那家伙虽说是个无赖，倒也算个行家。\"罗道夫咧嘴一笑，你们继续赶路。"
+    "{cps=50}\"琼斯那家伙虽说是个无赖，倒也算个行家。\"罗道夫咧嘴一笑，你们继续赶路。"
 
 # game/script_dlc_2.rpy:12346
 translate chinese clear_maidstone_quests_duncan_7f0c0a20:
 
     nvl clear
-    "你们连夜赶路，天亮时分抵达一座设施完备的林中营地——你本以为终于能亲眼见到邓肯了。"
+    "{cps=50}你们连夜赶路，天亮时分抵达一座设施完备的林中营地——你本以为终于能亲眼见到邓肯了。"
 
 # game/script_dlc_2.rpy:12348
 translate chinese clear_maidstone_quests_duncan_7e389b99:
 
     nvl clear
-    "然而，事态却另有走向。将你送达目的地后，罗道夫告知：下一步是对你身手与忠诚的考验。只有顺利通过，你才能与叛军首领当面相见。"
+    "{cps=50}然而，事态却另有走向。将你送达目的地后，罗道夫告知：下一步是对你身手与忠诚的考验。只有顺利通过，你才能与叛军首领当面相见。"
 
 # game/script_dlc_2.rpy:12350
 translate chinese clear_maidstone_quests_duncan_2c1ac01c:
 
     nvl clear
-    "得到你的应允后，罗道夫道明了行动细节。次日清晨，你将参与一场伏击，目标是科德威尔伯爵麾下的一名骑士——此人是格林威治庄园之主，也是邓肯的死敌。"
+    "{cps=50}得到你的应允后，罗道夫道明了行动细节。次日清晨，你将参与一场伏击，目标是科德威尔伯爵麾下的一名骑士——此人是格林威治庄园之主，也是邓肯的死敌。"
 
 # game/script_dlc_2.rpy:12352
 translate chinese clear_maidstone_quests_duncan_e4f02c46:
 
     nvl clear
-    "老伯爵与他的女儿——一个年纪轻轻却残忍成性的小姐——在四方远近出了名的狠辣：对起义者赶尽杀绝，对自己的佃农也是横征暴敛、敲骨吸髓。"
+    "{cps=50}老伯爵与他的女儿——一个年纪轻轻却残忍成性的小姐——在四方远近出了名的狠辣：对起义者赶尽杀绝，对自己的佃农也是横征暴敛、敲骨吸髓。"
 
 # game/script_dlc_2.rpy:12354
 translate chinese clear_maidstone_quests_duncan_c25f77a2:
@@ -6672,7 +6672,7 @@ translate chinese duncans_camp_intro_76b2fe88_2:
 translate chinese fall_of_caldwells_intro_a6461e2d:
 
     nvl clear
-    "{cps=50}时辰一到，大营闻风而动。但凡提得动刀剑之人皆披挂整齐，分为数支小队，由罗道夫、琼斯等什长分别统领。"
+    "{cps=50}时辰一到，营地便动了起来。所有拿得动武器的人都披挂完毕，分成数支小队，由罗道夫、琼斯等几名什长率领。"
 
 # game/script_dlc_2.rpy:13009
 translate chinese fall_of_caldwells_intro_39d87792:
@@ -8260,7 +8260,7 @@ translate chinese duncan_in_windsor_intro_d49b7a8a:
 translate chinese duncan_in_windsor_intro_c42ed789:
 
     nvl clear
-    "{cps=50}溅起的沥青也波及了你，留下几处可怖的烧伤。{color=#A9A9A9}{vspace=5}生命值降低2！"
+    "{cps=50}溅起的沥青也波及了你，留下几处可怖的烧伤。{color=#A9A9A9}{vspace=5}活力降低2！"
 
 # game/script_dlc_2.rpy:17446
 translate chinese duncan_in_windsor_intro_b43ca3da:
@@ -8287,7 +8287,7 @@ translate chinese duncan_in_windsor_intro_4cd7da25:
 # game/script_dlc_2.rpy:17462
 translate chinese duncan_in_windsor_intro_6e3e0fbb:
 
-    "{cps=50}其中一支箭不偏不倚射中了你！{color=#A9A9A9}{vspace=5}生命值降低3！{vspace=5}疲劳程度上升！"
+    "{cps=50}其中一支箭不偏不倚射中了你！{color=#A9A9A9}{vspace=5}活力降低3！{vspace=5}疲劳程度上升！"
 
 # game/script_dlc_2.rpy:17465
 translate chinese duncan_in_windsor_intro_865678df:
@@ -8410,7 +8410,7 @@ translate chinese duncan_in_windsor_2_postfight_8a890b27:
 # game/script_dlc_2.rpy:18518
 translate chinese duncan_in_windsor_2_postfight_78b6504f:
 
-    "{cps=50}你从城墙上摔回壕沟，竟奇迹般地没有当场摔死。{color=#A9A9A9}{vspace=5}生命值降低5！"
+    "{cps=50}你从城墙上摔回壕沟，竟奇迹般地没有当场摔死。{color=#A9A9A9}{vspace=5}活力降低5！"
 
 # game/script_dlc_2.rpy:18520
 translate chinese duncan_in_windsor_2_postfight_fdd0f7c2:
@@ -15181,7 +15181,7 @@ translate chinese for_a_good_cause_fight_76b2fe88_4:
 translate chinese for_a_good_cause_postfight_7e8e5b9d:
 
     nvl clear
-    "{cps=50}驱散村民，又从村里收走一笔虽非天价、却也着实不菲的款项后，你们继续上路。{vspace=5}{color=#A9A9A9}虔诚降低15！"
+    "{cps=50}驱散村民，又从村里收走一笔虽非天价、却也着实不菲的款项后，你们继续上路。{vspace=5}{color=#A9A9A9}美德降低15！"
 
 # game/script_dlc_2.rpy:31017
 translate chinese for_a_good_cause_postfight_76b2fe88:
@@ -15250,7 +15250,7 @@ translate chinese for_a_good_cause_2_postfight_76b2fe88_1:
 # game/script_dlc_2.rpy:31505
 translate chinese for_a_good_cause_2_postfight_8b177544:
 
-    "{cps=50}回到营地后，琼斯趁人不备把你拉到一旁，提议将收来的钱私吞一部分。{vspace=5}{color=#A9A9A9}低虔诚——成功！"
+    "{cps=50}回到营地后，琼斯趁人不备把你拉到一旁，提议将收来的钱私吞一部分。{vspace=5}{color=#A9A9A9}低美德——成功！"
 
 # game/script_dlc_2.rpy:31506
 translate chinese for_a_good_cause_2_postfight_a3da4848:
@@ -15267,12 +15267,12 @@ translate chinese for_a_good_cause_2_postfight_76b2fe88_2:
 # game/script_dlc_2.rpy:31511
 translate chinese for_a_good_cause_2_postfight_c60bf9e4:
 
-    "{cps=50}你应下了。{vspace=5}{color=#A9A9A9}虔诚降低20！{vspace=5}获得300弗罗林！"
+    "{cps=50}你应下了。{vspace=5}{color=#A9A9A9}美德降低20！{vspace=5}获得300弗罗林！"
 
 # game/script_dlc_2.rpy:31516
 translate chinese for_a_good_cause_2_postfight_b12df647:
 
-    "{cps=50}你拒绝了。{vspace=5}{color=#A9A9A9}虔诚提升5！"
+    "{cps=50}你拒绝了。{vspace=5}{color=#A9A9A9}美德提升5！"
 
 # game/script_dlc_2.rpy:31519
 translate chinese for_a_good_cause_2_postfight_76b2fe88_4:
@@ -15608,7 +15608,7 @@ translate chinese lindisfarne_invitation_7d54d60a:
 translate chinese lindisfarne_invitation_17c08f26:
 
     nvl clear
-    "{cps=50}他们先是对你与邓肯的斗争表示感激，随后又透露了一个消息：附近的林迪斯法恩修道院定期有集市，能买到许多合用之物。{vspace=5}{color=#A9A9A9}虔诚——成功！"
+    "{cps=50}他们先是对你与邓肯的斗争表示感激，随后又透露了一个消息：附近的林迪斯法恩修道院定期有集市，能买到许多合用之物。{vspace=5}{color=#A9A9A9}美德——成功！"
 
 # game/script_dlc_2.rpy:31651
 translate chinese lindisfarne_invitation_76b2fe88:
@@ -15714,7 +15714,7 @@ translate chinese lindisfarne_witness_combat_postfight_76b2fe88_1:
 translate chinese duncan_greatful_peasants_1_2c00b019:
 
     nvl clear
-    "{cps=50}心怀感激的农民们前来探访邓肯的营地，送来各式各样的补给。{vspace=5}{color=#A9A9A9}虔诚——成功！"
+    "{cps=50}心怀感激的农民们前来探访邓肯的营地，送来各式各样的补给。{vspace=5}{color=#A9A9A9}美德——成功！"
 
 # game/script_dlc_2.rpy:32199
 translate chinese duncan_greatful_peasants_1_76b2fe88:
@@ -15726,7 +15726,7 @@ translate chinese duncan_greatful_peasants_1_76b2fe88:
 translate chinese duncan_angry_peasants_1_e1f63f89:
 
     nvl clear
-    "{cps=50}被邓肯手下恶行激怒的附近农民，偷偷往营地送来一批投了毒的食物。{vspace=5}{color=#A9A9A9}虔诚——失败！{vspace=5}中毒值上升！{vspace=5}生命值降低2！"
+    "{cps=50}被邓肯手下恶行激怒的附近农民，偷偷往营地送来一批投了毒的食物。{vspace=5}{color=#A9A9A9}美德——失败！{vspace=5}中毒值上升！{vspace=5}活力降低2！"
 
 # game/script_dlc_2.rpy:32213
 translate chinese duncan_angry_peasants_1_76b2fe88:
@@ -15738,7 +15738,7 @@ translate chinese duncan_angry_peasants_1_76b2fe88:
 translate chinese duncan_angry_peasants_2_ca873e75:
 
     nvl clear
-    "{cps=50}某个对邓肯手下心怀不满的农民，将你们的行踪出卖给了当地的一位领主。{vspace=5}{color=#A9A9A9}虔诚——失败！"
+    "{cps=50}某个对邓肯手下心怀不满的农民，将你们的行踪出卖给了当地的一位领主。{vspace=5}{color=#A9A9A9}美德——失败！"
 
 # game/script_dlc_2.rpy:32224
 translate chinese duncan_angry_peasants_2_da3dfd27:
@@ -15792,7 +15792,7 @@ translate chinese duncan_angry_peasants_2_postfight_76b2fe88:
 translate chinese duncan_angry_peasants_chippenham_1_5791d438:
 
     nvl clear
-    "{cps=50}奇彭纳姆及四乡的百姓对邓肯恢复征税恨之入骨，竟向城堡中的一口水井投了毒，引发疫病流行。{vspace=5}{color=#A9A9A9}虔诚——失败！{vspace=5}中毒值上升！{vspace=5}生命值降低4！"
+    "{cps=50}奇彭纳姆及四乡的百姓对邓肯恢复征税恨之入骨，竟向城堡中的一口水井投了毒，引发疫病流行。{vspace=5}{color=#A9A9A9}美德——失败！{vspace=5}中毒值上升！{vspace=5}活力降低4！"
 
 # game/script_dlc_2.rpy:32737
 translate chinese duncan_angry_peasants_chippenham_1_76b2fe88:
@@ -15845,12 +15845,12 @@ translate chinese maidstone_tavern_smugglers_76b2fe88_1:
 # game/script_dlc_2.rpy:32803
 translate chinese maidstone_tavern_smugglers_41a52f15:
 
-    "{cps=50}你不愿与这些人厮混，起身离去。{vspace=5}{color=#A9A9A9}低虔诚——失败！"
+    "{cps=50}你不愿与这些人厮混，起身离去。{vspace=5}{color=#A9A9A9}低美德——失败！"
 
 # game/script_dlc_2.rpy:32805
 translate chinese maidstone_tavern_smugglers_faad89a8:
 
-    "{cps=50}你自己也是个屡屡游走在律法之外的人，与他们一拍即合。{vspace=5}{color=#A9A9A9}低虔诚——成功！"
+    "{cps=50}你自己也是个屡屡游走在律法之外的人，与他们一拍即合。{vspace=5}{color=#A9A9A9}低美德——成功！"
 
 # game/script_dlc_2.rpy:32806
 translate chinese maidstone_tavern_smugglers_3f8da0af:
@@ -15916,7 +15916,7 @@ translate chinese maidstone_tavern_exsoldiers_76b2fe88:
 translate chinese maidstone_tavern_bridge_4c0a9fb4:
 
     nvl clear
-    "{cps=50}在酒馆畅饮时，你不经意间听得邻座两人的闲聊碎语，正说到城西北跨河大桥的坍塌。"
+    "{cps=50}在酒馆喝酒时，你不经意间听到两个酒友的一段闲谈——说的是城西北河上那座桥坍塌的事。"
 
 # game/script_dlc_2.rpy:32837
 translate chinese maidstone_tavern_bridge_e6450310:
@@ -16057,7 +16057,7 @@ translate chinese maidstone_bridge_action_76b2fe88_1:
 # game/script_dlc_2.rpy:32937
 translate chinese maidstone_bridge_action_4ade8e89:
 
-    "{cps=50}一个有趣的念头浮上心头……{vspace=5}{color=#A9A9A9}低虔诚——成功！"
+    "{cps=50}一个有趣的念头浮上心头……{vspace=5}{color=#A9A9A9}低美德——成功！"
 
 # game/script_dlc_2.rpy:32938
 translate chinese maidstone_bridge_action_e6d405b1:
@@ -16167,7 +16167,7 @@ translate chinese maidstone_bridge_action_menu_2a17dde1:
 # game/script_dlc_2.rpy:32991
 translate chinese maidstone_bridge_action_menu_5bb162bb:
 
-    "{cps=50}{color=#A9A9A9}生命值降低[storyroll]！"
+    "{cps=50}{color=#A9A9A9}活力降低[storyroll]！"
 
 # game/script_dlc_2.rpy:32993
 translate chinese maidstone_bridge_action_menu_76b2fe88_2:
@@ -16339,7 +16339,7 @@ translate chinese maidstone_bridge_action_end_76b2fe88_10:
 # game/script_dlc_2.rpy:33090
 translate chinese maidstone_bridge_action_end_cbcea642:
 
-    "{cps=50}你不想留下目击者，追上那农民，将他杀了。{vspace=5}{color=#A9A9A9}虔诚降低75！"
+    "{cps=50}你不想留下目击者，追上那农民，将他杀了。{vspace=5}{color=#A9A9A9}美德降低75！"
 
 # game/script_dlc_2.rpy:33092
 translate chinese maidstone_bridge_action_end_76b2fe88_7:
@@ -16350,7 +16350,7 @@ translate chinese maidstone_bridge_action_end_76b2fe88_7:
 # game/script_dlc_2.rpy:33096
 translate chinese maidstone_bridge_action_end_3263f809:
 
-    "{cps=50}{color=#A9A9A9}虔诚上限降低[player_virtue_penalty]！"
+    "{cps=50}{color=#A9A9A9}美德上限降低[player_virtue_penalty]！"
 
 # game/script_dlc_2.rpy:33097
 translate chinese maidstone_bridge_action_end_76b2fe88_8:
