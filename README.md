@@ -4,7 +4,7 @@
 
 全量 **20,852 条**译文（主线 + 全部 DLC 对话、物品、UI、教程），基于游戏原文独立翻译，
 非官方中文翻译的复制品（官方机翻存在大量缺陷：丢失道具效果描述、插值损坏崩溃等，本补丁全部修复）。
-主要使用deepseek flash 0731 模型翻译 + Gemini3.1pro 精修+ gpt 5.6 sol 审查
+主要使用 deepseek flash 0731 模型翻译 + Gemini3.1pro 精修+ gpt 5.6 sol 审查
 ## 安装（解压即用）
 
 1. 下载 `HWR_Chinese_Localization_vX.Y.Z.zip`
