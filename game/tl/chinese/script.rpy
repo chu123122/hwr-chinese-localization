@@ -259,7 +259,7 @@ translate chinese medical_shop_f4ec835c:
 translate chinese squad_negative_effect_a8955cb4:
 
     nvl clear
-    "{cps=50}你威望不足，队伍中的成员对你缺乏应有的敬重，军纪也日渐松弛。{vspace=5}{color=#A9A9A9}声望（士兵）——失败！"
+    "{cps=50}你在部下中缺乏威信，队伍成员对你缺乏应有的敬重，军纪也日渐松弛。{vspace=5}{color=#A9A9A9}声望（士兵）——失败！"
 
 # game/script.rpy:27368
 translate chinese squad_negative_effect_76b2fe88:
@@ -297,7 +297,7 @@ translate chinese squad_positive_effect_76b2fe88:
 # game/script.rpy:27504
 translate chinese squad_positive_effect_c019212b:
 
-    "{cps=50}你在部下的眼中威望极高，他们对你无不交口称赞，你的声誉也由此更加稳固。{vspace=5}{color=#A9A9A9}声望（士兵）——成功！{vspace=5}威望提升2！"
+    "{cps=50}你在部下中威信极高，他们对你无不交口称赞，你的声誉也由此更加稳固。{vspace=5}{color=#A9A9A9}声望（士兵）——成功！{vspace=5}威望提升2！"
 
 # game/script.rpy:27508
 translate chinese squad_positive_effect_71f820d0:
@@ -1155,7 +1155,7 @@ translate chinese hub5_notice_76b2fe88:
 translate chinese hub5_mercenary_attack_3be52d3f:
 
     nvl clear
-    "{cps=50}据斥候禀报，被你激怒的雇佣兵正在集结兵力，准备大举进犯城市……"
+    "{cps=50}据斥候报告，被你激怒的雇佣兵正在集结兵力，准备大举进犯城市……"
 
 # game/script.rpy:29262
 translate chinese hub5_mercenary_attack_76b2fe88:
@@ -2349,13 +2349,13 @@ translate chinese strings:
     old "Wine bottle"
     new "酒瓶"
     old "A bottle of fine wine. Consuming alcohol is a good way to relieve stress and{vspace=5}fatigue. Can be done both inside and outside of battle... The latter however might{vspace=5}bring along some side effects.{vspace=5}*Can be drunk in camp for massive fatigue relief{vspace=5}*Instantly recovers 30 fatigue in battle{vspace=5}*Lowers duration of bleeding and light poisoning by 1{vspace=5}*Temporarily boosts vitality by 2"
-    new "一瓶佳酿。饮酒是排解压力{vspace=5}与疲劳的好办法，{vspace=5}战场内外皆可为之……不过后者或许会带来些许副作用。{vspace=5}*可在营地饮用，大幅缓解疲劳{vspace=5}*战斗中立即恢复30点疲劳{vspace=5}*流血与轻度中毒的持续时间减少1回合{vspace=5}*临时提升生命值2点"
+    new "一瓶佳酿。饮酒是排解压力{vspace=5}与疲劳的好办法，{vspace=5}战场内外皆可为之……不过后者或许会带来些许副作用。{vspace=5}*可在营地饮用，大幅缓解疲劳{vspace=5}*战斗中立即恢复30点疲劳{vspace=5}*流血与轻度中毒的持续时间减少1回合{vspace=5}*临时提升2点活力"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}W{/size}{/color}{/font}ine bottle"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}酒{/size}{/color}{/font}瓶"
     old "Strong ale"
     new "烈性麦酒"
     old "A bottle of strong ale. Consuming alcohol is a good way to relieve stress and{vspace=5}fatigue. Can be done both inside and outside of battle... The latter however might{vspace=5}bring along some side effects.{vspace=5}*Can be drunk in camp for massive fatigue relief{vspace=5}*Instantly recovers 30 fatigue in battle{vspace=5}*Temporarily boosts vitality by 7"
-    new "一瓶烈性麦酒。饮酒是排解压力{vspace=5}与疲劳的好办法，{vspace=5}战场内外皆可为之……不过后者或许会带来些许副作用。{vspace=5}*可在营地饮用，大幅缓解疲劳{vspace=5}*战斗中立即恢复30点疲劳{vspace=5}*临时提升生命值7点"
+    new "一瓶烈性麦酒。饮酒是排解压力{vspace=5}与疲劳的好办法，{vspace=5}战场内外皆可为之……不过后者或许会带来些许副作用。{vspace=5}*可在营地饮用，大幅缓解疲劳{vspace=5}*战斗中立即恢复30点疲劳{vspace=5}*临时提升7点活力"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}trong ale"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}烈{/size}{/color}{/font}性麦酒"
     old "Elegant Stiletto"
@@ -2367,7 +2367,7 @@ translate chinese strings:
     old "Ritual dagger"
     new "祭祀匕首"
     old "A ritual dagger used to perform human sacrifices to the daemons. Can truly be{vspace=5}a dangerous thing in right hands. But its power does not come without a cost.{vspace=5}*Virtue: -15{vspace=5}*Increases damage by 2 for every 10% of max HP that the target is missing{vspace=5}*Prolongs enemy bleedings by 1 turn{vspace=5}*Can be used in combat to inflict wounds on self"
-    new "用于向恶魔献祭活人的祭祀匕首。{vspace=5}落入得当之手，确实是一件危险之物。但它的力量绝非没有代价。{vspace=5}*美德：-15{vspace=5}*目标每损失10%的最大生命值，伤害+2{vspace=5}*敌人流血持续时间延长1回合{vspace=5}*战斗中可对自身造成创伤"
+    new "用于向恶魔献祭活人的祭祀匕首。{vspace=5}若落在懂得使用它的人手中，确实是一件危险之物。但它的力量绝非没有代价。{vspace=5}*美德：-15{vspace=5}*目标每损失10%的最大生命值，伤害+2{vspace=5}*敌人流血持续时间延长1回合{vspace=5}*战斗中可对自身造成创伤"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}R{/size}{/color}{/font}itual dagger"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}祭{/size}{/color}{/font}祀匕首"
     old "Leather boots"
@@ -2415,7 +2415,7 @@ translate chinese strings:
     old "Plain gold ring"
     new "普通金戒指"
     old "Plain gold ring without any decorations. But something about it is{vspace=5}rather unsual...{vspace=5}*Vitality: +2{vspace=5}*Prestige: +10{vspace=5}*Every use of respite will recover [plain_gold_ring_health_recovery] health"
-    new "一枚素面无饰的普通金戒指。可它身上似乎{vspace=5}总有些说不出的异样……{vspace=5}*活力：+2{vspace=5}*威望：+10{vspace=5}*每次喘息恢复[plain_gold_ring_health_recovery]点活力"
+    new "一枚素面无饰的普通金戒指。可它身上似乎{vspace=5}总有些说不出的异样……{vspace=5}*活力：+2{vspace=5}*威望：+10{vspace=5}*每次喘息恢复[plain_gold_ring_health_recovery]点生命值"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}P{/size}{/color}{/font}lain gold ring"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}普{/size}{/color}{/font}通金戒指"
     old "Carved flute"
@@ -2547,9 +2547,9 @@ translate chinese strings:
     old "Rune of Vitality"
     new "生命符文"
     old "Mysterious pagan rune with unclear purpose that seems to make its owner{vspace=5}a more capable warrior{vspace=5}*Recovers 1 HP every 2 turns{vspace=5}*Vitality: +3{vspace=5}*Virtue: -10"
-    new "神秘的异教符文，用途不明，却似乎能让佩戴者成为更出色的战士。{vspace=5}*每2回合恢复1点活力{vspace=5}*活力：+3{vspace=5}*美德：-10"
+    new "神秘的异教符文，用途不明，却似乎能让佩戴者成为更出色的战士。{vspace=5}*每2回合恢复1点生命值{vspace=5}*活力：+3{vspace=5}*美德：-10"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}R{/size}{/color}{/font}une of Vitality"
-    new "{font=chn_font.otf}{color=#8B0000}{size=+30}生{/size}{/color}{/font}命符文"
+    new "{font=chn_font.otf}{color=#8B0000}{size=+30}生{/size}{/color}{/font}力符文"
     old "Rune of Coordination"
     new "协调符文"
     old "Mysterious pagan rune with unclear purpose that seems to make its owner{vspace=5}a more capable warrior{vspace=5}*Coordination: +4{vspace=5}*Virtue: -10{vspace=5}*Stamina recovery will always be successful"
@@ -3225,7 +3225,7 @@ translate chinese strings:
     old "An incredibly strong healing brew, that is powerful enough to completely{vspace=5}neutralize the effects of any poisoning or bleeding.{vspace=5}*Instantly removes all active poisoning effects{vspace=5}*Instantly removes all active bleeding effects{vspace=5}*Instantly removes toxicity and bloodloss"
     new "一种强效得足以彻底中和任何中毒或流血的治疗药液。{vspace=5}*立即清除所有生效的中毒效果{vspace=5}*立即清除所有生效的流血效果{vspace=5}*立即清除毒性及失血"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}M{/size}{/color}{/font}ajor Vitality brew"
-    new "{font=chn_font.otf}{color=#8B0000}{size=+30}大{/size}{/color}{/font}补命药"
+    new "{font=chn_font.otf}{color=#8B0000}{size=+30}大{/size}{/color}{/font}型活力药剂"
     old "Stamina recovery brew"
     new "体力恢复药水"
     old "A herb brew that can quickly reinvigorate a warrior in battle.{vspace=5}*Instantly replenishes stamina"
@@ -4355,7 +4355,7 @@ translate chinese strings:
     old "Proceed"
     new "继续"
     old "A cruel contraption designed for punishing criminals.{vspace=5}*Killing any enemy with 3 or more injuries increases Vitality by 1{vspace=5}*Bonus Vitality is only provided when the item is equipped{vspace=5}*Virtue: -15{vspace=5}*Prestige: -5"
-    new "一件专为惩戒罪犯而造的残酷刑具。{vspace=5}*击杀拥有 3 处及以上伤势的敌人，活力 +1{vspace=5}*只有装备该物品时才提供额外活力{vspace=5}*美德：-15{vspace=5}*声望：-5"
+    new "一件专为惩戒罪犯而造的残酷刑具。{vspace=5}*击杀拥有 3 处及以上伤势的敌人，活力 +1{vspace=5}*只有装备该物品时才提供额外活力{vspace=5}*美德：-15{vspace=5}*威望：-5"
     old "{color=#8B0000}Damaged{/color} [item.stam_cons1]"
     new "{color=#8B0000}损坏{/color} [item.stam_cons1]"
     old "{color=#8B0000}Damaged{/color} [trinket.poison_res]"
@@ -4415,7 +4415,7 @@ translate chinese strings:
     old "{size=-5}Vitality"
     new "{size=-5}活力"
     old "{size=-7}Increases vitality by 1. Lightly exhausting.{color=#A9A9A9}{vspace=5}Vitality influences:{vspace=5}*Maximum НP{vspace=5}*Injury resistance (1 for every 3 skill{vspace=5}points)"
-    new "{size=-7}活力 +1。略有消耗。{color=#A9A9A9}{vspace=5}活力影响：{vspace=5}*最大活力{vspace=5}*伤势抗性（每 3 点技能{vspace=5}+1）"
+    new "{size=-7}活力 +1。略有消耗。{color=#A9A9A9}{vspace=5}活力影响：{vspace=5}*最大生命值{vspace=5}*伤势抗性（每 3 点技能{vspace=5}+1）"
     old "Additional skills"
     new "额外技能"
     old "{size=-5}Craftsmanship"
@@ -4583,7 +4583,7 @@ translate chinese strings:
     old "{size=-9}{color=#A9A9A9}Current value:{/color} {color=#8B0000}[venice_doge_popularity]"
     new "{size=-9}{color=#A9A9A9}当前数值：{/color} {color=#8B0000}[venice_doge_popularity]"
     old "{size=-9}{color=#A9A9A9}This indicator reflects the popularity{vspace=1}of the doge and his ability to exercise{vspace=1}control over Venice.{vspace=1}If it drops to zero — the doge will be{vspace=1}overthrown."
-    new "{size=-9}{color=#A9A9A9}此指标反映总督的民望{vspace=1}及其对威尼斯的掌控能力。{vspace=1}若跌至零——{vspace=1}总督将被{vspace=1}推翻。"
+    new "{size=-9}{color=#A9A9A9}此指标反映总督的人望{vspace=1}及其对威尼斯的掌控能力。{vspace=1}若跌至零——{vspace=1}总督将被{vspace=1}推翻。"
     old "{size=-5}Army of the Kingdom of Нungary"
     new "{size=-5}匈牙利王国军队"
     old "{size=-9}{color=#A9A9A9}Total strength: [army_of_hungary_men] men"

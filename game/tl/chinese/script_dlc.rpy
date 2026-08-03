@@ -3523,7 +3523,7 @@ translate chinese hustler_end_76b2fe88:
 # game/script_dlc.rpy:12199
 translate chinese hustler_end_fef3ab92:
 
-    "{cps=50}到了约定的时辰，巴塞洛缪满脸堆笑地现身，滔滔不绝地讲起他如何经过一番恶斗，把那威尼斯人杀得大败。"
+    "{cps=50}到了约定的时刻，巴塞洛缪满脸堆笑地现身，滔滔不绝地讲起他如何经过一番恶斗，把那威尼斯人杀得大败。"
 
 # game/script_dlc.rpy:12212
 translate chinese hustler_end_0604cded:
@@ -6005,7 +6005,7 @@ translate chinese forager_quest1_76b2fe88_1:
 translate chinese forager_quest_village1_fc549c1b:
 
     nvl clear
-    "{cps=50}约莫两个时辰后，你赶到了康布雷以西一座名为巴夫勒尔的村落。"
+    "{cps=50}约莫两个小时后，你赶到了康布雷以西一座名为巴夫勒尔的村落。"
 
 # game/script_dlc.rpy:13471
 translate chinese forager_quest_village1_a1bb85a2:
@@ -6419,7 +6419,7 @@ translate chinese forager_quest_village2_afterfight_76b2fe88_1:
 translate chinese forager_quest_village3_cd051546:
 
     nvl clear
-    "{cps=50}骑马向营地东南行了几个时辰，你寻到了一座名叫康克的小村。"
+    "{cps=50}骑马向营地东南行了几个小时，你寻到了一座名叫康克的小村。"
 
 # game/script_dlc.rpy:13749
 translate chinese forager_quest_village3_ef4ce898:
@@ -10726,7 +10726,7 @@ translate chinese a_visit_to_the_devil_fight_76b2fe88_5:
 translate chinese a_visit_to_the_devil_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:16156
 translate chinese a_visit_to_the_devil_fight_76b2fe88_6:
@@ -12325,7 +12325,7 @@ translate chinese wine_and_dine_quest_76b2fe88:
 # game/script_dlc.rpy:16894
 translate chinese wine_and_dine_quest_0851e395:
 
-    "{cps=50}接下来的几个时辰，你们结伴而行，徜徉于雷恩城外如画的乡野风光中。"
+    "{cps=50}接下来的几个小时，你们结伴而行，徜徉于雷恩城外如画的乡野风光中。"
 
 # game/script_dlc.rpy:16895
 translate chinese wine_and_dine_quest_5dad6430:
@@ -13928,7 +13928,7 @@ translate chinese raid_1_fight_76b2fe88_1:
 translate chinese raid_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:17967
 translate chinese raid_1_fight_76b2fe88_2:
@@ -14035,7 +14035,7 @@ translate chinese raid_outro_continued_76b2fe88:
 translate chinese grace_and_glory_invite_7c5caa6d:
 
     nvl clear
-    "{cps=50}传令兵来报：奥利维亚要你向她禀报进攻奥纳尔农场的准备进展。{vspace=5}她盼你尽快前去。"
+    "{cps=50}传令兵来报：奥利维亚要你向她报告进攻奥纳尔农场的准备进展。{vspace=5}她盼你尽快前去。"
 
 # game/script_dlc.rpy:18137
 translate chinese grace_and_glory_invite_76b2fe88:
@@ -14407,7 +14407,7 @@ translate chinese grace_and_glory_fight_76b2fe88_1:
 translate chinese grace_and_glory_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:18638
 translate chinese grace_and_glory_fight_76b2fe88_2:
@@ -15449,7 +15449,7 @@ translate chinese traditions_of_the_trade_fight_76b2fe88_1:
 translate chinese traditions_of_the_trade_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:20173
 translate chinese traditions_of_the_trade_fight_76b2fe88_2:
@@ -15502,7 +15502,7 @@ translate chinese traditions_of_the_trade_fight_76b2fe88_7:
 translate chinese traditions_of_the_trade_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:20216
 translate chinese traditions_of_the_trade_fight_76b2fe88_8:
@@ -15556,7 +15556,7 @@ translate chinese war_in_the_east_1_fight_76b2fe88_1:
 translate chinese war_in_the_east_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:20713
 translate chinese war_in_the_east_1_fight_76b2fe88_2:
@@ -15615,7 +15615,7 @@ translate chinese war_in_the_east_1_fight_76b2fe88_7:
 translate chinese war_in_the_east_1_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:20759
 translate chinese war_in_the_east_1_fight_76b2fe88_8:
@@ -15639,7 +15639,7 @@ translate chinese war_in_the_east_2_fight_76b2fe88_1:
 translate chinese war_in_the_east_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:21231
 translate chinese war_in_the_east_2_fight_76b2fe88_2:
@@ -15692,7 +15692,7 @@ translate chinese war_in_the_east_2_fight_76b2fe88_6:
 translate chinese war_in_the_east_2_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:21274
 translate chinese war_in_the_east_2_fight_76b2fe88_7:
@@ -15704,7 +15704,7 @@ translate chinese war_in_the_east_2_fight_76b2fe88_7:
 translate chinese war_in_the_east_2_postfight_83bed3ca:
 
     nvl clear
-    "{cps=50}确认法拉斯库尔再无威胁后，你返回达米埃塔，向总督禀报战果。"
+    "{cps=50}确认法拉斯库尔再无威胁后，你返回达米埃塔，向总督报告战果。"
 
 # game/script_dlc.rpy:21349
 translate chinese war_in_the_east_2_postfight_76b2fe88:
@@ -15896,7 +15896,7 @@ translate chinese knightfall_1_fight_76b2fe88_1:
 translate chinese knightfall_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:21851
 translate chinese knightfall_1_fight_76b2fe88_2:
@@ -15932,7 +15932,7 @@ translate chinese knightfall_2_fight_76b2fe88_1:
 translate chinese knightfall_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:22326
 translate chinese knightfall_2_fight_76b2fe88_2:
@@ -16588,7 +16588,7 @@ translate chinese el_mansur_bandits_fight_76b2fe88_1:
 translate chinese el_mansur_bandits_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:24344
 translate chinese el_mansur_bandits_fight_76b2fe88_2:
@@ -16641,7 +16641,7 @@ translate chinese el_mansur_bandits_fight_76b2fe88_7:
 translate chinese el_mansur_bandits_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:24387
 translate chinese el_mansur_bandits_fight_76b2fe88_8:
@@ -16872,7 +16872,7 @@ translate chinese el_mansur_cave_fight_76b2fe88_1:
 translate chinese el_mansur_cave_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:24970
 translate chinese el_mansur_cave_fight_76b2fe88_2:
@@ -16974,7 +16974,7 @@ translate chinese el_mansur_crusaders_fight_76b2fe88_1:
 translate chinese el_mansur_crusaders_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:25535
 translate chinese el_mansur_crusaders_fight_76b2fe88_2:
@@ -17289,7 +17289,7 @@ translate chinese el_mansur_mamluks_fight_76b2fe88_1:
 translate chinese el_mansur_mamluks_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:26879
 translate chinese el_mansur_mamluks_fight_76b2fe88_2:
@@ -21977,7 +21977,7 @@ translate chinese breakthrough_cowards_1_fight_76b2fe88_3:
 translate chinese breakthrough_cowards_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:30277
 translate chinese breakthrough_cowards_1_fight_76b2fe88_4:
@@ -22030,7 +22030,7 @@ translate chinese breakthrough_cowards_1_fight_76b2fe88_8:
 translate chinese breakthrough_cowards_1_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:30320
 translate chinese breakthrough_cowards_1_fight_76b2fe88_9:
@@ -22555,7 +22555,7 @@ translate chinese windsor_siege_action_76b2fe88:
 translate chinese windsor_siege_action_4eb1a8da:
 
     nvl clear
-    "{cps=50}你用一整天训练民兵，为战斗做准备……{vspace=5}{color=#A9A9A9}耗时：1{vspace=5}疲劳程度增加！"
+    "{cps=50}你用一整天训练民兵，为战斗做准备……{vspace=5}{color=#A9A9A9}损失时间：1{vspace=5}疲劳程度增加！"
 
 # game/script_dlc.rpy:31127
 translate chinese windsor_siege_action_76b2fe88_1:
@@ -22836,7 +22836,7 @@ translate chinese breakthrough_windsor_2_fight_76b2fe88_1:
 translate chinese breakthrough_windsor_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:31940
 translate chinese breakthrough_windsor_2_fight_76b2fe88_2:
@@ -23585,7 +23585,7 @@ translate chinese hellish_trio_hadley_1_fight_76b2fe88_1:
 translate chinese hellish_trio_hadley_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:32913
 translate chinese hellish_trio_hadley_1_fight_76b2fe88_2:
@@ -23662,7 +23662,7 @@ translate chinese hellish_trio_hadley_2_fight_76b2fe88_1:
 translate chinese hellish_trio_hadley_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:33365
 translate chinese hellish_trio_hadley_2_fight_76b2fe88_2:
@@ -24613,7 +24613,7 @@ translate chinese hellish_trio_chippenham_bandits_fight_76b2fe88_2:
 translate chinese hellish_trio_chippenham_bandits_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:34497
 translate chinese hellish_trio_chippenham_bandits_fight_76b2fe88_3:
@@ -26902,7 +26902,7 @@ translate chinese watchmen_1_fight_76b2fe88_1:
 translate chinese watchmen_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:36890
 translate chinese watchmen_1_fight_76b2fe88_2:
@@ -26955,7 +26955,7 @@ translate chinese watchmen_1_fight_76b2fe88_6:
 translate chinese watchmen_1_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:36933
 translate chinese watchmen_1_fight_76b2fe88_7:
@@ -27037,7 +27037,7 @@ translate chinese watchmen_2_fight_76b2fe88_1:
 translate chinese watchmen_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:37453
 translate chinese watchmen_2_fight_76b2fe88_2:
@@ -27277,7 +27277,7 @@ translate chinese watchmen_3_fight_76b2fe88_2:
 translate chinese watchmen_3_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:38109
 translate chinese watchmen_3_fight_76b2fe88_3:
@@ -27330,7 +27330,7 @@ translate chinese watchmen_3_fight_76b2fe88_7:
 translate chinese watchmen_3_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:38152
 translate chinese watchmen_3_fight_76b2fe88_8:
@@ -27647,7 +27647,7 @@ translate chinese countryside_1_fight_76b2fe88_1:
 translate chinese countryside_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:38771
 translate chinese countryside_1_fight_76b2fe88_2:
@@ -28240,7 +28240,7 @@ translate chinese heart_of_darkness_1_fight_76b2fe88_1:
 translate chinese heart_of_darkness_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:39488
 translate chinese heart_of_darkness_1_fight_76b2fe88_2:
@@ -28426,7 +28426,7 @@ translate chinese heart_of_darkness_3_fight_76b2fe88_1:
 translate chinese heart_of_darkness_3_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:40169
 translate chinese heart_of_darkness_3_fight_76b2fe88_2:
@@ -28558,7 +28558,7 @@ translate chinese heart_of_darkness_4_fight_76b2fe88_1:
 translate chinese heart_of_darkness_4_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:40730
 translate chinese heart_of_darkness_4_fight_76b2fe88_2:
@@ -46987,7 +46987,7 @@ translate chinese hunt_1_monk_76b2fe88:
 translate chinese hunt_1_tavern_0dfd92dc:
 
     nvl clear
-    "{cps=50}沿着一条乡间土路走着，你不期然来到湖畔一家小小的酒馆。好客的店家邀你歇上一两个时辰，饱餐一顿，只收 10 弗罗林。"
+    "{cps=50}沿着一条乡间土路走着，你不期然来到湖畔一家小小的酒馆。好客的店家邀你歇上一两个小时，饱餐一顿，只收 10 弗罗林。"
 
 # game/script_dlc.rpy:51551
 translate chinese hunt_1_tavern_08a250c3:
@@ -47728,7 +47728,7 @@ translate chinese hunt_1_alchemist_menu_76b2fe88:
 translate chinese hunt_1_alchemist_menu_538cff67:
 
     nvl clear
-    "{cps=50}货郎喜滋滋地接过你递来的钱币，把货品交到你手上，随即狡黠一笑，脚底抹油似地溜了。{vspace=5}{color=#A9A9A9}损失 40 弗罗林。"
+    "{cps=50}货郎喜滋滋地接过你递来的钱币，把货品交到你手上，随即狡黠一笑，转身溜走似地溜了。{vspace=5}{color=#A9A9A9}损失 40 弗罗林。"
 
 # game/script_dlc.rpy:51953
 translate chinese hunt_1_alchemist_menu_836250da:
@@ -48352,7 +48352,7 @@ translate chinese hunt_1_null_76b2fe88:
 # game/script_dlc.rpy:52355
 translate chinese hunt_1_null_4a2155d9:
 
-    "{cps=50}你在周边游荡了几个时辰，却一无所遇，平平无奇。"
+    "{cps=50}你在周边游荡了几个小时，却一无所遇，平平无奇。"
 
 # game/script_dlc.rpy:52356
 translate chinese hunt_1_null_76b2fe88_1:
@@ -49078,7 +49078,7 @@ translate chinese hunt_2_hunt_76b2fe88_3:
 translate chinese hunt_2_fall_f9aaffb7:
 
     nvl clear
-    "{cps=50}你没能算准时辰，赶不上在天黑前回营，只得在暮色四合中摸黑赶路。"
+    "{cps=50}你没能算准时间，赶不上在天黑前回营，只得在暮色四合中摸黑赶路。"
 
 # game/script_dlc.rpy:52768
 translate chinese hunt_2_fall_76b2fe88:
@@ -49865,7 +49865,7 @@ translate chinese hunt_2_monks_76b2fe88:
 # game/script_dlc.rpy:53189
 translate chinese hunt_2_monks_0f320446:
 
-    "{cps=50}你屈膝跪在他们面前，请求赐福，如愿以偿。{vspace=5}{color=#A9A9A9}虔诚——成功（[storyroll]）！"
+    "{cps=50}你屈膝跪在他们面前，请求赐福，如愿以偿。{vspace=5}{color=#A9A9A9}美德——成功（[storyroll]）！"
 
 # game/script_dlc.rpy:53190
 translate chinese hunt_2_monks_76b2fe88_1:
@@ -50365,7 +50365,7 @@ translate chinese random_encounter_fight_76b2fe88_2:
 translate chinese random_encounter_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:54781
 translate chinese random_encounter_fight_76b2fe88_3:
@@ -50508,7 +50508,7 @@ translate chinese bandit_random_encounter_fight_76b2fe88_2:
 translate chinese bandit_random_encounter_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc.rpy:55456
 translate chinese bandit_random_encounter_fight_76b2fe88_3:

@@ -88,7 +88,7 @@ translate chinese postfight1_76b2fe88_1:
 translate chinese postfight1_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:394
 translate chinese postfight1_76b2fe88_2:
@@ -353,7 +353,7 @@ translate chinese fight1_1_76b2fe88_2:
 translate chinese fight1_1_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:905
 translate chinese fight1_1_76b2fe88_3:
@@ -513,7 +513,7 @@ translate chinese fight2_1_76b2fe88_1:
 translate chinese fight2_1_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:1451
 translate chinese fight2_1_76b2fe88_2:
@@ -794,7 +794,7 @@ translate chinese fight2_2_76b2fe88_1:
 translate chinese fight2_2_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:2027
 translate chinese fight2_2_76b2fe88_2:
@@ -842,7 +842,7 @@ translate chinese fight2_2_76b2fe88_4:
 translate chinese fight2_2_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:2104
 translate chinese fight2_2_76b2fe88_5:
@@ -1059,7 +1059,7 @@ translate chinese fight2_6_76b2fe88:
 translate chinese fight2_6_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:2550
 translate chinese fight2_6_76b2fe88_1:
@@ -1089,7 +1089,7 @@ translate chinese fight2_6_76b2fe88_3:
 translate chinese fight2_6_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:2591
 translate chinese fight2_6_76b2fe88_4:
@@ -1394,7 +1394,7 @@ translate chinese fight2_7_76b2fe88_2:
 translate chinese fight2_7_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:3187
 translate chinese fight2_7_76b2fe88_3:
@@ -1560,7 +1560,7 @@ translate chinese fight2_8_76b2fe88:
 translate chinese fight2_8_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:3766
 translate chinese fight2_8_76b2fe88_1:
@@ -2040,7 +2040,7 @@ translate chinese postfight3_1_76b2fe88_1:
 translate chinese postfight3_1_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:4777
 translate chinese postfight3_1_76b2fe88_2:
@@ -2271,7 +2271,7 @@ translate chinese fight3_4_76b2fe88_1:
 translate chinese fight3_4_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:5394
 translate chinese fight3_4_76b2fe88_2:
@@ -2349,7 +2349,7 @@ translate chinese fight3_5_76b2fe88:
 translate chinese fight3_5_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:5885
 translate chinese fight3_5_76b2fe88_1:
@@ -2378,7 +2378,7 @@ translate chinese fight3_5_76b2fe88_3:
 translate chinese fight3_5_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:5923
 translate chinese fight3_5_76b2fe88_4:
@@ -2863,7 +2863,7 @@ translate chinese fight4_1_76b2fe88_1:
 translate chinese fight4_1_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:7152
 translate chinese fight4_1_76b2fe88_2:
@@ -3233,7 +3233,7 @@ translate chinese fight4_9_1_76b2fe88_1:
 translate chinese fight4_9_1_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:7732
 translate chinese fight4_9_1_76b2fe88_2:
@@ -3274,7 +3274,7 @@ translate chinese fight4_9_1_76b2fe88_4:
 translate chinese fight4_9_1_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:7772
 translate chinese fight4_9_1_76b2fe88_5:
@@ -3304,7 +3304,7 @@ translate chinese fight4_9_2_76b2fe88_1:
 translate chinese fight4_9_2_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:8138
 translate chinese fight4_9_2_76b2fe88_2:
@@ -3346,7 +3346,7 @@ translate chinese fight4_9_2_76b2fe88_4:
 translate chinese fight4_9_2_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:8179
 translate chinese fight4_9_2_76b2fe88_5:
@@ -4187,7 +4187,7 @@ translate chinese cambrai_final_battle_fight_76b2fe88:
 translate chinese cambrai_final_battle_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:8882
 translate chinese cambrai_final_battle_fight_76b2fe88_1:
@@ -4288,7 +4288,7 @@ translate chinese cambrai_final_battle_2_fight_76b2fe88_1:
 translate chinese cambrai_final_battle_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:9431
 translate chinese cambrai_final_battle_2_fight_76b2fe88_2:
@@ -4945,7 +4945,7 @@ translate chinese cambrai_final_battle_3_fight_76b2fe88_1:
 translate chinese cambrai_final_battle_3_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:10217
 translate chinese cambrai_final_battle_3_fight_76b2fe88_2:
@@ -5638,7 +5638,7 @@ translate chinese southern_farm_fight_76b2fe88_2:
 translate chinese southern_farm_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:11414
 translate chinese southern_farm_fight_76b2fe88_3:
@@ -5691,7 +5691,7 @@ translate chinese southern_farm_fight_76b2fe88_8:
 translate chinese southern_farm_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:11459
 translate chinese southern_farm_fight_76b2fe88_9:
@@ -5745,7 +5745,7 @@ translate chinese olivier_farm_fight_76b2fe88_2:
 translate chinese olivier_farm_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:11962
 translate chinese olivier_farm_fight_76b2fe88_3:
@@ -5841,7 +5841,7 @@ translate chinese olivier_farm_fight2_76b2fe88_2:
 translate chinese olivier_farm_fight2_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:12512
 translate chinese olivier_farm_fight2_76b2fe88_3:
@@ -6345,7 +6345,7 @@ translate chinese fight5_5_76b2fe88_2:
 translate chinese fight5_5_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:13683
 translate chinese fight5_5_76b2fe88_3:
@@ -6507,7 +6507,7 @@ translate chinese fight5_6_76b2fe88_2:
 translate chinese fight5_6_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:14229
 translate chinese fight5_6_76b2fe88_3:
@@ -6651,7 +6651,7 @@ translate chinese fight6_1_76b2fe88_2:
 translate chinese fight6_1_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:14842
 translate chinese fight6_1_76b2fe88_3:
@@ -6698,7 +6698,7 @@ translate chinese fight6_1_76b2fe88_6:
 translate chinese fight6_1_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:14884
 translate chinese fight6_1_76b2fe88_7:
@@ -6793,7 +6793,7 @@ translate chinese fight6_2_76b2fe88_2:
 translate chinese fight6_2_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:15425
 translate chinese fight6_2_76b2fe88_3:
@@ -6835,7 +6835,7 @@ translate chinese fight6_3_76b2fe88_2:
 translate chinese fight6_3_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:15934
 translate chinese fight6_3_76b2fe88_3:
@@ -6901,7 +6901,7 @@ translate chinese fight6_4_76b2fe88_2:
 translate chinese fight6_4_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:16462
 translate chinese fight6_4_76b2fe88_3:
@@ -6998,7 +6998,7 @@ translate chinese fight6_0_76b2fe88_2:
 translate chinese fight6_0_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:16980
 translate chinese fight6_0_76b2fe88_3:
@@ -7045,7 +7045,7 @@ translate chinese fight6_0_76b2fe88_6:
 translate chinese fight6_0_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:17022
 translate chinese fight6_0_76b2fe88_7:
@@ -7357,7 +7357,7 @@ translate chinese fight6_5_76b2fe88_2:
 translate chinese fight6_5_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:17607
 translate chinese fight6_5_76b2fe88_3:
@@ -7404,7 +7404,7 @@ translate chinese fight6_5_76b2fe88_7:
 translate chinese fight6_5_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:17648
 translate chinese fight6_5_76b2fe88_8:
@@ -7476,7 +7476,7 @@ translate chinese fight6_6_76b2fe88_2:
 translate chinese fight6_6_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:18127
 translate chinese fight6_6_76b2fe88_3:
@@ -7523,7 +7523,7 @@ translate chinese fight6_6_76b2fe88_7:
 translate chinese fight6_6_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:18168
 translate chinese fight6_6_76b2fe88_8:
@@ -7858,7 +7858,7 @@ translate chinese fight6_7_76b2fe88_2:
 translate chinese fight6_7_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:18675
 translate chinese fight6_7_76b2fe88_3:
@@ -7876,7 +7876,7 @@ translate chinese postfight6_7_76b2fe88:
 translate chinese postfight6_7_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_0.rpy:18736
 translate chinese postfight6_7_76b2fe88_1:
@@ -8299,7 +8299,7 @@ translate chinese olivia_marriage_fail_76b2fe88_3:
 translate chinese embark_on_new_adventure_1bd5e08c:
 
     nvl clear
-    "{cps=50}然而这份安逸并不能长久。过了两年平静幸福的日子，你又开始思念冒险的滋味，遂决定前往巴黎。"
+    "{cps=50}然而这份安逸并不能长久。过了两年平静幸福的日子，你又开始思念冒险的滋味，便决定前往巴黎。"
 
 # game/script_0.rpy:18993
 translate chinese embark_on_new_adventure_0b7c62b2:
@@ -9146,7 +9146,7 @@ translate chinese stay_in_damietta_76b2fe88_3:
 translate chinese stay_in_damietta_6d6a34bd:
 
     nvl clear
-    "{cps=50}你没有盘缠返程，遂决定留在达米埃塔，寻些谋生之道。而你唯一真正擅长的事情便是打仗，于是也别无选择。"
+    "{cps=50}你没有盘缠返程，便决定留在达米埃塔，寻些谋生之道。而你唯一真正擅长的事情便是打仗，于是也别无选择。"
 
 # game/script_0.rpy:19574
 translate chinese stay_in_damietta_d7f40411:
@@ -9901,7 +9901,7 @@ translate chinese lindisfarne_fight_76b2fe88_2:
 translate chinese lindisfarne_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:20626
 translate chinese lindisfarne_fight_76b2fe88_3:
@@ -9961,7 +9961,7 @@ translate chinese lindisfarne_fight_2_76b2fe88_3:
 translate chinese lindisfarne_fight_2_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:21119
 translate chinese lindisfarne_fight_2_76b2fe88_4:
@@ -10310,7 +10310,7 @@ translate chinese london_fight_76b2fe88_1:
 translate chinese london_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:21786
 translate chinese london_fight_76b2fe88_2:
@@ -10357,7 +10357,7 @@ translate chinese london_fight_76b2fe88_6:
 translate chinese london_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:21827
 translate chinese london_fight_76b2fe88_7:
@@ -10495,7 +10495,7 @@ translate chinese london_fight_2_76b2fe88_1:
 translate chinese london_fight_2_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:22371
 translate chinese london_fight_2_76b2fe88_2:
@@ -10686,7 +10686,7 @@ translate chinese london_fight_3_76b2fe88_2:
 translate chinese london_fight_3_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:22927
 translate chinese london_fight_3_76b2fe88_3:
@@ -12068,7 +12068,7 @@ translate chinese negotiations_fight_2_76b2fe88_2:
 translate chinese negotiations_fight_2_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:24625
 translate chinese negotiations_fight_2_76b2fe88_3:
@@ -12404,7 +12404,7 @@ translate chinese negotiations_postfight_3_28958804:
 translate chinese negotiations_postfight_3_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_0.rpy:25170
 translate chinese negotiations_postfight_3_76b2fe88:
@@ -13677,7 +13677,7 @@ translate chinese york_finale_bad_1_fight_76b2fe88_1:
 translate chinese york_finale_bad_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_0.rpy:26295
 translate chinese york_finale_bad_1_fight_76b2fe88_2:
@@ -14012,7 +14012,7 @@ translate chinese strings:
     old "Обыскать"
     new "搜检尸体"
     old "Rest {color=#A9A9A9}(Recovers [fatigue_to_recover] fatigue)"
-    new "歇息 {color=#A9A9A9}（恢复[fatigue_to_recover]点疲劳）"
+    new "歇息 {color=#A9A9A9}（恢复 [fatigue_to_recover] 点疲劳）"
     old "{cps=50}Do you want to go with Earl?"
     new "{cps=50}你愿意与伯爵同行吗？"
     old "{cps=50}{color=#A9A9A9}Do you loot the bodies?"
@@ -14342,7 +14342,7 @@ translate chinese strings:
     old "{size=-5}{i}Rank: {color=#A9A9A9}Esquire (+200)"
     new "{size=-5}{i}军衔：{color=#A9A9A9}骑士侍从（+200）"
     old "{size=-5}{i}Rank: {color=#A9A9A9}Knight bachelor (+300)"
-    new "{size=-5}{i}军衔：{color=#A9A9A9}重装骑兵（+300）"
+    new "{size=-5}{i}军衔：{color=#A9A9A9}普通骑士（+300）"
     old "{size=-5}{i}Rank: {color=#A9A9A9}Knight banneret (+400)"
     new "{size=-5}{i}军衔：{color=#A9A9A9}旗队骑士（+400）"
     old "{size=-5}{i}Rank: {color=#A9A9A9}Bannerlord (+500)"

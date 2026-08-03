@@ -1058,7 +1058,7 @@ translate chinese venice_tavern_hub_menu_76b2fe88_1:
 translate chinese venice_tavern_hub_menu_11177e2f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}花费 [venice_tavern_visit_cost] 弗罗林。{vspace=5}耗时：1。{vspace=5}疲劳值下降！"
+    "{cps=50}{color=#A9A9A9}花费 [venice_tavern_visit_cost] 弗罗林。{vspace=5}损失时间：1。{vspace=5}疲劳值下降！"
 
 # game/script_dlc_4.rpy:851
 translate chinese venice_tavern_hub_menu_76b2fe88_2:
@@ -1308,7 +1308,7 @@ translate chinese venice_tavern_damaged_boat_2_71fda0a0:
 translate chinese venice_tavern_damaged_boat_2_20338ae6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}耗时：1"
+    "{cps=50}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_4.rpy:1021
 translate chinese venice_tavern_damaged_boat_2_e2890486:
@@ -1481,7 +1481,7 @@ translate chinese venice_tavern_silvertongue_76b2fe88_2:
 translate chinese venice_tavern_silvertongue_2_20338ae6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}耗时：1"
+    "{cps=50}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_4.rpy:1108
 translate chinese venice_tavern_silvertongue_2_76b2fe88:
@@ -1686,7 +1686,7 @@ translate chinese venice_tavern_apprentice_2_301010b6:
 translate chinese venice_tavern_apprentice_2_20338ae6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}耗时：1"
+    "{cps=50}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_4.rpy:1231
 translate chinese venice_tavern_apprentice_2_e2890486:
@@ -1864,7 +1864,7 @@ translate chinese venice_tavern_old_fisherman_2_76b2fe88_1:
 translate chinese venice_tavern_old_fisherman_2_20338ae6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}耗时：1"
+    "{cps=50}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_4.rpy:1318
 translate chinese venice_tavern_old_fisherman_2_3f1e40a3:
@@ -2771,7 +2771,7 @@ translate chinese middle_man_antonio_found_76b2fe88:
 translate chinese middle_man_antonio_found_118a0781:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚低下、劣迹斑斑——失败！{vspace=5}耗时：1"
+    "{cps=50}{color=#A9A9A9}虔诚低下、劣迹斑斑——失败！{vspace=5}损失时间：1"
 
 # game/script_dlc_4.rpy:1942
 translate chinese middle_man_antonio_found_eb2562cc:
@@ -2788,7 +2788,7 @@ translate chinese middle_man_antonio_found_76b2fe88_1:
 # game/script_dlc_4.rpy:1948
 translate chinese middle_man_antonio_found_25647662:
 
-    "{cps=50}{color=#A9A9A9}耗时：1"
+    "{cps=50}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_4.rpy:1951
 translate chinese middle_man_antonio_found_d102d9e6:
@@ -8555,7 +8555,7 @@ translate chinese doge_counter_attacks_saint_erasmo_3_postfight_76b2fe88_3:
 translate chinese venice_bodyguard_chapter_4_end_c510ea5a:
 
     nvl clear
-    "{cps=50}找到你的仆役禀报：朱塞佩·卡瓦利要见你。"
+    "{cps=50}找到你的仆役报告：朱塞佩·卡瓦利要见你。"
 
 # game/script_dlc_4.rpy:12045
 translate chinese venice_bodyguard_chapter_4_end_76b2fe88:
@@ -15918,7 +15918,7 @@ translate chinese treviso_camp_hub_menu_76b2fe88_2:
 # game/script_dlc_4.rpy:20418
 translate chinese treviso_camp_hub_menu_aeb2ae7e:
 
-    "{cps=50}{color=#A9A9A9}耗去时间：1。"
+    "{cps=50}{color=#A9A9A9}损失时间：1。"
 
 # game/script_dlc_4.rpy:20420
 translate chinese treviso_camp_hub_menu_76b2fe88_3:
@@ -15941,7 +15941,7 @@ translate chinese treviso_camp_hub_menu_76b2fe88_5:
 # game/script_dlc_4.rpy:20434
 translate chinese treviso_camp_hub_menu_f9efd09c:
 
-    "你花时间组织德·罗西手下的人进行训练……{vspace=5}{color=#A9A9A9}训练质量提升[de_rossi_regimentation_step]。{vspace=5}声望（士兵）提升[de_rossi_train_soldiers_rep_change]。{vspace=5}耗去时间：1"
+    "你花时间组织德·罗西手下的人进行训练……{vspace=5}{color=#A9A9A9}训练质量提升[de_rossi_regimentation_step]。{vspace=5}声望（士兵）提升[de_rossi_train_soldiers_rep_change]。{vspace=5}损失时间：1"
 
 # game/script_dlc_4.rpy:20437
 translate chinese treviso_camp_hub_menu_af928354:
@@ -20187,7 +20187,7 @@ translate chinese venice_sparrow_info_buy_roll_fail_76b2fe88:
 # game/script_dlc_4.rpy:26102
 translate chinese venice_sparrow_info_buy_roll_fail_a2d0b717:
 
-    "{cps=50}你的一番努力毫无收获……{vspace=5}{color=#A9A9A9}幸运、出价——判定失败！{vspace=5}耗去时间：1。"
+    "{cps=50}你的一番努力毫无收获……{vspace=5}{color=#A9A9A9}幸运、出价——判定失败！{vspace=5}损失时间：1。"
 
 # game/script_dlc_4.rpy:26118
 translate chinese venice_sparrow_info_buy_roll_fail_a8471d12:
@@ -21408,7 +21408,7 @@ translate chinese venice_sandbox_economy_setup_76b2fe88:
 translate chinese giovanna_missing_brother_force_start_c701556e:
 
     nvl clear
-    "{cps=50}寻到你的信使禀报，乔万娜·孔塔里尼请你前去相见。"
+    "{cps=50}寻到你的信使报告，乔万娜·孔塔里尼请你前去相见。"
 
 # game/script_dlc_4.rpy:28195
 translate chinese giovanna_missing_brother_force_start_c7156e8f:
@@ -22070,7 +22070,7 @@ translate chinese italian_wars_enemy_attacks_76b2fe88:
 # game/script_dlc_4.rpy:28840
 translate chinese italian_wars_enemy_attacks_4f5fb4e5:
 
-    "{cps=50}斥候禀报，[italian_wars_enemy_army_name_official!ti]的军队正向[italian_wars_disputed_sector_name!ti]进发。{color=#A9A9A9}{vspace=5}敌军兵力：[italian_wars_enemy_army_men]人{vspace=5}我方兵力：[treviso_militiamen_gathered]人"
+    "{cps=50}斥候报告，[italian_wars_enemy_army_name_official!ti]的军队正向[italian_wars_disputed_sector_name!ti]进发。{color=#A9A9A9}{vspace=5}敌军兵力：[italian_wars_enemy_army_men]人{vspace=5}我方兵力：[treviso_militiamen_gathered]人"
 
 # game/script_dlc_4.rpy:28842
 translate chinese italian_wars_enemy_attacks_d869f01d:
@@ -23167,7 +23167,7 @@ translate chinese visit_france_menu_76b2fe88:
 translate chinese visit_france_menu_20338ae6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}耗时：1"
+    "{cps=50}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_4.rpy:29705
 translate chinese italy_paris_cathedral_visit_menu_76b2fe88_7:
@@ -23913,7 +23913,7 @@ translate chinese italy_paris_cathedral_visit_menu_76b2fe88_8:
 translate chinese italy_paris_cathedral_visit_menu_20338ae6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}耗时：1"
+    "{cps=50}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_4.rpy:30088
 translate chinese italy_paris_cathedral_visit_menu_76b2fe88_10:
@@ -24223,7 +24223,7 @@ translate chinese visit_soissons_menu_76b2fe88_25:
 translate chinese visit_soissons_menu_20338ae6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}耗时：1"
+    "{cps=50}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_4.rpy:30271
 translate chinese visit_soissons_menu_76b2fe88_27:
@@ -24591,7 +24591,7 @@ translate chinese venice_charles_talk_menu_76b2fe88_1:
 translate chinese venice_charles_talk_menu_20338ae6:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}耗时：1"
+    "{cps=50}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_4.rpy:30461
 translate chinese venice_charles_talk_menu_76b2fe88_2:
@@ -25187,7 +25187,7 @@ translate chinese milan_cathedral_visit_menu_76b2fe88_10:
 # game/script_dlc_4.rpy:30789
 translate chinese milan_cathedral_visit_menu_25647662:
 
-    "{cps=50}{color=#A9A9A9}耗时：1"
+    "{cps=50}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_4.rpy:30791
 translate chinese milan_cathedral_visit_menu_c9d74af0:
@@ -29050,7 +29050,7 @@ translate chinese explore_milan_dress_76b2fe88:
 translate chinese bernabo_new_ideas_invitation_accc250e:
 
     nvl clear
-    "{cps=50}寻到你下落的信使禀报：贝尔纳博·维斯孔蒂想出了一条新的军事计谋，足以重创热那亚人及其盟友——他希望能与你商议这个计划。"
+    "{cps=50}寻到你下落的信使报告：贝尔纳博·维斯孔蒂想出了一条新的军事计谋，足以重创热那亚人及其盟友——他希望能与你商议这个计划。"
 
 # game/script_dlc_4.rpy:33584
 translate chinese bernabo_new_ideas_invitation_76b2fe88:
@@ -30055,7 +30055,7 @@ translate chinese italian_wars_peace_calculation_quickjump_76b2fe88_2:
 # game/script_dlc_4.rpy:37319
 translate chinese italian_wars_peace_calculation_quickjump_2021fa3c:
 
-    "{cps=50}{color=#A9A9A9}路易国王意识到对威尼斯共和国的战争毫无胜算，遂退出了反威尼斯联盟。"
+    "{cps=50}{color=#A9A9A9}路易国王意识到对威尼斯共和国的战争毫无胜算，于是退出了反威尼斯联盟。"
 
 # game/script_dlc_4.rpy:37321
 translate chinese italian_wars_peace_calculation_quickjump_0f73e1e0:
@@ -30333,7 +30333,7 @@ translate chinese italian_wars_universal_fight_76b2fe88:
 # game/script_dlc_4.rpy:38157
 translate chinese italian_wars_universal_fight_173de523:
 
-    "{cps=50}{color=#A9A9A9}你要搜刮尸体吗？"
+    "{cps=50}{color=#A9A9A9}要搜刮这些尸体吗？"
 
 # game/script_dlc_4.rpy:38162
 translate chinese italian_wars_universal_fight_76b2fe88_1:
@@ -37632,7 +37632,7 @@ translate chinese strings:
     old "Republic of Genoa"
     new "热那亚共和国"
     old "Отправиться на остров под видом гражданского {color=#A9A9A9}(Время: 1, Цена: 5 флоринов)"
-    new "伪装成平民前往该岛 {color=#A9A9A9}（耗时：1，费用：5弗罗林）"
+    new "伪装成平民前往该岛 {color=#A9A9A9}（损失时间：1，费用：5弗罗林）"
     old "Установить контакт с генуэзцами"
     new "与热那亚人建立联系"
     old "Заплатить генуэзскому капитану за доступ на остров {color=#A9A9A9}([venedic_fortress_access_cost!i] флоринов)"

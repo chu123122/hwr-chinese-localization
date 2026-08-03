@@ -884,7 +884,7 @@ translate chinese maidstone_attempt_to_flee_city_b7473d85:
 translate chinese maidstone_attempt_to_flee_city_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:1275
 translate chinese maidstone_attempt_to_flee_city_76b2fe88_3:
@@ -1708,7 +1708,7 @@ translate chinese maidstone_items_confiscated_76b2fe88:
 translate chinese maidstone_city_arrest_a44d43c9:
 
     nvl clear
-    "{cps=50}梅德斯通监狱的阴冷、潮湿与粗劣伙食迅速侵蚀着你的身体，在候审中度过的每一天都是煎熬。{color=#A9A9A9}{vspace=5}所有属性降低1点！{vspace=5}中毒值上升！"
+    "{cps=50}梅德斯通监狱的阴冷、潮湿与粗劣伙食迅速侵蚀着你的身体，在候审中度过的每一天都是煎熬。{color=#A9A9A9}{vspace=5}所有属性降低1点！{vspace=5}毒性上升！"
 
 # game/script_dlc_2.rpy:2460
 translate chinese maidstone_city_arrest_51fe2625:
@@ -1995,7 +1995,7 @@ translate chinese maidstone_blacksmith_give_item_result_76b2fe88_1:
 translate chinese maidstone_blacksmith_give_item_result_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:2726
 translate chinese maidstone_blacksmith_give_item_result_76b2fe88:
@@ -2214,7 +2214,7 @@ translate chinese maidstone_craftsman_give_item_result_76b2fe88_1:
 translate chinese maidstone_craftsman_give_item_result_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:3095
 translate chinese maidstone_craftsman_give_item_result_76b2fe88:
@@ -2433,7 +2433,7 @@ translate chinese maidstone_alchemist_give_item_result_76b2fe88_1:
 translate chinese maidstone_alchemist_give_item_result_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:3367
 translate chinese maidstone_alchemist_give_item_result_76b2fe88:
@@ -2607,7 +2607,7 @@ translate chinese maidstone_city_quest_wolves_postfight_068e0203:
 translate chinese maidstone_city_quest_wolves_postfight_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:3963
 translate chinese maidstone_city_quest_wolves_postfight_76b2fe88:
@@ -2654,7 +2654,7 @@ translate chinese maidstone_city_quest_personal_trainer_invitation_76b2fe88:
 translate chinese maidstone_city_quest_personal_trainer_1_b4ddb5f2:
 
     nvl clear
-    "{cps=50}你登门拜访商人家中，毛遂自荐，愿担任他儿子的击剑教习。"
+    "{cps=50}你登门拜访商人家中，主动请缨，愿担任他儿子的击剑教习。"
 
 # game/script_dlc_2.rpy:3993
 translate chinese maidstone_city_quest_personal_trainer_1_5489727d:
@@ -2750,7 +2750,7 @@ translate chinese maidstone_city_quest_personal_trainer_1_ecbe0cc8:
 translate chinese maidstone_city_quest_personal_trainer_1_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:4037
 translate chinese maidstone_city_quest_personal_trainer_1_76b2fe88_4:
@@ -2915,7 +2915,7 @@ translate chinese maidstone_city_quest_bear_postfight_2de437b1:
 translate chinese maidstone_city_quest_bear_postfight_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:4469
 translate chinese maidstone_city_quest_bear_postfight_76b2fe88:
@@ -3539,7 +3539,7 @@ translate chinese maidstone_city_quest_roadhouse_postfight3_76b2fe88_2:
 translate chinese maidstone_city_quest_roadhouse_postfight3_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:6248
 translate chinese maidstone_city_quest_roadhouse_postfight3_76b2fe88_1:
@@ -3780,7 +3780,7 @@ translate chinese canterburys_army_london_fight_76b2fe88_1:
 translate chinese canterburys_army_london_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:6831
 translate chinese canterburys_army_london_fight_76b2fe88_2:
@@ -3856,7 +3856,7 @@ translate chinese canterburys_army_london_fight2_76b2fe88_1:
 translate chinese canterburys_army_london_fight2_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:7310
 translate chinese canterburys_army_london_fight2_76b2fe88_2:
@@ -4298,7 +4298,7 @@ translate chinese oxford_camp_windsor_recon_1_76b2fe88_1:
 translate chinese oxford_camp_windsor_recon_1_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:7845
 translate chinese oxford_camp_windsor_recon_1_76b2fe88:
@@ -4340,7 +4340,7 @@ translate chinese oxford_camp_windsor_recon_fight_76b2fe88_1:
 translate chinese oxford_camp_windsor_recon_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:8222
 translate chinese oxford_camp_windsor_recon_fight_76b2fe88_2:
@@ -4387,7 +4387,7 @@ translate chinese oxford_camp_windsor_recon_postfight_76b2fe88_1:
 translate chinese oxford_camp_windsor_recon_postfight_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:8311
 translate chinese oxford_camp_windsor_recon_postfight_76b2fe88:
@@ -4918,7 +4918,7 @@ translate chinese oxford_city_amateur_assassin_1_76b2fe88_1:
 translate chinese oxford_city_amateur_assassin_1_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:8907
 translate chinese oxford_city_amateur_assassin_1_76b2fe88:
@@ -5014,7 +5014,7 @@ translate chinese oxford_city_amateur_assassin_success_76b2fe88_1:
 translate chinese oxford_city_amateur_assassin_success_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:9282
 translate chinese oxford_city_amateur_assassin_success_76b2fe88:
@@ -5188,7 +5188,7 @@ translate chinese oxford_city_a_guest_from_scotland_fight_76b2fe88_1:
 translate chinese oxford_city_a_guest_from_scotland_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:9734
 translate chinese oxford_city_a_guest_from_scotland_fight_76b2fe88_2:
@@ -5217,7 +5217,7 @@ translate chinese oxford_city_a_guest_from_scotland_fight_76b2fe88_4:
 translate chinese oxford_city_a_guest_from_scotland_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:9765
 translate chinese oxford_city_a_guest_from_scotland_fight_76b2fe88_5:
@@ -5263,7 +5263,7 @@ translate chinese oxford_city_a_guest_from_scotland_postfight_76b2fe88_3:
 translate chinese oxford_city_a_guest_from_scotland_postfight_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:9840
 translate chinese oxford_city_a_guest_from_scotland_postfight_76b2fe88_2:
@@ -5524,7 +5524,7 @@ translate chinese windsor_defence_fight_76b2fe88_1:
 translate chinese windsor_defence_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:10433
 translate chinese windsor_defence_fight_76b2fe88_2:
@@ -5619,7 +5619,7 @@ translate chinese windsor_defence_2_fight_76b2fe88_3:
 translate chinese windsor_defence_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:10950
 translate chinese windsor_defence_2_fight_76b2fe88_4:
@@ -5726,7 +5726,7 @@ translate chinese windsor_defence_3_fight_76b2fe88_3:
 translate chinese windsor_defence_3_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:11464
 translate chinese windsor_defence_3_fight_76b2fe88_4:
@@ -6804,7 +6804,7 @@ translate chinese fall_of_caldwells_fight_76b2fe88_1:
 translate chinese fall_of_caldwells_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:13452
 translate chinese fall_of_caldwells_fight_76b2fe88_2:
@@ -6857,7 +6857,7 @@ translate chinese fall_of_caldwells_2_fight_76b2fe88_1:
 translate chinese fall_of_caldwells_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:13919
 translate chinese fall_of_caldwells_2_fight_76b2fe88_2:
@@ -7204,7 +7204,7 @@ translate chinese assault_on_chippenham_fight_76b2fe88_1:
 translate chinese assault_on_chippenham_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:14584
 translate chinese assault_on_chippenham_fight_76b2fe88_2:
@@ -7257,7 +7257,7 @@ translate chinese assault_on_chippenham_fight_76b2fe88_6:
 translate chinese assault_on_chippenham_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:14626
 translate chinese assault_on_chippenham_fight_76b2fe88_7:
@@ -7317,7 +7317,7 @@ translate chinese assault_on_chippenham_2_fight_76b2fe88_1:
 translate chinese assault_on_chippenham_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:15109
 translate chinese assault_on_chippenham_2_fight_76b2fe88_2:
@@ -7376,7 +7376,7 @@ translate chinese assault_on_chippenham_3_fight_76b2fe88_1:
 translate chinese assault_on_chippenham_3_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:15588
 translate chinese assault_on_chippenham_3_fight_76b2fe88_2:
@@ -7751,7 +7751,7 @@ translate chinese sheriffs_arrival_fight_76b2fe88_1:
 translate chinese sheriffs_arrival_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:16734
 translate chinese sheriffs_arrival_fight_76b2fe88_2:
@@ -7810,7 +7810,7 @@ translate chinese sheriffs_arrival_2_fight_76b2fe88_1:
 translate chinese sheriffs_arrival_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:17229
 translate chinese sheriffs_arrival_2_fight_76b2fe88_2:
@@ -8317,7 +8317,7 @@ translate chinese duncan_in_windsor_fight_76b2fe88_1:
 translate chinese duncan_in_windsor_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:17863
 translate chinese duncan_in_windsor_fight_76b2fe88_2:
@@ -8388,7 +8388,7 @@ translate chinese duncan_in_windsor_2_fight_76b2fe88_1:
 translate chinese duncan_in_windsor_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:18453
 translate chinese duncan_in_windsor_2_fight_76b2fe88_2:
@@ -8470,7 +8470,7 @@ translate chinese duncan_in_windsor_3_fight_76b2fe88_1:
 translate chinese duncan_in_windsor_3_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:18943
 translate chinese duncan_in_windsor_3_fight_76b2fe88_2:
@@ -8542,7 +8542,7 @@ translate chinese duncan_in_windsor_4_fight_76b2fe88_1:
 translate chinese duncan_in_windsor_4_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:19423
 translate chinese duncan_in_windsor_4_fight_76b2fe88_2:
@@ -8953,7 +8953,7 @@ translate chinese roger_test_intro_76b2fe88:
 # game/script_dlc_2.rpy:20185
 translate chinese roger_test_intro_71883aa7:
 
-    "{cps=50}在你的威望感召下，队中所有人也都同意转投坎特伯雷伯爵麾下。{color=#A9A9A9}{vspace=5}威望、声望（士兵）——成功！"
+    "{cps=50}凭借你在队伍中的威信，队中所有人也都同意转投坎特伯雷伯爵麾下。{color=#A9A9A9}{vspace=5}威望、声望（士兵）——成功！"
 
 # game/script_dlc_2.rpy:20187
 translate chinese roger_test_intro_9ffe23e8:
@@ -10005,7 +10005,7 @@ translate chinese canterbury_battle_for_london_fight_76b2fe88_1:
 translate chinese canterbury_battle_for_london_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:22306
 translate chinese canterbury_battle_for_london_fight_76b2fe88_2:
@@ -10052,7 +10052,7 @@ translate chinese canterbury_battle_for_london_fight_76b2fe88_6:
 translate chinese canterbury_battle_for_london_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:22347
 translate chinese canterbury_battle_for_london_fight_76b2fe88_7:
@@ -10094,7 +10094,7 @@ translate chinese canterbury_battle_for_london_2_fight_76b2fe88_1:
 translate chinese canterbury_battle_for_london_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:22823
 translate chinese canterbury_battle_for_london_2_fight_76b2fe88_2:
@@ -10148,7 +10148,7 @@ translate chinese canterbury_battle_for_london_3_fight_76b2fe88_1:
 translate chinese canterbury_battle_for_london_3_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:23303
 translate chinese canterbury_battle_for_london_3_fight_76b2fe88_2:
@@ -10195,7 +10195,7 @@ translate chinese canterbury_battle_for_london_3_fight_76b2fe88_6:
 translate chinese canterbury_battle_for_london_3_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:23344
 translate chinese canterbury_battle_for_london_3_fight_76b2fe88_7:
@@ -10674,7 +10674,7 @@ translate chinese canterbury_north_invasion_fight_76b2fe88_1:
 translate chinese canterbury_north_invasion_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:24066
 translate chinese canterbury_north_invasion_fight_76b2fe88_2:
@@ -10896,7 +10896,7 @@ translate chinese canterbury_duke_arrest_fight_76b2fe88_1:
 translate chinese canterbury_duke_arrest_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:24625
 translate chinese canterbury_duke_arrest_fight_76b2fe88_2:
@@ -10932,7 +10932,7 @@ translate chinese canterbury_duke_arrest_2_fight_76b2fe88_1:
 translate chinese canterbury_duke_arrest_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:25094
 translate chinese canterbury_duke_arrest_2_fight_76b2fe88_2:
@@ -11040,7 +11040,7 @@ translate chinese canterbury_final_battle_fight_76b2fe88_1:
 translate chinese canterbury_final_battle_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:25625
 translate chinese canterbury_final_battle_fight_76b2fe88_2:
@@ -11087,7 +11087,7 @@ translate chinese canterbury_final_battle_fight_76b2fe88_6:
 translate chinese canterbury_final_battle_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:25666
 translate chinese canterbury_final_battle_fight_76b2fe88_7:
@@ -11099,7 +11099,7 @@ translate chinese canterbury_final_battle_fight_76b2fe88_7:
 translate chinese canterbury_final_battle_postfight_92f616b4:
 
     nvl clear
-    "{cps=50}头几个时辰的厮杀不分胜负，双方都投入了预备队。"
+    "{cps=50}头几个小时的厮杀不分胜负，双方都投入了预备队。"
 
 # game/script_dlc_2.rpy:25741
 translate chinese canterbury_final_battle_postfight_76b2fe88:
@@ -11123,7 +11123,7 @@ translate chinese canterbury_final_battle_2_fight_76b2fe88_1:
 translate chinese canterbury_final_battle_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:26141
 translate chinese canterbury_final_battle_2_fight_76b2fe88_2:
@@ -11170,7 +11170,7 @@ translate chinese canterbury_final_battle_2_fight_76b2fe88_6:
 translate chinese canterbury_final_battle_2_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:26182
 translate chinese canterbury_final_battle_2_fight_76b2fe88_7:
@@ -14115,7 +14115,7 @@ translate chinese roger_greenwich_fight_76b2fe88_1:
 translate chinese roger_greenwich_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:28623
 translate chinese roger_greenwich_fight_76b2fe88_2:
@@ -14451,7 +14451,7 @@ translate chinese roger_cambridge_fight_76b2fe88_1:
 translate chinese roger_cambridge_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:29235
 translate chinese roger_cambridge_fight_76b2fe88_2:
@@ -14671,7 +14671,7 @@ translate chinese roger_hunting_scots_intro_76b2fe88:
 # game/script_dlc_2.rpy:29400
 translate chinese roger_hunting_scots_intro_ec37f1a2:
 
-    "{cps=50}路上耗费了许多时辰，等你们终于赶到时，苏格兰人早已不见踪影。{vspace=5}{color=#A9A9A9}时间损失：1。{vspace=5}疲劳程度上升！"
+    "{cps=50}路上耗费了许多时辰，等你们终于赶到时，苏格兰人早已不见踪影。{vspace=5}{color=#A9A9A9}损失时间：1。{vspace=5}疲劳程度上升！"
 
 # game/script_dlc_2.rpy:29401
 translate chinese roger_hunting_scots_intro_76b2fe88_1:
@@ -14704,7 +14704,7 @@ translate chinese roger_hunting_scots_intro_76b2fe88_3:
 # game/script_dlc_2.rpy:29426
 translate chinese roger_hunting_scots_intro_b3a8b297:
 
-    "{cps=50}结果，路上耽搁太久，只能眼睁睁放苏格兰人走脱。{vspace=5}{color=#A9A9A9}幸运、队中有农民——失败！{vspace=5}时间损失：1。{vspace=5}疲劳程度上升！"
+    "{cps=50}结果，路上耽搁太久，只能眼睁睁放苏格兰人走脱。{vspace=5}{color=#A9A9A9}幸运、队中有农民——失败！{vspace=5}损失时间：1。{vspace=5}疲劳程度上升！"
 
 # game/script_dlc_2.rpy:29427
 translate chinese roger_hunting_scots_intro_76b2fe88_4:
@@ -14739,7 +14739,7 @@ translate chinese roger_hunting_scots_fight_76b2fe88_1:
 translate chinese roger_hunting_scots_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:29860
 translate chinese roger_hunting_scots_fight_76b2fe88_2:
@@ -15085,7 +15085,7 @@ translate chinese secret_ingredient_1_76b2fe88_2:
 translate chinese secret_ingredient_1_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:30510
 translate chinese secret_ingredient_1_76b2fe88_1:
@@ -15145,7 +15145,7 @@ translate chinese for_a_good_cause_fight_76b2fe88_1:
 translate chinese for_a_good_cause_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:30936
 translate chinese for_a_good_cause_fight_76b2fe88_2:
@@ -15222,7 +15222,7 @@ translate chinese for_a_good_cause_2_fight_76b2fe88_1:
 translate chinese for_a_good_cause_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:31439
 translate chinese for_a_good_cause_2_fight_76b2fe88_2:
@@ -15284,7 +15284,7 @@ translate chinese for_a_good_cause_2_postfight_76b2fe88_4:
 translate chinese for_a_good_cause_2_postfight_88141a15:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}完成任务获得经验：+[temp_experience_number]"
+    "{cps=50}{color=#A9A9A9}任务完成经验：+[temp_experience_number]"
 
 # game/script_dlc_2.rpy:31527
 translate chinese for_a_good_cause_2_postfight_76b2fe88_3:
@@ -15660,7 +15660,7 @@ translate chinese lindisfarne_witness_combat_76b2fe88:
 # game/script_dlc_2.rpy:31679
 translate chinese lindisfarne_witness_combat_f517ee86:
 
-    "{cps=50}你无意与骑士们硬拼，便任由胜者安然离去；待他们消失在视野之外，你才开始拾掇四下散落的残剩装备。{vspace=5}{color=#A9A9A9}时间损失：1。"
+    "{cps=50}你无意与骑士们硬拼，便任由胜者安然离去；待他们消失在视野之外，你才开始拾掇四下散落的残剩装备。{vspace=5}{color=#A9A9A9}损失时间：1。"
 
 # game/script_dlc_2.rpy:31681
 translate chinese lindisfarne_witness_combat_76b2fe88_1:
@@ -15726,7 +15726,7 @@ translate chinese duncan_greatful_peasants_1_76b2fe88:
 translate chinese duncan_angry_peasants_1_e1f63f89:
 
     nvl clear
-    "{cps=50}被邓肯手下恶行激怒的附近农民，偷偷往营地送来一批投了毒的食物。{vspace=5}{color=#A9A9A9}美德——失败！{vspace=5}中毒值上升！{vspace=5}活力降低2！"
+    "{cps=50}被邓肯手下恶行激怒的附近农民，偷偷往营地送来一批投了毒的食物。{vspace=5}{color=#A9A9A9}美德——失败！{vspace=5}毒性上升！{vspace=5}活力降低2！"
 
 # game/script_dlc_2.rpy:32213
 translate chinese duncan_angry_peasants_1_76b2fe88:
@@ -15768,7 +15768,7 @@ translate chinese duncan_angry_peasants_2_fight_76b2fe88_1:
 translate chinese duncan_angry_peasants_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:32637
 translate chinese duncan_angry_peasants_2_fight_76b2fe88_2:
@@ -15792,7 +15792,7 @@ translate chinese duncan_angry_peasants_2_postfight_76b2fe88:
 translate chinese duncan_angry_peasants_chippenham_1_5791d438:
 
     nvl clear
-    "{cps=50}奇彭纳姆及四乡的百姓对邓肯恢复征税恨之入骨，竟向城堡中的一口水井投了毒，引发疫病流行。{vspace=5}{color=#A9A9A9}美德——失败！{vspace=5}中毒值上升！{vspace=5}活力降低4！"
+    "{cps=50}奇彭纳姆及四乡的百姓对邓肯恢复征税恨之入骨，竟向城堡中的一口水井投了毒，引发疫病流行。{vspace=5}{color=#A9A9A9}美德——失败！{vspace=5}毒性上升！{vspace=5}活力降低4！"
 
 # game/script_dlc_2.rpy:32737
 translate chinese duncan_angry_peasants_chippenham_1_76b2fe88:
@@ -15810,7 +15810,7 @@ translate chinese maidstone_tavern_hub_76b2fe88_1:
 translate chinese maidstone_tavern_hub_33898b69:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}损失45弗罗林。{vspace=5}时间损失：1。{vspace=5}疲劳程度下降！"
+    "{cps=50}{color=#A9A9A9}损失45弗罗林。{vspace=5}损失时间：1。{vspace=5}疲劳程度下降！"
 
 # game/script_dlc_2.rpy:32763
 translate chinese maidstone_tavern_hub_76b2fe88:
@@ -16098,7 +16098,7 @@ translate chinese maidstone_bridge_action_1055fab1:
 translate chinese maidstone_bridge_action_67d7f9d9:
 
     nvl clear
-    "{cps=50}确认无论怎样都够不到河底，你只得浮了回去。{vspace=5}{color=#A9A9A9}时间损失：1。"
+    "{cps=50}确认无论怎样都够不到河底，你只得浮了回去。{vspace=5}{color=#A9A9A9}损失时间：1。"
 
 # game/script_dlc_2.rpy:32954
 translate chinese maidstone_bridge_action_76b2fe88_2:
@@ -16652,7 +16652,7 @@ translate chinese maidstone_bridge_fight_76b2fe88_1:
 translate chinese maidstone_bridge_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了[fatigue_to_recover]点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_2.rpy:33926
 translate chinese maidstone_bridge_fight_76b2fe88_2:
@@ -16760,7 +16760,7 @@ translate chinese damietta_bazaar_intro_76b2fe88:
 translate chinese damietta_bazaar_roll_5f353ece:
 
     nvl clear
-    "{cps=50}你花了一整天逛遍商业区，细细端详那些陈列待售的货物。{color=#A9A9A9}{vspace=5}[storyroll!ti]{vspace=5}时间损失：1！"
+    "{cps=50}你花了一整天逛遍商业区，细细端详那些陈列待售的货物。{color=#A9A9A9}{vspace=5}[storyroll!ti]{vspace=5}损失时间：1！"
 
 # game/script_dlc_2.rpy:34187
 translate chinese damietta_bazaar_roll_76b2fe88:
@@ -17051,13 +17051,13 @@ translate chinese strings:
     old "Жить гражданской жизнью"
     new "过平民生活"
     old "{size=-5}Вы проводите день работая на{vspace=5}пристани и разгружая грузы с{vspace=5}прибывающих торговых кораблей.{vspace=5}{color=#A9A9A9}Сила — успех!{/color}{vspace=5}Начальник доволен вашей{vspace=5}работой!{vspace=5}{color=#A9A9A9}Получено 15 флоринов.{vspace=5}Время потеряно: 1."
-    new "{size=-5}你花了一整天，在{vspace=5}码头上给到港的商船{vspace=5}卸货搬运。{vspace=5}{color=#A9A9A9}力量——成功！{/color}{vspace=5}工头对你的{vspace=5}活儿很满意！{vspace=5}{color=#A9A9A9}获得15弗罗林。{vspace=5}时间损失：1。"
+    new "{size=-5}你花了一整天，在{vspace=5}码头上给到港的商船{vspace=5}卸货搬运。{vspace=5}{color=#A9A9A9}力量——成功！{/color}{vspace=5}工头对你的{vspace=5}活儿很满意！{vspace=5}{color=#A9A9A9}获得15弗罗林。{vspace=5}损失时间：1。"
     old "{size=-5}Вы проводите день работая на{vspace=5}пристани и разгружая грузы с{vspace=5}прибывающих торговых кораблей.{vspace=5}{color=#A9A9A9}Сила — провал!{/color}{vspace=5}Начальник не доволен вашей{vspace=5}работой!{vspace=5}{color=#A9A9A9}Получено 7 флоринов.{vspace=5}Время потеряно: 1."
-    new "{size=-5}你花了一整天，在{vspace=5}码头上给到港的商船{vspace=5}卸货搬运。{vspace=5}{color=#A9A9A9}力量——失败！{/color}{vspace=5}工头对你的{vspace=5}活儿很不满意！{vspace=5}{color=#A9A9A9}获得7弗罗林。{vspace=5}时间损失：1。"
+    new "{size=-5}你花了一整天，在{vspace=5}码头上给到港的商船{vspace=5}卸货搬运。{vspace=5}{color=#A9A9A9}力量——失败！{/color}{vspace=5}工头对你的{vspace=5}活儿很不满意！{vspace=5}{color=#A9A9A9}获得7弗罗林。{vspace=5}损失时间：1。"
     old "{size=-5}Вы проводите день, работая в поле{vspace=5}и батрача на местных фермеров.{vspace=5}{color=#A9A9A9}Выносливость — успех!{/color}{vspace=5}Начальник доволен вашей{vspace=5}работой!{vspace=5}{color=#A9A9A9}Получено 15 флоринов.{vspace=5}Время потеряно: 1."
-    new "{size=-5}你花了一整天，在田里{vspace=5}给本地农户当帮工。{vspace=5}{color=#A9A9A9}耐力——成功！{/color}{vspace=5}东家对你的{vspace=5}活儿很满意！{vspace=5}{color=#A9A9A9}获得15弗罗林。{vspace=5}时间损失：1。"
+    new "{size=-5}你花了一整天，在田里{vspace=5}给本地农户当帮工。{vspace=5}{color=#A9A9A9}耐力——成功！{/color}{vspace=5}东家对你的{vspace=5}活儿很满意！{vspace=5}{color=#A9A9A9}获得15弗罗林。{vspace=5}损失时间：1。"
     old "{size=-5}Вы проводите день, работая в поле{vspace=5}и батрача на местных фермеров.{vspace=5}{color=#A9A9A9}Выносливость — провал!{/color}{vspace=5}Начальник не доволен вашей{vspace=5}работой!{vspace=5}{color=#A9A9A9}Получено 7 флоринов.{vspace=5}Время потеряно: 1."
-    new "{size=-5}你花了一整天，在田里{vspace=5}给本地农户当帮工。{vspace=5}{color=#A9A9A9}耐力——失败！{/color}{vspace=5}东家对你的{vspace=5}活儿很不满意！{vspace=5}{color=#A9A9A9}获得7弗罗林。{vspace=5}时间损失：1。"
+    new "{size=-5}你花了一整天，在田里{vspace=5}给本地农户当帮工。{vspace=5}{color=#A9A9A9}耐力——失败！{/color}{vspace=5}东家对你的{vspace=5}活儿很不满意！{vspace=5}{color=#A9A9A9}获得7弗罗林。{vspace=5}损失时间：1。"
     old "{cps=50}Обустроить дома кузнечную мастерскую?{color=#A9A9A9}{vspace=5}Цена: 40 флоринов.{vspace=5}Кузнечная мастерская позволит принимать заказы на изготовление доспехов и продавать их дороже рыночной цены."
     new "{cps=50}要不要在家中开设一间铁匠作坊？{color=#A9A9A9}{vspace=5}费用：40弗罗林。{vspace=5}铁匠作坊可以承接铠甲打造订单，售出的成品还能高于市价。"
     old "Обустроить мастерскую"

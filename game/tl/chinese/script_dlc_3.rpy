@@ -40,7 +40,7 @@ translate chinese money_has_no_smell_failed_intro_76b2fe88:
 translate chinese money_has_no_smell_good_intro_7fbf80f4:
 
     nvl clear
-    "{cps=50}到了约定的时辰，你与几名士兵会合，登上那辆装得满满当当的马车，驶向远处的哨所。"
+    "{cps=50}到了约定的时刻，你与几名士兵会合，登上那辆装得满满当当的马车，驶向远处的哨所。"
 
 # game/script_dlc_3.rpy:36
 translate chinese money_has_no_smell_good_intro_76b2fe88:
@@ -676,7 +676,7 @@ translate chinese money_has_no_smell_fight_76b2fe88_1:
 translate chinese money_has_no_smell_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:712
 translate chinese money_has_no_smell_fight_76b2fe88_2:
@@ -718,7 +718,7 @@ translate chinese money_has_no_smell_fight_76b2fe88_4:
 translate chinese money_has_no_smell_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:752
 translate chinese money_has_no_smell_fight_76b2fe88_5:
@@ -838,7 +838,7 @@ translate chinese money_has_no_smell_2_fight_76b2fe88_1:
 translate chinese money_has_no_smell_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:1215
 translate chinese money_has_no_smell_2_fight_76b2fe88_2:
@@ -907,7 +907,7 @@ translate chinese overthrow_fight_76b2fe88_1:
 translate chinese overthrow_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:1748
 translate chinese overthrow_fight_76b2fe88_2:
@@ -984,7 +984,7 @@ translate chinese overthrow_2_fight_76b2fe88:
 translate chinese overthrow_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:2277
 translate chinese overthrow_2_fight_76b2fe88_1:
@@ -1061,7 +1061,7 @@ translate chinese overthrow_3_fight_76b2fe88:
 translate chinese overthrow_3_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:2789
 translate chinese overthrow_3_fight_76b2fe88_1:
@@ -2626,7 +2626,7 @@ translate chinese unfinished_business_fight_76b2fe88_1:
 translate chinese unfinished_business_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:3877
 translate chinese unfinished_business_fight_76b2fe88_2:
@@ -2686,7 +2686,7 @@ translate chinese unfinished_business_2_fight_76b2fe88:
 translate chinese unfinished_business_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:4377
 translate chinese unfinished_business_2_fight_76b2fe88_1:
@@ -2849,7 +2849,7 @@ translate chinese march_on_london_fight_76b2fe88_1:
 translate chinese march_on_london_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:4929
 translate chinese march_on_london_fight_76b2fe88_2:
@@ -3171,7 +3171,7 @@ translate chinese kingdom_of_london_1_76b2fe88:
 # game/script_dlc_3.rpy:5624
 translate chinese kingdom_of_london_1_86d7ecd1:
 
-    "{cps=50}伦敦传来消息：坎特伯雷伯爵的军队已从牛津出发，兵锋直指首都，并重新占领了你为进军伦敦而放弃的温莎。{vspace=5}据斥候禀报，他的兵力约有[kingdom_of_london_canterburys_army]人。"
+    "{cps=50}伦敦传来消息：坎特伯雷伯爵的军队已从牛津出发，兵锋直指首都，并重新占领了你为进军伦敦而放弃的温莎。{vspace=5}据斥候报告，他的兵力约有[kingdom_of_london_canterburys_army]人。"
 
 # game/script_dlc_3.rpy:5625
 translate chinese kingdom_of_london_1_a3215721:
@@ -3537,7 +3537,7 @@ translate chinese kingdom_nobles_collect_tax_76b2fe88:
 # game/script_dlc_3.rpy:6065
 translate chinese kingdom_nobles_collect_tax_583a202e:
 
-    "{cps=50}你决定向贵族征收税赋……{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}人气（贵族）下降[player_kingdom_rep_nobles_change]。"
+    "{cps=50}你决定向贵族征收税赋……{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}人望（贵族）下降[player_kingdom_rep_nobles_change]。"
 
 # game/script_dlc_3.rpy:6069
 translate chinese kingdom_nobles_collect_tax_76b2fe88_1:
@@ -3554,7 +3554,7 @@ translate chinese kingdom_commoners_collect_tax_76b2fe88:
 # game/script_dlc_3.rpy:6087
 translate chinese kingdom_commoners_collect_tax_b70b89e2:
 
-    "{cps=50}你决定向平民征收税赋……{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}人气（平民）下降[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你决定向平民征收税赋……{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}人望（平民）下降[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:6091
 translate chinese kingdom_commoners_collect_tax_76b2fe88_1:
@@ -3571,7 +3571,7 @@ translate chinese kingdom_church_collect_tax_76b2fe88:
 # game/script_dlc_3.rpy:6109
 translate chinese kingdom_church_collect_tax_078e69ef:
 
-    "{cps=50}你决定对教会的领地征税……{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}人气（教会）下降[player_kingdom_rep_church_change]。"
+    "{cps=50}你决定对教会的领地征税……{vspace=5}{color=#A9A9A9}获得[player_kingdom_gold_change]弗罗林。{vspace=5}人望（教会）下降[player_kingdom_rep_church_change]。"
 
 # game/script_dlc_3.rpy:6113
 translate chinese kingdom_church_collect_tax_76b2fe88_1:
@@ -3589,7 +3589,7 @@ translate chinese kingdom_build_militia_885ce937:
 translate chinese kingdom_build_militia_3079040f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}人气（平民）——[storyroll!ti]！{vspace=5}可征召入伍的总人数：[player_kingdom_total_manpower_pool_actual]"
+    "{cps=50}{color=#A9A9A9}人望（平民）——[storyroll!ti]！{vspace=5}可征召入伍的总人数：[player_kingdom_total_manpower_pool_actual]"
 
 # game/script_dlc_3.rpy:6152
 translate chinese kingdom_build_militia_76b2fe88:
@@ -3770,7 +3770,7 @@ translate chinese kingdom_decide_prisoners_fate_76b2fe88_1:
 # game/script_dlc_3.rpy:6338
 translate chinese kingdom_decide_prisoners_fate_71088c1f:
 
-    "{cps=50}你决定处决俘虏。{vspace=5}{color=#A9A9A9}处决[kingdom_of_london_prisoners_captured_temp]名俘虏！{vspace=5}美德度降低[storyroll]！"
+    "{cps=50}你决定处决俘虏。{vspace=5}{color=#A9A9A9}处决[kingdom_of_london_prisoners_captured_temp]名俘虏！{vspace=5}美德降低[storyroll]！"
 
 # game/script_dlc_3.rpy:6342
 translate chinese kingdom_decide_prisoners_fate_76b2fe88_2:
@@ -3786,7 +3786,7 @@ translate chinese kingdom_decide_prisoners_fate_1df6ff13:
 # game/script_dlc_3.rpy:6362
 translate chinese kingdom_decide_prisoners_fate_bdb8eed5:
 
-    "{cps=50}你就俘虏的赎金展开谈判……{vspace=5}{color=#A9A9A9}耗时：1"
+    "{cps=50}你就俘虏的赎金展开谈判……{vspace=5}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_3.rpy:6370
 translate chinese kingdom_decide_prisoners_fate_538c2238:
@@ -3958,7 +3958,7 @@ translate chinese kingdom_build_stuff_end_76b2fe88:
 translate chinese kingdom_vassals_army_grows_e00f6900:
 
     nvl clear
-    "{cps=50}战场上的节节胜利与日益丰裕的财力，使你的封臣们得以扩充各自的队伍……{vspace=5}{color=#A9A9A9}人气（贵族）——[storyroll!ti]。{vspace=5}军队人数增加[attackchance]。"
+    "{cps=50}战场上的节节胜利与日益丰裕的财力，使你的封臣们得以扩充各自的队伍……{vspace=5}{color=#A9A9A9}人望（贵族）——[storyroll!ti]。{vspace=5}军队人数增加[attackchance]。"
 
 # game/script_dlc_3.rpy:6579
 translate chinese kingdom_vassals_army_grows_76b2fe88:
@@ -3970,7 +3970,7 @@ translate chinese kingdom_vassals_army_grows_76b2fe88:
 translate chinese kingdom_church_helps_the_king_97e7836b:
 
     nvl clear
-    "{cps=50}教会的拥护帮助你维系并巩固了自己在各阶层中的声望。{vspace=5}{color=#A9A9A9}人气（教会）——成功（[storyroll]）！"
+    "{cps=50}教会的拥护帮助你维系并巩固了自己在各阶层中的声望。{vspace=5}{color=#A9A9A9}人望（教会）——成功（[storyroll]）！"
 
 # game/script_dlc_3.rpy:6605
 translate chinese kingdom_church_helps_the_king_e48e7cb5:
@@ -4404,7 +4404,7 @@ translate chinese kingdom_region_lost_76b2fe88_2:
 # game/script_dlc_3.rpy:7217
 translate chinese kingdom_enemy_attacks_roll_ee83e295:
 
-    "{cps=50}斥候禀报，[attackchance!ti]所部正朝[storyroll!ti]方向移动，多半是想从你手中夺回这一地区。{vspace=5}{color=#A9A9A9}权威——成功！"
+    "{cps=50}斥候报告，[attackchance!ti]所部正朝[storyroll!ti]方向移动，多半是想从你手中夺回这一地区。{vspace=5}{color=#A9A9A9}权威——成功！"
 
 # game/script_dlc_3.rpy:7219
 translate chinese kingdom_enemy_attacks_roll_8a3c48b9:
@@ -4427,7 +4427,7 @@ translate chinese kingdom_region_lost_76b2fe88:
 # game/script_dlc_3.rpy:7234
 translate chinese kingdom_region_lost_fcd6a67d:
 
-    "{cps=50}{color=#A9A9A9}地区失守：[storyroll2!ti]！{vspace=5}人气（贵族）下降[player_kingdom_rep_nobles_change]。{vspace=5}人气（教会）下降[player_kingdom_rep_church_change]。{vspace=5}人气（平民）下降[player_kingdom_rep_commoners_change]。"
+    "{cps=50}{color=#A9A9A9}地区失守：[storyroll2!ti]！{vspace=5}人望（贵族）下降[player_kingdom_rep_nobles_change]。{vspace=5}人望（教会）下降[player_kingdom_rep_church_change]。{vspace=5}人望（平民）下降[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:7274
 translate chinese kingdom_region_lost_76b2fe88_1:
@@ -5048,7 +5048,7 @@ translate chinese kingdom_of_london_defending_city_postfight_76b2fe88:
 translate chinese kingdom_of_london_2_ef79a48b:
 
     nvl clear
-    "{cps=50}据探子禀报，坎特伯雷的军队在牛津及周边约有[kingdom_of_london_canterburys_army]人，且近期还将得到一两千预备兵力的补充。"
+    "{cps=50}据探子报告，坎特伯雷的军队在牛津及周边约有[kingdom_of_london_canterburys_army]人，且近期还将得到一两千预备兵力的补充。"
 
 # game/script_dlc_3.rpy:8836
 translate chinese kingdom_of_london_2_8a46fc92:
@@ -7901,7 +7901,7 @@ translate chinese kingdom_of_london_4_spain_fail_76b2fe88:
 # game/script_dlc_3.rpy:13245
 translate chinese kingdom_of_london_4_spain_fail_c4205217:
 
-    "{cps=50}这场失败的海外远征，给你的声誉带来了沉重打击。{vspace=5}{color=#A9A9A9}权威下降[player_kingdom_authority_change]。{vspace=5}人气（贵族）下降[player_kingdom_rep_nobles_change]。{vspace=5}人气（平民）下降[player_kingdom_rep_commoners_change]。"
+    "{cps=50}这场失败的海外远征，给你的声誉带来了沉重打击。{vspace=5}{color=#A9A9A9}权威下降[player_kingdom_authority_change]。{vspace=5}人望（贵族）下降[player_kingdom_rep_nobles_change]。{vspace=5}人望（平民）下降[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:13251
 translate chinese kingdom_of_london_4_spain_fail_76b2fe88_1:
@@ -8472,7 +8472,7 @@ translate chinese kingdom_of_london_4_africa_fail_76b2fe88:
 # game/script_dlc_3.rpy:13625
 translate chinese kingdom_of_london_4_africa_fail_c4205217:
 
-    "{cps=50}这场失败的海外远征，给你的声誉带来了沉重打击。{vspace=5}{color=#A9A9A9}权威下降[player_kingdom_authority_change]。{vspace=5}人气（贵族）下降[player_kingdom_rep_nobles_change]。{vspace=5}人气（平民）下降[player_kingdom_rep_commoners_change]。"
+    "{cps=50}这场失败的海外远征，给你的声誉带来了沉重打击。{vspace=5}{color=#A9A9A9}权威下降[player_kingdom_authority_change]。{vspace=5}人望（贵族）下降[player_kingdom_rep_nobles_change]。{vspace=5}人望（平民）下降[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:13631
 translate chinese kingdom_of_london_4_africa_fail_76b2fe88_1:
@@ -9953,7 +9953,7 @@ translate chinese kingdom_of_london_universal_fight_76b2fe88_1:
 translate chinese kingdom_of_london_universal_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:17134
 translate chinese kingdom_of_london_universal_fight_76b2fe88_2:
@@ -11302,7 +11302,7 @@ translate chinese alyssa_greenwich_militia_reaction_b40f3e78:
 translate chinese alyssa_killed_by_duncan_f13af3bd:
 
     nvl clear
-    "{cps=50}当一名气喘吁吁的信使找到你，说有要事禀报时，你立刻意识到出了大事。"
+    "{cps=50}当一名气喘吁吁的信使找到你，说有要事报告时，你立刻意识到出了大事。"
 
 # game/script_dlc_3.rpy:17802
 translate chinese alyssa_killed_by_duncan_71fa496e:
@@ -14437,7 +14437,7 @@ translate chinese eva_marauders_mission_fight_76b2fe88_3:
 translate chinese eva_marauders_mission_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:21104
 translate chinese eva_marauders_mission_fight_76b2fe88_4:
@@ -15170,7 +15170,7 @@ translate chinese road_to_rouen_fight_76b2fe88_2:
 translate chinese road_to_rouen_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:22054
 translate chinese road_to_rouen_fight_76b2fe88_3:
@@ -15963,7 +15963,7 @@ translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_76b2fe88:
 # game/script_dlc_3.rpy:23782
 translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_ba593684:
 
-    "{cps=50}你的努力毫无收获……{vspace=5}{color=#A9A9A9}运气、队中的强盗、在鲁昂及周边的人脉——失败！{vspace=5}时间 -1。"
+    "{cps=50}你的努力毫无收获……{vspace=5}{color=#A9A9A9}运气、队中的强盗、在鲁昂及周边的人脉——失败！{vspace=5}损失时间：1。"
 
 # game/script_dlc_3.rpy:23807
 translate chinese rouen_city_of_thieves_city_menu_info_buy_roll_fail_4e7ac9eb:
@@ -16120,7 +16120,7 @@ translate chinese rouen_city_of_thieves_fight_76b2fe88_1:
 translate chinese rouen_city_of_thieves_postfight_77828961:
 
     nvl clear
-    "{cps=50}剿灭匪徒之后，你把好消息禀报给卫队长与德·罗什。{vspace=5}{color=#A9A9A9}美德 +15！"
+    "{cps=50}剿灭匪徒之后，你把好消息报告给卫队长与德·罗什。{vspace=5}{color=#A9A9A9}美德 +15！"
 
 # game/script_dlc_3.rpy:24415
 translate chinese rouen_city_of_thieves_postfight_76b2fe88:
@@ -16264,7 +16264,7 @@ translate chinese rouen_castle_assault_fight_76b2fe88_1:
 translate chinese rouen_castle_assault_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:24929
 translate chinese rouen_castle_assault_fight_76b2fe88_2:
@@ -16300,7 +16300,7 @@ translate chinese jeoffroy_end_fight_76b2fe88_1:
 translate chinese jeoffroy_end_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:25504
 translate chinese jeoffroy_end_fight_76b2fe88_2:
@@ -16346,7 +16346,7 @@ translate chinese rouen_defense_fight_76b2fe88_1:
 translate chinese rouen_defense_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:26006
 translate chinese rouen_defense_fight_76b2fe88_2:
@@ -16887,7 +16887,7 @@ translate chinese notre_dame_menu_76b2fe88:
 # game/script_dlc_3.rpy:26370
 translate chinese notre_dame_menu_af96c3c6:
 
-    "{cps=50}你花了一整天虔诚祈祷……{vspace=5}{color=#A9A9A9}时间 -1"
+    "{cps=50}你花了一整天虔诚祈祷……{vspace=5}{color=#A9A9A9}损失时间：1"
 
 # game/script_dlc_3.rpy:26379
 translate chinese notre_dame_menu_a3d91ca0:
@@ -20025,7 +20025,7 @@ translate chinese french_campaign_rennes_fight_1_76b2fe88_1:
 translate chinese french_campaign_rennes_fight_1_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:30958
 translate chinese french_campaign_rennes_fight_1_76b2fe88_2:
@@ -20066,7 +20066,7 @@ translate chinese french_campaign_rennes_fight_1_76b2fe88_6:
 translate chinese french_campaign_rennes_fight_1_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:30997
 translate chinese french_campaign_rennes_fight_1_76b2fe88_7:
@@ -20102,7 +20102,7 @@ translate chinese french_campaign_rennes_fight_2_76b2fe88_1:
 translate chinese french_campaign_rennes_fight_2_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:31489
 translate chinese french_campaign_rennes_fight_2_76b2fe88_2:
@@ -20138,7 +20138,7 @@ translate chinese french_campaign_rennes_fight_3_76b2fe88_1:
 translate chinese french_campaign_rennes_fight_3_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:31961
 translate chinese french_campaign_rennes_fight_3_76b2fe88_2:
@@ -21461,7 +21461,7 @@ translate chinese paris_city_navigation_savenge_roll_76b2fe88:
 # game/script_dlc_3.rpy:33814
 translate chinese paris_city_navigation_savenge_roll_aeb2ae7e:
 
-    "{cps=50}{color=#A9A9A9}时间损失：1。"
+    "{cps=50}{color=#A9A9A9}损失时间：1。"
 
 # game/script_dlc_3.rpy:33816
 translate chinese paris_city_navigation_savenge_roll_76b2fe88_1:
@@ -21617,7 +21617,7 @@ translate chinese paris_city_saving_guards_fight_76b2fe88_1:
 translate chinese paris_city_saving_guards_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:34351
 translate chinese paris_city_saving_guards_fight_76b2fe88_2:
@@ -21944,7 +21944,7 @@ translate chinese paris_riots_end_bridge_assault_fight_76b2fe88_1:
 translate chinese paris_riots_end_bridge_assault_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:35213
 translate chinese paris_riots_end_bridge_assault_fight_76b2fe88_2:
@@ -21985,7 +21985,7 @@ translate chinese paris_riots_end_bridge_assault_fight_76b2fe88_6:
 translate chinese paris_riots_end_bridge_assault_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:35253
 translate chinese paris_riots_end_bridge_assault_fight_76b2fe88_7:
@@ -22088,7 +22088,7 @@ translate chinese paris_riots_end_city_streets_fight_76b2fe88_1:
 translate chinese paris_riots_end_city_streets_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:35812
 translate chinese paris_riots_end_city_streets_fight_76b2fe88_2:
@@ -22129,7 +22129,7 @@ translate chinese paris_riots_end_city_streets_fight_76b2fe88_6:
 translate chinese paris_riots_end_city_streets_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:35852
 translate chinese paris_riots_end_city_streets_fight_76b2fe88_7:
@@ -22471,7 +22471,7 @@ translate chinese paris_riots_end_charles_residence_fight_76b2fe88_1:
 translate chinese paris_riots_end_charles_residence_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:36425
 translate chinese paris_riots_end_charles_residence_fight_76b2fe88_2:
@@ -23462,7 +23462,7 @@ translate chinese navarre_finale_fight_1_76b2fe88_1:
 translate chinese navarre_finale_fight_1_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:37730
 translate chinese navarre_finale_fight_1_76b2fe88_2:
@@ -23503,7 +23503,7 @@ translate chinese navarre_finale_fight_1_76b2fe88_6:
 translate chinese navarre_finale_fight_1_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:37770
 translate chinese navarre_finale_fight_1_76b2fe88_7:
@@ -24271,7 +24271,7 @@ translate chinese navarre_ending_prisoner_76b2fe88_6:
 translate chinese navarre_ending_victory_37b4fe5e:
 
     nvl clear
-    "{cps=50}返回巴黎途中，你们自南向北横穿整个王国。如同当年击败鲁特佣兵后从雷恩归来时那样，你又一次亲眼见证了民众对德·罗什的爱戴。"
+    "{cps=50}返回巴黎途中，你们自南向北横穿整个王国。如同当年击败自由佣兵后从雷恩归来时那样，你又一次亲眼见证了民众对德·罗什的爱戴。"
 
 # game/script_dlc_3.rpy:39792
 translate chinese navarre_ending_victory_011f4ece:
@@ -25037,7 +25037,7 @@ translate chinese navarre_encounter_english_intro_menu_76b2fe88_7:
 # game/script_dlc_3.rpy:40234
 translate chinese navarre_encounter_english_intro_menu_1be56076:
 
-    "{cps=50}你决定独自上路。一番艰辛跋涉之后，总算抵达了目的地。{vspace=5}{color=#A9A9A9}时间损失：1！{vspace=5}疲劳值上升！"
+    "{cps=50}你决定独自上路。一番艰辛跋涉之后，总算抵达了目的地。{vspace=5}{color=#A9A9A9}损失时间：1！{vspace=5}疲劳值上升！"
 
 # game/script_dlc_3.rpy:40247
 translate chinese navarre_encounter_english_intro_menu_76b2fe88:
@@ -25146,7 +25146,7 @@ translate chinese navarre_encounter_english_fight_76b2fe88_1:
 translate chinese navarre_encounter_english_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:40689
 translate chinese navarre_encounter_english_fight_76b2fe88_2:
@@ -25250,7 +25250,7 @@ translate chinese navarre_encounter_moors_intro_menu_76b2fe88_7:
 # game/script_dlc_3.rpy:40814
 translate chinese navarre_encounter_moors_intro_menu_1be56076:
 
-    "{cps=50}你决定独自上路。一番艰辛跋涉之后，总算抵达了目的地。{vspace=5}{color=#A9A9A9}时间损失：1！{vspace=5}疲劳值上升！"
+    "{cps=50}你决定独自上路。一番艰辛跋涉之后，总算抵达了目的地。{vspace=5}{color=#A9A9A9}损失时间：1！{vspace=5}疲劳值上升！"
 
 # game/script_dlc_3.rpy:40827
 translate chinese navarre_encounter_moors_intro_menu_76b2fe88:
@@ -25375,7 +25375,7 @@ translate chinese navarre_encounter_moors_fight_76b2fe88_1:
 translate chinese navarre_encounter_moors_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:41323
 translate chinese navarre_encounter_moors_fight_76b2fe88_2:
@@ -25462,7 +25462,7 @@ translate chinese navarre_encounter_castilians_intro_menu_76b2fe88_8:
 # game/script_dlc_3.rpy:41445
 translate chinese navarre_encounter_castilians_intro_menu_1be56076:
 
-    "{cps=50}你决定独自上路。一番艰辛跋涉之后，总算抵达了目的地。{vspace=5}{color=#A9A9A9}时间损失：1！{vspace=5}疲劳值上升！"
+    "{cps=50}你决定独自上路。一番艰辛跋涉之后，总算抵达了目的地。{vspace=5}{color=#A9A9A9}损失时间：1！{vspace=5}疲劳值上升！"
 
 # game/script_dlc_3.rpy:41458
 translate chinese navarre_encounter_castilians_intro_menu_76b2fe88_1:
@@ -25604,7 +25604,7 @@ translate chinese navarre_encounter_castilians_fight_76b2fe88_1:
 translate chinese navarre_encounter_castilians_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:41924
 translate chinese navarre_encounter_castilians_fight_76b2fe88_2:
@@ -26638,7 +26638,7 @@ translate chinese navarre_wells_fight_76b2fe88_1:
 translate chinese navarre_wells_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:43385
 translate chinese navarre_wells_fight_76b2fe88_2:
@@ -26720,7 +26720,7 @@ translate chinese navarre_battle_of_15_fight_76b2fe88_1:
 translate chinese navarre_battle_of_15_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:43952
 translate chinese navarre_battle_of_15_fight_76b2fe88_2:
@@ -26761,7 +26761,7 @@ translate chinese navarre_battle_of_15_fight_76b2fe88_6:
 translate chinese navarre_battle_of_15_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:43991
 translate chinese navarre_battle_of_15_fight_76b2fe88_7:
@@ -26978,7 +26978,7 @@ translate chinese french_prison_finale_fight_1_76b2fe88_1:
 translate chinese french_prison_finale_fight_1_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:45065
 translate chinese french_prison_finale_fight_1_76b2fe88_2:
@@ -29779,7 +29779,7 @@ translate chinese bailli_talk_menu_76b2fe88_3:
 translate chinese bailli_talk_menu_70c100f4:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}时间损失：1。"
+    "{cps=50}{color=#A9A9A9}损失时间：1。"
 
 # game/script_dlc_3.rpy:47177
 translate chinese bailli_talk_menu_b1bb5eff:
@@ -29845,7 +29845,7 @@ translate chinese player_treats_bailifs_soldiers_with_alcohol_76b2fe88:
 translate chinese player_treats_bailifs_soldiers_with_alcohol_70c100f4:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}时间损失：1。"
+    "{cps=50}{color=#A9A9A9}损失时间：1。"
 
 # game/script_dlc_3.rpy:47247
 translate chinese player_treats_bailifs_soldiers_with_alcohol_771f5cb8:
@@ -29885,7 +29885,7 @@ translate chinese player_treats_bailifs_soldiers_with_alcohol_76b2fe88_2:
 translate chinese player_treats_bailifs_soldiers_with_alcohol_70c100f4_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}时间损失：1。"
+    "{cps=50}{color=#A9A9A9}损失时间：1。"
 
 # game/script_dlc_3.rpy:47279
 translate chinese player_treats_bailifs_soldiers_with_alcohol_76b2fe88_5:
@@ -30448,7 +30448,7 @@ translate chinese grace_and_glory_olivia_execution_1_fight_76b2fe88_1:
 translate chinese grace_and_glory_olivia_execution_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:48150
 translate chinese grace_and_glory_olivia_execution_1_fight_76b2fe88_2:
@@ -31598,7 +31598,7 @@ translate chinese grace_and_glory_rouen_1_fight_76b2fe88_1:
 translate chinese grace_and_glory_rouen_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:49206
 translate chinese grace_and_glory_rouen_1_fight_76b2fe88_2:
@@ -31680,7 +31680,7 @@ translate chinese grace_and_glory_rouen_3_fight_76b2fe88_1:
 translate chinese grace_and_glory_rouen_3_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:50125
 translate chinese grace_and_glory_rouen_3_fight_76b2fe88_2:
@@ -32044,7 +32044,7 @@ translate chinese grace_and_glory_paris_return_76b2fe88_1:
 translate chinese grace_and_glory_buy_information_from_tarrare_4d8c918d:
 
     nvl clear
-    "{cps=50}到了约定的时辰，你与格蕾丝、格洛丽碰面，将钱交给塔拉尔，换取关于德·罗什的情报……"
+    "{cps=50}到了约定的时刻，你与格蕾丝、格洛丽碰面，将钱交给塔拉尔，换取关于德·罗什的情报……"
 
 # game/script_dlc_3.rpy:50401
 translate chinese grace_and_glory_buy_information_from_tarrare_edbf4b3d:
@@ -32226,7 +32226,7 @@ translate chinese grace_and_glory_elusive_target_1_fight_76b2fe88_2:
 translate chinese grace_and_glory_elusive_target_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:50912
 translate chinese grace_and_glory_elusive_target_1_fight_76b2fe88_3:
@@ -32314,7 +32314,7 @@ translate chinese grace_and_glory_elusive_target_2_fight_76b2fe88_2:
 translate chinese grace_and_glory_elusive_target_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:51434
 translate chinese grace_and_glory_elusive_target_2_fight_76b2fe88_3:
@@ -32402,7 +32402,7 @@ translate chinese grace_and_glory_elusive_target_3_fight_76b2fe88_2:
 translate chinese grace_and_glory_elusive_target_3_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:51956
 translate chinese grace_and_glory_elusive_target_3_fight_76b2fe88_3:
@@ -33029,7 +33029,7 @@ translate chinese grace_and_glory_escape_1_fight_76b2fe88_2:
 translate chinese grace_and_glory_escape_1_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:52661
 translate chinese grace_and_glory_escape_1_fight_76b2fe88_3:
@@ -33089,7 +33089,7 @@ translate chinese grace_and_glory_escape_2_fight_76b2fe88_2:
 translate chinese grace_and_glory_escape_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:53158
 translate chinese grace_and_glory_escape_2_fight_76b2fe88_3:
@@ -33155,7 +33155,7 @@ translate chinese grace_and_glory_escape_3_fight_76b2fe88_2:
 translate chinese grace_and_glory_escape_3_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:53649
 translate chinese grace_and_glory_escape_3_fight_76b2fe88_3:
@@ -33640,7 +33640,7 @@ translate chinese grace_and_glory_paris_assassination_2_fight_76b2fe88_1:
 translate chinese grace_and_glory_paris_assassination_2_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:55039
 translate chinese grace_and_glory_paris_assassination_2_fight_76b2fe88_2:
@@ -33681,7 +33681,7 @@ translate chinese grace_and_glory_paris_assassination_2_fight_76b2fe88_6:
 translate chinese grace_and_glory_paris_assassination_2_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:55079
 translate chinese grace_and_glory_paris_assassination_2_fight_76b2fe88_7:
@@ -33723,7 +33723,7 @@ translate chinese grace_and_glory_paris_assassination_3_fight_76b2fe88_1:
 translate chinese grace_and_glory_paris_assassination_3_fight_894f78cb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:55569
 translate chinese grace_and_glory_paris_assassination_3_fight_76b2fe88_2:
@@ -33764,7 +33764,7 @@ translate chinese grace_and_glory_paris_assassination_3_fight_76b2fe88_6:
 translate chinese grace_and_glory_paris_assassination_3_fight_894f78cb_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}恢复了 [fatigue_to_recover] 点疲劳！"
+    "{cps=50}{color=#A9A9A9}恢复 [fatigue_to_recover] 点疲劳！"
 
 # game/script_dlc_3.rpy:55609
 translate chinese grace_and_glory_paris_assassination_3_fight_76b2fe88_7:
@@ -34642,7 +34642,7 @@ translate chinese kingdom_archbishop_bad_arc_3_good_76b2fe88:
 # game/script_dlc_3.rpy:56528
 translate chinese kingdom_archbishop_bad_arc_3_bad_3e067791:
 
-    "{cps=50}王室议会议长请求觐见，禀报：昨日他的人亲眼瞧见你的枢密顾问出入首都最奢华的妓院，与数名女子厮混了整整半日。"
+    "{cps=50}王室议会议长请求觐见，报告：昨日他的人亲眼瞧见你的枢密顾问出入首都最奢华的妓院，与数名女子厮混了整整半日。"
 
 # game/script_dlc_3.rpy:56531
 translate chinese kingdom_archbishop_bad_arc_3_bad_61c9f4ff:
@@ -34885,7 +34885,7 @@ translate chinese kingdom_merchants_need_protection_resufe_76b2fe88:
 # game/script_dlc_3.rpy:56682
 translate chinese kingdom_merchants_need_protection_resufe_95f9b64e:
 
-    "{cps=50}你打消了这个念头。{vspace=5}{color=#A9A9A9}权威降低[player_kingdom_authority_change]。{vspace=5}声望（贵族）降低[player_kingdom_rep_nobles_change]。{vspace=5}人望（平民）降低[player_kingdom_rep_commoners_change]。"
+    "{cps=50}你打消了这个念头。{vspace=5}{color=#A9A9A9}权威降低[player_kingdom_authority_change]。{vspace=5}人望（贵族）降低[player_kingdom_rep_nobles_change]。{vspace=5}人望（平民）降低[player_kingdom_rep_commoners_change]。"
 
 # game/script_dlc_3.rpy:56687
 translate chinese kingdom_merchants_need_protection_resufe_76b2fe88_1:
@@ -35061,7 +35061,7 @@ translate chinese kingdom_army_inspection_63aecad9:
 translate chinese kingdom_army_inspection_ab9946e9:
 
     nvl clear
-    "{cps=50}你应允了，下令举行检阅。{vspace=5}{color=#A9A9A9}耗时：1{vspace=5}军队凝聚力提升！{vspace=5}作战计划质量提升3！"
+    "{cps=50}你应允了，下令举行检阅。{vspace=5}{color=#A9A9A9}损失时间：1{vspace=5}军队凝聚力提升！{vspace=5}作战计划质量提升3！"
 
 # game/script_dlc_3.rpy:56798
 translate chinese kingdom_army_inspection_76a1a4ac:
@@ -36821,7 +36821,7 @@ translate chinese strings:
     old "{size=-7}Вы устраиваете пир, куда приглашаете{vspace=1}всех самых знатных людей королевства.{color=#A9A9A9}{vspace=1}Потеряно [kingdom_of_london_feast_price] флоринов!{vspace=1}Популярность (знать) увеличена на [player_kingdom_rep_nobles_change]!"
     new "{size=-7}你设宴款待{vspace=1}王国中所有最显赫的贵族。{color=#A9A9A9}{vspace=1}花费[kingdom_of_london_feast_price]弗罗林！{vspace=1}人望（贵族）提升[player_kingdom_rep_nobles_change]点！"
     old "{size=-7}Вы устраиваете пир, куда приглашаете{vspace=1}всех самых знатных людей королевства.{color=#A9A9A9}{vspace=1}Потеряно [kingdom_of_london_feast_price] флоринов!{vspace=1}Популярность (знать) увеличена на [player_kingdom_rep_nobles_change]!{vspace=1}{/color}Чрезмерное увлечение пирами, выпивкой{vspace=1}и увеселениями вредит вашей репутации...{vspace=1}{color=#A9A9A9}Популярность (церковь) уменьшена на [player_kingdom_rep_church_change]!{vspace=1}Популярность (простолюдины) уменьш.{vspace=1}на [player_kingdom_rep_commoners_change]!"
-    new "{size=-7}你设宴款待{vspace=1}王国中所有最显赫的贵族。{color=#A9A9A9}{vspace=1}花费[kingdom_of_london_feast_price]弗罗林！{vspace=1}声望（贵族）提升[player_kingdom_rep_nobles_change]点！{vspace=1}{/color}然而沉溺于宴饮享乐{vspace=1}有损你的声誉……{vspace=1}{color=#A9A9A9}声望（教会）降低[player_kingdom_rep_church_change]点！{vspace=1}人望（平民）降低{vspace=1}[player_kingdom_rep_commoners_change]点！"
+    new "{size=-7}你设宴款待{vspace=1}王国中所有最显赫的贵族。{color=#A9A9A9}{vspace=1}花费[kingdom_of_london_feast_price]弗罗林！{vspace=1}人望（贵族）提升[player_kingdom_rep_nobles_change]点！{vspace=1}{/color}然而沉溺于宴饮享乐{vspace=1}有损你的声誉……{vspace=1}{color=#A9A9A9}人望（教会）降低[player_kingdom_rep_church_change]点！{vspace=1}人望（平民）降低{vspace=1}[player_kingdom_rep_commoners_change]点！"
     old "{size=-7}Вы проводите время за охотой..."
     new "{size=-7}你以狩猎消磨时光……"
     old "{size=-7}Вы проводите время за охотой...{vspace=5}Частые отсутствия в столице мешают{vspace=5}вам следить за государственными{vspace=5}делами.{color=#A9A9A9}{vspace=5}Власть уменьшена на [player_kingdom_authority_change]!"
@@ -37537,7 +37537,7 @@ translate chinese strings:
     old "Довести цель до максимального уровня усталости"
     new "使目标疲劳至极限"
     old "Клиент хочет, чтобы всё было сделано быстро. Там будет много посторонних, которые не должны пострадать - так что всё нужно провернуть в два счёта."
-    new "委托人要速战速决。届时在场闲人甚多，不可殃及——一切须得在须臾之间了结。"
+    new "委托人要速战速决。届时在场闲人甚多，不可殃及——一切必须在极短时间内解决。"
     old "Убить цель за 5 ходов."
     new "在5回合内击杀目标。"
     old "Rouen Citadel. De Roche's chamber"
@@ -37655,7 +37655,7 @@ translate chinese strings:
     old "Простить им отсутствие"
     new "宽宥他们的缺席"
     old "Согласиться {color=#A9A9A9}Время: 1"
-    new "同意 {color=#A9A9A9}耗时：1"
+    new "同意 {color=#A9A9A9}损失时间：1"
     old "Обойдемся без ремонта"
     new "不修缮也无妨"
     old "Оставить наделы за бывшими союзниками Кентербери"
