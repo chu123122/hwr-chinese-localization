@@ -375,7 +375,7 @@ translate chinese squad_high_virtue_effect_character_leave_76b2fe88_5:
 # game/script.rpy:27679
 translate chinese squad_high_virtue_effect_80f0b08e:
 
-    "{cps=50}你过于虔诚的举止，未能获得部分部下的认同……{vspace=5}{color=#A9A9A9}低美德——失败！"
+    "{cps=50}你过于美德的举止，未能获得部分部下的认同……{vspace=5}{color=#A9A9A9}低美德——失败！"
 
 # game/script.rpy:27680
 translate chinese squad_high_virtue_effect_character_leave_76b2fe88:
@@ -773,7 +773,7 @@ translate chinese injury_application_76b2fe88_6:
 # game/script.rpy:28531
 translate chinese injury_application_937e61fa:
 
-    "{cps=50}{color=#A9A9A9}活力降低3（中毒）！"
+    "{cps=50}{color=#A9A9A9}活力降低3（毒性）！"
 
 # game/script.rpy:28533
 translate chinese injury_application_76b2fe88_7:
@@ -784,7 +784,7 @@ translate chinese injury_application_76b2fe88_7:
 # game/script.rpy:28535
 translate chinese injury_application_cbbd60ae:
 
-    "{cps=50}{color=#A9A9A9}活力降低2（中毒）！"
+    "{cps=50}{color=#A9A9A9}活力降低2（毒性）！"
 
 # game/script.rpy:28537
 translate chinese injury_application_76b2fe88_8:
@@ -795,7 +795,7 @@ translate chinese injury_application_76b2fe88_8:
 # game/script.rpy:28539
 translate chinese injury_application_ba6636e9:
 
-    "{cps=50}{color=#A9A9A9}活力降低1（中毒）！"
+    "{cps=50}{color=#A9A9A9}活力降低1（毒性）！"
 
 # game/script.rpy:28541
 translate chinese injury_application_76b2fe88_9:
@@ -2415,7 +2415,7 @@ translate chinese strings:
     old "Plain gold ring"
     new "普通金戒指"
     old "Plain gold ring without any decorations. But something about it is{vspace=5}rather unsual...{vspace=5}*Vitality: +2{vspace=5}*Prestige: +10{vspace=5}*Every use of respite will recover [plain_gold_ring_health_recovery] health"
-    new "一枚素面无饰的普通金戒指。可它身上似乎{vspace=5}总有些说不出的异样……{vspace=5}*活力：+2{vspace=5}*威望：+10{vspace=5}*每次喘息恢复[plain_gold_ring_health_recovery]点生命值"
+    new "一枚素面无饰的普通金戒指。可它身上似乎{vspace=5}总有些说不出的异样……{vspace=5}*活力：+2{vspace=5}*威望：+10{vspace=5}*每次喘息恢复[plain_gold_ring_health_recovery]点活力"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}P{/size}{/color}{/font}lain gold ring"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}普{/size}{/color}{/font}通金戒指"
     old "Carved flute"
@@ -2545,9 +2545,9 @@ translate chinese strings:
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}R{/size}{/color}{/font}une of Endurance"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}耐{/size}{/color}{/font}力符文"
     old "Rune of Vitality"
-    new "生命符文"
+    new "活力符文"
     old "Mysterious pagan rune with unclear purpose that seems to make its owner{vspace=5}a more capable warrior{vspace=5}*Recovers 1 HP every 2 turns{vspace=5}*Vitality: +3{vspace=5}*Virtue: -10"
-    new "神秘的异教符文，用途不明，却似乎能让佩戴者成为更出色的战士。{vspace=5}*每2回合恢复1点生命值{vspace=5}*活力：+3{vspace=5}*美德：-10"
+    new "神秘的异教符文，用途不明，却似乎能让佩戴者成为更出色的战士。{vspace=5}*每2回合恢复1点活力{vspace=5}*活力：+3{vspace=5}*美德：-10"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}R{/size}{/color}{/font}une of Vitality"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}生{/size}{/color}{/font}力符文"
     old "Rune of Coordination"
@@ -2655,7 +2655,7 @@ translate chinese strings:
     old "Bloodletting tools"
     new "放血工具"
     old "A set of special tools used to perform the removal of blood for{vspace=1}medical treatment.{vspace=1}*Removes all active poison effects, lowers toxicity to 0{vspace=1}*Applies a bleeding effect{vspace=1}*Can be used unlimited number of times{vspace=1}*If player already suffers from Bloodloss then using Bloodletting tools will{vspace=1}lower vitality by 1{vspace=1}*Prolongs enemy bleedings by 1 turn"
-    new "一套专门用于医疗放血的特制工具。{vspace=1}*清除所有生效的中毒效果，并将毒性降至0{vspace=1}*施加流血效果{vspace=1}*可无限次使用{vspace=1}*若玩家已处于失血状态，使用放血工具将使生命值降低1点{vspace=1}*使敌人的流血效果延长1回合"
+    new "一套专门用于医疗放血的特制工具。{vspace=1}*清除所有生效的中毒效果，并将毒性降至0{vspace=1}*施加流血效果{vspace=1}*可无限次使用{vspace=1}*若玩家已处于失血状态，使用放血工具将使活力降低1点{vspace=1}*使敌人的流血效果延长1回合"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}loodletting tools"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}放{/size}{/color}{/font}血工具"
     old "Spare crossbow string"
@@ -3015,7 +3015,7 @@ translate chinese strings:
     old "Tainted Chalice"
     new "污秽圣杯"
     old "A peculiar chalice used for occult practices.{vspace=5}*Increases duration of any poisonings inflicted on enemies by 2 turns{vspace=5}*Increases hit chance if the enemy has toxicity{vspace=5}*Virtue: -30"
-    new "一只用于神秘仪式的奇特圣杯。{vspace=5}*敌人所受的任何中毒效果延长2回合{vspace=5}*敌人处于中毒状态时，命中率提升{vspace=5}*美德：-30"
+    new "一只用于神秘仪式的奇特圣杯。{vspace=5}*敌人所受的任何中毒效果延长2回合{vspace=5}*敌人毒性不为零时，命中率提升{vspace=5}*美德：-30"
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}T{/size}{/color}{/font}ainted Chalice"
     new "{font=chn_font.otf}{color=#8B0000}{size=+30}污{/size}{/color}{/font}秽圣杯"
     old "Poisoned dart"
@@ -3677,7 +3677,7 @@ translate chinese strings:
     old "Esquire"
     new "骑士侍从"
     old "Knight Bachelor"
-    new "重装骑兵"
+    new "普通骑士"
     old "Renegade Knight"
     new "叛兵骑士"
     old "Scottish Knight"
@@ -4415,7 +4415,7 @@ translate chinese strings:
     old "{size=-5}Vitality"
     new "{size=-5}活力"
     old "{size=-7}Increases vitality by 1. Lightly exhausting.{color=#A9A9A9}{vspace=5}Vitality influences:{vspace=5}*Maximum НP{vspace=5}*Injury resistance (1 for every 3 skill{vspace=5}points)"
-    new "{size=-7}活力 +1。略有消耗。{color=#A9A9A9}{vspace=5}活力影响：{vspace=5}*最大生命值{vspace=5}*伤势抗性（每 3 点技能{vspace=5}+1）"
+    new "{size=-7}活力 +1。略有消耗。{color=#A9A9A9}{vspace=5}活力影响：{vspace=5}*最大活力{vspace=5}*伤势抗性（每 3 点技能{vspace=5}+1）"
     old "Additional skills"
     new "额外技能"
     old "{size=-5}Craftsmanship"
@@ -4579,7 +4579,7 @@ translate chinese strings:
     old "{size=-7}{color=#A9A9A9}This indicator shows how strong{vspace=5}are the mercenaries surrounding the{vspace=5}city. If they remain stronger than the{vspace=5}city's defence - they will be able to{vspace=5}capture it."
     new "{size=-7}{color=#A9A9A9}此指标显示包围城市的{vspace=5}雇佣兵实力。若他们始终{vspace=5}强于城市的防御，{vspace=5}便能攻占{vspace=5}这座城市。"
     old "Doge's popularity"
-    new "总督民望"
+    new "总督人望"
     old "{size=-9}{color=#A9A9A9}Current value:{/color} {color=#8B0000}[venice_doge_popularity]"
     new "{size=-9}{color=#A9A9A9}当前数值：{/color} {color=#8B0000}[venice_doge_popularity]"
     old "{size=-9}{color=#A9A9A9}This indicator reflects the popularity{vspace=1}of the doge and his ability to exercise{vspace=1}control over Venice.{vspace=1}If it drops to zero — the doge will be{vspace=1}overthrown."
@@ -4995,13 +4995,13 @@ translate chinese strings:
     old "{size=-5}You visit bathhouse to wash{vspace=5}away sweat and fatigue.{vspace=5}{color=#A9A9A9}You lost [bathhouse_visit_cost] florins!"
     new "{size=-5}你去澡堂洗去{vspace=5}汗水和疲惫。{vspace=5}{color=#A9A9A9}你花费了 [bathhouse_visit_cost] 弗罗林！"
     old "{size=-5}You visit brothel to relax and{vspace=5}indulge in pleasures of the flesh.{vspace=5}{color=#A9A9A9}You lost [attackchance] florins!{vspace=5}Virtue lowered by 15!{/color}{vspace=5}The visit seems to have taken a bad{vspace=5}toll on your health...{vspace=5}{color=#A9A9A9}Toxicity seriously increased!{vspace=5}Vitality lowered by 1!"
-    new "{size=-5}你去妓院寻欢，{vspace=5}沉溺于肉体的欢愉。{vspace=5}{color=#A9A9A9}你花费了 [attackchance] 弗罗林！{vspace=5}美德 -15！{/color}{vspace=5}这次寻欢似乎对你的身体{vspace=5}造成了不小损害……{vspace=5}{color=#A9A9A9}中毒大幅加深！{vspace=5}活力 -1！"
+    new "{size=-5}你去妓院寻欢，{vspace=5}沉溺于肉体的欢愉。{vspace=5}{color=#A9A9A9}你花费了 [attackchance] 弗罗林！{vspace=5}美德 -15！{/color}{vspace=5}这次寻欢似乎对你的身体{vspace=5}造成了不小损害……{vspace=5}{color=#A9A9A9}毒性大幅加深！{vspace=5}活力 -1！"
     old "{size=-5}You visit brothel to relax and{vspace=5}indulge in pleasures of the flesh.{vspace=5}{color=#A9A9A9}You lost [attackchance] florins!{vspace=5}Virtue lowered by 15!{/color}{vspace=5}The visit seems to have taken a bad{vspace=5}toll on your health...{vspace=5}{color=#A9A9A9}Toxicity seriously increased!"
-    new "{size=-5}你去妓院寻欢，{vspace=5}沉溺于肉体的欢愉。{vspace=5}{color=#A9A9A9}你花费了 [attackchance] 弗罗林！{vspace=5}美德 -15！{/color}{vspace=5}这次寻欢似乎对你的身体{vspace=5}造成了不小损害……{vspace=5}{color=#A9A9A9}中毒大幅加深！"
+    new "{size=-5}你去妓院寻欢，{vspace=5}沉溺于肉体的欢愉。{vspace=5}{color=#A9A9A9}你花费了 [attackchance] 弗罗林！{vspace=5}美德 -15！{/color}{vspace=5}这次寻欢似乎对你的身体{vspace=5}造成了不小损害……{vspace=5}{color=#A9A9A9}毒性大幅加深！"
     old "{size=-5}You visit brothel to relax and{vspace=5}indulge in pleasures of the flesh.{vspace=5}{color=#A9A9A9}You lost [attackchance] florins!{vspace=5}Virtue lowered by 15!{/color}{vspace=5}The visit seems to have taken a bad{vspace=5}toll on your health...{vspace=5}{color=#A9A9A9}Toxicity slightly increased!{vspace=5}Vitality lowered by 1!"
-    new "{size=-5}你去妓院寻欢，{vspace=5}沉溺于肉体的欢愉。{vspace=5}{color=#A9A9A9}你花费了 [attackchance] 弗罗林！{vspace=5}美德 -15！{/color}{vspace=5}这次寻欢似乎对你的身体{vspace=5}造成了不小损害……{vspace=5}{color=#A9A9A9}中毒略有加深！{vspace=5}活力 -1！"
+    new "{size=-5}你去妓院寻欢，{vspace=5}沉溺于肉体的欢愉。{vspace=5}{color=#A9A9A9}你花费了 [attackchance] 弗罗林！{vspace=5}美德 -15！{/color}{vspace=5}这次寻欢似乎对你的身体{vspace=5}造成了不小损害……{vspace=5}{color=#A9A9A9}毒性略有上升！{vspace=5}活力 -1！"
     old "{size=-5}You visit brothel to relax and{vspace=5}indulge in pleasures of the flesh.{vspace=5}{color=#A9A9A9}You lost [attackchance] florins!{vspace=5}Virtue lowered by 15!{/color}{vspace=5}The visit seems to have taken a bad{vspace=5}toll on your health...{vspace=5}{color=#A9A9A9}Toxicity slightly increased!"
-    new "{size=-5}你去妓院寻欢，{vspace=5}沉溺于肉体的欢愉。{vspace=5}{color=#A9A9A9}你花费了 [attackchance] 弗罗林！{vspace=5}美德 -15！{/color}{vspace=5}这次寻欢似乎对你的身体{vspace=5}造成了不小损害……{vspace=5}{color=#A9A9A9}中毒略有加深！"
+    new "{size=-5}你去妓院寻欢，{vspace=5}沉溺于肉体的欢愉。{vspace=5}{color=#A9A9A9}你花费了 [attackchance] 弗罗林！{vspace=5}美德 -15！{/color}{vspace=5}这次寻欢似乎对你的身体{vspace=5}造成了不小损害……{vspace=5}{color=#A9A9A9}毒性略有上升！"
     old "{size=-5}You visit brothel to relax and{vspace=5}indulge in pleasures of the flesh.{vspace=5}{color=#A9A9A9}You lost [attackchance] florins!{vspace=5}Virtue lowered by 15!"
     new "{size=-5}你去妓院寻欢，{vspace=5}沉溺于肉体的欢愉。{vspace=5}{color=#A9A9A9}你花费了 [attackchance] 弗罗林！{vspace=5}美德 -15！"
     old "{size=-5}You spend some time gambling{vspace=5}and relaxing.{vspace=10}This time luck was on your side!{vspace=5}{color=#A9A9A9}You won [moneygamble_win] florins!"
@@ -5047,7 +5047,7 @@ translate chinese strings:
     old "{size=-8}{color=#000000}A heavy head trauma with nasty aftereffects{vspace=1}loosening your grip on your own body. This{vspace=1}injury will decrease your coordination.{vspace=5}{color=#8B0000}Coordination lowered by [player_coordination_debuff]!"
     new "{size=-8}{color=#000000}头部重创，后遗症令人{vspace=1}难以掌控自身。{vspace=1}此伤势会降低你的协调。{vspace=5}{color=#8B0000}协调 -[player_coordination_debuff]！"
     old "{color=#000000}{i}Toxicity"
-    new "{color=#000000}{i}中毒"
+    new "{color=#000000}{i}毒性"
     old "{size=-8}{color=#000000}A long-term damage to your health that lowers{vspace=1}your survivability making you a way easier{vspace=1}target for the enemies.{vspace=5}{color=#000000}Injury chance increased by {color=#008000}[injury_debuff_visual_player]{/color}!{vspace=1}Incoming damage increased by [toxicity_bonus_damage_visual]."
     new "{size=-8}{color=#000000}长期损害你的健康，降低{vspace=1}生存能力，使你更容易成为{vspace=1}敌人的目标。{vspace=5}{color=#000000}伤势几率 +{color=#008000}[injury_debuff_visual_player]{/color}！{vspace=1}受到的伤害 +[toxicity_bonus_damage_visual]。"
     old "{size=-5}Broken leg"
@@ -5063,11 +5063,11 @@ translate chinese strings:
     old "{size=-5}Concussion"
     new "{size=-5}脑震荡"
     old "{size=-5}Toxicity"
-    new "{size=-5}中毒"
+    new "{size=-5}毒性"
     old "{size=-5}Bloodloss"
     new "{size=-5}失血"
     old "{size=-5}Light Toxicity"
-    new "{size=-5}轻度中毒"
+    new "{size=-5}轻度毒性"
     old "{size=-5}Light Bloodloss"
     new "{size=-5}轻度失血"
     old "{size=-5}{color=#74674b}No injuries"
@@ -5293,7 +5293,7 @@ translate chinese strings:
     old "{size=-5}Inventory space: [player_inventory_space]"
     new "{size=-5}背包空间：[player_inventory_space]"
     old "{size=-7}{color=#A9A9A9}Высокое благочестие позволит получать{vspace=5}благословления и легче находить общий{vspace=5}язык с законопослушными и{vspace=5}религиозными персонажами.{/size}"
-    new "{size=-7}{color=#A9A9A9}美德高尚可获得{vspace=5}祝福，也更容易与{vspace=5}守法和虔诚的人{vspace=5}相处。{/size}"
+    new "{size=-7}{color=#A9A9A9}美德高尚可获得{vspace=5}祝福，也更容易与{vspace=5}守法和美德的人{vspace=5}相处。{/size}"
     old "{size=-7}{color=#A9A9A9}Низкое благочестие откроет доступ к{vspace=1}различным дополнительным активностям{vspace=1}(таким как грабежи и кражи), а также{vspace=1}поможет легче находить общий язык с{vspace=1}разбойниками и бандитами.{vspace=1}При благочестии равном 0 и ниже{vspace=1}длительность накладываемых{vspace=1}кровотечений будет продлена на [low_virtue_bleed_bonus] ход,{vspace=1}а тяжесть наносимых травм будет{vspace=1}увеличена на [low_virtue_injury_bonus].{/size}"
     new "{size=-7}{color=#A9A9A9}美德低下将解锁{vspace=1}各种额外活动{vspace=1}（如抢劫和偷窃），也{vspace=1}更容易与强盗和{vspace=1}匪徒打成一片。{vspace=1}当美德为0或更低时，{vspace=1}你施加的流血{vspace=1}持续时间延长[low_virtue_bleed_bonus]回合，{vspace=1}造成的伤势严重程度{vspace=1}增加[low_virtue_injury_bonus]。{/size}"
     old "{size=-5}{color=#A9A9A9}Income: [player_salary] Florins."
@@ -5343,7 +5343,7 @@ translate chinese strings:
     old "{size=-5}Esquire"
     new "{size=-5}骑士侍从"
     old "{size=-5}Knight bachelor"
-    new "{size=-5}重装骑兵"
+    new "{size=-5}普通骑士"
     old "{size=-5}Knight banneret"
     new "{size=-5}旗队骑士"
     old "{size=-5}Bannerlord"
@@ -5549,7 +5549,7 @@ translate chinese strings:
     old "Concussion"
     new "脑震荡"
     old "Toxicity"
-    new "中毒"
+    new "毒性"
     old "Arm injury"
     new "手臂伤势"
     old "Eye injury"
@@ -5595,7 +5595,7 @@ translate chinese strings:
     old "{size=-5}Your coordination has increased!"
     new "{size=-5}你的协调提升了！"
     old "{size=-5}Your vitality has increased!"
-    new "{size=-5}你的生命力提升了！"
+    new "{size=-5}你的活力提升了！"
     old "{size=-5}Skill increased!"
     new "{size=-5}技能提升了！"
     old "{size=-5}Your proficiency with melee{vspace=5}weapons has increased!"

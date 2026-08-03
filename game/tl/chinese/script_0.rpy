@@ -2076,7 +2076,7 @@ translate chinese fight3_4_story_6f473618:
 translate chinese fight3_4_story_a098bb92:
 
     nvl clear
-    "{cps=50}若再滞留康布雷城下超过一周，无异于一场灾难——法国人一旦出现在地平线上，整支英格兰军队便将陷入最凶险的境地，被夹在铁砧与铁锤之间：一侧是敌城不可逾越的高墙，另一侧是全副武装的重装骑兵，其雷霆一击足以踏平大陆上的任何军队。"
+    "{cps=50}若再滞留康布雷城下超过一周，无异于一场灾难——法国人一旦出现在地平线上，整支英格兰军队便将陷入最凶险的境地，被夹在铁砧与铁锤之间：一侧是敌城不可逾越的高墙，另一侧是全副武装的普通骑士，其雷霆一击足以踏平大陆上的任何军队。"
 
 # game/script_0.rpy:4993
 translate chinese fight3_4_story_66ec2cc7:
@@ -8169,7 +8169,7 @@ translate chinese embark_on_new_adventure_76b2fe88_2:
 translate chinese olivia_marriage_fail_d9d730a6:
 
     nvl clear
-    "{cps=50}然而随着时间推移，你与奥利维亚的关系渐渐冷淡下来。缘由在于公爵夫人那些十分古怪的爱好——身为一名虔诚的正派基督徒，你实在无法接受。{vspace=5}{color=#A9A9A9}低美德——失败！"
+    "{cps=50}然而随着时间推移，你与奥利维亚的关系渐渐冷淡下来。缘由在于公爵夫人那些十分古怪的爱好——身为一名美德的正派基督徒，你实在无法接受。{vspace=5}{color=#A9A9A9}低美德——失败！"
 
 # game/script_0.rpy:18872
 translate chinese olivia_marriage_fail_24f694d1:
@@ -9853,7 +9853,7 @@ translate chinese story_england_1_76b2fe88:
 # game/script_0.rpy:20199
 translate chinese story_england_1_aed2aae2:
 
-    "{cps=50}你为王子立下的功劳有目共睹，你被册封为骑士。{vspace=5}{color=#A9A9A9}你获得了头衔——重装骑兵。{vspace=5}获得骑士头衔后，你可以组建并统率自己的队伍。军士会协助你招募人手。"
+    "{cps=50}你为王子立下的功劳有目共睹，你被册封为骑士。{vspace=5}{color=#A9A9A9}你获得了头衔——普通骑士。{vspace=5}获得骑士头衔后，你可以组建并统率自己的队伍。军士会协助你招募人手。"
 
 # game/script_0.rpy:20204
 translate chinese story_england_1_e2b08efc:

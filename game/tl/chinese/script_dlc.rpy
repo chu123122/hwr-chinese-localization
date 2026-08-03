@@ -16535,12 +16535,12 @@ translate chinese el_mansur_thirst_menu_76b2fe88_3:
 # game/script_dlc.rpy:23908
 translate chinese el_mansur_thirst_menu_74f1d481:
 
-    "{cps=50}你强忍着干渴，继续前进。{vspace=5}{color=#A9A9A9}生命值降低25！{vspace=5}生命力降低1！{vspace=5}全队成员生命值降低25！{vspace=5}全队成员生命力降低1！"
+    "{cps=50}你强忍着干渴，继续前进。{vspace=5}{color=#A9A9A9}活力降低25！{vspace=5}活力降低1！{vspace=5}全队成员活力降低25！{vspace=5}全队成员活力降低1！"
 
 # game/script_dlc.rpy:23912
 translate chinese el_mansur_thirst_menu_e7594f4f:
 
-    "{cps=50}你强忍着干渴，继续前进。{vspace=5}{color=#A9A9A9}生命值降低25！{vspace=5}生命力降低1！"
+    "{cps=50}你强忍着干渴，继续前进。{vspace=5}{color=#A9A9A9}活力降低25！{vspace=5}活力降低1！"
 
 # game/script_dlc.rpy:23915
 translate chinese el_mansur_thirst_menu_76b2fe88_4:
@@ -16700,12 +16700,12 @@ translate chinese el_mansur_open_sky_76b2fe88:
 # game/script_dlc.rpy:24511
 translate chinese el_mansur_open_sky_d626ab70:
 
-    "{cps=50}{color=#A9A9A9}生命值降低25！{vspace=5}生命力降低1！{vspace=5}全队成员生命值降低25！{vspace=5}全队成员生命力降低1！"
+    "{cps=50}{color=#A9A9A9}活力降低25！{vspace=5}活力降低1！{vspace=5}全队成员活力降低25！{vspace=5}全队成员活力降低1！"
 
 # game/script_dlc.rpy:24515
 translate chinese el_mansur_open_sky_f61a65fe:
 
-    "{cps=50}{color=#A9A9A9}生命值降低25！{vspace=5}生命力降低1！"
+    "{cps=50}{color=#A9A9A9}活力降低25！{vspace=5}活力降低1！"
 
 # game/script_dlc.rpy:24519
 translate chinese el_mansur_open_sky_76b2fe88_1:
@@ -16842,7 +16842,7 @@ translate chinese el_mansur_cave_76b2fe88_6:
 # game/script_dlc.rpy:24643
 translate chinese el_mansur_cave_e279254f:
 
-    "{cps=50}{color=#A9A9A9}生命值降低40！{vspace=5}生命力降低2！"
+    "{cps=50}{color=#A9A9A9}活力降低40！{vspace=5}活力降低2！"
 
 # game/script_dlc.rpy:24647
 translate chinese el_mansur_cave_76b2fe88_8:
@@ -46060,7 +46060,7 @@ translate chinese promotion_canterburys_army_76b2fe88_1:
 # game/script_dlc.rpy:50631
 translate chinese promotion_prince_fb54ee15:
 
-    "{cps=50}你在王子麾下的功绩未被忽视，你获得了晋升。{vspace=5}{color=#A9A9A9}你被授予称号——重装骑兵。"
+    "{cps=50}你在王子麾下的功绩未被忽视，你获得了晋升。{vspace=5}{color=#A9A9A9}你被授予称号——普通骑士。"
 
 # game/script_dlc.rpy:50635
 translate chinese promotion_prince_d7881ebc:
@@ -46197,7 +46197,7 @@ translate chinese tutorial2_76b2fe88_8:
 # game/script_dlc.rpy:50790
 translate chinese tutorial2_bd2e8178:
 
-    "佯攻是一种虚晃招式，旨在引开对手注意、扰乱其心神。战斗中可用佯攻削弱对手——成功施展后，会削减敌人的体力，并施加\"致盲\"效果。\"致盲\"持续一回合，降低其攻击命中率。"
+    "佯攻是一种虚晃招式，旨在引开对手注意、扰乱其心神。战斗中可用佯攻削弱对手——成功施展后，会削减敌人的体力，并施加“”效果。“”持续一回合，降低其攻击命中率。"
 
 # game/script_dlc.rpy:50796
 translate chinese tutorial2_76b2fe88_9:
@@ -46331,7 +46331,7 @@ translate chinese tutorial_shield_76b2fe88_1:
 # game/script_dlc.rpy:50902
 translate chinese tutorial_shield_132a471e:
 
-    "成功的盾击可对对手施加\"眩晕\"效果，迫使其跳过下一回合。{vspace=5}命中眩晕目标的机会大增；此外，被眩晕者无法举盾格挡。"
+    "成功的盾击可对对手施加“”效果，迫使其跳过下一回合。{vspace=5}命中眩晕目标的机会大增；此外，被眩晕者无法举盾格挡。"
 
 # game/script_dlc.rpy:50903
 translate chinese tutorial_shield_76b2fe88_2:
@@ -46407,7 +46407,7 @@ translate chinese tutorial_fatigue_mini_3739a20f:
 translate chinese tutorial_fatigue_mini_2c6dafdd:
 
     nvl clear
-    "第一级疲劳（\"神清气爽\"）对角色行动毫无影响；但此后每升一级，惩罚便愈发沉重，所有攻防行动的效率都会下降。"
+    "第一级疲劳（“”）对角色行动毫无影响；但此后每升一级，惩罚便愈发沉重，所有攻防行动的效率都会下降。"
 
 # game/script_dlc.rpy:51026
 translate chinese tutorial_fatigue_mini_68d2bf7f:
@@ -47531,7 +47531,7 @@ translate chinese hunt_1_crusader_menu_76b2fe88_10:
 # game/script_dlc.rpy:51831
 translate chinese hunt_1_crusader_dd43c053:
 
-    "{cps=50}你的仪表与谈吐给骑士留下了极好的印象。{vspace=5}{color=#A9A9A9}虔诚、威望——完全成功！"
+    "{cps=50}你的仪表与谈吐给骑士留下了极好的印象。{vspace=5}{color=#A9A9A9}美德、威望——完全成功！"
 
 # game/script_dlc.rpy:51832
 translate chinese hunt_1_crusader_f1444f66:
@@ -47626,7 +47626,7 @@ translate chinese hunt_1_crusader_menu_76b2fe88_7:
 translate chinese hunt_1_crusader_menu_e98ab5b1:
 
     nvl clear
-    "{cps=50}满足了自己的好奇，又认定你是个虔诚之人，他向你道了谢，随即请你收下一份小小的礼物。{vspace=5}{color=#A9A9A9}虔诚——成功！"
+    "{cps=50}满足了自己的好奇，又认定你是个美德之人，他向你道了谢，随即请你收下一份小小的礼物。{vspace=5}{color=#A9A9A9}美德——成功！"
 
 # game/script_dlc.rpy:51905
 translate chinese hunt_1_crusader_menu_76b2fe88_8:
@@ -47638,7 +47638,7 @@ translate chinese hunt_1_crusader_menu_76b2fe88_8:
 translate chinese hunt_1_crusader_menu_ea6e3524:
 
     nvl clear
-    "{cps=50}满足了自己的好奇之后，他向你道谢，随即径自上路，留你独自一人。{vspace=5}{color=#A9A9A9}虔诚——失败！"
+    "{cps=50}满足了自己的好奇之后，他向你道谢，随即径自上路，留你独自一人。{vspace=5}{color=#A9A9A9}美德——失败！"
 
 # game/script_dlc.rpy:51912
 translate chinese hunt_1_crusader_menu_76b2fe88_9:
@@ -47728,13 +47728,13 @@ translate chinese hunt_1_alchemist_menu_76b2fe88:
 translate chinese hunt_1_alchemist_menu_538cff67:
 
     nvl clear
-    "{cps=50}货郎喜滋滋地接过你递来的钱币，把货品交到你手上，随即狡黠一笑，转身溜走似地溜了。{vspace=5}{color=#A9A9A9}损失 40 弗罗林。"
+    "{cps=50}货郎喜滋滋地接过你递来的钱币，把货品交到你手上，随即狡黠一笑，转身便溜了。{vspace=5}{color=#A9A9A9}损失 40 弗罗林。"
 
 # game/script_dlc.rpy:51953
 translate chinese hunt_1_alchemist_menu_836250da:
 
     nvl clear
-    "{cps=50}待你凑近细看，这瓶神乎其神的\"龙之血\"……竟不过是几口馊了的艾尔。你本想追上去把钱讨回来——兴许还能请他尝尝\"龙之血\"的滋味——可那人早已跑得无影无踪。"
+    "{cps=50}待你凑近细看，这瓶神乎其神的“”……竟不过是几口馊了的艾尔。你本想追上去把钱讨回来——兴许还能请他尝尝“”的滋味——可那人早已跑得无影无踪。"
 
 # game/script_dlc.rpy:51955
 translate chinese hunt_1_alchemist_menu_76b2fe88_1:
@@ -47758,13 +47758,13 @@ translate chinese hunt_1_alchemist_menu_76b2fe88_2:
 translate chinese hunt_1_alchemist_menu_538cff67_1:
 
     nvl clear
-    "{cps=50}货郎喜滋滋地接过你递来的钱币，把货品交到你手上，随即狡黠一笑，脚底抹油似地溜了。{vspace=5}{color=#A9A9A9}损失 40 弗罗林。"
+    "{cps=50}货郎喜滋滋地接过你递来的钱币，把货品交到你手上，随即狡黠一笑，转身便溜了。{vspace=5}{color=#A9A9A9}损失 40 弗罗林。"
 
 # game/script_dlc.rpy:51969
 translate chinese hunt_1_alchemist_menu_7a3b1305:
 
     nvl clear
-    "{cps=50}待你凑近细看，这瓶神乎其神的\"凤凰之泪\"……竟不过是寻常的解毒剂，随便哪个军医的药箱里都翻得出一瓶。你本想追上去把钱讨回来——兴许还能让他也\"包治百恙\"一回——可那人早已跑得无影无踪。"
+    "{cps=50}待你凑近细看，这瓶神乎其神的“”……竟不过是寻常的解毒剂，随便哪个军医的药箱里都翻得出一瓶。你本想追上去把钱讨回来——兴许还能让他也“”一回——可那人早已跑得无影无踪。"
 
 # game/script_dlc.rpy:51971
 translate chinese hunt_1_alchemist_menu_76b2fe88_3:
@@ -47818,7 +47818,7 @@ translate chinese hunt_1_alchemist_menu_c1203df2:
 translate chinese hunt_1_alchemist_menu_12662122:
 
     nvl clear
-    "{cps=50}待你凑近细看，这瓶神乎其神的\"幸运精华\"……竟不过是寻常的醋！你本想追上去把钱讨回来，可那人早已跑得无影无踪。"
+    "{cps=50}待你凑近细看，这瓶神乎其神的“”……竟不过是寻常的醋！你本想追上去把钱讨回来，可那人早已跑得无影无踪。"
 
 # game/script_dlc.rpy:52001
 translate chinese hunt_1_alchemist_menu_76b2fe88_7:
@@ -47848,7 +47848,7 @@ translate chinese hunt_1_alchemist_menu_c1203df2_1:
 translate chinese hunt_1_alchemist_menu_90ed1140:
 
     nvl clear
-    "{cps=50}待你凑近细看，这瓶神乎其神的\"永生药水\"……竟不过是寻常的水。你本想追上去把钱讨回来——兴许还能在他身上验验永生究竟有多\"永恒\"——可那人早已跑得无影无踪。"
+    "{cps=50}待你凑近细看，这瓶神乎其神的“”……竟不过是寻常的水。你本想追上去把钱讨回来——兴许还能在他身上验验永生究竟有多“”——可那人早已跑得无影无踪。"
 
 # game/script_dlc.rpy:52015
 translate chinese hunt_1_alchemist_menu_76b2fe88_9:
@@ -48774,7 +48774,7 @@ translate chinese hunt_2_bandits_32ae4943:
 translate chinese hunt_2_bandits_2a7fa58a:
 
     nvl clear
-    "{cps=50}他们把你当成了同道中人，便放你通行。{vspace=5}{color=#A9A9A9}低虔诚——成功！"
+    "{cps=50}他们把你当成了同道中人，便放你通行。{vspace=5}{color=#A9A9A9}低美德——成功！"
 
 # game/script_dlc.rpy:52618
 translate chinese hunt_2_bandits_76b2fe88_2:
@@ -48815,7 +48815,7 @@ translate chinese hunt_2_bandits_76b2fe88_9:
 # game/script_dlc.rpy:52636
 translate chinese hunt_2_bandits_8e0fb66b:
 
-    "{cps=50}他们索取\"过路费\"——走\"他们的路\"须得付钱，只要给钱，便不为难你。"
+    "{cps=50}他们索取“”——走“”须得付钱，只要给钱，便不为难你。"
 
 # game/script_dlc.rpy:52637
 translate chinese hunt_2_bandits_76b2fe88_4:
@@ -48874,7 +48874,7 @@ translate chinese hunt_2_bandits_76b2fe88_6:
 translate chinese hunt_2_bandits_2c11aa8f:
 
     nvl clear
-    "{cps=50}他们索取\"过路费\"——走\"他们的路\"须得付钱，只要给钱，便不为难你。"
+    "{cps=50}他们索取“”——走“”须得付钱，只要给钱，便不为难你。"
 
 # game/script_dlc.rpy:52664
 translate chinese hunt_2_bandits_c618c8ff:
@@ -49903,7 +49903,7 @@ translate chinese hunt_2_monks_cb1ca2bb_2:
 translate chinese hunt_2_monks_1340b6e3:
 
     nvl clear
-    "{cps=50}僧侣们戒备地瞥着你，宁愿与你保持距离，随即匆匆离去了。{vspace=5}{color=#A9A9A9}虔诚——失败（[storyroll]）！"
+    "{cps=50}僧侣们戒备地瞥着你，宁愿与你保持距离，随即匆匆离去了。{vspace=5}{color=#A9A9A9}美德——失败（[storyroll]）！"
 
 # game/script_dlc.rpy:53207
 translate chinese hunt_2_monks_76b2fe88_3:
@@ -50850,7 +50850,7 @@ translate chinese soldiers_jealous_b23ed6af:
 translate chinese soldiers_jealous_ea25f842:
 
     nvl clear
-    "{cps=50}传言你攒了不少贵重战利品，这显然让他们心里直痒痒——终于有一天，他们几个结伴堵住你，要跟你\"谈谈\"。"
+    "{cps=50}传言你攒了不少贵重战利品，这显然让他们心里直痒痒——终于有一天，他们几个结伴堵住你，要跟你“”。"
 
 # game/script_dlc.rpy:65920
 translate chinese soldiers_jealous_b4f9125f:
@@ -51283,7 +51283,7 @@ translate chinese heist_6ca399e7:
 translate chinese heist_cf62619c:
 
     nvl clear
-    "{cps=50}如今侯爵和骑士们都不在这片地界了，再没人拦得住你登门拜访，好好\"请\"他把从侯爵那里赚来的脏钱分你一份。"
+    "{cps=50}如今侯爵和骑士们都不在这片地界了，再没人拦得住你登门拜访，好好“”他把从侯爵那里赚来的脏钱分你一份。"
 
 # game/script_dlc.rpy:66285
 translate chinese heist_76b2fe88_9:
@@ -51330,7 +51330,7 @@ translate chinese heist_76b2fe88_10:
 # game/script_dlc.rpy:66321
 translate chinese heist_7eff6ab5:
 
-    "{cps=50}{color=#A9A9A9}教学——抢劫。{vspace=15}虔诚值低的角色将解锁一种新的活动——抢劫。"
+    "{cps=50}{color=#A9A9A9}教学——抢劫。{vspace=15}美德值低的角色将解锁一种新的活动——抢劫。"
 
 # game/script_dlc.rpy:66322
 translate chinese heist_f1b3ad61:
@@ -51843,7 +51843,7 @@ translate chinese player_broke_pact_with_rouen_bandits_menu_8a63aa72:
 translate chinese player_broke_pact_with_rouen_bandits_menu_d9b532d3:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}手下人带回的收获多寡，取决于你的恶名。{vspace=5}恶名随你的威望、低虔诚值以及队伍中强盗的数量而增长。"
+    "{cps=50}{color=#A9A9A9}手下人带回的收获多寡，取决于你的恶名。{vspace=5}恶名随你的威望、低美德值以及队伍中强盗的数量而增长。"
 
 # game/script_dlc.rpy:68031
 translate chinese player_broke_pact_with_rouen_bandits_menu_76b2fe88_7:

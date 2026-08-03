@@ -286,7 +286,7 @@ translate chinese dunkirk_chest_loss_end_dc7bf3e5:
 translate chinese dunkirk_chest_loss_end_d488589d:
 
     nvl clear
-    "{cps=50}航行途中，严重的晕船把你折腾得死去活来。{vspace=5}{color=#A9A9A9}协调——失败！{vspace=5}中毒值上升！"
+    "{cps=50}航行途中，严重的晕船把你折腾得死去活来。{vspace=5}{color=#A9A9A9}协调——失败！{vspace=5}毒性上升！"
 
 # game/script_dlc_2.rpy:369
 translate chinese dunkirk_chest_loss_end_1020effe:
@@ -612,7 +612,7 @@ translate chinese story_maidstone_1_d67662a9:
 translate chinese story_maidstone_1_ce32728c:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚、威望——[debt.timed_out!ti]结果！{vspace=5}你借得[player_borrowed_sum]弗罗林，利息为[lender_interest]%%！{vspace=5}应还总额：[player_debt]弗罗林。{vspace=5}逾期每周罚款：[weekly_sum_increase]弗罗林。"
+    "{cps=50}{color=#A9A9A9}美德、威望——[debt.timed_out!ti]结果！{vspace=5}你借得[player_borrowed_sum]弗罗林，利息为[lender_interest]%%！{vspace=5}应还总额：[player_debt]弗罗林。{vspace=5}逾期每周罚款：[weekly_sum_increase]弗罗林。"
 
 # game/script_dlc_2.rpy:693
 translate chinese story_maidstone_1_6b77c42b:
@@ -741,7 +741,7 @@ translate chinese maidstone_debt_interaction_202a8b6f:
 translate chinese maidstone_debt_interaction_ce32728c:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚、威望——[debt.timed_out!ti]结果！{vspace=5}你借得[player_borrowed_sum]弗罗林，利息为[lender_interest]%%！{vspace=5}应还总额：[player_debt]弗罗林。{vspace=5}逾期每周罚款：[weekly_sum_increase]弗罗林。"
+    "{cps=50}{color=#A9A9A9}美德、威望——[debt.timed_out!ti]结果！{vspace=5}你借得[player_borrowed_sum]弗罗林，利息为[lender_interest]%%！{vspace=5}应还总额：[player_debt]弗罗林。{vspace=5}逾期每周罚款：[weekly_sum_increase]弗罗林。"
 
 # game/script_dlc_2.rpy:918
 translate chinese maidstone_debt_interaction_8cdd9b4a:
@@ -1280,7 +1280,7 @@ translate chinese maidstone_low_virtue_confiscation_f9d8f2e9:
 translate chinese maidstone_low_virtue_confiscation_5c097af3:
 
     nvl clear
-    "{cps=50}据他说，鉴于王国这一带局势动荡，梅德斯通的市政当局对每一个进城的人都严加审视，以便及早甄别出可能扰乱城中安宁的\"麻烦人物\"与\"不受欢迎者\"。"
+    "{cps=50}据他说，鉴于王国这一带局势动荡，梅德斯通的市政当局对每一个进城的人都严加审视，以便及早甄别出可能扰乱城中安宁的“”与“”。"
 
 # game/script_dlc_2.rpy:1869
 translate chinese maidstone_low_virtue_confiscation_52c41507:
@@ -1298,7 +1298,7 @@ translate chinese maidstone_low_virtue_confiscation_3ecc78dd:
 translate chinese maidstone_low_virtue_confiscation_3de52687:
 
     nvl clear
-    "{cps=50}面对你的抗议和\"专横\"的指责，守卫队长提醒你：像你这样的无根乡下人，最好对官家客气些……否则他倒乐意让你见识见识什么叫真正的专横——到那时，你丢掉的就不只是武器和盔甲，还有房子、全部家当，甚至项上人头。"
+    "{cps=50}面对你的抗议和“”的指责，守卫队长提醒你：像你这样的无根乡下人，最好对官家客气些……否则他倒乐意让你见识见识什么叫真正的专横——到那时，你丢掉的就不只是武器和盔甲，还有房子、全部家当，甚至项上人头。"
 
 # game/script_dlc_2.rpy:1875
 translate chinese maidstone_low_virtue_confiscation_76b2fe88_1:
@@ -2957,7 +2957,7 @@ translate chinese maidstone_city_quest_roadhouse_invitation_aa62b2c9:
 translate chinese maidstone_city_quest_roadhouse_invitation_db3e857a:
 
     nvl clear
-    "{cps=50}在\"路边之家\"——这是当地人对这家酒馆的称呼——流血斗殴与凶狠群殴几乎是每日例行的家常便饭。"
+    "{cps=50}在“”——这是当地人对这家酒馆的称呼——流血斗殴与凶狠群殴几乎是每日例行的家常便饭。"
 
 # game/script_dlc_2.rpy:4489
 translate chinese maidstone_city_quest_roadhouse_invitation_c23a912f:
@@ -3413,7 +3413,7 @@ translate chinese maidstone_city_quest_roadhouse_2_9733985e:
 translate chinese maidstone_city_quest_roadhouse_2_b35fcfa0:
 
     nvl clear
-    "{cps=50}骑士抛下一句——{i}\"所有欠我钱的人，我都宽恕了\"{/i}——便试图连你也推开。见你不肯放他走，他伸手握住了剑柄。"
+    "{cps=50}骑士抛下一句——{i}“”{/i}——便试图连你也推开。见你不肯放他走，他伸手握住了剑柄。"
 
 # game/script_dlc_2.rpy:5330
 translate chinese maidstone_city_quest_roadhouse_2_76b2fe88_1:
@@ -3521,7 +3521,7 @@ translate chinese maidstone_city_quest_roadhouse_postfight3_70f85669:
 translate chinese maidstone_city_quest_roadhouse_postfight3_a7a5ec5d:
 
     nvl clear
-    "{cps=50}好在老板并不怎么沮丧——据他说，\"路边之家\"出这种事早已不是头一遭。收拾残局约莫要一两个星期，之后酒馆便会重新开门迎客。"
+    "{cps=50}好在老板并不怎么沮丧——据他说，“”出这种事早已不是头一遭。收拾残局约莫要一两个星期，之后酒馆便会重新开门迎客。"
 
 # game/script_dlc_2.rpy:6236
 translate chinese maidstone_city_quest_roadhouse_postfight3_8623d593:
@@ -3624,7 +3624,7 @@ translate chinese player_drafted_into_canterburys_army_f896a1e0:
 translate chinese player_drafted_into_canterburys_army_b91e9b1a:
 
     nvl clear
-    "{cps=50}对你和你这些新结识的同伴这样的平头百姓而言，王子的野心同样不是好兆头。与法兰西的战事延续，意味着旧税加码、新税开征；而最要命的还是——极有可能被拉去充作民兵，再一次被送到某座\"康布雷\"的城墙之下。"
+    "{cps=50}对你和你这些新结识的同伴这样的平头百姓而言，王子的野心同样不是好兆头。与法兰西的战事延续，意味着旧税加码、新税开征；而最要命的还是——极有可能被拉去充作民兵，再一次被送到某座“”的城墙之下。"
 
 # game/script_dlc_2.rpy:6302
 translate chinese player_drafted_into_canterburys_army_bbd90f25:
@@ -4530,7 +4530,7 @@ translate chinese oxford_camp_visit_to_bristol_intro_101d1eb7:
 translate chinese oxford_camp_visit_to_bristol_intro_10a1ebc0:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}活力降低4点！{vspace=5}中毒值上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
+    "{cps=50}{color=#A9A9A9}活力降低4点！{vspace=5}毒性上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
 
 # game/script_dlc_2.rpy:8388
 translate chinese oxford_camp_visit_to_bristol_intro_76b2fe88_4:
@@ -4572,7 +4572,7 @@ translate chinese oxford_camp_visit_to_bristol_intro_2cc9e7b0:
 translate chinese oxford_camp_visit_to_bristol_intro_10a1ebc0_1:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}活力降低4点！{vspace=5}中毒值上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
+    "{cps=50}{color=#A9A9A9}活力降低4点！{vspace=5}毒性上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
 
 # game/script_dlc_2.rpy:8416
 translate chinese oxford_camp_visit_to_bristol_intro_0e070d4e:
@@ -4722,7 +4722,7 @@ translate chinese oxford_camp_visit_to_bristol_roger_finds_out_101d1eb7:
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_10a1ebc0:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}活力降低4点！{vspace=5}中毒值上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
+    "{cps=50}{color=#A9A9A9}活力降低4点！{vspace=5}毒性上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
 
 # game/script_dlc_2.rpy:8764
 translate chinese oxford_camp_visit_to_bristol_roger_finds_out_76b2fe88_2:
@@ -4786,7 +4786,7 @@ translate chinese oxford_city_amateur_assassin_invitation_d16fe4c3:
 translate chinese oxford_city_amateur_assassin_invitation_381cc09a:
 
     nvl clear
-    "{cps=50}你暗自冷笑——一个身在行伍的士兵，怎么会\"什么也不用怕\"？你径直问那陌生人：你到底想让我做什么？"
+    "{cps=50}你暗自冷笑——一个身在行伍的士兵，怎么会“”？你径直问那陌生人：你到底想让我做什么？"
 
 # game/script_dlc_2.rpy:8835
 translate chinese oxford_city_amateur_assassin_invitation_fad9981d:
@@ -4972,13 +4972,13 @@ translate chinese oxford_city_amateur_assassin_postfight_edafb6bd:
 translate chinese oxford_city_amateur_assassin_postfight_ca6f93db:
 
     nvl clear
-    "{cps=50}你显得更为可信，被判无罪；你的对手则被认定有罪，即刻处决。{color=#A9A9A9}{vspace=5}军衔、威望、虔诚、运气——成功！"
+    "{cps=50}你显得更为可信，被判无罪；你的对手则被认定有罪，即刻处决。{color=#A9A9A9}{vspace=5}军衔、威望、美德、运气——成功！"
 
 # game/script_dlc_2.rpy:9254
 translate chinese oxford_city_amateur_assassin_postfight_6c9e155d:
 
     nvl clear
-    "{cps=50}你们二人谁都不怎么可信。{color=#A9A9A9}{vspace=5}军衔、威望、虔诚、运气——失败！"
+    "{cps=50}你们二人谁都不怎么可信。{color=#A9A9A9}{vspace=5}军衔、威望、美德、运气——失败！"
 
 # game/script_dlc_2.rpy:9256
 translate chinese oxford_city_amateur_assassin_postfight_9379ad69:
@@ -4990,7 +4990,7 @@ translate chinese oxford_city_amateur_assassin_postfight_9379ad69:
 translate chinese oxford_city_amateur_assassin_postfight_10a1ebc0:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}活力降低4点！{vspace=5}中毒值上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
+    "{cps=50}{color=#A9A9A9}活力降低4点！{vspace=5}毒性上升！{vspace=5}疲劳值上升！{vspace=5}威望降低3点！"
 
 # game/script_dlc_2.rpy:9266
 translate chinese oxford_city_amateur_assassin_postfight_76b2fe88:
@@ -5074,7 +5074,7 @@ translate chinese oxford_city_a_guest_from_scotland_intro_76b2fe88_3:
 translate chinese oxford_city_a_guest_from_scotland_intro_ab7b072c:
 
     nvl clear
-    "{cps=50}你哂然一笑，直言自己可不愿意为了\"买\"一把剑的机会去拿命冒险。"
+    "{cps=50}你哂然一笑，直言自己可不愿意为了“”一把剑的机会去拿命冒险。"
 
 # game/script_dlc_2.rpy:9317
 translate chinese oxford_city_a_guest_from_scotland_intro_7b476763:
@@ -5452,7 +5452,7 @@ translate chinese windsor_defence_intro_3fe0ad9f:
 translate chinese windsor_defence_intro_83d3833d:
 
     nvl clear
-    "{cps=50}你也是这些\"匠役\"中的一员。{color=#A9A9A9}{vspace=5}军衔、威望——失败！"
+    "{cps=50}你也是这些“”中的一员。{color=#A9A9A9}{vspace=5}军衔、威望——失败！"
 
 # game/script_dlc_2.rpy:10004
 translate chinese windsor_defence_intro_b04eac67:
@@ -5548,13 +5548,13 @@ translate chinese windsor_defence_2_fe675f38:
 translate chinese windsor_defence_2_32d83edc:
 
     nvl clear
-    "{cps=50}城中的补给线被彻底切断，敌军的投石机与抛石机又将腐烂的牲畜尸体抛入城中，疫病迅速蔓延开来。{color=#A9A9A9}{vspace=5}中毒值上升！"
+    "{cps=50}城中的补给线被彻底切断，敌军的投石机与抛石机又将腐烂的牲畜尸体抛入城中，疫病迅速蔓延开来。{color=#A9A9A9}{vspace=5}毒性上升！"
 
 # game/script_dlc_2.rpy:10514
 translate chinese windsor_defence_2_42b62ae4:
 
     nvl clear
-    "{cps=50}城中的补给线被彻底切断，敌军的投石机与抛石机又将腐烂的牲畜尸体抛入城中，疫病迅速蔓延开来。{color=#A9A9A9}{vspace=5}中毒值上升！{vspace=5}活力降低2点！"
+    "{cps=50}城中的补给线被彻底切断，敌军的投石机与抛石机又将腐烂的牲畜尸体抛入城中，疫病迅速蔓延开来。{color=#A9A9A9}{vspace=5}毒性上升！{vspace=5}活力降低2点！"
 
 # game/script_dlc_2.rpy:10519
 translate chinese windsor_defence_2_05252be3:
@@ -6333,7 +6333,7 @@ translate chinese clear_maidstone_quests_duncan_5864bfe3:
 translate chinese clear_maidstone_quests_duncan_0d099bd2:
 
     nvl clear
-    "{cps=50}\"琼斯那家伙虽说是个无赖，倒也算个行家。\"罗道夫咧嘴一笑，你们继续赶路。"
+    "{cps=50}“”罗道夫咧嘴一笑，你们继续赶路。"
 
 # game/script_dlc_2.rpy:12346
 translate chinese clear_maidstone_quests_duncan_7f0c0a20:

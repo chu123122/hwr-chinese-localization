@@ -251,7 +251,7 @@ translate chinese strings:
     old "joystick"
     new "手柄"
     old "joystick..."
-    new "手柄..."
+    new "手柄……"
     old "skip"
     new "跳过"
     old "skip unseen [text]"

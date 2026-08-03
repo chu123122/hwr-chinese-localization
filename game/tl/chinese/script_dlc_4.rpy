@@ -1745,7 +1745,7 @@ translate chinese venice_tavern_old_fisherman_76b2fe88_1:
 translate chinese venice_tavern_old_fisherman_bebac3eb:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚——成功！"
+    "{cps=50}{color=#A9A9A9}美德——成功！"
 
 # game/script_dlc_4.rpy:1261
 translate chinese venice_tavern_old_fisherman_6653b845:
@@ -1798,7 +1798,7 @@ translate chinese venice_tavern_old_fisherman_b4292ba5:
 # game/script_dlc_4.rpy:1278
 translate chinese venice_tavern_old_fisherman_627a18d7:
 
-    "{cps=50}{color=#A9A9A9}虔诚——失败！"
+    "{cps=50}{color=#A9A9A9}美德——失败！"
 
 # game/script_dlc_4.rpy:1279
 translate chinese venice_tavern_old_fisherman_a45b42df:
@@ -2741,7 +2741,7 @@ translate chinese middle_man_antonio_found_76b2fe88_2:
 # game/script_dlc_4.rpy:1925
 translate chinese saint_erasmo_visit_menu_e5ce7d5d:
 
-    "{cps=50}{color=#A9A9A9}虔诚低下、劣迹斑斑——成功！{vspace=5}耗时：0.5"
+    "{cps=50}{color=#A9A9A9}美德低下、劣迹斑斑——成功！{vspace=5}耗时：0.5"
 
 # game/script_dlc_4.rpy:1927
 translate chinese saint_erasmo_visit_menu_47c661d6:
@@ -2771,7 +2771,7 @@ translate chinese middle_man_antonio_found_76b2fe88:
 translate chinese middle_man_antonio_found_118a0781:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}虔诚低下、劣迹斑斑——失败！{vspace=5}损失时间：1"
+    "{cps=50}{color=#A9A9A9}美德低下、劣迹斑斑——失败！{vspace=5}损失时间：1"
 
 # game/script_dlc_4.rpy:1942
 translate chinese middle_man_antonio_found_eb2562cc:
@@ -20276,7 +20276,7 @@ translate chinese cannaregio_event_cat_bc570de8:
 translate chinese cannaregio_event_cat_f4447cea:
 
     nvl clear
-    "{cps=50}猫满意地眯起眼睛，随后隐入小巷的黑暗之中。{vspace=5}{color=#A9A9A9}虔诚提升1点！"
+    "{cps=50}猫满意地眯起眼睛，随后隐入小巷的黑暗之中。{vspace=5}{color=#A9A9A9}美德提升1点！"
 
 # game/script_dlc_4.rpy:26203
 translate chinese cannaregio_event_cat_c8f9efdd:
@@ -21844,7 +21844,7 @@ translate chinese venedic_fortress_intro_support_76b2fe88_17:
 # game/script_dlc_4.rpy:28503
 translate chinese venedic_fortress_intro_support_1ef3e2ae:
 
-    "{cps=50}{color=#A9A9A9}虔诚——成功！"
+    "{cps=50}{color=#A9A9A9}美德——成功！"
 
 # game/script_dlc_4.rpy:28504
 translate chinese venedic_fortress_intro_support_a3261199:
@@ -21878,7 +21878,7 @@ translate chinese venedic_fortress_intro_support_76b2fe88_16:
 # game/script_dlc_4.rpy:28531
 translate chinese venedic_fortress_intro_support_627a18d7:
 
-    "{cps=50}{color=#A9A9A9}虔诚——失败！"
+    "{cps=50}{color=#A9A9A9}美德——失败！"
 
 # game/script_dlc_4.rpy:28532
 translate chinese venedic_fortress_intro_support_768c332b:
@@ -23642,7 +23642,7 @@ translate chinese visit_paris_raoul_end_76b2fe88_5:
 # game/script_dlc_4.rpy:29876
 translate chinese visit_paris_raoul_end_33ab5f22:
 
-    "{cps=50}你善于向对的人提出对的问题，凭着这份本事，不费周章便查到了塔拉尔的线索。{vspace=5}{color=#A9A9A9}低虔诚——成功！"
+    "{cps=50}你善于向对的人提出对的问题，凭着这份本事，不费周章便查到了塔拉尔的线索。{vspace=5}{color=#A9A9A9}低美德——成功！"
 
 # game/script_dlc_4.rpy:29877
 translate chinese visit_paris_raoul_end_538f56d0:
@@ -23659,7 +23659,7 @@ translate chinese visit_paris_raoul_end_76b2fe88_3:
 # game/script_dlc_4.rpy:29882
 translate chinese visit_paris_raoul_end_f82023bc:
 
-    "{cps=50}你试图打探塔拉尔的消息，却一无所获……{vspace=5}{color=#A9A9A9}低虔诚——失败！"
+    "{cps=50}你试图打探塔拉尔的消息，却一无所获……{vspace=5}{color=#A9A9A9}低美德——失败！"
 
 # game/script_dlc_4.rpy:29883
 translate chinese visit_paris_raoul_end_76b2fe88_4:
@@ -27257,7 +27257,7 @@ translate chinese visit_florence_menu_76b2fe88_6:
 # game/script_dlc_4.rpy:32047
 translate chinese visit_florence_menu_b9c5276c:
 
-    "{cps=50}你符合他的要求。{vspace=5}{color=#A9A9A9}虔诚——成功！"
+    "{cps=50}你符合他的要求。{vspace=5}{color=#A9A9A9}美德——成功！"
 
 # game/script_dlc_4.rpy:32048
 translate chinese visit_florence_menu_76b2fe88_7:
@@ -27268,7 +27268,7 @@ translate chinese visit_florence_menu_76b2fe88_7:
 # game/script_dlc_4.rpy:32050
 translate chinese visit_florence_menu_4f5f4475:
 
-    "{cps=50}你并不符合他的要求。{vspace=5}{color=#A9A9A9}虔诚——失败！"
+    "{cps=50}你并不符合他的要求。{vspace=5}{color=#A9A9A9}美德——失败！"
 
 # game/script_dlc_4.rpy:32051
 translate chinese visit_florence_menu_76b2fe88_8:

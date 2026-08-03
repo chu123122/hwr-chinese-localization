@@ -52,7 +52,7 @@ translate chinese tutorial_crossbow_combat_enemy_76b2fe88:
 translate chinese player_use_wine_battle_b9fbb99f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}你喝下的那瓶酒居然有毒！{vspace=5}生命值减少50！{vspace=5}活力减少5！{vspace=5}毒性增加90！"
+    "{cps=50}{color=#A9A9A9}你喝下的那瓶酒居然有毒！{vspace=5}活力减少50！{vspace=5}活力减少5！{vspace=5}毒性增加90！"
 
 # game/script_2.rpy:3868
 translate chinese player_use_wine_battle_76b2fe88:
@@ -64,7 +64,7 @@ translate chinese player_use_wine_battle_76b2fe88:
 translate chinese player_use_ale_battle_b9fbb99f:
 
     nvl clear
-    "{cps=50}{color=#A9A9A9}你喝下的那瓶酒居然有毒！{vspace=5}生命值减少50！{vspace=5}活力减少5！{vspace=5}毒性增加90！"
+    "{cps=50}{color=#A9A9A9}你喝下的那瓶酒居然有毒！{vspace=5}活力减少50！{vspace=5}活力减少5！{vspace=5}毒性增加90！"
 
 # game/script_2.rpy:3943
 translate chinese player_use_ale_battle_76b2fe88:
